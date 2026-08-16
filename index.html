@@ -125,6 +125,12 @@ input[type=range]{width:100%;accent-color:var(--signal)}
 .act.go{border-color:var(--signal);color:var(--signal)}
 .act.go:hover{background:var(--signal);color:var(--card)}
 
+.act.letter{border-color:var(--signal);color:var(--signal)}
+.panel{margin-top:13px;border-top:1px solid var(--rule);padding-top:13px}
+.panel pre{
+  white-space:pre-wrap;font-family:var(--body);font-size:14px;line-height:1.62;
+  margin:0 0 11px;color:var(--ink);max-width:62ch;
+}
 .empty{
   border:1px dashed var(--rule);border-radius:3px;padding:42px 26px;
   text-align:center;color:var(--muted);
@@ -276,13 +282,34 @@ function render(){
           <button class="act${m==="shortlist"?" on":""}" data-id="${esc(r.id)}" data-s="shortlist">Shortlist</button>
           <button class="act${m==="applied"?" on":""}"   data-id="${esc(r.id)}" data-s="applied">Applied</button>
           <button class="act${m==="skipped"?" on":""}"   data-id="${esc(r.id)}" data-s="skipped">Skip</button>
+          ${r.letter ? `<button class="act letter" data-letter="${esc(r.id)}">Draft letter</button>` : ""}
         </div>
+        ${r.letter ? `<div class="panel" id="p-${esc(r.id)}" hidden>
+          <pre>${esc(r.letter)}</pre>
+          <button class="act" data-copy="${esc(r.id)}">Copy letter</button>
+        </div>` : ""}
       </div>
     </article>`;
   }).join("");
 
   rows.querySelectorAll("button[data-s]").forEach(b =>
     b.addEventListener("click", () => mark(b.dataset.id, b.dataset.s)));
+
+  rows.querySelectorAll("button[data-letter]").forEach(b =>
+    b.addEventListener("click", () => {
+      const p = document.getElementById("p-" + b.dataset.letter);
+      p.hidden = !p.hidden;
+      b.textContent = p.hidden ? "Draft letter" : "Hide letter";
+    }));
+
+  rows.querySelectorAll("button[data-copy]").forEach(b =>
+    b.addEventListener("click", () => {
+      const t = document.querySelector("#p-" + b.dataset.copy + " pre").textContent;
+      navigator.clipboard.writeText(t).then(() => {
+        b.textContent = "Copied";
+        setTimeout(() => { b.textContent = "Copy letter"; }, 1400);
+      });
+    }));
 }
 
 function buildFilters(){
