@@ -265,6 +265,122 @@ def score(job, cv_terms):
     return pct, hits[:12], yrs
 
 
+
+# ---------------------------------------------------------------- drafting
+
+# Cover letters are drafted only for roles at or above this score, newest
+# first, and only a few per run so the bill stays small. Raise or lower
+# freely. Set MAX_DRAFTS to 0 to switch drafting off.
+MIN_SCORE_TO_DRAFT = 45
+MAX_DRAFTS = 5
+MODEL = "claude-sonnet-5"   # swap to "claude-haiku-4-5-20251001" for cheaper
+
+BRIEF = """You are drafting a cover letter for Hamza Ahmad. Follow every rule.
+
+WHO HE IS
+Copywriter and creative with a strong focus on brand strategy. Eleven years,
+seven in agency and four in-house. Indian national. Most recently Global Brand
+Copywriter at IKEA in Malmo, leading creative work across 31 markets. He built
+an internal AI tone of voice writing assistant there. He has directed brand
+films end to end, from concept and script through production and post, and has
+directed photoshoots and video shoots. Earlier: Razor Group in Berlin, and
+agency years at Leo Burnett, Saatchi and Saatchi and Mullen Lowe Lintas, plus
+freelance associate creative director work covering Publicis, Saatchi and
+McCann. Brands include Google, P&G, Unilever, DBS and MobiKwik. Markets across
+India, APAC, MENA and Europe, with localisation a core focus. He led the
+Biostadt rebrand end to end, released across 18 markets in 18 translations. He
+also runs CopyThat, a one-person creative studio.
+
+HARD RULES
+1. Never use an em dash. Not once. Use commas, full stops or semicolons.
+2. Open with him: who he is and what he has built. Never open with a line
+   lifted from the job ad, and never with a thesis statement about the
+   industry or the category.
+3. Do not include any paragraph about gaps, or where he would be new, or what
+   he is still learning. None.
+4. Call him a copywriter and creative with a strong focus on brand strategy.
+   Never call him a creative leader or a brand strategist. Keep the framing
+   humble.
+5. State the role title he is applying for and his eleven years of experience
+   explicitly, in plain sentences. Assume an AI screen reads this before a
+   human does, so mirror the employer's own vocabulary wherever it is honest
+   to do so.
+6. One continuous argument in flowing prose. Not a list of separate claims.
+   Argue why he fits: experience, the extra he brings, and self motivation.
+   Do not lecture the reader or state general principles at them.
+7. If the role is a stewardship or leadership seat rather than a making seat,
+   the first paragraph must carry the advantage of having made the work
+   himself, because direction from someone who has executed it is sharper.
+   Frame that as a positive, never as a comparison to people without a
+   creative background.
+8. Around 250 to 320 words. No greeting line beyond a simple one, no address
+   block, no signature block. Plain prose only.
+9. Never invent an achievement, a metric or a client he does not have.
+
+Return the letter text and nothing else. No preamble, no notes, no markdown."""
+
+
+def de_dash(text):
+    """Belt and braces. No em dashes ever reach the page."""
+    text = text.replace(" \u2014 ", ", ").replace("\u2014", ", ")
+    text = text.replace(" \u2013 ", ", ").replace("\u2013", "-")
+    return re.sub(r",\s*,", ",", text)
+
+
+def draft_letter(role):
+    key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+    if not key:
+        return None
+    payload = json.dumps({
+        "model": MODEL,
+        "max_tokens": 1200,
+        "system": BRIEF,
+        "messages": [{"role": "user", "content":
+                      f"Role: {role['title']}\nCompany: {role['company']}\n"
+                      f"Location: {role['location']}\n\n"
+                      f"The advert:\n{role.get('body', role.get('summary',''))[:6000]}"}],
+    }).encode()
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages", data=payload,
+        headers={"content-type": "application/json", "x-api-key": key,
+                 "anthropic-version": "2023-06-01"})
+    try:
+        with urllib.request.urlopen(req, timeout=90) as r:
+            d = json.loads(r.read().decode())
+        return de_dash("".join(b.get("text", "") for b in d.get("content", [])).strip())
+    except Exception as e:
+        print(f"  draft failed for {role['title']}: {e}")
+        return None
+
+
+def add_drafts(roles, bodies, existing):
+    """Draft for the best roles that don't have a letter yet."""
+    if not MAX_DRAFTS or not os.environ.get("ANTHROPIC_API_KEY"):
+        if MAX_DRAFTS:
+            print("No ANTHROPIC_API_KEY set, skipping cover letters.")
+        return
+    todo = [r for r in roles
+            if r["score"] >= MIN_SCORE_TO_DRAFT
+            and not (existing.get(r["id"], {}) or {}).get("letter")]
+    todo = todo[:MAX_DRAFTS]
+    for r in roles:
+        prev = (existing.get(r["id"], {}) or {}).get("letter")
+        if prev:
+            r["letter"] = prev
+    if not todo:
+        print("No new roles need a letter.")
+        return
+    print(f"Drafting {len(todo)} cover letters...")
+    for r in todo:
+        r["body"] = bodies.get(r["id"], "")
+        text = draft_letter(r)
+        r.pop("body", None)
+        if text:
+            r["letter"] = text
+            print(f"  drafted: {r['title']} at {r['company']}")
+        time.sleep(1)
+
+
 # ---------------------------------------------------------------- plumbing
 
 UA = "Mozilla/5.0 (rolewatch/2.0)"
@@ -454,7 +570,7 @@ def main():
     print("Scanning Swedish market...")
     found.extend(from_jobtech())
 
-    roles, seen_ids, dropped = [], set(), 0
+    roles, seen_ids, dropped, bodies = [], set(), 0, {}
     for j in found:
         if not keep(j):
             dropped += 1
@@ -465,6 +581,7 @@ def main():
         seen_ids.add(rid)
 
         pct, hits, yrs = score(j, cv_terms)
+        bodies[rid] = j["body"]
         prev = existing.get(rid)
         roles.append({
             "id": rid,
@@ -482,6 +599,7 @@ def main():
 
     # closed roles drop off, but keep anything already actioned
     roles.sort(key=lambda r: (-r["score"], r["company"]))
+    add_drafts(roles, bodies, existing)
 
     json.dump({
         "updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
