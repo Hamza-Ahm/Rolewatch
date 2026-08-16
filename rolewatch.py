@@ -13,7 +13,7 @@ Run:
 
 Edit COMPANIES to change which boards get checked.
 Edit the CAPITAL LETTER lists to change the filters.
-Edit cv.txt to change what the scoring compares against.
+Edit CV_TEXT to change what the scoring compares against.
 """
 
 import json
@@ -27,8 +27,7 @@ import urllib.request
 from datetime import date, datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, "docs", "roles.json")
-CV_FILE = os.path.join(HERE, "cv.txt")
+OUT = os.path.join(HERE, "roles.json")
 
 # ---------------------------------------------------------------- companies
 
@@ -83,6 +82,31 @@ LANGUAGE_WALL = [
 ]
 
 EXCLUDE_BODY = ["tobacco", "cigarette", "vaping", "nicotine pouches"]
+
+# Ads that rule you out. These are dropped outright.
+NO_SPONSOR = [
+    "no visa sponsorship", "no sponsorship available", "not offer sponsorship",
+    "not offer visa sponsorship", "does not offer visa", "do not offer visa",
+    "unable to sponsor", "unable to provide sponsorship",
+    "unable to provide visa", "cannot sponsor", "can not sponsor",
+    "do not sponsor", "does not sponsor", "will not sponsor",
+    "not sponsoring", "without sponsorship",
+    "without the need for sponsorship", "not require sponsorship",
+    "must already have the right to work", "must have the right to work",
+    "must hold a valid work permit", "must hold a valid eu",
+    "existing right to work", "already authorised to work",
+    "already authorized to work", "local candidates only",
+    "no relocation", "relocation is not", "we do not offer relocation",
+]
+
+# Ads that say the opposite. These get a badge and a small lift.
+YES_SPONSOR = [
+    "visa sponsorship", "sponsorship available", "we sponsor",
+    "we offer sponsorship", "visa support", "work permit support",
+    "immigration support", "relocation package", "relocation support",
+    "relocation assistance", "relocation bonus", "help you relocate",
+    "support with relocation", "we will relocate",
+]
 
 EUROPE_HINTS = [
     "sweden", "stockholm", "malmo", "malmö", "gothenburg", "göteborg",
@@ -141,24 +165,53 @@ PENALTY_TERMS = {
 YEARS_MIN, YEARS_MAX = 4, 14  # your 11 years sits comfortably inside
 
 
+CV_TEXT = """
+Hamza Ahmad. Senior brand copywriter and creative strategist. Eleven years,
+seven in agency and four in-house. Indian national.
+
+Global Brand Copywriter at IKEA, Malmo. Led creative work across 31 markets.
+Brand positioning, tone of voice, verbal identity, localisation and
+transcreation across a global brand system. Built an internal AI tone of
+voice writing assistant. Internal communications reaching 150,000 co-workers.
+Directed brand films end to end, from concept and script through production
+and post. Directed photoshoots and video shoots. Platform strategy for
+Reddit, Instagram and TikTok. Brand partnership work with UNHCR. Events for
+Unilever brands.
+
+Razor Group, Berlin. E-commerce brand copywriting and positioning.
+Agency: Leo Burnett, Saatchi and Saatchi, Mullen Lowe Lintas. Freelance
+associate creative director covering Publicis, Saatchi and McCann.
+
+Brands: Google, P&G, Unilever, DBS, MobiKwik, Tata Communications.
+Sectors: technology, fintech, retail, FMCG, food and beverage, finance,
+B2B enterprise, agriculture.
+Markets: India, APAC, MENA, Europe. Localisation a core focus.
+Biostadt rebranding led end to end, released across 18 markets in 18
+translations.
+
+Skills: brand strategy, brand positioning, brand platform, messaging
+framework, campaign concept, integrated campaign, creative direction,
+copywriting, editorial, long-form, script, storytelling, narrative, press
+release, public relations, stakeholder management, mentoring, generative AI
+and prompt engineering, Figma.
+
+Runs CopyThat, a one-person creative studio.
+"""
+
+
 def load_cv_terms():
-    """Pull distinctive terms out of cv.txt at low weight."""
-    if not os.path.exists(CV_FILE):
-        return {}
-    text = open(CV_FILE, encoding="utf-8", errors="replace").read().lower()
+    """Low-weight match terms pulled from CV_TEXT above. Edit CV_TEXT freely."""
+    text = CV_TEXT.lower()
     stop = set("""a an the and or but if then than that this those these of in on at to
         for with by from as is are was were be been being have has had do does did not
         no so such own same too very can will just also i me my we our you your they
         their it its he she his her who whom which what when where how why all any both
-        each few more most other some only own more per over under again further once
-        here there about into during before after above below up down out off""".split())
-    words = re.findall(r"[a-zåäöéèü]{4,}", text)
+        each few more most other some only per over under again further once here there
+        about into during before after above below up down out off""".split())
     freq = {}
-    for w in words:
-        if w in stop:
-            continue
-        freq[w] = freq.get(w, 0) + 1
-    # keep terms that show up at least twice, cap the list
+    for w in re.findall(r"[a-zaaoeu]{4,}", text):
+        if w not in stop:
+            freq[w] = freq.get(w, 0) + 1
     terms = sorted(freq.items(), key=lambda x: -x[1])[:180]
     return {w: 1 for w, c in terms if c >= 2}
 
@@ -203,6 +256,10 @@ def score(job, cv_terms):
         else:
             raw += 3
             hits.append(f"{yrs}+ years")
+
+    if sponsors(job["body"]) is True:
+        raw += 5
+        hits.insert(0, "sponsorship or relocation")
 
     pct = max(0, min(100, round(raw / 72 * 100)))
     return pct, hits[:12], yrs
@@ -351,9 +408,21 @@ def keep(job):
         return False
     if any(k in b for k in EXCLUDE_BODY):
         return False
+    if any(k in b for k in NO_SPONSOR):
+        return False
     if not any(k in blob for k in EUROPE_HINTS):
         return False
     return True
+
+
+def sponsors(body):
+    """True only if the ad positively says it helps. None means unstated."""
+    b = body.lower()
+    if any(k in b for k in NO_SPONSOR):
+        return False
+    if any(k in b for k in YES_SPONSOR):
+        return True
+    return None
 
 
 def load_existing():
@@ -385,9 +454,10 @@ def main():
     print("Scanning Swedish market...")
     found.extend(from_jobtech())
 
-    roles, seen_ids = [], set()
+    roles, seen_ids, dropped = [], set(), 0
     for j in found:
         if not keep(j):
+            dropped += 1
             continue
         rid = re.sub(r"\W+", "-", (j["url"] or j["company"] + j["title"]).lower())[:120]
         if rid in seen_ids:
@@ -413,16 +483,19 @@ def main():
     # closed roles drop off, but keep anything already actioned
     roles.sort(key=lambda r: (-r["score"], r["company"]))
 
-    os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump({
         "updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
         "scanned": len(found),
         "roles": roles,
     }, open(OUT, "w"), indent=1)
 
+    sponsored = sum(1 for r in roles
+                    if any(h.startswith("sponsorship") for h in r["matched"]))
+    print(f"Scanned {len(found)}. Dropped {dropped} on filters.")
+    print(f"Kept {len(roles)}, of which {sponsored} mention sponsorship or relocation.")
     new = sum(1 for r in roles if r["is_new"])
     open(os.path.join(HERE, "newcount.txt"), "w").write(str(new))
-    print(f"\nDone. {len(roles)} roles kept, {new} new. Written to docs/roles.json")
+    print(f"\nDone. {len(roles)} roles kept, {new} new. Written to roles.json")
 
 
 if __name__ == "__main__":
