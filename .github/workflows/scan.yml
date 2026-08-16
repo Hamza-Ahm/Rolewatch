@@ -15,8 +15,9 @@ jobs:
           python-version: "3.12"
       - run: python3 rolewatch.py
       - run: |
+          if [ -f docs/roles.json ]; then cp docs/roles.json roles.json; fi
           git config user.name "rolewatch"
           git config user.email "rolewatch@users.noreply.github.com"
-          git add roles.json newcount.txt
+          git add -A
           git commit -m "scan" || echo "no changes"
           git push
