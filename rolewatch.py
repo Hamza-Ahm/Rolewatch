@@ -122,7 +122,7 @@ YES_SPONSOR = [
     "support with relocation", "we will relocate",
 ]
 
-EUROPE_HINTS = [
+PLACES = [
     "sweden", "stockholm", "malmo", "malmö", "gothenburg", "göteborg",
     "denmark", "copenhagen", "norway", "oslo", "finland", "helsinki",
     "netherlands", "amsterdam", "rotterdam", "utrecht", "eindhoven",
@@ -136,6 +136,13 @@ EUROPE_HINTS = [
     "poland", "warsaw", "krakow", "estonia", "tallinn",
     "czech", "prague", "united kingdom", "london", "manchester",
     "europe", "emea", "remote", "anywhere", "hybrid",
+    # APAC and Gulf
+    "malaysia", "kuala lumpur", "petaling jaya", "penang", "cyberjaya",
+    "singapore",
+    "united arab emirates", "uae", "dubai", "abu dhabi", "sharjah",
+    "qatar", "doha", "saudi", "riyadh", "jeddah", "bahrain", "manama",
+    "kuwait", "oman", "muscat",
+    "apac", "mena", "gulf", "middle east", "southeast asia", "sea region",
 ]
 
 MIN_SENIORITY = [
@@ -556,7 +563,7 @@ def keep(job):
         return False
     if any(k in b for k in NO_SPONSOR):
         return False
-    if not any(k in blob for k in EUROPE_HINTS):
+    if not any(k in blob for k in PLACES):
         return False
     return True
 
