@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-17 11:16 UTC",
- "scanned": 2601,
+ "updated": "2026-08-17 17:17 UTC",
+ "scanned": 2617,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -26,7 +26,7 @@
    "years": 8,
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hostaway-com-o-senior-director-brand-and-content-remote",
@@ -435,48 +435,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-stuttgart-hybrid-41763",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Stuttgart - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Stuttgart",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-stuttgart-hybrid-41763",
-   "score": 24,
-   "matched": [
-    "creative strategy",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-64690",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-64690",
-   "score": 24,
-   "matched": [
-    "creative strategy",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7760238",
    "title": "Manager, Platform Offering Strategy",
    "company": "adyen",
@@ -536,7 +494,7 @@
    "years": null,
    "summary": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin o",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8121083",
@@ -560,11 +518,31 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8113927",
+   "title": "Senior Strategy & Business Ops Manager",
+   "company": "adyen",
+   "location": "Amsterdam; Chicago; New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8113927",
+   "score": 21,
+   "matched": [
+    "narrative",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "14+ years"
+   ],
+   "years": 14,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
    "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8018041",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069199",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -580,11 +558,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
    "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069199",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8018041",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -640,26 +618,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
-   "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8046121",
-   "score": 20,
-   "matched": [
-    "narrative",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "12+ years"
-   ],
-   "years": 12,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8041204",
    "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
    "company": "adyen",
@@ -680,24 +638,22 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-10894",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Stuttgart",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-108940",
-   "score": 19,
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
+   "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8046121",
+   "score": 20,
    "matched": [
-    "creative direction",
-    "storytelling",
-    "stakeholder",
+    "narrative",
+    "cross-functional",
     "ai",
-    "e-commerce",
     "pr",
     "team",
-    "- roas"
+    "12+ years"
    ],
-   "years": null,
-   "summary": "Ihre Aufgaben Um unser Business weiter auszubauen, suchen wir engagierte Kolleg*innen, die mit uns die Zukunft des Social Commerce gestalten. Du kennst TikTok nicht nur von der For You Page, sondern verstehst, wie Marken dort Reichweite, Community und Umsatz aufbauen. Du denkst Content nicht isoliert, sondern entlang der gesamten Customer Journey \u2013 von der ersten Aufmerksamkeit bis zum Kauf im Tik",
+   "years": 12,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-17",
    "is_new": false
   },
@@ -722,26 +678,43 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-paselo-gmbh-senior-creative-strategist-munster-413843",
-   "title": "(Senior) Creative Strategist (m/w/d)",
-   "company": "paselo GmbH",
-   "location": "M\u00fcnster",
-   "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/senior-creative-strategist-munster-413843",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-apothecom-senior-medical-writer-london-manchester-340247",
+   "title": "Senior Medical Writer",
+   "company": "Apothecom",
+   "location": "London; Manchester",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/apothecom/senior-medical-writer-london-manchester-340247",
    "score": 17,
    "matched": [
-    "storytelling",
-    "script",
+    "editorial",
+    "agency",
     "ai",
-    "fmcg",
-    "e-commerce",
     "pr",
-    "team",
-    "- roas"
+    "team"
    ],
    "years": null,
-   "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
+   "summary": "<p><strong>About ApotheCom</strong></p> <p>ApotheCom is an exciting leader in the field of medical communications. We have been drawn together from several backgrounds, including the pharmaceutical industry, research, marketing, medical and regulatory writing, sales, publishing, digital media, and design. This diverse experience gives us the all-round ability to conceive and deliver the best quali",
    "first_seen": "2026-08-17",
-   "is_new": false
+   "is_new": true
+  },
+  {
+   "id": "https-jobicy-com-jobs-150910-payments-gtm-go-to-market-operations-and-strategy-lead",
+   "title": "Payments GTM (Go-to-Market) Operations and Strategy Lead",
+   "company": "Jobber",
+   "location": "Canada",
+   "url": "https://jobicy.com/jobs/150910-payments-gtm-go-to-market-operations-and-strategy-lead",
+   "score": 17,
+   "matched": [
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "fintech",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Please note the internal job title is: Principal Payments GTM Operations and Strategy Want to build the go-to-market engine for a fast growing payments business? Then Jobber might be the place for you! We\u2019re looking for a Payments GTM Operations and Strategy Lead to be part of our Fintech department. Jobber exists to help people in small businesses be successful. We work with small home service bu",
+   "first_seen": "2026-08-17",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-contentful-jobs-7627279",
@@ -762,6 +735,86 @@
    "summary": "<h2><strong>About the opportunity</strong></h2> <p>Contentful is looking for a Optimization Strategist (<a href=\"../../sdash/3371359\">f/m/d)</a> to join our Field team a business-minded subject matter expert who can walk into a room with a VP of Digital or CMO, command the conversation, and turn optimization and experimentation ambitions into committed business goals. </p> <p>This is a revenue-imp",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-cologne-143746",
+   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
+   "company": "Health Routine",
+   "location": "Cologne",
+   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-cologne-143746",
+   "score": 15,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "ai",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-berlin-18793",
+   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
+   "company": "Health Routine",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-berlin-18793",
+   "score": 15,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "ai",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-munich-13407",
+   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
+   "company": "Health Routine",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-munich-13407",
+   "score": 15,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "ai",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-hamburg-150628",
+   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
+   "company": "Health Routine",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-hamburg-150628",
+   "score": 15,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "ai",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
+   "first_seen": "2026-08-17",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-30695750",
@@ -925,23 +978,6 @@
    ],
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-trusteq-gmbh-ai-strategy-senior-consultant-munchen-115453",
-   "title": "AI Strategy (Senior) Consultant (m/w/d)",
-   "company": "Trusteq Gmbh",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-senior-consultant-munchen-115453",
-   "score": 8,
-   "matched": [
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "DEINE AUFGABEN Du analysierst Gesch\u00e4ftsprozesse und identifizierst Optimierungspotenziale durch den Einsatz von KI. Zus\u00e4tzlich im Senior Level: Du leitest komplexe KI-Projekte von der Ideenfindung bis zur Umsetzung. Du ber\u00e4tst Fachabteilungen und entwickelst ma\u00dfgeschneiderte KI-Strategien. Zus\u00e4tzlich im Senior Level: Du ber\u00e4tst F\u00fchrungskr\u00e4fte strategisch bei der Integration von KI-L\u00f6sungen. Du ers",
    "first_seen": "2026-08-17",
    "is_new": false
   },
