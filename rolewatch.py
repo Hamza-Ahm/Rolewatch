@@ -67,19 +67,30 @@ EXCLUDE_TITLE = [
     "affiliate", "crm specialist", "lifecycle marketing",
 ]
 
-LANGUAGE_WALL = [
-    "fluent in swedish", "swedish speaking", "swedish is required",
-    "flytande svenska", "native swedish",
-    "fluent in german", "german speaking", "german is required",
-    "fliessend deutsch", "fließend deutsch", "native german",
-    "fluent in dutch", "dutch speaking", "native dutch", "nederlands",
-    "fluent in french", "french speaking", "native french",
-    "fluent in spanish", "spanish speaking", "native spanish",
-    "castellano", "catalan", "català",
-    "fluent in italian", "fluent in polish", "fluent in portuguese",
-    "fluent in danish", "fluent in norwegian", "fluent in finnish",
-    "lithuanian", "native italian",
+# Languages you don't work in. Any of these in a job TITLE is an instant drop.
+LANGS = [
+    "german", "deutsch", "swedish", "svenska", "dutch", "nederlands",
+    "french", "français", "francais", "spanish", "español", "espanol",
+    "castellano", "catalan", "català", "italian", "italiano",
+    "portuguese", "português", "polish", "polski", "danish", "dansk",
+    "norwegian", "norsk", "finnish", "suomi", "lithuanian", "estonian",
+    "czech", "greek", "romanian", "hungarian", "turkish", "arabic",
 ]
+
+# Words that turn a language mention in the body into a requirement.
+LANG_DEMAND = (r"speaker|speaking|native|fluen\w*|proficien\w*|bilingual|"
+               r"mother\s*tongue|required|mandatory|essential|must|"
+               r"\bc1\b|\bc2\b|\bb2\b")
+
+_L = "|".join(LANGS)
+# If the sentence softens it, the language isn't a wall.
+LANG_SOFTENER = re.compile(
+    r"not required|not a requirement|no need|nice to have|a plus|"
+    r"is a bonus|an advantage|desirable|optional|not essential|"
+    r"beneficial|welcome|appreciated|not mandatory", re.I)
+
+LANG_AFTER = re.compile(r"\b(?:" + _L + r")\b[^.\n]{0,25}\b(?:" + LANG_DEMAND + r")\b", re.I)
+LANG_BEFORE = re.compile(r"\b(?:" + LANG_DEMAND + r")\b[^.\n]{0,25}\b(?:" + _L + r")\b", re.I)
 
 EXCLUDE_BODY = ["tobacco", "cigarette", "vaping", "nicotine pouches"]
 
@@ -509,6 +520,18 @@ def from_jobtech():
 
 # ---------------------------------------------------------------- filtering
 
+def language_walled(body):
+    """True only if a language is demanded, not merely mentioned."""
+    for pat in (LANG_AFTER, LANG_BEFORE):
+        for m in pat.finditer(body):
+            start = body.rfind(".", 0, m.start()) + 1
+            end = body.find(".", m.end())
+            sentence = body[start:end if end > 0 else len(body)]
+            if not LANG_SOFTENER.search(sentence):
+                return True
+    return False
+
+
 def keep(job):
     t = job["title"].lower()
     b = job["body"].lower()
@@ -520,7 +543,9 @@ def keep(job):
         return False
     if REQUIRE_SENIORITY and not any(k in t for k in MIN_SENIORITY):
         return False
-    if any(k in blob for k in LANGUAGE_WALL):
+    if any(re.search(r"\b" + re.escape(k) + r"\b", t) for k in LANGS):
+        return False
+    if language_walled(b):
         return False
     if any(k in b for k in EXCLUDE_BODY):
         return False
