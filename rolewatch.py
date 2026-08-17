@@ -530,6 +530,104 @@ def from_jobtech():
     return out
 
 
+
+# ---------------------------------------------------- open job boards
+# These cover whole markets rather than one employer at a time. All free,
+# none need a key. If one is down it is skipped and the rest carry on.
+
+def _safe(fn, label):
+    try:
+        got = fn()
+        print(f"  {label}: {len(got)}")
+        return got
+    except Exception as e:
+        print(f"  {label}: skipped ({e})")
+        return []
+
+
+def from_arbeitnow():
+    """Europe wide, English roles, and it flags visa sponsorship itself."""
+    out = []
+    for page in range(1, 4):
+        d = get(f"https://www.arbeitnow.com/api/job-board-api?page={page}")
+        if not d or "data" not in d:
+            break
+        for j in d["data"]:
+            body = j.get("description") or ""
+            if j.get("visa_sponsorship"):
+                body += " visa sponsorship available"
+            out.append(norm(j.get("company_name") or "", j.get("title"),
+                            j.get("location") or ("Remote" if j.get("remote") else ""),
+                            j.get("url"), body))
+        time.sleep(0.4)
+    return out
+
+
+def from_remotive():
+    d = get("https://remotive.com/api/remote-jobs?limit=200")
+    if not d or "jobs" not in d:
+        return []
+    return [norm(j.get("company_name"), j.get("title"),
+                 j.get("candidate_required_location"), j.get("url"),
+                 j.get("description")) for j in d["jobs"]]
+
+
+def from_remoteok():
+    d = get("https://remoteok.com/api")
+    if not isinstance(d, list):
+        return []
+    return [norm(j.get("company"), j.get("position"),
+                 j.get("location") or "Remote", j.get("url"),
+                 j.get("description")) for j in d if isinstance(j, dict) and j.get("position")]
+
+
+def from_jobicy():
+    d = get("https://jobicy.com/api/v2/remote-jobs?count=50")
+    if not d or "jobs" not in d:
+        return []
+    return [norm(j.get("companyName"), j.get("jobTitle"), j.get("jobGeo"),
+                 j.get("url"), (j.get("jobDescription") or j.get("jobExcerpt") or ""))
+            for j in d["jobs"]]
+
+
+def from_muse():
+    """Global, including Singapore, Dubai and Kuala Lumpur."""
+    out = []
+    for page in range(0, 5):
+        d = get(f"https://www.themuse.com/api/public/jobs?page={page}"
+                "&category=Creative%20%26%20Design&category=Editorial")
+        if not d or "results" not in d:
+            break
+        for j in d["results"]:
+            where = ", ".join(x.get("name", "") for x in (j.get("locations") or []))
+            out.append(norm((j.get("company") or {}).get("name"), j.get("name"),
+                            where, (j.get("refs") or {}).get("landing_page"),
+                            j.get("contents")))
+        time.sleep(0.4)
+    return out
+
+
+def from_himalayas():
+    d = get("https://himalayas.app/jobs/api?limit=100")
+    if not d or "jobs" not in d:
+        return []
+    out = []
+    for j in d["jobs"]:
+        loc = j.get("locationRestrictions") or []
+        out.append(norm(j.get("companyName"), j.get("title"),
+                        ", ".join(loc) if isinstance(loc, list) else str(loc),
+                        j.get("applicationLink") or j.get("guid"),
+                        j.get("description") or j.get("excerpt") or ""))
+    return out
+
+
+BOARDS = [
+    (from_arbeitnow, "arbeitnow"), (from_remotive, "remotive"),
+    (from_remoteok, "remoteok"), (from_jobicy, "jobicy"),
+    (from_muse, "themuse"), (from_himalayas, "himalayas"),
+]
+
+
 # ---------------------------------------------------------------- filtering
 
 def language_walled(body):
@@ -604,8 +702,12 @@ def main():
                 break
         sys.stdout.flush()
 
+    print("Scanning open job boards...")
+    for fn, label in BOARDS:
+        found.extend(_safe(fn, label))
+
     print("Scanning Swedish market...")
-    found.extend(from_jobtech())
+    found.extend(_safe(from_jobtech, "jobtech"))
 
     roles, seen_ids, dropped, bodies = [], set(), 0, {}
     for j in found:
