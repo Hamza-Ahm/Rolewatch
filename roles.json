@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-16 16:56 UTC",
- "scanned": 2048,
+ "updated": "2026-08-17 10:46 UTC",
+ "scanned": 2595,
  "roles": [
   {
    "id": "https-careers-hostaway-com-o-senior-director-brand-and-content-remote",
@@ -8,7 +8,7 @@
    "company": "hostaway",
    "location": "Vienna, Austria",
    "url": "https://careers.hostaway.com/o/senior-director-brand-and-content-remote",
-   "score": 60,
+   "score": 65,
    "matched": [
     "brand strategy",
     "positioning",
@@ -26,7 +26,7 @@
    "years": 12,
    "summary": "NOTE: This is a FULLY remote role, but the candidate must be within Europe to collaborate with their team, peers, and internal customers. You do not have to be in the specific country or city shown in this listing, but please only apply if you are physically based within Europe . Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management ",
    "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-gocardless-jobs-8102709",
@@ -34,7 +34,7 @@
    "company": "gocardless",
    "location": "Leeds, UK",
    "url": "https://job-boards.greenhouse.io/gocardless/jobs/8102709",
-   "score": 56,
+   "score": 63,
    "matched": [
     "tone of voice",
     "brand guidelines",
@@ -52,58 +52,32 @@
    "years": 4,
    "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless is a global bank payment company. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off payments without the chasi",
    "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "https-n26-com-en-eu-careers-positions-7995198-gh_jid-7995198",
-   "title": "Senior Copywriter - Fluent German",
-   "company": "n26",
-   "location": "Barcelona",
-   "url": "https://n26.com/en-eu/careers/positions/7995198?gh_jid=7995198",
-   "score": 46,
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
+   "title": "Senior Content Manager, APAC",
+   "company": "adyen",
+   "location": "Singapore",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7681261",
+   "score": 57,
    "matched": [
     "tone of voice",
-    "brand voice",
     "copywriting",
-    "copywriter",
     "long-form",
-    "concept",
+    "editorial",
     "campaign",
-    "localisation",
-    "script",
+    "storytelling",
+    "narrative",
+    "agency",
+    "stakeholder",
     "ai",
-    "pr",
-    "team"
+    "b2b",
+    "fintech"
    ],
-   "years": 3,
-   "summary": "<h1><span style=\"font-family: arial, helvetica, sans-serif;\">About the opportunity</span></h1> <p><span style=\"font-family: arial, helvetica, sans-serif;\">We\u2019re looking for a German-language Senior Copywriter to join the N26 Creative Studio in Berlin or Barcelona.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif;\">You\u2019ll play a key role in shaping how N26 speaks to millions of ",
-   "first_seen": "2026-08-16",
-   "is_new": true
-  },
-  {
-   "id": "https-n26-com-en-eu-careers-positions-7981885-gh_jid-7981885",
-   "title": "Senior Copywriter - Fluent German",
-   "company": "n26",
-   "location": "Berlin",
-   "url": "https://n26.com/en-eu/careers/positions/7981885?gh_jid=7981885",
-   "score": 46,
-   "matched": [
-    "tone of voice",
-    "brand voice",
-    "copywriting",
-    "copywriter",
-    "long-form",
-    "concept",
-    "campaign",
-    "localisation",
-    "script",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": 3,
-   "summary": "<h1><span style=\"font-size: 12pt;\">About the opportunity</span></h1> <p><span style=\"font-size: 12pt;\">We\u2019re looking for a German-language Senior Copywriter to join the N26 Creative Studio in Berlin or Barcelona.</span></p> <p><span style=\"font-size: 12pt;\">You\u2019ll play a key role in shaping how N26 speaks to millions of customers across Europe \u2014 turning complex financial topics into communication ",
-   "first_seen": "2026-08-16",
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -112,7 +86,7 @@
    "company": "supercell",
    "location": "Helsinki",
    "url": "https://jobs.ashbyhq.com/supercell/99339e8c-3190-4cfb-a7e4-01f675188597",
-   "score": 46,
+   "score": 52,
    "matched": [
     "brand strategy",
     "brand guidelines",
@@ -130,56 +104,31 @@
    "years": null,
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/8beb421f-c04e-4929-afcc-3ca384c21530/clash royale arena sketch.jpeg] WE PUT PLAYERS FIRST IN EVERYTHING WE DO. THAT MINDSET ALSO GUIDES HOW WE BUILD AND EVOLVE SUPERCELL AS A BRAND. SUPERCELL HAS BEEN AROUND FOR OVER 15 YEARS, AND AS WE MOVE FORWARD WITH A REFRESHED BRAND STRATEGY, WE\u2019RE TAKING THE CORPORATE BRAN",
    "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7597783",
-   "title": "Content Operations Manager",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7597783",
-   "score": 39,
+   "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
+   "title": "Copywriter, Global Creative [All genders]",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://careers.hellofresh.com/global/en/job/8030063?gh_jid=8030063",
+   "score": 50,
    "matched": [
-    "brand voice",
-    "localization",
-    "global brand",
-    "production",
+    "sponsorship or relocation",
+    "tone of voice",
+    "copywriting",
+    "copywriter",
+    "concept",
     "in-house",
     "stakeholder",
     "ai",
-    "b2b",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-16",
-   "is_new": true
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31351478",
-   "title": "Brand Manager Chocolate - Maternity cover contract (9 - 12 months)",
-   "company": "Mondelez Sverige Production AB",
-   "location": "Upplands V\u00e4sby, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31351478",
-   "score": 36,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "campaign",
-    "integrated campaign",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "fmcg",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Are You Ready to Make It Happen at Mondel\u0113z International? Join our Mission to Lead the Future of Snacking. Make It With Pride. Exciting opening within the choclate category - the greatest tasting category in the world if you ask us! And even better this opportunity is to work with the strong brands Marabou, Daim and Japp. We have a Brand Manager role available for someone who wants to join a fun ",
+   "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
@@ -187,7 +136,7 @@
    "company": "Position Green AB",
    "location": "Stockholm, Stockholms l\u00e4n",
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31271496",
-   "score": 36,
+   "score": 42,
    "matched": [
     "positioning",
     "tone of voice",
@@ -203,30 +152,7 @@
    "years": null,
    "summary": "Position Green is a frontrunner in sustainability software, supporting organizations to accelerate their sustainability journey. Position Green\u2019s offering combines a proprietary software with specialized sustainability advisory services. In making sustainability measurable and actionable, Position Green simplifies the ESG reporting challenge and helps build robust strategies that reduce risk and c",
    "first_seen": "2026-08-16",
-   "is_new": true
-  },
-  {
-   "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
-   "title": "Copywriter, Global Creative [All genders]",
-   "company": "hellofresh",
-   "location": "Berlin, Berlin, Germany",
-   "url": "https://careers.hellofresh.com/global/en/job/8030063?gh_jid=8030063",
-   "score": 35,
-   "matched": [
-    "tone of voice",
-    "copywriting",
-    "copywriter",
-    "concept",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
-   "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8075015-gh_jid-8075015",
@@ -234,7 +160,7 @@
    "company": "hellofresh",
    "location": "Toronto, Ontario, Canada",
    "url": "https://careers.hellofresh.com/global/en/job/8075015?gh_jid=8075015",
-   "score": 35,
+   "score": 40,
    "matched": [
     "creative direction",
     "campaign",
@@ -252,6 +178,28 @@
    "years": 3,
    "summary": "<p><strong>S'more about the team</strong></p> <p>Shape the conversation around one of Canada's most recognizable brands. HelloFresh is seeking a content leader to advance the brand's strategic initiatives and shape its comprehensive content strategy. The individual in this position will oversee social media and content strategy, generating culturally relevant, social-first content to enhance brand",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-8030076-gh_jid-8030076",
+   "title": "Senior CRM Strategy Manager, Reactivations (all genders)",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://careers.hellofresh.com/global/en/job/8030076?gh_jid=8030076",
+   "score": 36,
+   "matched": [
+    "sponsorship or relocation",
+    "creative direction",
+    "campaign",
+    "script",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h2><strong>The role</strong></h2> <p>Are you passionate about re-engaging customers and driving growth through personalized marketing? As the <strong>Senior Audience Manager for Reactivations</strong>, you will play a critical role in re-engaging the HelloFresh cancelled base globally. Between leveraging customer segmentation or overlooking market performance, you will be designing customer journ",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -260,7 +208,7 @@
    "company": "adyen",
    "location": "Amsterdam",
    "url": "https://job-boards.greenhouse.io/adyen/jobs/8090506",
-   "score": 29,
+   "score": 34,
    "matched": [
     "brand guidelines",
     "global brand",
@@ -275,30 +223,30 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31279355",
-   "title": "Senior Business Analyst-Air Content",
-   "company": "Etraveli Group AB",
-   "location": "Uppsala, Uppsala l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31279355",
-   "score": 28,
+   "id": "https-careers-hellofresh-com-global-en-job-8048772-gh_jid-8048772",
+   "title": "Sourcing Strategy Manager, New Concepts",
+   "company": "hellofresh",
+   "location": "Boulder, Colorado, United States; New York, NY, United States",
+   "url": "https://careers.hellofresh.com/global/en/job/8048772?gh_jid=8048772",
+   "score": 32,
    "matched": [
     "concept",
-    "agency",
+    "script",
+    "production",
     "stakeholder",
     "cross-functional",
     "ai",
-    "b2b",
-    "fintech",
     "pr",
     "team",
-    "5+ years"
+    "mentor",
+    "4+ years"
    ],
-   "years": 5,
-   "summary": "Etraveli Group is a leading global flight technology provider, specializing in flight sales and offering flight content delivery and fintech products. We are here to solve complexity, by connecting millions of flights and travelers across the globe, from search and selection to trip and beyond. We partner with major global platforms such as Booking.com, Google Flights, Skyscanner, and Kayak, provi",
-   "first_seen": "2026-08-16",
+   "years": 4,
+   "summary": "<p>We are seeking an experienced Sourcing Manager to join our Procurement team. In this role, you will be responsible for developing and executing sourcing strategies to improve our cost structure, the quality of our products, and the reliability of our supply chain. You will play a leading role in supporting innovation through new product development and the management of Third-Party Production p",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -307,7 +255,7 @@
    "company": "adyen",
    "location": "San Francisco",
    "url": "https://job-boards.greenhouse.io/adyen/jobs/7410347",
-   "score": 26,
+   "score": 31,
    "matched": [
     "storytelling",
     "narrative",
@@ -322,6 +270,29 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-7990136-gh_jid-7990136",
+   "title": "Lead, Global Price & Discount Strategy (all genders)",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://careers.hellofresh.com/global/en/job/7990136?gh_jid=7990136",
+   "score": 30,
+   "matched": [
+    "sponsorship or relocation",
+    "concept",
+    "global brand",
+    "stakeholder",
+    "cross-functional",
+    "pr",
+    "team",
+    "- attribution",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<h2><strong>The role</strong></h2> <p>We\u2019re hiring a Senior Manager to lead price and discount strategy for a portfolio of our global brands, owning both the strategy and execution of our experimentation and optimization roadmap. This is a high visibility, high impact role as we work cross functionally to ensure delivery of a world-class experience for our customers and drive profitable, long term",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -330,7 +301,7 @@
    "company": "adyen",
    "location": "Chicago; San Francisco",
    "url": "https://job-boards.greenhouse.io/adyen/jobs/8049101",
-   "score": 22,
+   "score": 28,
    "matched": [
     "brand strategy",
     "campaign",
@@ -345,6 +316,424 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-7694661-gh_jid-7694661",
+   "title": "Senior Manager, Global Price & Discount Strategy",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://careers.hellofresh.com/global/en/job/7694661?gh_jid=7694661",
+   "score": 28,
+   "matched": [
+    "sponsorship or relocation",
+    "positioning",
+    "script",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "<p></p> <p>As a Senior Manager, Global Price &amp; Discount Strategy, you will shape the economics behind our global food solutions group and the world's leading meal kit company, active in 17 countries across 3 continents. You will shape how millions of customers experience our product, driving one of the company\u2019s most impactful levers of growth: pricing and discounts. Challenges you\u2019ll solve in",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-wolt-jobs-8129640",
+   "title": "Senior Manager, Strategy & Operations, New Verticals \u2013 Retail (South and Central)",
+   "company": "wolt",
+   "location": "Berlin, Germany",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8129640",
+   "score": 27,
+   "matched": [
+    "script",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "retail",
+    "e-commerce",
+    "pr",
+    "team",
+    "4+ years"
+   ],
+   "years": 4,
+   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wolt-senior-manager-strategy-operations-new-verticals-retail-south-and-central-be",
+   "title": "Senior Manager, Strategy & Operations, New Verticals \u2013 Retail (South and Central)",
+   "company": "wolt",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-manager-strategy-operations-new-verticals-retail-south-and-central-berlin-2656",
+   "score": 27,
+   "matched": [
+    "script",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "retail",
+    "e-commerce",
+    "pr",
+    "team",
+    "4+ years"
+   ],
+   "years": 4,
+   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8010419",
+   "title": "Manager, Platform Offering Strategy",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8010419",
+   "score": 25,
+   "matched": [
+    "narrative",
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen </strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture a",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-stuttgart-hybrid-41763",
+   "title": "Senior Creative Digital Strategist (m/w/d) in Stuttgart - Hybrid",
+   "company": "Klickpiloten",
+   "location": "Stuttgart",
+   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-stuttgart-hybrid-41763",
+   "score": 24,
+   "matched": [
+    "creative strategy",
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-64690",
+   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
+   "company": "Klickpiloten",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-64690",
+   "score": 24,
+   "matched": [
+    "creative strategy",
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7760238",
+   "title": "Manager, Platform Offering Strategy",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7760238",
+   "score": 24,
+   "matched": [
+    "narrative",
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen </strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture a",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8101509",
+   "title": "Strategy & Program Manager, Scaled Account Management",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8101509",
+   "score": 24,
+   "matched": [
+    "concept",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8121083",
+   "title": "Senior Manager, Enterprise Strategy & Offering - Digital Payments",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8121083",
+   "score": 23,
+   "matched": [
+    "narrative",
+    "cross-functional",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "<h2><strong>This is Adyen</strong></h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture a",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
+   "title": "Senior Vertical Strategy Manager, F&B",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069199",
+   "score": 21,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
+   "title": "Senior Vertical Strategy Manager, F&B",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8018041",
+   "score": 21,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7993119",
+   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7993119",
+   "score": 21,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069189",
+   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069189",
+   "score": 21,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8041204",
+   "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8041204",
+   "score": 20,
+   "matched": [
+    "narrative",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "12+ years"
+   ],
+   "years": 12,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
+   "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8046121",
+   "score": 20,
+   "matched": [
+    "narrative",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "12+ years"
+   ],
+   "years": 12,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-10894",
+   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
+   "company": "Klickpiloten",
+   "location": "Stuttgart",
+   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-108940",
+   "score": 19,
+   "matched": [
+    "creative direction",
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- roas"
+   ],
+   "years": null,
+   "summary": "Ihre Aufgaben Um unser Business weiter auszubauen, suchen wir engagierte Kolleg*innen, die mit uns die Zukunft des Social Commerce gestalten. Du kennst TikTok nicht nur von der For You Page, sondern verstehst, wie Marken dort Reichweite, Community und Umsatz aufbauen. Du denkst Content nicht isoliert, sondern entlang der gesamten Customer Journey \u2013 von der ersten Aufmerksamkeit bis zum Kauf im Tik",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8066983",
+   "title": "Senior Strategy Manager",
+   "company": "getyourguide",
+   "location": "Berlin",
+   "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8066983",
+   "score": 19,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "4+ years"
+   ],
+   "years": 4,
+   "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-paselo-gmbh-senior-creative-strategist-munster-413843",
+   "title": "(Senior) Creative Strategist (m/w/d)",
+   "company": "paselo GmbH",
+   "location": "M\u00fcnster",
+   "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/senior-creative-strategist-munster-413843",
+   "score": 17,
+   "matched": [
+    "storytelling",
+    "script",
+    "ai",
+    "fmcg",
+    "e-commerce",
+    "pr",
+    "team",
+    "- roas"
+   ],
+   "years": null,
+   "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-contentful-jobs-7627279",
+   "title": "Optimization Strategist (f/m/d)",
+   "company": "contentful",
+   "location": "London, England, United Kingdom",
+   "url": "https://job-boards.greenhouse.io/contentful/jobs/7627279",
+   "score": 16,
+   "matched": [
+    "positioning",
+    "ai",
+    "pr",
+    "team",
+    "- quota",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<h2><strong>About the opportunity</strong></h2> <p>Contentful is looking for a Optimization Strategist (<a href=\"../../sdash/3371359\">f/m/d)</a> to join our Field team a business-minded subject matter expert who can walk into a room with a VP of Digital or CMO, command the conversation, and turn optimization and experimentation ambitions into committed business goals. </p> <p>This is a revenue-imp",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-30695750",
+   "title": "Technical Training Content Owner",
+   "company": "Hitachi Energy Sweden AB",
+   "location": "Ludvika, Dalarnas l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/30695750",
+   "score": 15,
+   "matched": [
+    "production",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "We\u2019re growing \u2014 and we\u2019re ready for the next key player in our team At Hitachi Energy, the demand for HVDC technology is expanding rapidly, and so is our need for world-class technical training. To support our global projects and customers, we are strengthening our Valves Training organization with a dedicated Valves Technical Training Content Owner. In this role, you will contribute to shaping th",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -353,7 +742,7 @@
    "company": "Orkla Foods Sverige AB",
    "location": "Malm\u00f6, Sk\u00e5ne l\u00e4n",
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31355657",
-   "score": 14,
+   "score": 15,
    "matched": [
     "script",
     "ai",
@@ -364,6 +753,44 @@
    "years": null,
    "summary": "Company description: Orkla Foods Sverige tillagar mat och dryck i Sverige med k\u00e4rlek och omtanke om m\u00e4nniskor, hav och land. Vi \u00e4r en lokal samh\u00e4llsakt\u00f6r som med v\u00e5ra 1500 medarbetare g\u00f6r skillnad och bidrar till en mer h\u00e5llbar och h\u00e4lsosam vardag. Ca 90 procent av den mat och dryck vi s\u00e4ljer i Sverige tillagar vi lokalt p\u00e5 n\u00e5gon av v\u00e5ra 7 anl\u00e4ggningar i Sverige. Job description:\u00c4r du Orkla Food S",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-jobs-lever-co-spotify-337899c1-cf75-4af4-a020-1b2c82347fd6",
+   "title": "Senior Music Editor, Taiwan",
+   "company": "spotify",
+   "location": "Taiwan",
+   "url": "https://jobs.lever.co/spotify/337899c1-cf75-4af4-a020-1b2c82347fd6",
+   "score": 15,
+   "matched": [
+    "editorial",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "We are looking for an experienced Senior Editor for Taiwan, to join Spotify\u2019s Music Editorial team based in Taipei. In this role you will be part of the Music team in Southeast Asia, reporting to the regional Head of Editorial. You will contribute your expertise to various music-related projects within the company, including playlist curation, creative editorial work, and cross-functional collabor",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-doctolib-jobs-7821221003",
+   "title": "Strategy Lead Key Account (x/f/m)",
+   "company": "doctolib",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://job-boards.greenhouse.io/doctolib/jobs/7821221003",
+   "score": 14,
+   "matched": [
+    "narrative",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h2><strong>Gemeinsam gestalten wir die Gesundheitsversorgung der Zukunft </strong><strong><br></strong></h2> <p>Doctolib w\u00e4chst im Key-Account-Gesch\u00e4ft in Deutschland: gro\u00dfe Praxisverb\u00fcnde, Klinikgruppen, MVZ und weitere strategisch wichtige Gesundheitsorganisationen. Als Strategy Lead Key Account verantwortest du die Go-to-Market-Strategie f\u00fcr neue Produkte, Module und Partnerschaften in diesem ",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -372,7 +799,7 @@
    "company": "GINA TRICOT AB",
    "location": "Bor\u00e5s, V\u00e4stra G\u00f6talands l\u00e4n",
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31122604",
-   "score": 11,
+   "score": 13,
    "matched": [
     "storytelling",
     "ai",
@@ -382,6 +809,24 @@
    "years": null,
    "summary": "P\u00e5 Gina Tricot \u00e4lskar vi att inspirera. Sedan 1997 har vi erbjudit mode f\u00f6r kvinnor i \u00f6ver 30 l\u00e4nder. Med omkring 145 butiker i fem europeiska l\u00e4nder, en v\u00e4xande e-handel och cirka 1 800 engagerade medarbetare forts\u00e4tter vi att skapa nya shoppingupplevelser. V\u00e5r kultur bygger p\u00e5 Passion & Commitment, Smartness, Challenge och Teamwork, v\u00e4rderingar som driver oss fram\u00e5t varje dag. Oavsett om du arbe",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-8053017-gh_jid-8053017",
+   "title": "Growth Strategist (M/F/X)",
+   "company": "hellofresh",
+   "location": "Paris, Paris, France",
+   "url": "https://careers.hellofresh.com/global/en/job/8053017?gh_jid=8053017",
+   "score": 13,
+   "matched": [
+    "concept",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -390,7 +835,7 @@
    "company": "spotify",
    "location": "London",
    "url": "https://jobs.lever.co/spotify/0b8ea4d4-57ee-49c1-a57f-9a37248ee24f",
-   "score": 11,
+   "score": 13,
    "matched": [
     "storytelling",
     "ai",
@@ -400,6 +845,58 @@
    "years": null,
    "summary": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. Visual Merchandising shapes how content looks and feels across th",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-jobs-lever-co-spotify-ddcf0836-4443-4954-be31-7466be1eaff2",
+   "title": "Senior Music Editor, Indonesia",
+   "company": "spotify",
+   "location": "Jakarta",
+   "url": "https://jobs.lever.co/spotify/ddcf0836-4443-4954-be31-7466be1eaff2",
+   "score": 12,
+   "matched": [
+    "editorial",
+    "cross-functional",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "We are looking for an experienced Senior Editor for Indonesia, to join Spotify\u2019s Music Editorial team based in Jakarta. In this role you will be part of the Music team in Southeast Asia, reporting to the regional Head of Editorial. You will contribute your expertise to various music-related projects within the company, including playlist curation, creative editorial work, and cross-functional coll",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wppmedia-senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-343",
+   "title": "Senior Video Marketing Manager \u2013 Strategy & Innovation (Mensch)",
+   "company": "wppmedia",
+   "location": "D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-34364",
+   "score": 10,
+   "matched": [
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-trusteq-gmbh-ai-strategy-senior-consultant-munchen-115453",
+   "title": "AI Strategy (Senior) Consultant (m/w/d)",
+   "company": "Trusteq Gmbh",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-senior-consultant-munchen-115453",
+   "score": 8,
+   "matched": [
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "DEINE AUFGABEN Du analysierst Gesch\u00e4ftsprozesse und identifizierst Optimierungspotenziale durch den Einsatz von KI. Zus\u00e4tzlich im Senior Level: Du leitest komplexe KI-Projekte von der Ideenfindung bis zur Umsetzung. Du ber\u00e4tst Fachabteilungen und entwickelst ma\u00dfgeschneiderte KI-Strategien. Zus\u00e4tzlich im Senior Level: Du ber\u00e4tst F\u00fchrungskr\u00e4fte strategisch bei der Integration von KI-L\u00f6sungen. Du ers",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -417,6 +914,25 @@
    "years": null,
    "summary": "Vill du vara med och bygga n\u00e5got fr\u00e5n grunden? Vi s\u00f6ker en kreativ och handlingskraftig Content Creator som vill vara med och utveckla en ny digital n\u00e4ringslivsplattform och e-tidning med fokus p\u00e5 f\u00f6retagande, entrepren\u00f6rskap och n\u00e4ringsliv. Du kommer att skapa professionellt inneh\u00e5ll f\u00f6r webb och sociala medier, tr\u00e4ffa f\u00f6retagare, genomf\u00f6ra intervjuer och producera inneh\u00e5ll som bygger varum\u00e4rke, ",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-doctolib-jobs-7807880003",
+   "title": "Senior ML Manager - Voice Teams (x/f/m)",
+   "company": "doctolib",
+   "location": "Paris, Paris, France",
+   "url": "https://job-boards.greenhouse.io/doctolib/jobs/7807880003",
+   "score": 7,
+   "matched": [
+    "production",
+    "ai",
+    "pr",
+    "team",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "<h2><strong>What we do</strong></h2> <p>At Doctolib, we are building AI-powered healthcare solutions that make a real difference in the lives of millions of patients and healthcare professionals every day. Our AI organization is at the heart of this mission, developing cutting-edge voice and language technologies that reduce administrative burden for doctors and improve patient care.</p> <p>The Vo",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -425,7 +941,7 @@
    "company": "Poolia AB",
    "location": "Stockholm, Stockholms l\u00e4n",
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31354377",
-   "score": 4,
+   "score": 5,
    "matched": [
     "b2b",
     "pr"
@@ -433,6 +949,21 @@
    "years": null,
    "summary": "Om uppdraget Vi s\u00f6ker en senior kommunikat\u00f6r som vill vara med och utveckla samt st\u00e4rka kommunikationen kring verksamhetens uppdrag, v\u00e4rde och leveransf\u00f6rm\u00e5ga. I rollen fungerar du som ett strategiskt och operativt kommunikationsst\u00f6d till ledning och verksamhet, med ansvar f\u00f6r att s\u00e4kerst\u00e4lla tydlig, konsekvent och m\u00e5lgruppsanpassad kommunikation. Du kommer att arbeta n\u00e4ra ledning, projektledare o",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-rheingold-gmbh-co-kg-chief-of-staff-strategy-marketing-vollzeit-koln-start-novemb",
+   "title": "Chief of Staff -Strategy & Marketing (m/w/d) - Vollzeit-K\u00f6ln-Start November 26",
+   "company": "rheingold GmbH & Co. KG",
+   "location": "Cologne",
+   "url": "https://www.arbeitnow.com/jobs/companies/rheingold-gmbh-co-kg/chief-of-staff-strategy-marketing-vollzeit-koln-start-november-26-cologne-90062",
+   "score": 2,
+   "matched": [
+    "pr"
+   ],
+   "years": null,
+   "summary": "Du m\u00f6chtest eng mit der Gesch\u00e4ftsf\u00fchrung zusammenarbeiten, strategische Entscheidungen mitgestalten und Verantwortung f\u00fcr unternehmensweite Projekte \u00fcbernehmen? Du denkst analytisch, handelst unternehmerisch und m\u00f6chtest dich in einem anspruchsvollen Umfeld fachlich und pers\u00f6nlich weiterentwickeln? Dann bist du bei uns genau richtig. Als Chief of Staff Strategy &#x26; Marketing arbeitest du direkt",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -441,13 +972,26 @@
    "company": "spotify",
    "location": "London",
    "url": "https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e",
-   "score": 1,
+   "score": 2,
    "matched": [
     "pr"
    ],
    "years": null,
    "summary": "What You'll Do Who You Are Where You'll Be",
    "first_seen": "2026-08-16",
+   "is_new": false
+  },
+  {
+   "id": "https-jobs-smartrecruiters-com-canva-6000000001316979",
+   "title": "Creative Strategist, Growth Marketing, Poland (12-Month Contract)",
+   "company": "canva",
+   "location": "Warsaw, pl",
+   "url": "https://jobs.smartrecruiters.com/canva/6000000001316979",
+   "score": 1,
+   "matched": [],
+   "years": null,
+   "summary": "",
+   "first_seen": "2026-08-17",
    "is_new": true
   },
   {
@@ -456,12 +1000,12 @@
    "company": "canva",
    "location": "Paris, fr",
    "url": "https://jobs.smartrecruiters.com/canva/6000000001303834",
-   "score": 0,
+   "score": 1,
    "matched": [],
    "years": null,
    "summary": "",
    "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-smartrecruiters-com-canva-6000000001288581",
@@ -469,12 +1013,12 @@
    "company": "canva",
    "location": "Berlin, de",
    "url": "https://jobs.smartrecruiters.com/canva/6000000001288581",
-   "score": 0,
+   "score": 1,
    "matched": [],
    "years": null,
    "summary": "",
    "first_seen": "2026-08-16",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
