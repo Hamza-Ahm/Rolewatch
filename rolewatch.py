@@ -54,7 +54,7 @@ INCLUDE_TITLE = [
     "copywriter", "copy writer", "copy lead", "brand", "communication",
     "comms", "content", "creative", "editorial", "editor", "verbal",
     "tone of voice", "storytell", "narrative", "writer", "messaging",
-    "positioning",
+    "positioning", "strategist", "strategy", "guardian", "voice",
 ]
 
 EXCLUDE_TITLE = [
@@ -65,6 +65,9 @@ EXCLUDE_TITLE = [
     "data ", "analytics", "seo specialist", "paid social",
     "performance marketing", "media buyer", "growth hacker",
     "affiliate", "crm specialist", "lifecycle marketing",
+    "media strategist", "media planner", "media strategy", "programmatic",
+    "trading", "product strategy", "pricing strategy", "product content",
+    "technical writer", "ux writer", "content moderator", "content operations",
 ]
 
 # Languages you don't work in. Any of these in a job TITLE is an instant drop.
@@ -137,7 +140,9 @@ EUROPE_HINTS = [
 
 MIN_SENIORITY = [
     "senior", "lead", "head of", "principal", "director", "global",
-    "manager", "chief", "staff",
+    "manager", "chief", "staff", "strategist", "guardian", "owner",
+    "editor-in-chief", "editor in chief", "specialist ii", "sr.", "sr ",
+    "associate creative", "group ", "deputy", "executive",
 ]
 REQUIRE_SENIORITY = True
 
