@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-17 17:17 UTC",
- "scanned": 2617,
+ "updated": "2026-08-17 23:12 UTC",
+ "scanned": 2706,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -535,14 +535,14 @@
    "years": 14,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
    "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069199",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8018041",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -558,11 +558,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
    "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8018041",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069199",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -694,7 +694,7 @@
    "years": null,
    "summary": "<p><strong>About ApotheCom</strong></p> <p>ApotheCom is an exciting leader in the field of medical communications. We have been drawn together from several backgrounds, including the pharmaceutical industry, research, marketing, medical and regulatory writing, sales, publishing, digital media, and design. This diverse experience gives us the all-round ability to conceive and deliver the best quali",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobicy-com-jobs-150910-payments-gtm-go-to-market-operations-and-strategy-lead",
@@ -714,7 +714,7 @@
    "years": null,
    "summary": "Please note the internal job title is: Principal Payments GTM Operations and Strategy Want to build the go-to-market engine for a fast growing payments business? Then Jobber might be the place for you! We\u2019re looking for a Payments GTM Operations and Strategy Lead to be part of our Fintech department. Jobber exists to help people in small businesses be successful. We work with small home service bu",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-contentful-jobs-7627279",
@@ -737,6 +737,25 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-lever-co-spotify-c3f6ea23-97d0-4a9a-a9ad-04f1e745d916",
+   "title": "Senior Product Quality Analyst - AI Voice",
+   "company": "spotify",
+   "location": "London",
+   "url": "https://jobs.lever.co/spotify/c3f6ea23-97d0-4a9a-a9ad-04f1e745d916",
+   "score": 16,
+   "matched": [
+    "production",
+    "ai",
+    "generative ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we\u2019re behind some of Spotify\u2019s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you\u2019ll keep millions of users listening by making great recommendations to each and every one of them. We are the",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-cologne-143746",
    "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
    "company": "Health Routine",
@@ -754,7 +773,7 @@
    "years": null,
    "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-berlin-18793",
@@ -774,7 +793,7 @@
    "years": null,
    "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-munich-13407",
@@ -794,7 +813,7 @@
    "years": null,
    "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-hamburg-150628",
@@ -814,7 +833,7 @@
    "years": null,
    "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-30695750",
@@ -872,6 +891,44 @@
    "summary": "We are looking for an experienced Senior Editor for Taiwan, to join Spotify\u2019s Music Editorial team based in Taipei. In this role you will be part of the Music team in Southeast Asia, reporting to the regional Head of Editorial. You will contribute your expertise to various music-related projects within the company, including playlist curation, creative editorial work, and cross-functional collabor",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-mutabor-design-director-schwerpunkt-branding-fmcg-hamburg-128662",
+   "title": "Design Director - Schwerpunkt Branding & FMCG (f/m/d)",
+   "company": "Mutabor",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/mutabor/design-director-schwerpunkt-branding-fmcg-hamburg-128662",
+   "score": 14,
+   "matched": [
+    "ai",
+    "retail",
+    "fmcg",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Deine Aufgaben Als Design Director (f/m/d) mit Schwerpunkt Branding & FMCG \u00fcbernimmst du kreative Verantwortung f\u00fcr Markenauftritte, die Menschen im Alltag begegnen \u2013 im Regal, auf dem Display, in der Hand. Du verantwortest den kreativen Prozess von der Strategie bis zur Umsetzung \u2013 und sorgst daf\u00fcr, dass Qualit\u00e4t, Timing und Wirkung am Ende stimmen. Wenn du Lust hast, in einem ambitionierten Team",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-mutabor-creative-director-schwerpunkt-fmcg-fashion-hamburg-86382",
+   "title": "Creative Director - Schwerpunkt FMCG & Fashion (f/m/d)",
+   "company": "Mutabor",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/mutabor/creative-director-schwerpunkt-fmcg-fashion-hamburg-86382",
+   "score": 14,
+   "matched": [
+    "ai",
+    "retail",
+    "fmcg",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Deine Aufgaben Als Creative Director (f/m/d) mit Schwerpunkt Branding, FMCG & Fashion bist Du der kreative Kopf, der unsere Vision mit Leben f\u00fcllt und gemeinsam mit einem Team aus talentierten Mutaborianer:innen die Zukunft von Marken im Handel gestaltet. Wenn Du f\u00fcr exzellentes Design brennst und den Anspruch hast, immer wieder neue Ma\u00dfst\u00e4be zu setzen, dann bist Du bei uns genau richtig. Markenst",
+   "first_seen": "2026-08-17",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-doctolib-jobs-7821221003",
@@ -965,6 +1022,50 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-typeform-jobs-8134637",
+   "title": "Senior Paid Marketing Strategist",
+   "company": "typeform",
+   "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote)",
+   "url": "https://job-boards.greenhouse.io/typeform/jobs/8134637",
+   "score": 12,
+   "matched": [
+    "copywriter",
+    "campaign",
+    "production",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "- attribution",
+    "- mmm",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3>Who we are</h3> <p>Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.</p></div><h",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-sivara-gmbh-creative-strategist-vollzeit-100-remote-kevelaer-405537",
+   "title": "Creative Strategist (m/w/d), Vollzeit, 100% Remote",
+   "company": "Sivara GmbH",
+   "location": "Kevelaer",
+   "url": "https://www.arbeitnow.com/jobs/companies/sivara-gmbh/creative-strategist-vollzeit-100-remote-kevelaer-405537",
+   "score": 11,
+   "matched": [
+    "ai",
+    "prompt",
+    "e-commerce",
+    "pr",
+    "team",
+    "- roas"
+   ],
+   "years": null,
+   "summary": "Du siehst dir einen Funnel an und wei\u00dft sofort, wo es gerade hakt? Du wei\u00dft, welcher Angle als N\u00e4chstes getestet oder iteriert werden sollte, wo BOF Ads fehlen und welche Landingpage wir brauchen, und du denkst dabei in Hypothesen, Angles und Zahlen, nicht in sch\u00f6nen Kampagnen? Schon mal ein gutes Zeichen. Aber damit wir uns nicht missverstehen: Wir suchen keinen Strategen, der nur theoretische Sl",
+   "first_seen": "2026-08-17",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-wppmedia-senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-343",
    "title": "Senior Video Marketing Manager \u2013 Strategy & Innovation (Mensch)",
    "company": "wppmedia",
@@ -980,6 +1081,23 @@
    "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-christundcompany-senior-consultant-digital-corporate-communications-berlin-219849",
+   "title": "Senior Consultant Digital Corporate Communications (w/d/m)",
+   "company": "Christundcompany",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/senior-consultant-digital-corporate-communications-berlin-219849",
+   "score": 8,
+   "matched": [
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Deine Rolle Als Senior Consultant Digital Corporate Communications f\u00fchrst du bei Cosmonauts & Kings eigene Mandate mit Schwerpunkt Digital Thought Leadership, CEO-Positionierung und LinkedIn und baust unseren Bereich Digital Corporate Communication aktiv mit aus. Wir suchen daf\u00fcr eine erfahrene Pers\u00f6nlichkeit mit Gestaltungswillen und einem sicheren Gesp\u00fcr f\u00fcr Kommunikation an der Schnittstelle vo",
+   "first_seen": "2026-08-17",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31248243",
