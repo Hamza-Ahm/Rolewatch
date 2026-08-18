@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-18 05:19 UTC",
- "scanned": 2691,
+ "updated": "2026-08-18 11:15 UTC",
+ "scanned": 2695,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -107,6 +107,32 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
+   "title": "Senior Content Marketing Manager, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
+   "score": 57,
+   "matched": [
+    "copywriting",
+    "long-form",
+    "editorial",
+    "storytelling",
+    "narrative",
+    "global brand",
+    "script",
+    "production",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
    "title": "Corporate Brand Manager",
    "company": "supercell",
@@ -157,6 +183,32 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-146926-content-marketing-manager-2",
+   "title": "Content Marketing Manager",
+   "company": "Conversica",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/146926-content-marketing-manager-2",
+   "score": 47,
+   "matched": [
+    "positioning",
+    "editorial",
+    "campaign",
+    "storytelling",
+    "rebrand",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Conversica is seeking a hands-on Content Marketing Manager to help drive awareness, engagement, and market presence through compelling content, marketing programs, and brand storytelling. This role is responsible for creating, managing, and executing external marketing initiatives that support company growth and visibility. The ideal candidate is a strong writer, storyteller, and marketing general",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-berlitz-remote-brand-design-lead-144384",
    "title": "Brand Design Lead",
    "company": "Berlitz",
@@ -178,7 +230,7 @@
    "years": null,
    "summary": "We're building a new global Berlitz, and this is your opportunity to help shape it. Nearly 150 years of expertise, meeting the ambition and technology to power a new era of learning. If you are the kind of person who thrives in a fast-paced environment, isn\u2019t afraid of a blank page, and is excited to help shape the future of a global company undergoing a significant transformation, you might belon",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
@@ -433,7 +485,7 @@
    "years": null,
    "summary": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we\u2019re behind some of Spotify\u2019s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you\u2019ll keep millions of users listening by making great recommendations to each and every one of them. We are the",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8010419",
@@ -557,7 +609,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><h2><strong>About Remote</strong></h2> <div><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focus",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8113927",
@@ -620,6 +672,26 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7993119",
+   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7993119",
+   "score": 21,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": false
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8069189",
    "title": "Senior Vertical Strategy Manager, Hospitality",
    "company": "adyen",
@@ -640,21 +712,40 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7993119",
-   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "id": "https-www-arbeitnow-com-jobs-companies-mediform-gmbh-content-social-media-manager-startup-ai-healthcare-hybrid-karlsruhe",
+   "title": "Content & Social Media Manager (m/w/d) - Startup AI Healthcare - Hybrid",
+   "company": "Mediform GmbH",
+   "location": "Karlsruhe",
+   "url": "https://www.arbeitnow.com/jobs/companies/mediform-gmbh/content-social-media-manager-startup-ai-healthcare-hybrid-karlsruhe-119752",
+   "score": 20,
+   "matched": [
+    "tone of voice",
+    "storytelling",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Hast du Lust, Teil eines ambitionierten Startups zu sein, das die Zukunft der Patientenkommunikation neu definiert? Dann bist du bei Mediform genau richtig! Wir sind Pionier in der autonomen Bearbeitung von Patientenanliegen \u2013 per Telefon und per Chat \u00fcber die Praxis-Webseite. Unsere Technologie erm\u00f6glicht beispielsweise die automatische Terminvergabe, ohne dass das Praxispersonal eingreifen muss ",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
+   "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
    "company": "adyen",
    "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7993119",
-   "score": 21,
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8046121",
+   "score": 20,
    "matched": [
-    "stakeholder",
+    "narrative",
+    "cross-functional",
     "ai",
-    "fintech",
     "pr",
     "team",
-    "7+ years"
+    "12+ years"
    ],
-   "years": 7,
+   "years": 12,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-17",
    "is_new": false
@@ -680,24 +771,30 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
-   "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8046121",
-   "score": 20,
+   "id": "https-jobicy-com-jobs-146474-seo-strategist-canada",
+   "title": "SEO Strategist - Canada",
+   "company": "Brafton",
+   "location": "Canada",
+   "url": "https://jobicy.com/jobs/146474-seo-strategist-canada",
+   "score": 19,
    "matched": [
-    "narrative",
-    "cross-functional",
+    "concept",
+    "campaign",
+    "script",
+    "agency",
+    "stakeholder",
     "ai",
+    "e-commerce",
     "pr",
     "team",
-    "12+ years"
+    "- backlink",
+    "- keyword research",
+    "- asks only 3 years"
    ],
-   "years": 12,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-17",
-   "is_new": false
+   "years": 3,
+   "summary": "This is a full-time remote position open to candidates across Canada. Brafton is looking for an SEO strategist to join our Consulting Department. The ideal candidate has previous agency experience, a passion for digital marketing, excellent problem-solving skills, very strong attention to detail and a ton of curiosity about the ever-changing search landscape. SEO is always evolving. Even more impo",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8066983",
@@ -720,6 +817,26 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-147416-revenue-strategy-biz-ops-lead",
+   "title": "Revenue Strategy & Biz Ops Lead",
+   "company": "Remote",
+   "location": "EMEA",
+   "url": "https://jobicy.com/jobs/147416-revenue-strategy-biz-ops-lead",
+   "score": 18,
+   "matched": [
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About Remote Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find Remoters working fr",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-apothecom-senior-medical-writer-london-manchester-340247",
    "title": "Senior Medical Writer",
    "company": "Apothecom",
@@ -739,24 +856,24 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-150910-payments-gtm-go-to-market-operations-and-strategy-lead",
-   "title": "Payments GTM (Go-to-Market) Operations and Strategy Lead",
-   "company": "Jobber",
-   "location": "Canada",
-   "url": "https://jobicy.com/jobs/150910-payments-gtm-go-to-market-operations-and-strategy-lead",
+   "id": "https-job-boards-greenhouse-io-wolt-jobs-8138570",
+   "title": "Strategy and Operations Manager, Ads and Promotions",
+   "company": "wolt",
+   "location": "Berlin, Germany; Remote",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8138570",
    "score": 17,
    "matched": [
+    "international markets",
     "stakeholder",
     "cross-functional",
-    "ai",
-    "fintech",
+    "e-commerce",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Please note the internal job title is: Principal Payments GTM Operations and Strategy Want to build the go-to-market engine for a fast growing payments business? Then Jobber might be the place for you! We\u2019re looking for a Payments GTM Operations and Strategy Lead to be part of our Fintech department. Jobber exists to help people in small businesses be successful. We work with small home service bu",
-   "first_seen": "2026-08-17",
-   "is_new": false
+   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-contentful-jobs-7627279",
@@ -1108,6 +1225,23 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-appliedai-senior-ai-strategist-european-ai-readiness-observatory-munchen-81671-44",
+   "title": "Senior AI Strategist (m/f/x) \u2013 European AI Readiness Observatory",
+   "company": "Appliedai",
+   "location": "M\u00fcnchen (81671)",
+   "url": "https://www.arbeitnow.com/jobs/companies/appliedai/senior-ai-strategist-european-ai-readiness-observatory-munchen-81671-449388",
+   "score": 8,
+   "matched": [
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\u00dcber uns Das appliedAI Institute for Europe hat sich zum Ziel gesetzt, das europ\u00e4ische KI-\u00d6kosystem zu st\u00e4rken, Forschung im Bereich KI voranzutreiben, Wissen rund um KI zu entwickeln, vertrauensw\u00fcrdige KI-Tools bereitzustellen und Bildungs- sowie Interaktionsformate rund um hochwertige KI-Inhalte zu schaffen. Wir stellen die Menschen in Europa in den Mittelpunkt und verfolgen die Vision, eine gem",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-christundcompany-senior-consultant-digital-corporate-communications-berlin-219849",
    "title": "Senior Consultant Digital Corporate Communications (w/d/m)",
    "company": "Christundcompany",
@@ -1161,50 +1295,20 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31354377",
-   "title": "Communications Manager",
-   "company": "Poolia AB",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31354377",
+   "id": "https-www-arbeitnow-com-jobs-companies-vf-nutrition-gmbh-brand-activation-event-managerin-berlin-159848",
+   "title": "Brand Activation & Event Manager:in",
+   "company": "VF Nutrition GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/vf-nutrition-gmbh/brand-activation-event-managerin-berlin-159848",
    "score": 5,
    "matched": [
-    "b2b",
-    "pr"
+    "pr",
+    "team"
    ],
    "years": null,
-   "summary": "Om uppdraget Vi s\u00f6ker en senior kommunikat\u00f6r som vill vara med och utveckla samt st\u00e4rka kommunikationen kring verksamhetens uppdrag, v\u00e4rde och leveransf\u00f6rm\u00e5ga. I rollen fungerar du som ett strategiskt och operativt kommunikationsst\u00f6d till ledning och verksamhet, med ansvar f\u00f6r att s\u00e4kerst\u00e4lla tydlig, konsekvent och m\u00e5lgruppsanpassad kommunikation. Du kommer att arbeta n\u00e4ra ledning, projektledare o",
-   "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-rheingold-gmbh-co-kg-chief-of-staff-strategy-marketing-vollzeit-koln-start-novemb",
-   "title": "Chief of Staff -Strategy & Marketing (m/w/d) - Vollzeit-K\u00f6ln-Start November 26",
-   "company": "rheingold GmbH & Co. KG",
-   "location": "Cologne",
-   "url": "https://www.arbeitnow.com/jobs/companies/rheingold-gmbh-co-kg/chief-of-staff-strategy-marketing-vollzeit-koln-start-november-26-cologne-90062",
-   "score": 2,
-   "matched": [
-    "pr"
-   ],
-   "years": null,
-   "summary": "Du m\u00f6chtest eng mit der Gesch\u00e4ftsf\u00fchrung zusammenarbeiten, strategische Entscheidungen mitgestalten und Verantwortung f\u00fcr unternehmensweite Projekte \u00fcbernehmen? Du denkst analytisch, handelst unternehmerisch und m\u00f6chtest dich in einem anspruchsvollen Umfeld fachlich und pers\u00f6nlich weiterentwickeln? Dann bist du bei uns genau richtig. Als Chief of Staff Strategy &#x26; Marketing arbeitest du direkt",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-lever-co-spotify-9d1764a1-45fc-4e16-a823-7b7453b61d2e",
-   "title": "Principal Product Manager \u2013 Content Platform",
-   "company": "spotify",
-   "location": "London",
-   "url": "https://jobs.lever.co/spotify/9d1764a1-45fc-4e16-a823-7b7453b61d2e",
-   "score": 2,
-   "matched": [
-    "pr"
-   ],
-   "years": null,
-   "summary": "What You'll Do Who You Are Where You'll Be",
-   "first_seen": "2026-08-16",
-   "is_new": false
+   "summary": "Jobbeschreibung Hey! Wir sind vly \u2013 ein innovatives FoodTech-Startup aus Berlin, das die Lebensmittelindustrie revolutioniert. Unser Ziel: Gesunde, pflanzliche Milchalternativen, die nicht nur dir guttun sondern auch unserem Planeten. Nach jahrelanger Forschung haben wir Produkte entwickelt, die deutlich weniger Zucker und mehr Protein enthalten, mit Preisen ausgezeichnet wurden und deutschlandwei",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-jobs-smartrecruiters-com-canva-6000000001316979",
