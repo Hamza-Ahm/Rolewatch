@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-18 17:18 UTC",
- "scanned": 2695,
+ "updated": "2026-08-18 23:12 UTC",
+ "scanned": 2701,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -183,30 +183,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-berlitz-remote-brand-design-lead-144384",
-   "title": "Brand Design Lead",
-   "company": "Berlitz",
-   "location": "Germany Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-brand-design-lead-144384",
-   "score": 42,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "brand guidelines",
-    "campaign",
-    "ai",
-    "b2b",
-    "internal communications",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "We're building a new global Berlitz, and this is your opportunity to help shape it. Nearly 150 years of expertise, meeting the ambition and technology to power a new era of learning. If you are the kind of person who thrives in a fast-paced environment, isn\u2019t afraid of a blank page, and is excited to help shape the future of a global company undergoing a significant transformation, you might belon",
-   "first_seen": "2026-08-18",
-   "is_new": false
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
    "title": "Content Marketing Manager",
    "company": "Position Green AB",
@@ -277,6 +253,28 @@
    "summary": "<h2><strong>The role</strong></h2> <p>Are you passionate about re-engaging customers and driving growth through personalized marketing? As the <strong>Senior Audience Manager for Reactivations</strong>, you will play a critical role in re-engaging the HelloFresh cancelled base globally. Between leveraging customer segmentation or overlooking market performance, you will be designing customer journ",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-hellofresh-senior-crm-strategy-manager-reactivations-all-genders-berlin-berlin-12",
+   "title": "Senior CRM Strategy Manager, Reactivations (all genders)",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-crm-strategy-manager-reactivations-all-genders-berlin-berlin-12467",
+   "score": 36,
+   "matched": [
+    "sponsorship or relocation",
+    "creative direction",
+    "campaign",
+    "script",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h2><strong>The role</strong></h2> <p>Are you passionate about re-engaging customers and driving growth through personalized marketing? As the <strong>Senior Audience Manager for Reactivations</strong>, you will play a critical role in re-engaging the HelloFresh cancelled base globally. Between leveraging customer segmentation or overlooking market performance, you will be designing customer journ",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -606,26 +604,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
-   "title": "Senior Vertical Strategy Manager, F&B",
-   "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069199",
-   "score": 21,
-   "matched": [
-    "stakeholder",
-    "ai",
-    "fintech",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
    "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
@@ -646,11 +624,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069189",
-   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
+   "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
    "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069189",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069199",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -686,6 +664,26 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069189",
+   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069189",
+   "score": 21,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": false
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-mediform-gmbh-content-social-media-manager-startup-ai-healthcare-hybrid-karlsruhe",
    "title": "Content & Social Media Manager (m/w/d) - Startup AI Healthcare - Hybrid",
    "company": "Mediform GmbH",
@@ -705,11 +703,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8041204",
    "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
    "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8046121",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8041204",
    "score": 20,
    "matched": [
     "narrative",
@@ -725,11 +723,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8041204",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
    "title": "Senior Manager, Commercial Strategy & Enterprise Offering - Unified Commerce",
    "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8041204",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8046121",
    "score": 20,
    "matched": [
     "narrative",
@@ -763,6 +761,26 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-151040-product-growth-strategist",
+   "title": "Product Growth Strategist",
+   "company": "Fueled",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/151040-product-growth-strategist",
+   "score": 18,
+   "matched": [
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Location: Remote \u2014 Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria's Secret, MGM Resorts, Albertsons, and CLEAR. As a Product Growth Strategist at Fu",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-contentful-jobs-7627279",
@@ -861,6 +879,25 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-finance-and-strategy-senior-associate-london-93976",
+   "title": "Finance and Strategy Senior Associate",
+   "company": "Deliveroo",
+   "location": "London - The River Building HQ",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/finance-and-strategy-senior-associate-london-93976",
+   "score": 14,
+   "matched": [
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Finance & Strategy Senior Associate Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Finance team shapes the company's future by directing capital to high-impact investments, developing robust financial strategies, and ensuring we deliver long-term value while pursuing our ambitious mission. We\u2019re looking for a Finan",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-doctolib-jobs-7821221003",
    "title": "Strategy Lead Key Account (x/f/m)",
    "company": "doctolib",
@@ -896,7 +933,7 @@
    "years": null,
    "summary": "<h2><strong>Gemeinsam gestalten wir die Gesundheitsversorgung der Zukunft </strong><strong><br></strong></h2> <p>Doctolib w\u00e4chst im Key-Account-Gesch\u00e4ft in Deutschland: gro\u00dfe Praxisverb\u00fcnde, Klinikgruppen, MVZ und weitere strategisch wichtige Gesundheitsorganisationen. Als Strategy Lead Key Account verantwortest du die Go-to-Market-Strategie f\u00fcr neue Produkte, Module und Partnerschaften in diesem ",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31122604",
@@ -951,6 +988,24 @@
    "summary": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. Visual Merchandising shapes how content looks and feels across th",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-mixpanel-senior-customer-strategy-operations-manager-london-472403",
+   "title": "Senior Customer Strategy & Operations Manager",
+   "company": "Mixpanel",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/mixpanel/senior-customer-strategy-operations-manager-london-472403",
+   "score": 12,
+   "matched": [
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong>About Mixpanel</strong></p> <p>Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what\u2019s working, diagnose what\u2019s not, and decide what to build next. Learn ",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-jobs-lever-co-spotify-ddcf0836-4443-4954-be31-7466be1eaff2",
@@ -1016,7 +1071,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><h3>Who we are</h3> <p>Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.</p></div><h",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-typeform-senior-paid-marketing-strategist-30804",
@@ -1040,24 +1095,24 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><h3>Who we are</h3> <p>Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.</p></div><h",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-appliedai-senior-ai-strategist-european-ai-readiness-observatory-munchen-81671-44",
-   "title": "Senior AI Strategist (m/f/x) \u2013 European AI Readiness Observatory",
-   "company": "Appliedai",
-   "location": "M\u00fcnchen (81671)",
-   "url": "https://www.arbeitnow.com/jobs/companies/appliedai/senior-ai-strategist-european-ai-readiness-observatory-munchen-81671-449388",
-   "score": 8,
+   "id": "https-www-arbeitnow-com-jobs-companies-cellagon-gmbh-content-marketing-manager-ernahrung-altenholz-471379",
+   "title": "Content Marketing Manager Ern\u00e4hrung (m/w/d)",
+   "company": "Cellagon GmbH",
+   "location": "Altenholz",
+   "url": "https://www.arbeitnow.com/jobs/companies/cellagon-gmbh/content-marketing-manager-ernahrung-altenholz-471379",
+   "score": 7,
    "matched": [
     "ai",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "\u00dcber uns Das appliedAI Institute for Europe hat sich zum Ziel gesetzt, das europ\u00e4ische KI-\u00d6kosystem zu st\u00e4rken, Forschung im Bereich KI voranzutreiben, Wissen rund um KI zu entwickeln, vertrauensw\u00fcrdige KI-Tools bereitzustellen und Bildungs- sowie Interaktionsformate rund um hochwertige KI-Inhalte zu schaffen. Wir stellen die Menschen in Europa in den Mittelpunkt und verfolgen die Vision, eine gem",
+   "summary": "Du schreibst gern, denkst in Themen statt in Aufgaben und sorgst daf\u00fcr, dass aus einem Briefing ein fertiger Newsletter wird? Dann ist das deine Rolle. Cellagon entwickelt seit 40 Jahren Ern\u00e4hrungskonzepte auf nat\u00fcrlicher Basis. Unser Vertriebsmarketing w\u00e4chst, und wir suchen jemanden, der unsere Kommunikation mit Kundinnen, Kunden und Beraterinnen inhaltlich tr\u00e4gt \u2013 in Teilzeit mit 24 bis 32 Stun",
    "first_seen": "2026-08-18",
-   "is_new": false
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31248243",
@@ -1109,7 +1164,7 @@
    "years": null,
    "summary": "Wir sind ein vielf\u00e4ltiges Team von Sch\u00f6nheitsenthusiasten aus der ganzen Welt, die sich f\u00fcr ein integratives und unterst\u00fctzendes Arbeitsumfeld einsetzen, in dem sich jeder wertgesch\u00e4tzt und respektiert f\u00fchlt. Als f\u00fchrende internationale Sch\u00f6nheitsmarke haben wir uns zum Ziel gesetzt, qualitativ hochwertige Produkte anzubieten, die den Menschen helfen, ihren einzigartigen Sinn f\u00fcr Stil zu st\u00e4rken. ",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-vf-nutrition-gmbh-brand-activation-event-managerin-berlin-159848",
