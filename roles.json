@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-18 11:15 UTC",
+ "updated": "2026-08-18 17:18 UTC",
  "scanned": 2695,
  "roles": [
   {
@@ -130,7 +130,7 @@
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
@@ -181,32 +181,6 @@
    "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-08-16",
    "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-146926-content-marketing-manager-2",
-   "title": "Content Marketing Manager",
-   "company": "Conversica",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/146926-content-marketing-manager-2",
-   "score": 47,
-   "matched": [
-    "positioning",
-    "editorial",
-    "campaign",
-    "storytelling",
-    "rebrand",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Conversica is seeking a hands-on Content Marketing Manager to help drive awareness, engagement, and market presence through compelling content, marketing programs, and brand storytelling. This role is responsible for creating, managing, and executing external marketing initiatives that support company growth and visibility. The ideal candidate is a strong writer, storyteller, and marketing general",
-   "first_seen": "2026-08-18",
-   "is_new": true
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-berlitz-remote-brand-design-lead-144384",
@@ -632,26 +606,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
-   "title": "Senior Vertical Strategy Manager, F&B",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8018041",
-   "score": 21,
-   "matched": [
-    "stakeholder",
-    "ai",
-    "fintech",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8069199",
    "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
@@ -672,11 +626,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7993119",
-   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8018041",
+   "title": "Senior Vertical Strategy Manager, F&B",
    "company": "adyen",
    "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7993119",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8018041",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -712,6 +666,26 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7993119",
+   "title": "Senior Vertical Strategy Manager, Hospitality",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7993119",
+   "score": 21,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-17",
+   "is_new": false
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-mediform-gmbh-content-social-media-manager-startup-ai-healthcare-hybrid-karlsruhe",
    "title": "Content & Social Media Manager (m/w/d) - Startup AI Healthcare - Hybrid",
    "company": "Mediform GmbH",
@@ -728,7 +702,7 @@
    "years": null,
    "summary": "Hast du Lust, Teil eines ambitionierten Startups zu sein, das die Zukunft der Patientenkommunikation neu definiert? Dann bist du bei Mediform genau richtig! Wir sind Pionier in der autonomen Bearbeitung von Patientenanliegen \u2013 per Telefon und per Chat \u00fcber die Praxis-Webseite. Unsere Technologie erm\u00f6glicht beispielsweise die automatische Terminvergabe, ohne dass das Praxispersonal eingreifen muss ",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8046121",
@@ -771,32 +745,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-146474-seo-strategist-canada",
-   "title": "SEO Strategist - Canada",
-   "company": "Brafton",
-   "location": "Canada",
-   "url": "https://jobicy.com/jobs/146474-seo-strategist-canada",
-   "score": 19,
-   "matched": [
-    "concept",
-    "campaign",
-    "script",
-    "agency",
-    "stakeholder",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team",
-    "- backlink",
-    "- keyword research",
-    "- asks only 3 years"
-   ],
-   "years": 3,
-   "summary": "This is a full-time remote position open to candidates across Canada. Brafton is looking for an SEO strategist to join our Consulting Department. The ideal candidate has previous agency experience, a passion for digital marketing, excellent problem-solving skills, very strong attention to detail and a ton of curiosity about the ever-changing search landscape. SEO is always evolving. Even more impo",
-   "first_seen": "2026-08-18",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8066983",
    "title": "Senior Strategy Manager",
    "company": "getyourguide",
@@ -815,65 +763,6 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-17",
    "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-147416-revenue-strategy-biz-ops-lead",
-   "title": "Revenue Strategy & Biz Ops Lead",
-   "company": "Remote",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/147416-revenue-strategy-biz-ops-lead",
-   "score": 18,
-   "matched": [
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "About Remote Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work culture, our team works tirelessly on ambitious problems, asynchronously, around the world. You can find Remoters working fr",
-   "first_seen": "2026-08-18",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-apothecom-senior-medical-writer-london-manchester-340247",
-   "title": "Senior Medical Writer",
-   "company": "Apothecom",
-   "location": "London; Manchester",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/apothecom/senior-medical-writer-london-manchester-340247",
-   "score": 17,
-   "matched": [
-    "editorial",
-    "agency",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<p><strong>About ApotheCom</strong></p> <p>ApotheCom is an exciting leader in the field of medical communications. We have been drawn together from several backgrounds, including the pharmaceutical industry, research, marketing, medical and regulatory writing, sales, publishing, digital media, and design. This diverse experience gives us the all-round ability to conceive and deliver the best quali",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-wolt-jobs-8138570",
-   "title": "Strategy and Operations Manager, Ads and Promotions",
-   "company": "wolt",
-   "location": "Berlin, Germany; Remote",
-   "url": "https://job-boards.greenhouse.io/wolt/jobs/8138570",
-   "score": 17,
-   "matched": [
-    "international markets",
-    "stakeholder",
-    "cross-functional",
-    "e-commerce",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
-   "first_seen": "2026-08-18",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-contentful-jobs-7627279",
@@ -911,86 +800,6 @@
    ],
    "years": null,
    "summary": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we\u2019re behind some of Spotify\u2019s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you\u2019ll keep millions of users listening by making great recommendations to each and every one of them. We are the",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-cologne-143746",
-   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
-   "company": "Health Routine",
-   "location": "Cologne",
-   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-cologne-143746",
-   "score": 15,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "ai",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-berlin-18793",
-   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
-   "company": "Health Routine",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-berlin-18793",
-   "score": 15,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "ai",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-munich-13407",
-   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
-   "company": "Health Routine",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-munich-13407",
-   "score": 15,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "ai",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-hamburg-150628",
-   "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
-   "company": "Health Routine",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-hamburg-150628",
-   "score": 15,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "ai",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "\"Damit Sie wieder die Dinge tun k\u00f6nnen, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine nat\u00fcrliche Produkte, die wirken. Speziell f\u00fcr Menschen \u00fcber 50, die nicht mehr alles hinnehmen wollen, was \u201enormal\u201c sein soll. Und unsere Marke ist dabei l\u00e4ngst kein Geheimtipp mehr. \u00dcber 1.000.000 Kunden vertrauen bereits auf unsere Produkte. Weil wir nicht nur versprechen, son",
    "first_seen": "2026-08-17",
    "is_new": false
   },
@@ -1052,44 +861,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-mutabor-design-director-schwerpunkt-branding-fmcg-hamburg-128662",
-   "title": "Design Director - Schwerpunkt Branding & FMCG (f/m/d)",
-   "company": "Mutabor",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/mutabor/design-director-schwerpunkt-branding-fmcg-hamburg-128662",
-   "score": 14,
-   "matched": [
-    "ai",
-    "retail",
-    "fmcg",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Deine Aufgaben Als Design Director (f/m/d) mit Schwerpunkt Branding & FMCG \u00fcbernimmst du kreative Verantwortung f\u00fcr Markenauftritte, die Menschen im Alltag begegnen \u2013 im Regal, auf dem Display, in der Hand. Du verantwortest den kreativen Prozess von der Strategie bis zur Umsetzung \u2013 und sorgst daf\u00fcr, dass Qualit\u00e4t, Timing und Wirkung am Ende stimmen. Wenn du Lust hast, in einem ambitionierten Team",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-mutabor-creative-director-schwerpunkt-fmcg-fashion-hamburg-86382",
-   "title": "Creative Director - Schwerpunkt FMCG & Fashion (f/m/d)",
-   "company": "Mutabor",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/mutabor/creative-director-schwerpunkt-fmcg-fashion-hamburg-86382",
-   "score": 14,
-   "matched": [
-    "ai",
-    "retail",
-    "fmcg",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Deine Aufgaben Als Creative Director (f/m/d) mit Schwerpunkt Branding, FMCG & Fashion bist Du der kreative Kopf, der unsere Vision mit Leben f\u00fcllt und gemeinsam mit einem Team aus talentierten Mutaborianer:innen die Zukunft von Marken im Handel gestaltet. Wenn Du f\u00fcr exzellentes Design brennst und den Anspruch hast, immer wieder neue Ma\u00dfst\u00e4be zu setzen, dann bist Du bei uns genau richtig. Markenst",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-doctolib-jobs-7821221003",
    "title": "Strategy Lead Key Account (x/f/m)",
    "company": "doctolib",
@@ -1107,6 +878,25 @@
    "summary": "<h2><strong>Gemeinsam gestalten wir die Gesundheitsversorgung der Zukunft </strong><strong><br></strong></h2> <p>Doctolib w\u00e4chst im Key-Account-Gesch\u00e4ft in Deutschland: gro\u00dfe Praxisverb\u00fcnde, Klinikgruppen, MVZ und weitere strategisch wichtige Gesundheitsorganisationen. Als Strategy Lead Key Account verantwortest du die Go-to-Market-Strategie f\u00fcr neue Produkte, Module und Partnerschaften in diesem ",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-doctolib-jobs-7893689003",
+   "title": "Strategy Lead (x/f/m)",
+   "company": "doctolib",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://job-boards.greenhouse.io/doctolib/jobs/7893689003",
+   "score": 14,
+   "matched": [
+    "narrative",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h2><strong>Gemeinsam gestalten wir die Gesundheitsversorgung der Zukunft </strong><strong><br></strong></h2> <p>Doctolib w\u00e4chst im Key-Account-Gesch\u00e4ft in Deutschland: gro\u00dfe Praxisverb\u00fcnde, Klinikgruppen, MVZ und weitere strategisch wichtige Gesundheitsorganisationen. Als Strategy Lead Key Account verantwortest du die Go-to-Market-Strategie f\u00fcr neue Produkte, Module und Partnerschaften in diesem ",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31122604",
@@ -1205,24 +995,52 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-sivara-gmbh-creative-strategist-vollzeit-100-remote-kevelaer-405537",
-   "title": "Creative Strategist (m/w/d), Vollzeit, 100% Remote",
-   "company": "Sivara GmbH",
-   "location": "Kevelaer",
-   "url": "https://www.arbeitnow.com/jobs/companies/sivara-gmbh/creative-strategist-vollzeit-100-remote-kevelaer-405537",
-   "score": 11,
+   "id": "https-www-arbeitnow-com-jobs-companies-typeform-senior-paid-marketing-strategist-366827",
+   "title": "Senior Paid Marketing Strategist",
+   "company": "typeform",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.com/jobs/companies/typeform/senior-paid-marketing-strategist-366827",
+   "score": 12,
    "matched": [
+    "copywriter",
+    "campaign",
+    "production",
     "ai",
-    "prompt",
-    "e-commerce",
+    "b2b",
     "pr",
     "team",
-    "- roas"
+    "- attribution",
+    "- mmm",
+    "- media buying"
    ],
    "years": null,
-   "summary": "Du siehst dir einen Funnel an und wei\u00dft sofort, wo es gerade hakt? Du wei\u00dft, welcher Angle als N\u00e4chstes getestet oder iteriert werden sollte, wo BOF Ads fehlen und welche Landingpage wir brauchen, und du denkst dabei in Hypothesen, Angles und Zahlen, nicht in sch\u00f6nen Kampagnen? Schon mal ein gutes Zeichen. Aber damit wir uns nicht missverstehen: Wir suchen keinen Strategen, der nur theoretische Sl",
-   "first_seen": "2026-08-17",
-   "is_new": false
+   "summary": "<div class=\"content-intro\"><h3>Who we are</h3> <p>Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.</p></div><h",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-typeform-senior-paid-marketing-strategist-30804",
+   "title": "Senior Paid Marketing Strategist",
+   "company": "typeform",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/senior-paid-marketing-strategist-30804",
+   "score": 12,
+   "matched": [
+    "copywriter",
+    "campaign",
+    "production",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "- attribution",
+    "- mmm",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3>Who we are</h3> <p>Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.</p></div><h",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-appliedai-senior-ai-strategist-european-ai-readiness-observatory-munchen-81671-44",
@@ -1239,23 +1057,6 @@
    "years": null,
    "summary": "\u00dcber uns Das appliedAI Institute for Europe hat sich zum Ziel gesetzt, das europ\u00e4ische KI-\u00d6kosystem zu st\u00e4rken, Forschung im Bereich KI voranzutreiben, Wissen rund um KI zu entwickeln, vertrauensw\u00fcrdige KI-Tools bereitzustellen und Bildungs- sowie Interaktionsformate rund um hochwertige KI-Inhalte zu schaffen. Wir stellen die Menschen in Europa in den Mittelpunkt und verfolgen die Vision, eine gem",
    "first_seen": "2026-08-18",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-christundcompany-senior-consultant-digital-corporate-communications-berlin-219849",
-   "title": "Senior Consultant Digital Corporate Communications (w/d/m)",
-   "company": "Christundcompany",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/christundcompany/senior-consultant-digital-corporate-communications-berlin-219849",
-   "score": 8,
-   "matched": [
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Deine Rolle Als Senior Consultant Digital Corporate Communications f\u00fchrst du bei Cosmonauts & Kings eigene Mandate mit Schwerpunkt Digital Thought Leadership, CEO-Positionierung und LinkedIn und baust unseren Bereich Digital Corporate Communication aktiv mit aus. Wir suchen daf\u00fcr eine erfahrene Pers\u00f6nlichkeit mit Gestaltungswillen und einem sicheren Gesp\u00fcr f\u00fcr Kommunikation an der Schnittstelle vo",
-   "first_seen": "2026-08-17",
    "is_new": false
   },
   {
@@ -1295,6 +1096,22 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-cosmo-beauty-brand-house-gmbh-brand-manager-berlin-146388",
+   "title": "Brand Manager (m/w/d)",
+   "company": "Cosmo Beauty Brand House GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/cosmo-beauty-brand-house-gmbh/brand-manager-berlin-146388",
+   "score": 6,
+   "matched": [
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Wir sind ein vielf\u00e4ltiges Team von Sch\u00f6nheitsenthusiasten aus der ganzen Welt, die sich f\u00fcr ein integratives und unterst\u00fctzendes Arbeitsumfeld einsetzen, in dem sich jeder wertgesch\u00e4tzt und respektiert f\u00fchlt. Als f\u00fchrende internationale Sch\u00f6nheitsmarke haben wir uns zum Ziel gesetzt, qualitativ hochwertige Produkte anzubieten, die den Menschen helfen, ihren einzigartigen Sinn f\u00fcr Stil zu st\u00e4rken. ",
+   "first_seen": "2026-08-18",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-vf-nutrition-gmbh-brand-activation-event-managerin-berlin-159848",
    "title": "Brand Activation & Event Manager:in",
    "company": "VF Nutrition GmbH",
@@ -1308,7 +1125,7 @@
    "years": null,
    "summary": "Jobbeschreibung Hey! Wir sind vly \u2013 ein innovatives FoodTech-Startup aus Berlin, das die Lebensmittelindustrie revolutioniert. Unser Ziel: Gesunde, pflanzliche Milchalternativen, die nicht nur dir guttun sondern auch unserem Planeten. Nach jahrelanger Forschung haben wir Produkte entwickelt, die deutlich weniger Zucker und mehr Protein enthalten, mit Preisen ausgezeichnet wurden und deutschlandwei",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-smartrecruiters-com-canva-6000000001316979",
