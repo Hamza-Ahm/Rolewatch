@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-17 23:12 UTC",
- "scanned": 2706,
+ "updated": "2026-08-18 05:19 UTC",
+ "scanned": 2691,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -155,6 +155,30 @@
    "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-berlitz-remote-brand-design-lead-144384",
+   "title": "Brand Design Lead",
+   "company": "Berlitz",
+   "location": "Germany Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/berlitz/remote-brand-design-lead-144384",
+   "score": 42,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "brand guidelines",
+    "campaign",
+    "ai",
+    "b2b",
+    "internal communications",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "We're building a new global Berlitz, and this is your opportunity to help shape it. Nearly 150 years of expertise, meeting the ambition and technology to power a new era of learning. If you are the kind of person who thrives in a fast-paced environment, isn\u2019t afraid of a blank page, and is excited to help shape the future of a global company undergoing a significant transformation, you might belon",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
@@ -391,27 +415,25 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-wolt-senior-manager-strategy-operations-new-verticals-retail-south-and-central-be",
-   "title": "Senior Manager, Strategy & Operations, New Verticals \u2013 Retail (South and Central)",
-   "company": "wolt",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-manager-strategy-operations-new-verticals-retail-south-and-central-berlin-2656",
-   "score": 27,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-spotify-senior-product-quality-analyst-ai-voice-london-134064",
+   "title": "Senior Product Quality Analyst - AI Voice",
+   "company": "Spotify",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-quality-analyst-ai-voice-london-134064",
+   "score": 26,
    "matched": [
-    "script",
+    "campaign",
+    "production",
     "stakeholder",
-    "cross-functional",
     "ai",
-    "retail",
-    "e-commerce",
+    "generative ai",
     "pr",
-    "team",
-    "4+ years"
+    "team"
    ],
-   "years": 4,
-   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
-   "first_seen": "2026-08-17",
-   "is_new": false
+   "years": null,
+   "summary": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we\u2019re behind some of Spotify\u2019s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you\u2019ll keep millions of users listening by making great recommendations to each and every one of them. We are the",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8010419",
@@ -516,6 +538,26 @@
    "summary": "<h2><strong>This is Adyen</strong></h2> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.</p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture a",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-remotereferralboardinternaluseonly-senior-manager-global-payroll-strategy-and-c",
+   "title": "Senior Manager, Global Payroll Strategy and Compliance",
+   "company": "Remotereferralboardinternaluseonly",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/remotereferralboardinternaluseonly/senior-manager-global-payroll-strategy-and-compliance-152265",
+   "score": 21,
+   "matched": [
+    "concept",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h2><strong>About Remote</strong></h2> <div><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focus",
+   "first_seen": "2026-08-18",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8113927",
@@ -753,7 +795,7 @@
    "years": null,
    "summary": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we\u2019re behind some of Spotify\u2019s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you\u2019ll keep millions of users listening by making great recommendations to each and every one of them. We are the",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-health-routine-senior-direct-response-copywriter-100-remote-cologne-143746",
@@ -909,7 +951,7 @@
    "years": null,
    "summary": "Deine Aufgaben Als Design Director (f/m/d) mit Schwerpunkt Branding & FMCG \u00fcbernimmst du kreative Verantwortung f\u00fcr Markenauftritte, die Menschen im Alltag begegnen \u2013 im Regal, auf dem Display, in der Hand. Du verantwortest den kreativen Prozess von der Strategie bis zur Umsetzung \u2013 und sorgst daf\u00fcr, dass Qualit\u00e4t, Timing und Wirkung am Ende stimmen. Wenn du Lust hast, in einem ambitionierten Team",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-mutabor-creative-director-schwerpunkt-fmcg-fashion-hamburg-86382",
@@ -928,7 +970,7 @@
    "years": null,
    "summary": "Deine Aufgaben Als Creative Director (f/m/d) mit Schwerpunkt Branding, FMCG & Fashion bist Du der kreative Kopf, der unsere Vision mit Leben f\u00fcllt und gemeinsam mit einem Team aus talentierten Mutaborianer:innen die Zukunft von Marken im Handel gestaltet. Wenn Du f\u00fcr exzellentes Design brennst und den Anspruch hast, immer wieder neue Ma\u00dfst\u00e4be zu setzen, dann bist Du bei uns genau richtig. Markenst",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-doctolib-jobs-7821221003",
@@ -1043,7 +1085,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><h3>Who we are</h3> <p>Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed to look striking and feel effortless to fill out, Typeform drives 500 million responses every year\u2014and integrates with essential tools like Slack, Zapier, and Hubspot.</p></div><h",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-sivara-gmbh-creative-strategist-vollzeit-100-remote-kevelaer-405537",
@@ -1063,23 +1105,6 @@
    "years": null,
    "summary": "Du siehst dir einen Funnel an und wei\u00dft sofort, wo es gerade hakt? Du wei\u00dft, welcher Angle als N\u00e4chstes getestet oder iteriert werden sollte, wo BOF Ads fehlen und welche Landingpage wir brauchen, und du denkst dabei in Hypothesen, Angles und Zahlen, nicht in sch\u00f6nen Kampagnen? Schon mal ein gutes Zeichen. Aber damit wir uns nicht missverstehen: Wir suchen keinen Strategen, der nur theoretische Sl",
    "first_seen": "2026-08-17",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-wppmedia-senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-343",
-   "title": "Senior Video Marketing Manager \u2013 Strategy & Innovation (Mensch)",
-   "company": "wppmedia",
-   "location": "D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-video-marketing-manager-strategy-innovation-mensch-dusseldorf-34364",
-   "score": 10,
-   "matched": [
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
-   "first_seen": "2026-08-17",
    "is_new": false
   },
   {
@@ -1097,7 +1122,7 @@
    "years": null,
    "summary": "Deine Rolle Als Senior Consultant Digital Corporate Communications f\u00fchrst du bei Cosmonauts & Kings eigene Mandate mit Schwerpunkt Digital Thought Leadership, CEO-Positionierung und LinkedIn und baust unseren Bereich Digital Corporate Communication aktiv mit aus. Wir suchen daf\u00fcr eine erfahrene Pers\u00f6nlichkeit mit Gestaltungswillen und einem sicheren Gesp\u00fcr f\u00fcr Kommunikation an der Schnittstelle vo",
    "first_seen": "2026-08-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31248243",
