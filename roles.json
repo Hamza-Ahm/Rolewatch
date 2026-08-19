@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-18 23:12 UTC",
- "scanned": 2701,
+ "updated": "2026-08-19 05:20 UTC",
+ "scanned": 2706,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -274,7 +274,7 @@
    "years": null,
    "summary": "<h2><strong>The role</strong></h2> <p>Are you passionate about re-engaging customers and driving growth through personalized marketing? As the <strong>Senior Audience Manager for Reactivations</strong>, you will play a critical role in re-engaging the HelloFresh cancelled base globally. Between leveraging customer segmentation or overlooking market performance, you will be designing customer journ",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -416,6 +416,27 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-sohohouseco-global-brand-relations-director-london-230228",
+   "title": "Global Brand Relations Director",
+   "company": "Sohohouseco",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/global-brand-relations-director-london-230228",
+   "score": 27,
+   "matched": [
+    "positioning",
+    "global brand",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<p><strong>The Role..</strong></p> <p>The Global Brand Relations Director will own and grow Soho House's relationships with its most valuable global brand partners, driving significant commercial revenue across private hire, bedrooms, travel, memberships, brand-owned experiences and events.</p> <p>This role will serve as the senior global lead for the company's top-spending corporate accounts, cre",
+   "first_seen": "2026-08-19",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-wolt-jobs-8129640",
    "title": "Senior Manager, Strategy & Operations, New Verticals \u2013 Retail (South and Central)",
    "company": "wolt",
@@ -436,27 +457,6 @@
    "years": 4,
    "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
    "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-spotify-senior-product-quality-analyst-ai-voice-london-134064",
-   "title": "Senior Product Quality Analyst - AI Voice",
-   "company": "Spotify",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/senior-product-quality-analyst-ai-voice-london-134064",
-   "score": 26,
-   "matched": [
-    "campaign",
-    "production",
-    "stakeholder",
-    "ai",
-    "generative ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we\u2019re behind some of Spotify\u2019s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you\u2019ll keep millions of users listening by making great recommendations to each and every one of them. We are the",
-   "first_seen": "2026-08-18",
    "is_new": false
   },
   {
@@ -564,26 +564,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-remotereferralboardinternaluseonly-senior-manager-global-payroll-strategy-and-c",
-   "title": "Senior Manager, Global Payroll Strategy and Compliance",
-   "company": "Remotereferralboardinternaluseonly",
-   "location": "Not stated",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/remotereferralboardinternaluseonly/senior-manager-global-payroll-strategy-and-compliance-152265",
-   "score": 21,
-   "matched": [
-    "concept",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h2><strong>About Remote</strong></h2> <div><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\">Remote is solving modern organizations\u2019 biggest challenge \u2013 navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focus",
-   "first_seen": "2026-08-18",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8113927",
    "title": "Senior Strategy & Business Ops Manager",
    "company": "adyen",
@@ -644,11 +624,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7993119",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069189",
    "title": "Senior Vertical Strategy Manager, Hospitality",
    "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7993119",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069189",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -664,11 +644,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8069189",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7993119",
    "title": "Senior Vertical Strategy Manager, Hospitality",
    "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8069189",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7993119",
    "score": 21,
    "matched": [
     "stakeholder",
@@ -780,7 +760,7 @@
    "years": null,
    "summary": "Location: Remote \u2014 Anywhere (Open to applicants located anywhere around the globe) Fueled is a leading digital strategy, design, and engineering agency. We are a 300+ person team that has designed and built hundreds of digital products and experiences for brands like Google, Apple, The New York Times, ESPN, Victoria's Secret, MGM Resorts, Albertsons, and CLEAR. As a Product Growth Strategist at Fu",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-contentful-jobs-7627279",
@@ -895,7 +875,7 @@
    "years": null,
    "summary": "Finance & Strategy Senior Associate Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Finance team shapes the company's future by directing capital to high-impact investments, developing robust financial strategies, and ensuring we deliver long-term value while pursuing our ambitious mission. We\u2019re looking for a Finan",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-doctolib-jobs-7821221003",
@@ -1005,7 +985,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong>About Mixpanel</strong></p> <p>Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what\u2019s working, diagnose what\u2019s not, and decide what to build next. Learn ",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-lever-co-spotify-ddcf0836-4443-4954-be31-7466be1eaff2",
@@ -1098,6 +1078,23 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-bmz-battery-solutions-germany-gmbh-global-communications-manager-karlstein-am-mai",
+   "title": "Global Communications Manager (m/w/d)",
+   "company": "BMZ Battery Solutions Germany GmbH",
+   "location": "Karlstein am Main",
+   "url": "https://www.arbeitnow.com/jobs/companies/bmz-battery-solutions-germany-gmbh/global-communications-manager-karlstein-am-main-165512",
+   "score": 8,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "pr"
+   ],
+   "years": null,
+   "summary": "Die BMZ Group geh\u00f6rt zu den weltweit f\u00fchrenden Anbietern von Lithium-Ionen-Batteriesystemen und gestaltet seit \u00fcber 30 Jahren die Zukunft der Energiespeicherung. Mit Hauptsitz in Karlstein bei Frankfurt am Main, internationalen Produktionsstandorten sowie einem globalen Netzwerk von Expertinnen und Experten entwickeln wir innovative L\u00f6sungen f\u00fcr unterschiedlichste Branchen \u2013 von der ersten Idee bi",
+   "first_seen": "2026-08-19",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-cellagon-gmbh-content-marketing-manager-ernahrung-altenholz-471379",
    "title": "Content Marketing Manager Ern\u00e4hrung (m/w/d)",
    "company": "Cellagon GmbH",
@@ -1112,7 +1109,7 @@
    "years": null,
    "summary": "Du schreibst gern, denkst in Themen statt in Aufgaben und sorgst daf\u00fcr, dass aus einem Briefing ein fertiger Newsletter wird? Dann ist das deine Rolle. Cellagon entwickelt seit 40 Jahren Ern\u00e4hrungskonzepte auf nat\u00fcrlicher Basis. Unser Vertriebsmarketing w\u00e4chst, und wir suchen jemanden, der unsere Kommunikation mit Kundinnen, Kunden und Beraterinnen inhaltlich tr\u00e4gt \u2013 in Teilzeit mit 24 bis 32 Stun",
    "first_seen": "2026-08-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31248243",
@@ -1163,22 +1160,6 @@
    ],
    "years": null,
    "summary": "Wir sind ein vielf\u00e4ltiges Team von Sch\u00f6nheitsenthusiasten aus der ganzen Welt, die sich f\u00fcr ein integratives und unterst\u00fctzendes Arbeitsumfeld einsetzen, in dem sich jeder wertgesch\u00e4tzt und respektiert f\u00fchlt. Als f\u00fchrende internationale Sch\u00f6nheitsmarke haben wir uns zum Ziel gesetzt, qualitativ hochwertige Produkte anzubieten, die den Menschen helfen, ihren einzigartigen Sinn f\u00fcr Stil zu st\u00e4rken. ",
-   "first_seen": "2026-08-18",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-vf-nutrition-gmbh-brand-activation-event-managerin-berlin-159848",
-   "title": "Brand Activation & Event Manager:in",
-   "company": "VF Nutrition GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/vf-nutrition-gmbh/brand-activation-event-managerin-berlin-159848",
-   "score": 5,
-   "matched": [
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Jobbeschreibung Hey! Wir sind vly \u2013 ein innovatives FoodTech-Startup aus Berlin, das die Lebensmittelindustrie revolutioniert. Unser Ziel: Gesunde, pflanzliche Milchalternativen, die nicht nur dir guttun sondern auch unserem Planeten. Nach jahrelanger Forschung haben wir Produkte entwickelt, die deutlich weniger Zucker und mehr Protein enthalten, mit Preisen ausgezeichnet wurden und deutschlandwei",
    "first_seen": "2026-08-18",
    "is_new": false
   },
