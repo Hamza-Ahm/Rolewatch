@@ -52,6 +52,9 @@ COMPANIES = [
     "dubizzle", "kitopi", "swvl", "anghami", "aramex", "fresha",
     "chalhoub", "majidalfuttaim", "emiratesnbd", "mashreq", "adnoc",
     "g42", "e-and", "etisalat", "careemtech", "alef", "tamara",
+    "alghurair", "majidalfuttaim", "emirates", "etihad", "dpworld",
+    "emaar", "jumeirah", "mubadala", "masdar", "aldar", "gems",
+    "landmarkgroup", "alfuttaim", "americanaresturants", "agthia",
     # Southeast Asia
     "grab", "shopee", "sea", "lazada", "gojek", "goto", "traveloka",
     "carsome", "airasia", "ninjavan", "coda", "carro", "aspire",
@@ -93,6 +96,15 @@ ACCEPT_TITLE = [
 
 ACCEPT_RE = [re.compile(p, re.I) for p in ACCEPT_TITLE]
 
+# Second route in, for titles that put the rank first and the subject last,
+# which is how the Gulf and much of APAC write them. A title qualifies if it
+# names one of these subjects AND carries a seniority rank.
+CORE_NOUNS = [
+    "brand", "communications", "communication", "copywriter", "copywriting",
+    "editorial", "creative", "storytelling", "verbal identity",
+    "tone of voice", "public relations",
+]
+
 # Nothing below this score reaches the site. Kills titles that squeaked
 # through on one word and ads with no readable description.
 MIN_SCORE = 15
@@ -113,6 +125,8 @@ EXCLUDE_TITLE = [
     "account strategy", "finance and strategy", "pricing strategy",
     "discount strategy", "enterprise strategy", "enterprise offering",
     "training content", "content owner", "localisation manager",
+    "creative operations", "brand ambassador", "brand representative",
+    "communications engineer", "communications technician",
     "music editor", "video editor", "photo editor", "copy editor",
     "machine learning", "ml manager", "voice team", "conversation design",
 ]
@@ -195,8 +209,10 @@ PLACES = [
 MIN_SENIORITY = [
     "senior", "lead", "head of", "principal", "director", "global",
     "manager", "chief", "staff", "strategist", "guardian", "owner",
-    "editor-in-chief", "editor in chief", "specialist ii", "sr.", "sr ",
+    "editor-in-chief", "editor in chief", "sr.", "sr ",
     "associate creative", "group ", "deputy", "executive",
+    # Gulf and APAC ranks
+    "specialist", "officer", "supervisor", "in charge", "senior executive",
 ]
 REQUIRE_SENIORITY = True
 
@@ -552,8 +568,45 @@ def from_recruitee(slug):
             for j in d["offers"]]
 
 
+
+def from_workday(slug):
+    """Workday runs a huge slice of large employers, including the Gulf.
+    Tenant, data centre and site name all vary, so a few shapes are tried."""
+    sites = ["External", "Careers", "External_Career_Site",
+             f"{slug}_Careers", "careers"]
+    for dc in ("wd1", "wd3", "wd5", "wd103"):
+        for site in sites:
+            url = (f"https://{slug}.{dc}.myworkdayjobs.com"
+                   f"/wday/cxs/{slug}/{site}/jobs")
+            payload = json.dumps({"appliedFacets": {}, "limit": 20,
+                                  "offset": 0, "searchText": ""}).encode()
+            req = urllib.request.Request(
+                url, data=payload,
+                headers={"Content-Type": "application/json",
+                         "Accept": "application/json", "User-Agent": UA})
+            try:
+                with urllib.request.urlopen(req, timeout=8) as r:
+                    d = json.loads(r.read().decode("utf-8", "replace"))
+            except Exception:
+                continue
+            posts = d.get("jobPostings") or []
+            if not posts:
+                continue
+            out = []
+            for j in posts:
+                path = j.get("externalPath") or ""
+                out.append(norm(slug, j.get("title"),
+                                j.get("locationsText") or "",
+                                f"https://{slug}.{dc}.myworkdayjobs.com"
+                                f"/en-US/{site}{path}",
+                                " ".join(j.get("bulletFields") or [])))
+            return out
+    return []
+
+
 ATS = [from_greenhouse, from_lever, from_ashby,
-       from_workable, from_smartrecruiters, from_recruitee]
+       from_workable, from_smartrecruiters, from_recruitee,
+       from_workday]
 
 
 def from_jobtech():
@@ -745,11 +798,55 @@ def from_jooble():
     return out
 
 
+
+# JSearch resells Google for Jobs, which indexes LinkedIn, Indeed, Bayt
+# and company career pages together. This is the closest thing to "every
+# company". Free tier at rapidapi.com/letscrape/api/jsearch, no card.
+#   -> RAPIDAPI_KEY
+# The free tier is about 200 calls a month, so keep the query list short
+# and run the scan once a day rather than four times.
+JSEARCH_QUERIES = [
+    ("brand copywriter", "ae"), ("communications manager", "ae"),
+    ("brand manager", "ae"), ("creative director", "ae"),
+    ("brand copywriter", "sg"), ("communications manager", "my"),
+]
+
+
+def from_jsearch():
+    key = os.environ.get("RAPIDAPI_KEY", "").strip()
+    if not key:
+        print("  jsearch: no key set, skipped")
+        return []
+    out = []
+    for q, country in JSEARCH_QUERIES:
+        url = ("https://jsearch.p.rapidapi.com/search?query="
+               + urllib.parse.quote(q) + f"&page=1&num_pages=1&country={country}")
+        req = urllib.request.Request(url, headers={
+            "X-RapidAPI-Key": key,
+            "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
+            "User-Agent": UA})
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                d = json.loads(r.read().decode("utf-8", "replace"))
+        except Exception as e:
+            print(f"  jsearch {q}/{country}: {e}")
+            continue
+        for j in d.get("data", []):
+            where = ", ".join(x for x in [j.get("job_city"),
+                                          j.get("job_country")] if x)
+            out.append(norm(j.get("employer_name"), j.get("job_title"),
+                            where, j.get("job_apply_link"),
+                            j.get("job_description")))
+        time.sleep(0.5)
+    return out
+
+
 BOARDS = [
     (from_arbeitnow, "arbeitnow"), (from_remotive, "remotive"),
     (from_remoteok, "remoteok"), (from_jobicy, "jobicy"),
     (from_muse, "themuse"), (from_himalayas, "himalayas"),
     (from_adzuna, "adzuna"), (from_jooble, "jooble"),
+    (from_jsearch, "jsearch"),
 ]
 
 
@@ -772,11 +869,14 @@ def keep(job):
     b = job["body"].lower()
     blob = t + " " + b + " " + job["location"].lower()
 
-    if not any(p.search(t) for p in ACCEPT_RE):
+    senior = any(k in t for k in MIN_SENIORITY)
+    by_phrase = any(p.search(t) for p in ACCEPT_RE)
+    by_subject = senior and any(k in t for k in CORE_NOUNS)
+    if not (by_phrase or by_subject):
         return False
     if any(k in t for k in EXCLUDE_TITLE):
         return False
-    if REQUIRE_SENIORITY and not any(k in t for k in MIN_SENIORITY):
+    if REQUIRE_SENIORITY and not senior:
         return False
     if any(re.search(r"\b" + re.escape(k) + r"\b", t) for k in LANGS):
         return False
