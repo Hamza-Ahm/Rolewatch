@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-19 17:25 UTC",
- "scanned": 3446,
+ "updated": "2026-08-19 23:23 UTC",
+ "scanned": 3445,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -131,6 +131,32 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-18",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-0g-remote-brand-design-lead-171938",
+   "title": "Brand Design Lead",
+   "company": "0G",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-brand-design-lead-171938",
+   "score": 55,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "creative direction",
+    "campaign",
+    "integrated campaign",
+    "storytelling",
+    "narrative",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About the Role We are hiring a Brand Design Lead to own and evolve 0G's visual identity and brand expression across product, web, social, events, and marketing campaigns. This is a senior, hands-on role for someone who can set creative direction and execute it. You will work closely with marketing, communications, and leadership to translate brand strategy into consistent visual systems and compel",
+   "first_seen": "2026-08-19",
+   "is_new": true
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-0g-remote-brand-design-lead-462049",
@@ -300,7 +326,7 @@
    "years": null,
    "summary": "Deine Aufgaben Entwicklung, Produktion und Umsetzung kreativer Konzepte und Textstrategien f\u00fcr Automotive Kampagnen Entwicklung von kreativer Leitideen und deren \u00dcbersetzung in verschiedene Kommunikationskan\u00e4le und Formate Pr\u00e4sentation von Ideen und Konzepten vor Kunden und internen Teams Leitung eines mehrk\u00f6pfigen Textteams und Sicherstellung (von qualitativ hochwertiger Arbeit) einer konstant ho",
    "first_seen": "2026-08-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
