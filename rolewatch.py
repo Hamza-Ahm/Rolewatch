@@ -2,11 +2,12 @@
 """
 rolewatch.py
 
-Scans European job boards for brand / copy / comms roles, filters them
-against your rules, scores each one against your CV, and writes
-docs/roles.json which the website reads.
+Scans job boards for brand / copy / comms roles, filters them against
+your rules, scores each one against your CV, and writes roles.json
+which the website reads.
 
-Stdlib only. No install, no API keys.
+Stdlib only, no install. Runs without any keys. Two optional free keys
+(Adzuna, Jooble) unlock whole-market coverage including the Gulf.
 
 Run:
     python3 rolewatch.py
@@ -24,7 +25,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "roles.json")
@@ -46,16 +47,55 @@ COMPANIES = [
     "sinch", "truecaller", "einride", "epidemicsound", "kahoot",
     "mollie", "messagebird", "bird", "framer", "tide", "gocardless",
     "starlingbank", "octopusenergy", "hostaway", "onfido", "canva",
+    # Gulf. No open feed covers the UAE, so these are named directly.
+    "careem", "talabat", "noon", "tabby", "propertyfinder", "bayut",
+    "dubizzle", "kitopi", "swvl", "anghami", "aramex", "fresha",
+    "chalhoub", "majidalfuttaim", "emiratesnbd", "mashreq", "adnoc",
+    "g42", "e-and", "etisalat", "careemtech", "alef", "tamara",
+    # Southeast Asia
+    "grab", "shopee", "sea", "lazada", "gojek", "goto", "traveloka",
+    "carsome", "airasia", "ninjavan", "coda", "carro", "aspire",
+    "endowus", "stashaway", "circles", "advance-intelligence",
 ]
 
 # ---------------------------------------------------------------- filters
 
-INCLUDE_TITLE = [
-    "copywriter", "copy writer", "copy lead", "brand", "communication",
-    "comms", "content", "creative", "editorial", "editor", "verbal",
-    "tone of voice", "storytell", "narrative", "writer", "messaging",
-    "positioning", "strategist", "strategy", "guardian", "voice",
+# The roles that are actually your work. A title must match one of these
+# phrases. Keyword matching was too loose, so these are shapes, not words.
+ACCEPT_TITLE = [
+    # copy
+    r"copywrit", r"\bcopy (lead|chief|director|manager|head)",
+    r"head of copy",
+    # creative
+    r"creative director", r"associate creative director",
+    r"creative (lead|head|partner)", r"creative strateg",
+    r"head of creative",
+    # brand
+    r"brand strateg", r"brand (manager|lead|director|guardian|owner|head)",
+    r"head of brand", r"brand (and|&) (content|communicat|creative|marketing)",
+    r"brand (identity|platform|positioning|voice|world|experience)",
+    r"verbal identity", r"tone of voice",
+    # comms and PR
+    r"(corporate|internal|external|global|employer|marketing) communications",
+    r"communications (manager|lead|director|head|partner|strateg|specialist)",
+    r"head of communications", r"comms (lead|manager|director|head)",
+    r"public relations", r"\bpr (manager|lead|director|head)",
+    # content and editorial
+    r"content (lead|director|strateg|marketing manager|manager)",
+    r"content marketing (lead|manager|director)",
+    r"head of content", r"editorial (director|lead|manager|strateg)",
+    r"head of editorial", r"editor.in.chief", r"managing editor",
+    r"(brand|content|senior|lead|staff|principal) writer",
+    # messaging and story
+    r"storytell", r"messaging (lead|manager|director|strateg)",
+    r"narrative (lead|director|strateg)",
 ]
+
+ACCEPT_RE = [re.compile(p, re.I) for p in ACCEPT_TITLE]
+
+# Nothing below this score reaches the site. Kills titles that squeaked
+# through on one word and ads with no readable description.
+MIN_SCORE = 15
 
 EXCLUDE_TITLE = [
     "intern", "internship", "junior", "graduate", "trainee",
@@ -68,6 +108,13 @@ EXCLUDE_TITLE = [
     "media strategist", "media planner", "media strategy", "programmatic",
     "trading", "product strategy", "pricing strategy", "product content",
     "technical writer", "ux writer", "content moderator", "content operations",
+    "commercial strategy", "customer strategy", "growth strategy",
+    "crm strategy", "operations strategy", "vertical strategy",
+    "account strategy", "finance and strategy", "pricing strategy",
+    "discount strategy", "enterprise strategy", "enterprise offering",
+    "training content", "content owner", "localisation manager",
+    "music editor", "video editor", "photo editor", "copy editor",
+    "machine learning", "ml manager", "voice team", "conversation design",
 ]
 
 # Languages you don't work in. Any of these in a job TITLE is an instant drop.
@@ -593,17 +640,16 @@ def from_jobicy():
 def from_muse():
     """Global, including Singapore, Dubai and Kuala Lumpur."""
     out = []
-    for page in range(0, 5):
-        d = get(f"https://www.themuse.com/api/public/jobs?page={page}"
-                "&category=Creative%20%26%20Design&category=Editorial")
-        if not d or "results" not in d:
+    for page in range(1, 9):
+        d = get(f"https://www.themuse.com/api/public/jobs?page={page}")
+        if not d or not d.get("results"):
             break
         for j in d["results"]:
             where = ", ".join(x.get("name", "") for x in (j.get("locations") or []))
             out.append(norm((j.get("company") or {}).get("name"), j.get("name"),
                             where, (j.get("refs") or {}).get("landing_page"),
                             j.get("contents")))
-        time.sleep(0.4)
+        time.sleep(0.5)
     return out
 
 
@@ -621,10 +667,89 @@ def from_himalayas():
     return out
 
 
+
+# ------------------------------------------------- whole-market feeds
+# These search entire national job markets rather than named employers.
+# Both need a free key, no card. Without a key they are skipped.
+#   Adzuna   developer.adzuna.com   -> ADZUNA_ID and ADZUNA_KEY
+#   Jooble   jooble.org/api/about   -> JOOBLE_KEY  (this is the UAE one)
+
+# What to search for. Keep these close to your actual titles.
+QUERIES = [
+    "brand copywriter", "senior copywriter", "creative director",
+    "brand strategist", "head of brand", "brand manager",
+    "communications manager", "content lead", "creative strategist",
+    "verbal identity", "tone of voice", "editorial director",
+]
+
+# Adzuna country codes. Add or remove freely.
+ADZUNA_COUNTRIES = ["gb", "de", "nl", "es", "fr", "it", "pl", "at",
+                    "ch", "sg", "in"]
+
+# Jooble is searched city by city. This is where the Gulf comes from.
+JOOBLE_PLACES = [
+    "Dubai", "Abu Dhabi", "Sharjah", "Doha", "Riyadh", "Jeddah",
+    "Kuala Lumpur", "Singapore", "Amsterdam", "Berlin", "Barcelona",
+    "Stockholm", "Copenhagen", "London", "Dublin", "Lisbon", "Brussels",
+]
+
+
+def from_adzuna():
+    aid = os.environ.get("ADZUNA_ID", "").strip()
+    akey = os.environ.get("ADZUNA_KEY", "").strip()
+    if not (aid and akey):
+        print("  adzuna: no key set, skipped")
+        return []
+    out = []
+    for country in ADZUNA_COUNTRIES:
+        for q in QUERIES:
+            url = (f"https://api.adzuna.com/v1/api/jobs/{country}/search/1"
+                   f"?app_id={aid}&app_key={akey}&results_per_page=50"
+                   f"&what_phrase={urllib.parse.quote(q)}"
+                   f"&content-type=application/json")
+            d = get(url)
+            if not d or "results" not in d:
+                continue
+            for j in d["results"]:
+                loc = (j.get("location") or {}).get("display_name", "")
+                out.append(norm((j.get("company") or {}).get("display_name", ""),
+                                j.get("title"), loc,
+                                j.get("redirect_url"), j.get("description")))
+            time.sleep(0.3)
+    return out
+
+
+def from_jooble():
+    key = os.environ.get("JOOBLE_KEY", "").strip()
+    if not key:
+        print("  jooble: no key set, skipped")
+        return []
+    out = []
+    for place in JOOBLE_PLACES:
+        for q in QUERIES[:6]:
+            payload = json.dumps({"keywords": q, "location": place,
+                                  "ResultOnPage": 50}).encode()
+            req = urllib.request.Request(
+                f"https://jooble.org/api/{key}", data=payload,
+                headers={"Content-Type": "application/json", "User-Agent": UA})
+            try:
+                with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+                    d = json.loads(r.read().decode("utf-8", "replace"))
+            except Exception:
+                continue
+            for j in d.get("jobs", []):
+                out.append(norm(j.get("company"), j.get("title"),
+                                j.get("location") or place,
+                                j.get("link"), j.get("snippet")))
+            time.sleep(0.3)
+    return out
+
+
 BOARDS = [
     (from_arbeitnow, "arbeitnow"), (from_remotive, "remotive"),
     (from_remoteok, "remoteok"), (from_jobicy, "jobicy"),
     (from_muse, "themuse"), (from_himalayas, "himalayas"),
+    (from_adzuna, "adzuna"), (from_jooble, "jooble"),
 ]
 
 
@@ -647,7 +772,7 @@ def keep(job):
     b = job["body"].lower()
     blob = t + " " + b + " " + job["location"].lower()
 
-    if not any(k in t for k in INCLUDE_TITLE):
+    if not any(p.search(t) for p in ACCEPT_RE):
         return False
     if any(k in t for k in EXCLUDE_TITLE):
         return False
@@ -720,6 +845,9 @@ def main():
         seen_ids.add(rid)
 
         pct, hits, yrs = score(j, cv_terms)
+        if pct < MIN_SCORE:
+            dropped += 1
+            continue
         bodies[rid] = j["body"]
         prev = existing.get(rid)
         roles.append({
@@ -741,7 +869,7 @@ def main():
     add_drafts(roles, bodies, existing)
 
     json.dump({
-        "updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "scanned": len(found),
         "roles": roles,
     }, open(OUT, "w"), indent=1)
