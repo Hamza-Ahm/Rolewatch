@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-19 08:16 UTC",
- "scanned": 3360,
+ "updated": "2026-08-19 11:16 UTC",
+ "scanned": 3357,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -27,32 +27,6 @@
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-08-17",
    "is_new": false
-  },
-  {
-   "id": "https-himalayas-app-companies-spring-education-group-jobs-senior-creative-lead",
-   "title": "Senior Creative Lead",
-   "company": "name",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/spring-education-group/jobs/senior-creative-lead",
-   "score": 75,
-   "matched": [
-    "brand strategy",
-    "brand positioning",
-    "positioning",
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "campaign",
-    "integrated campaign",
-    "storytelling",
-    "production",
-    "agency",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "Spring Education Group is a multi-brand education network of superior private school institutions spanning infant care through high school. The network (currently composed of approximately 220 schools) brings together some of the best private school programs in the country, with proven track records educating children through unique and carefully crafted curricula. Senior Creative Lead \u2013 Spring Ed",
-   "first_seen": "2026-08-19",
-   "is_new": true
   },
   {
    "id": "https-careers-hostaway-com-o-senior-director-brand-and-content-remote",
@@ -231,7 +205,7 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
@@ -256,6 +230,26 @@
    "summary": "Position Green is a frontrunner in sustainability software, supporting organizations to accelerate their sustainability journey. Position Green\u2019s offering combines a proprietary software with specialized sustainability advisory services. In making sustainability measurable and actionable, Position Green simplifies the ESG reporting challenge and helps build robust strategies that reduce risk and c",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
+   "title": "Head of Project Management, H&M Global Communications",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31370754",
+   "score": 22,
+   "matched": [
+    "script",
+    "stakeholder",
+    "ai",
+    "internal communications",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
+   "first_seen": "2026-08-19",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
