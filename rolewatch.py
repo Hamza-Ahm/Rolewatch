@@ -25,6 +25,7 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -283,6 +284,26 @@ and prompt engineering, Figma.
 
 Runs CopyThat, a one-person creative studio.
 """
+
+
+def load_companies():
+    """Slugs come from companies.txt if it exists, one per line, blank
+    lines and # comments ignored. Falls back to the COMPANIES list above.
+    Paste a few thousand in and the scan will work through all of them."""
+    path = os.path.join(HERE, "companies.txt")
+    if not os.path.exists(path):
+        return COMPANIES
+    out = []
+    for line in open(path, encoding="utf-8", errors="replace"):
+        line = line.split("#")[0].strip().lower()
+        if line:
+            out.append(line)
+    seen, uniq = set(), []
+    for c in out:
+        if c not in seen:
+            seen.add(c)
+            uniq.append(c)
+    return uniq or COMPANIES
 
 
 def load_cv_terms():
@@ -917,15 +938,28 @@ def main():
     today = date.today().isoformat()
     found = []
 
-    print("Scanning company boards...")
-    for slug in COMPANIES:
+    companies = load_companies()
+    print(f"Scanning {len(companies)} company boards...")
+
+    def one(slug):
         for fn in ATS:
-            got = fn(slug)
+            try:
+                got = fn(slug)
+            except Exception:
+                got = []
             if got:
-                print(f"  {slug}: {len(got)}")
+                return slug, got
+        return slug, []
+
+    hits = 0
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        for slug, got in pool.map(one, companies):
+            if got:
+                hits += 1
                 found.extend(got)
-                break
-        sys.stdout.flush()
+                if len(companies) <= 200:
+                    print(f"  {slug}: {len(got)}")
+    print(f"  {hits} of {len(companies)} boards returned jobs")
 
     print("Scanning open job boards...")
     for fn, label in BOARDS:
