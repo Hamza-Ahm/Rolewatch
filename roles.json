@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-19 23:23 UTC",
- "scanned": 3445,
+ "updated": "2026-08-20 05:32 UTC",
+ "scanned": 3440,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -27,6 +27,32 @@
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-08-17",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-151169-senior-brand-content-manager",
+   "title": "Senior Brand Content Manager",
+   "company": "Demandbase, Inc.",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/151169-senior-brand-content-manager",
+   "score": 75,
+   "matched": [
+    "brand strategy",
+    "verbal identity",
+    "copywriting",
+    "long-form",
+    "editorial",
+    "concept",
+    "campaign",
+    "brand campaign",
+    "narrative",
+    "script",
+    "production",
+    "stakeholder"
+   ],
+   "years": 8,
+   "summary": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidate their data and tec",
+   "first_seen": "2026-08-20",
+   "is_new": true
   },
   {
    "id": "https-careers-hostaway-com-o-senior-director-brand-and-content-remote",
@@ -138,32 +164,6 @@
    "company": "0G",
    "location": "Remote",
    "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-brand-design-lead-171938",
-   "score": 55,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "creative direction",
-    "campaign",
-    "integrated campaign",
-    "storytelling",
-    "narrative",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "About the Role We are hiring a Brand Design Lead to own and evolve 0G's visual identity and brand expression across product, web, social, events, and marketing campaigns. This is a senior, hands-on role for someone who can set creative direction and execute it. You will work closely with marketing, communications, and leadership to translate brand strategy into consistent visual systems and compel",
-   "first_seen": "2026-08-19",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-0g-remote-brand-design-lead-462049",
-   "title": "Brand Design Lead",
-   "company": "0G",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/0g/remote-brand-design-lead-462049",
    "score": 55,
    "matched": [
     "brand strategy",
@@ -375,27 +375,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-sohohouseco-global-brand-relations-director-london-230228",
-   "title": "Global Brand Relations Director",
-   "company": "Sohohouseco",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/global-brand-relations-director-london-230228",
-   "score": 27,
-   "matched": [
-    "positioning",
-    "global brand",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<p><strong>The Role..</strong></p> <p>The Global Brand Relations Director will own and grow Soho House's relationships with its most valuable global brand partners, driving significant commercial revenue across private hire, bedrooms, travel, memberships, brand-owned experiences and events.</p> <p>This role will serve as the senior global lead for the company's top-spending corporate accounts, cre",
-   "first_seen": "2026-08-19",
-   "is_new": false
-  },
-  {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
    "title": "Head of Marketing & Communications",
    "company": "garden3d",
@@ -434,6 +413,25 @@
    "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-cytix-brand-and-community-manager-manchester-473272",
+   "title": "Brand and Community Manager",
+   "company": "Cytix",
+   "location": "Manchester",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cytix/brand-and-community-manager-manchester-473272",
+   "score": 19,
+   "matched": [
+    "positioning",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "We're looking for a firestarter to join our marketing team. You'll lead our events programme end to end, own how the Cytix brand shows up across every channel (digital, events, customers and partners), and build a community of people who champion Cytix because they've experienced it first-hand. We've just rebuilt the Cytix brand from the ground up, with new positioning, a new voice, and a new visu",
+   "first_seen": "2026-08-20",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
