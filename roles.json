@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20 17:19 UTC",
- "scanned": 3441,
+ "updated": "2026-08-20 23:16 UTC",
+ "scanned": 3444,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -26,32 +26,6 @@
    "years": 8,
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-08-17",
-   "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-151169-senior-brand-content-manager",
-   "title": "Senior Brand Content Manager",
-   "company": "Demandbase, Inc.",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/151169-senior-brand-content-manager",
-   "score": 75,
-   "matched": [
-    "brand strategy",
-    "verbal identity",
-    "copywriting",
-    "long-form",
-    "editorial",
-    "concept",
-    "campaign",
-    "brand campaign",
-    "narrative",
-    "script",
-    "production",
-    "stakeholder"
-   ],
-   "years": 8,
-   "summary": "Introduction to Demandbase: Demandbase is the only pipeline AI platform that empowers GTM teams to automate growth at scale. With a unified view of data, insights, actions, and outcomes, B2B enterprises can seamlessly align and execute their account-based GTM strategies with confidence. Thousands of businesses trust Demandbase to maximize revenue, minimize waste, and consolidate their data and tec",
-   "first_seen": "2026-08-20",
    "is_new": false
   },
   {
@@ -107,6 +81,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-perk-senior-pr-manager-london-289024",
+   "title": "Senior PR Manager",
+   "company": "Perk",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-289024",
+   "score": 60,
+   "matched": [
+    "sponsorship or relocation",
+    "positioning",
+    "editorial",
+    "campaign",
+    "narrative",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "prompt",
+    "b2b",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
+   "first_seen": "2026-08-20",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
    "title": "Senior Content Manager, APAC",
    "company": "adyen",
@@ -156,32 +156,6 @@
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-18",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-0g-remote-brand-design-lead-171938",
-   "title": "Brand Design Lead",
-   "company": "0G",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-brand-design-lead-171938",
-   "score": 55,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "creative direction",
-    "campaign",
-    "integrated campaign",
-    "storytelling",
-    "narrative",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "About the Role We are hiring a Brand Design Lead to own and evolve 0G's visual identity and brand expression across product, web, social, events, and marketing campaigns. This is a senior, hands-on role for someone who can set creative direction and execute it. You will work closely with marketing, communications, and leadership to translate brand strategy into consistent visual systems and compel",
-   "first_seen": "2026-08-19",
    "is_new": false
   },
   {
@@ -260,6 +234,32 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-151207-ai-creative-director-ai-associate-creative-director",
+   "title": "AI Creative Director / AI Associate Creative Director",
+   "company": "Superside",
+   "location": "LATAM, Argentina",
+   "url": "https://jobicy.com/jobs/151207-ai-creative-director-ai-associate-creative-director",
+   "score": 44,
+   "matched": [
+    "creative direction",
+    "concept",
+    "campaign",
+    "production",
+    "in-house",
+    "cross-functional",
+    "ai",
+    "prompt",
+    "pr",
+    "team",
+    "mentor",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Superside is seeking visionary AI Creative Directors/Associate Creative Directors to guide a globally distributed team across branding, ad and social creative, presentations, print, and landing pages. In this high-impact role, you\u2019ll shape the future of AI-enhanced creativity by integrating generative tools into our design workflows, elevating both quality and efficiency. You\u2019ll lead by example as",
+   "first_seen": "2026-08-20",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
    "title": "Content Marketing Manager",
    "company": "Position Green AB",
@@ -282,6 +282,30 @@
    "summary": "Position Green is a frontrunner in sustainability software, supporting organizations to accelerate their sustainability journey. Position Green\u2019s offering combines a proprietary software with specialized sustainability advisory services. In making sustainability measurable and actionable, Position Green simplifies the ESG reporting challenge and helps build robust strategies that reduce risk and c",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-151211-ai-lead-creative",
+   "title": "AI Lead Creative",
+   "company": "Superside",
+   "location": "LATAM, Argentina",
+   "url": "https://jobicy.com/jobs/151211-ai-lead-creative",
+   "score": 38,
+   "matched": [
+    "creative direction",
+    "concept",
+    "in-house",
+    "cross-functional",
+    "ai",
+    "generative ai",
+    "pr",
+    "team",
+    "mentor",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Superside is looking for a Lead Creative with a passion for Generative AI to shape creative excellence across branding, landing pages, ads, social, print, and presentations. You\u2019ll guide a global team of top-tier creatives, combining strategic leadership with hands-on craft to deliver human-centered, high-impact work for leading brands worldwide. This role sits at the intersection of creativity an",
+   "first_seen": "2026-08-20",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -353,6 +377,27 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
+   "title": "Senior Vertical Manager, Digital Content, Media & Communications",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8137858",
+   "score": 26,
+   "matched": [
+    "script",
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-20",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-stuttgart-hybrid-319344",
    "title": "Senior Creative Digital Strategist (m/w/d) in Stuttgart - Hybrid",
    "company": "Klickpiloten",
@@ -371,7 +416,7 @@
    "years": null,
    "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
    "first_seen": "2026-08-20",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-36435",
@@ -392,7 +437,7 @@
    "years": null,
    "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
    "first_seen": "2026-08-20",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
@@ -435,25 +480,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-cytix-brand-and-community-manager-manchester-473272",
-   "title": "Brand and Community Manager",
-   "company": "Cytix",
-   "location": "Manchester",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cytix/brand-and-community-manager-manchester-473272",
-   "score": 19,
-   "matched": [
-    "positioning",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "We're looking for a firestarter to join our marketing team. You'll lead our events programme end to end, own how the Cytix brand shows up across every channel (digital, events, customers and partners), and build a community of people who champion Cytix because they've experienced it first-hand. We've just rebuilt the Cytix brand from the ground up, with new positioning, a new voice, and a new visu",
-   "first_seen": "2026-08-20",
-   "is_new": false
-  },
-  {
    "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-14428",
    "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
    "company": "Klickpiloten",
@@ -473,7 +499,7 @@
    "years": null,
    "summary": "Ihre Aufgaben Um unser Business weiter auszubauen, suchen wir engagierte Kolleg*innen, die mit uns die Zukunft des Social Commerce gestalten. Du kennst TikTok nicht nur von der For You Page, sondern verstehst, wie Marken dort Reichweite, Community und Umsatz aufbauen. Du denkst Content nicht isoliert, sondern entlang der gesamten Customer Journey \u2013 von der ersten Aufmerksamkeit bis zum Kauf im Tik",
    "first_seen": "2026-08-20",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
