@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-21 11:17 UTC",
- "scanned": 3312,
+ "updated": "2026-08-21 17:19 UTC",
+ "scanned": 3442,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -159,6 +159,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-phrase-marketing-communications-manager-united-kingdom-140595",
+   "title": "Marketing Communications Manager",
+   "company": "Phrase",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/phrase/marketing-communications-manager-united-kingdom-140595",
+   "score": 52,
+   "matched": [
+    "brand voice",
+    "editorial",
+    "campaign",
+    "localization",
+    "script",
+    "production",
+    "stakeholder",
+    "ai",
+    "generative ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": 5,
+   "summary": "Marketing Communications Manager At Phrase, we help open the door to global business by providing the world's leading Language Intelligence Platform. The Phrase Platform combines AI, agentic orchestration, and a headless, API-first architecture in one composable system. Beyond translation, it orchestrates and adapts content to culture, audience, channel, brand voice, and intended outcome in any la",
+   "first_seen": "2026-08-21",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
    "title": "Corporate Brand Manager",
    "company": "supercell",
@@ -258,6 +284,31 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
+   "title": "Senior Content Writer, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
+   "score": 39,
+   "matched": [
+    "long-form",
+    "editorial",
+    "storytelling",
+    "narrative",
+    "production",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-21",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
    "title": "Brand Enablement Manager",
    "company": "adyen",
@@ -323,7 +374,7 @@
    "years": null,
    "summary": "Hello potential future Oatly employee It's us. The original oat drink company. At Oatly, we're on a mission to make it easier for people to eat better and live healthier lives without recklessly taxing the planet's resources. Simple as that. Across the world people\u2019s consumption habits and diets are evolving to be more plant-based. Enter Oatly, the #1 oat based dairy alternative producer in the wo",
    "first_seen": "2026-08-21",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-bloom-wild-group-brand-director-12m-ftc-london-227819",
@@ -343,7 +394,7 @@
    "years": null,
    "summary": "\ud83d\udccd Location: London, Hybrid x2-3 days per week in our Vauxhall office \ud83d\uddd3\ufe0f Contract: 12-month FTC, Maternity Cover (ideally Nov '26 \u2013 Nov '27) \ud83c\udfaf Focus: Brand Strategy & Management, Team Leadership, UK & DE Growth About Brand at Bloom & Wild \ud83c\udf38 Hi, we\u2019re Bloom & Wild. We don\u2019t just send flowers. We help our customers to care wildly. Caring wildly is celebrating the little things we all do for each othe",
    "first_seen": "2026-08-21",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8049101",
@@ -390,48 +441,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-stuttgart-hybrid-319344",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Stuttgart - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Stuttgart",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-stuttgart-hybrid-319344",
-   "score": 24,
-   "matched": [
-    "creative strategy",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
-   "first_seen": "2026-08-20",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-36435",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-36435",
-   "score": 24,
-   "matched": [
-    "creative strategy",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
-   "first_seen": "2026-08-20",
-   "is_new": false
-  },
-  {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
    "title": "Head of Marketing & Communications",
    "company": "garden3d",
@@ -472,26 +481,23 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-14428",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Stuttgart",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-144281",
-   "score": 19,
+   "id": "https-www-arbeitnow-com-jobs-companies-creative-dreams-creative-strategist-fur-meta-tiktok-ads-dusseldorf-302371",
+   "title": "Creative Strategist (m/w/d) f\u00fcr Meta & TikTok Ads",
+   "company": "Creative Dreams",
+   "location": "D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/creative-dreams/creative-strategist-fur-meta-tiktok-ads-dusseldorf-302371",
+   "score": 20,
    "matched": [
-    "creative direction",
-    "storytelling",
-    "stakeholder",
+    "copywriting",
+    "creative strategy",
     "ai",
-    "e-commerce",
     "pr",
-    "team",
-    "- roas"
+    "team"
    ],
    "years": null,
-   "summary": "Ihre Aufgaben Um unser Business weiter auszubauen, suchen wir engagierte Kolleg*innen, die mit uns die Zukunft des Social Commerce gestalten. Du kennst TikTok nicht nur von der For You Page, sondern verstehst, wie Marken dort Reichweite, Community und Umsatz aufbauen. Du denkst Content nicht isoliert, sondern entlang der gesamten Customer Journey \u2013 von der ersten Aufmerksamkeit bis zum Kauf im Tik",
-   "first_seen": "2026-08-20",
-   "is_new": false
+   "summary": "Das ist Creative Dreams: Als Performance Creative Agentur legen wir unseren vollen Fokus auf das, was wir am besten k\u00f6nnen: Erstellen von Best Performer Creatives f\u00fcr die Plattformen Facebook, Instagram, TikTok, YouTube und Co. Wir arbeiten 100% datengetrieben, strukturiert und trotzdem unglaublich kreativ. Nur so sind wir unserer Konkurrenz einen Schritt voraus und liefern unseren Kunden den gr\u00f6\u00df",
+   "first_seen": "2026-08-21",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
