@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-21 05:23 UTC",
- "scanned": 3422,
+ "updated": "2026-08-21 11:17 UTC",
+ "scanned": 3312,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -302,6 +302,48 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31380575",
+   "title": "Communications Manager at Oatly - Nordics",
+   "company": "Oatly AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31380575",
+   "score": 30,
+   "matched": [
+    "editorial",
+    "campaign",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Hello potential future Oatly employee It's us. The original oat drink company. At Oatly, we're on a mission to make it easier for people to eat better and live healthier lives without recklessly taxing the planet's resources. Simple as that. Across the world people\u2019s consumption habits and diets are evolving to be more plant-based. Enter Oatly, the #1 oat based dairy alternative producer in the wo",
+   "first_seen": "2026-08-21",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-bloom-wild-group-brand-director-12m-ftc-london-227819",
+   "title": "Brand Director (12m FTC)",
+   "company": "Bloom & Wild Group",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bloom-wild-group/brand-director-12m-ftc-london-227819",
+   "score": 28,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "campaign",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\ud83d\udccd Location: London, Hybrid x2-3 days per week in our Vauxhall office \ud83d\uddd3\ufe0f Contract: 12-month FTC, Maternity Cover (ideally Nov '26 \u2013 Nov '27) \ud83c\udfaf Focus: Brand Strategy & Management, Team Leadership, UK & DE Growth About Brand at Bloom & Wild \ud83c\udf38 Hi, we\u2019re Bloom & Wild. We don\u2019t just send flowers. We help our customers to care wildly. Caring wildly is celebrating the little things we all do for each othe",
+   "first_seen": "2026-08-21",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8049101",
