@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-20 23:16 UTC",
- "scanned": 3444,
+ "updated": "2026-08-21 05:23 UTC",
+ "scanned": 3422,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -104,7 +104,7 @@
    "years": null,
    "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
    "first_seen": "2026-08-20",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -234,32 +234,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-151207-ai-creative-director-ai-associate-creative-director",
-   "title": "AI Creative Director / AI Associate Creative Director",
-   "company": "Superside",
-   "location": "LATAM, Argentina",
-   "url": "https://jobicy.com/jobs/151207-ai-creative-director-ai-associate-creative-director",
-   "score": 44,
-   "matched": [
-    "creative direction",
-    "concept",
-    "campaign",
-    "production",
-    "in-house",
-    "cross-functional",
-    "ai",
-    "prompt",
-    "pr",
-    "team",
-    "mentor",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Superside is seeking visionary AI Creative Directors/Associate Creative Directors to guide a globally distributed team across branding, ad and social creative, presentations, print, and landing pages. In this high-impact role, you\u2019ll shape the future of AI-enhanced creativity by integrating generative tools into our design workflows, elevating both quality and efficiency. You\u2019ll lead by example as",
-   "first_seen": "2026-08-20",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
    "title": "Content Marketing Manager",
    "company": "Position Green AB",
@@ -282,30 +256,6 @@
    "summary": "Position Green is a frontrunner in sustainability software, supporting organizations to accelerate their sustainability journey. Position Green\u2019s offering combines a proprietary software with specialized sustainability advisory services. In making sustainability measurable and actionable, Position Green simplifies the ESG reporting challenge and helps build robust strategies that reduce risk and c",
    "first_seen": "2026-08-16",
    "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-151211-ai-lead-creative",
-   "title": "AI Lead Creative",
-   "company": "Superside",
-   "location": "LATAM, Argentina",
-   "url": "https://jobicy.com/jobs/151211-ai-lead-creative",
-   "score": 38,
-   "matched": [
-    "creative direction",
-    "concept",
-    "in-house",
-    "cross-functional",
-    "ai",
-    "generative ai",
-    "pr",
-    "team",
-    "mentor",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Superside is looking for a Lead Creative with a passion for Generative AI to shape creative excellence across branding, landing pages, ads, social, print, and presentations. You\u2019ll guide a global team of top-tier creatives, combining strategic leadership with hands-on craft to deliver human-centered, high-impact work for leading brands worldwide. This role sits at the intersection of creativity an",
-   "first_seen": "2026-08-20",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -395,7 +345,7 @@
    "years": 7,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-20",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-stuttgart-hybrid-319344",
