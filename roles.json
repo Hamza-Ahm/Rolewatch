@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 17:12 UTC",
+ "updated": "2026-08-22 23:10 UTC",
  "scanned": 3444,
  "roles": [
   {
@@ -377,26 +377,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-bloom-wild-group-brand-director-12m-ftc-london-227819",
-   "title": "Brand Director (12m FTC)",
-   "company": "Bloom & Wild Group",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/bloom-wild-group/brand-director-12m-ftc-london-227819",
-   "score": 28,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "campaign",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "\ud83d\udccd Location: London, Hybrid x2-3 days per week in our Vauxhall office \ud83d\uddd3\ufe0f Contract: 12-month FTC, Maternity Cover (ideally Nov '26 \u2013 Nov '27) \ud83c\udfaf Focus: Brand Strategy & Management, Team Leadership, UK & DE Growth About Brand at Bloom & Wild \ud83c\udf38 Hi, we\u2019re Bloom & Wild. We don\u2019t just send flowers. We help our customers to care wildly. Caring wildly is celebrating the little things we all do for each othe",
-   "first_seen": "2026-08-21",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8049101",
    "title": "Employer Brand Program Manager",
    "company": "adyen",
@@ -459,6 +439,29 @@
    "summary": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin o",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-himalayas-app-companies-crowdstrike-jobs-sr-content-writer",
+   "title": "Sr. Content Writer",
+   "company": "Crowdstrike",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/crowdstrike/jobs/sr-content-writer",
+   "score": 23,
+   "matched": [
+    "concept",
+    "storytelling",
+    "narrative",
+    "production",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "- asks only 2 years"
+   ],
+   "years": 2,
+   "summary": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn\u2019t changed \u2014 we\u2019re here to stop breaches, and we\u2019ve redefined modern security with the world\u2019s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growi",
+   "first_seen": "2026-08-22",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
