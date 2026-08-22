@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-21 23:14 UTC",
- "scanned": 3443,
+ "updated": "2026-08-22 05:17 UTC",
+ "scanned": 3442,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -78,32 +78,6 @@
    "years": 4,
    "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless is a global bank payment company. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off payments without the chasi",
    "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-perk-senior-pr-manager-london-289024",
-   "title": "Senior PR Manager",
-   "company": "Perk",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-289024",
-   "score": 60,
-   "matched": [
-    "sponsorship or relocation",
-    "positioning",
-    "editorial",
-    "campaign",
-    "narrative",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "prompt",
-    "b2b",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
-   "first_seen": "2026-08-20",
    "is_new": false
   },
   {
