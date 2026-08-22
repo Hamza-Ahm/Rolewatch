@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-22 05:17 UTC",
- "scanned": 3442,
+ "updated": "2026-08-22 11:11 UTC",
+ "scanned": 3444,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -79,6 +79,32 @@
    "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless is a global bank payment company. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off payments without the chasi",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-perk-senior-pr-manager-london-65426",
+   "title": "Senior PR Manager",
+   "company": "Perk",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-65426",
+   "score": 60,
+   "matched": [
+    "sponsorship or relocation",
+    "positioning",
+    "editorial",
+    "campaign",
+    "narrative",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "prompt",
+    "b2b",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
+   "first_seen": "2026-08-22",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -472,6 +498,26 @@
    "summary": "Das ist Creative Dreams: Als Performance Creative Agentur legen wir unseren vollen Fokus auf das, was wir am besten k\u00f6nnen: Erstellen von Best Performer Creatives f\u00fcr die Plattformen Facebook, Instagram, TikTok, YouTube und Co. Wir arbeiten 100% datengetrieben, strukturiert und trotzdem unglaublich kreativ. Nur so sind wir unserer Konkurrenz einen Schritt voraus und liefern unseren Kunden den gr\u00f6\u00df",
    "first_seen": "2026-08-21",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-lovehoney-group-senior-ecommerce-growth-manager-brandstores-berlin-214090",
+   "title": "Senior Ecommerce Growth Manager - Brandstores",
+   "company": "Lovehoney Group",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/senior-ecommerce-growth-manager-brandstores-berlin-214090",
+   "score": 18,
+   "matched": [
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "retail",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Lovehoney Group is the world\u2019s leading sexual wellbeing company, with the mission to elevate pleasure through innovative technologies, a data-driven approach, and foster creative and fresh perspectives on intimacy. We offer exciting brands with innovative, high-quality sex toys, lingerie, and accessories in a streamlined online shopping experience. At Lovehoney, we employ over 800 passionate and p",
+   "first_seen": "2026-08-22",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
