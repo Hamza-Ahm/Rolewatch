@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22 11:11 UTC",
+ "updated": "2026-08-22 17:12 UTC",
  "scanned": 3444,
  "roles": [
   {
@@ -104,7 +104,7 @@
    "years": null,
    "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
    "first_seen": "2026-08-22",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -481,25 +481,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-creative-dreams-creative-strategist-fur-meta-tiktok-ads-dusseldorf-302371",
-   "title": "Creative Strategist (m/w/d) f\u00fcr Meta & TikTok Ads",
-   "company": "Creative Dreams",
-   "location": "D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/creative-dreams/creative-strategist-fur-meta-tiktok-ads-dusseldorf-302371",
-   "score": 20,
-   "matched": [
-    "copywriting",
-    "creative strategy",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Das ist Creative Dreams: Als Performance Creative Agentur legen wir unseren vollen Fokus auf das, was wir am besten k\u00f6nnen: Erstellen von Best Performer Creatives f\u00fcr die Plattformen Facebook, Instagram, TikTok, YouTube und Co. Wir arbeiten 100% datengetrieben, strukturiert und trotzdem unglaublich kreativ. Nur so sind wir unserer Konkurrenz einen Schritt voraus und liefern unseren Kunden den gr\u00f6\u00df",
-   "first_seen": "2026-08-21",
-   "is_new": false
-  },
-  {
    "id": "https-www-arbeitnow-com-jobs-companies-lovehoney-group-senior-ecommerce-growth-manager-brandstores-berlin-214090",
    "title": "Senior Ecommerce Growth Manager - Brandstores",
    "company": "Lovehoney Group",
@@ -517,7 +498,7 @@
    "years": null,
    "summary": "Lovehoney Group is the world\u2019s leading sexual wellbeing company, with the mission to elevate pleasure through innovative technologies, a data-driven approach, and foster creative and fresh perspectives on intimacy. We offer exciting brands with innovative, high-quality sex toys, lingerie, and accessories in a streamlined online shopping experience. At Lovehoney, we employ over 800 passionate and p",
    "first_seen": "2026-08-22",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
