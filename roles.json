@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23 05:20 UTC",
- "scanned": 3443,
+ "updated": "2026-08-23 11:12 UTC",
+ "scanned": 3437,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -159,32 +159,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-phrase-marketing-communications-manager-united-kingdom-140595",
-   "title": "Marketing Communications Manager",
-   "company": "Phrase",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/phrase/marketing-communications-manager-united-kingdom-140595",
-   "score": 52,
-   "matched": [
-    "brand voice",
-    "editorial",
-    "campaign",
-    "localization",
-    "script",
-    "production",
-    "stakeholder",
-    "ai",
-    "generative ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": 5,
-   "summary": "Marketing Communications Manager At Phrase, we help open the door to global business by providing the world's leading Language Intelligence Platform. The Phrase Platform combines AI, agentic orchestration, and a headless, API-first architecture in one composable system. Beyond translation, it orchestrates and adapts content to culture, audience, channel, brand voice, and intended outcome in any la",
-   "first_seen": "2026-08-21",
-   "is_new": false
-  },
-  {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
    "title": "Corporate Brand Manager",
    "company": "supercell",
@@ -332,28 +306,6 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-crewbloom-jobs-linkedin-content-strategist",
-   "title": "LinkedIn Content Strategist",
-   "company": "CrewBloom",
-   "location": "India, Philippines, South Africa",
-   "url": "https://himalayas.app/companies/crewbloom/jobs/linkedin-content-strategist",
-   "score": 33,
-   "matched": [
-    "brand voice",
-    "copywriting",
-    "storytelling",
-    "production",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "We are seeking a creative, data-informed LinkedIn Content Strategist to elevate our presence on LinkedIn. This position goes beyond drafting standard posts\u2014you will shape our voice, turn complex business insights into scroll-stopping stories, and drive meaningful engagement across key audiences. The ideal candidate deeply understands the LinkedIn ecosystem and knows how to build authority within t",
-   "first_seen": "2026-08-23",
-   "is_new": true
-  },
-  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-dex-content-marketing-lead-london-411344",
    "title": "Content Marketing Lead",
    "company": "Dex",
@@ -373,7 +325,7 @@
    "years": null,
    "summary": "Our Mission Human time and effort is the rarest thing in the universe. The fact that so many people hate what they do for work is a disaster on so many levels. How many people live quiet lives of misery? How many generational talents do we miss due to circumstance? Dex\u2019s mission is to close the gap between Talent & Opportunity, we believe that work, and being productive, is part of the human condi",
    "first_seen": "2026-08-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -439,7 +391,7 @@
    "years": null,
    "summary": "About A1 There are over 5 billion users using basic applications today such email, notes, tasks, and a list of applications that are not AI-native to organise their lives. Our mission is to build a proactive smart assistant for everyday users to bring intelligence to conversations, errands, organising and workflows, with minimal prompting. Our product focuses on achieving high reliability for long",
    "first_seen": "2026-08-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8049101",
