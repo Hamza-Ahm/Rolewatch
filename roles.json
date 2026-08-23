@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23 17:12 UTC",
- "scanned": 3439,
+ "updated": "2026-08-23 23:11 UTC",
+ "scanned": 3437,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -328,6 +328,28 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-submer-global-communications-pr-director-london-139813",
+   "title": "Global Communications & PR Director",
+   "company": "Submer",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/submer/global-communications-pr-director-london-139813",
+   "score": 32,
+   "matched": [
+    "positioning",
+    "campaign",
+    "narrative",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr"
+   ],
+   "years": null,
+   "summary": "<p><strong><span data-contrast=\"auto\">Start:</span></strong><span data-contrast=\"auto\"> ASAP </span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335551550\":0,\"335551620\":0,\"335559738\":240,\"335559739\":240}\"> </span></p> <p><strong><span data-contrast=\"auto\">Type of Contract:</span></strong><span data-contrast=\"auto\"> Full Time / Permanent </span><span data-ccp-props=\"{\"134233117\":fal",
+   "first_seen": "2026-08-23",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -438,7 +460,7 @@
    "years": null,
    "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
    "first_seen": "2026-08-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-137047",
@@ -462,7 +484,7 @@
    "years": null,
    "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
    "first_seen": "2026-08-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
@@ -565,7 +587,7 @@
    "years": null,
    "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
    "first_seen": "2026-08-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
