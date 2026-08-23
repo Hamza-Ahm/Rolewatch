@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23 11:12 UTC",
- "scanned": 3437,
+ "updated": "2026-08-23 17:12 UTC",
+ "scanned": 3439,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -417,6 +417,54 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-director-of-creative-hamburg-255686",
+   "title": "Director of Creative (m/w/d)",
+   "company": "Pammys\u2122 (dieseo GmbH)",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/director-of-creative-hamburg-255686",
+   "score": 26,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "art direction",
+    "production",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
+   "first_seen": "2026-08-23",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-137047",
+   "title": "Creative Director (m/w/d)",
+   "company": "Pammys\u2122 (dieseo GmbH)",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/creative-director-hamburg-137047",
+   "score": 26,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "art direction",
+    "production",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
+   "first_seen": "2026-08-23",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
    "title": "Senior Vertical Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -496,6 +544,28 @@
    "summary": "Lovehoney Group is the world\u2019s leading sexual wellbeing company, with the mission to elevate pleasure through innovative technologies, a data-driven approach, and foster creative and fresh perspectives on intimacy. We offer exciting brands with innovative, high-quality sex toys, lingerie, and accessories in a streamlined online shopping experience. At Lovehoney, we employ over 800 passionate and p",
    "first_seen": "2026-08-22",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-paselo-gmbh-senior-creative-strategist-munster-89014",
+   "title": "(Senior) Creative Strategist (m/w/d)",
+   "company": "paselo GmbH",
+   "location": "M\u00fcnster",
+   "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/senior-creative-strategist-munster-89014",
+   "score": 17,
+   "matched": [
+    "storytelling",
+    "script",
+    "ai",
+    "fmcg",
+    "e-commerce",
+    "pr",
+    "team",
+    "- roas"
+   ],
+   "years": null,
+   "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
+   "first_seen": "2026-08-23",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
