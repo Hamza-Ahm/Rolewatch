@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24 11:18 UTC",
- "scanned": 3418,
+ "updated": "2026-08-24 17:22 UTC",
+ "scanned": 3399,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -78,32 +78,6 @@
    "years": 4,
    "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless is a global bank payment company. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off payments without the chasi",
    "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-perk-senior-pr-manager-london-65426",
-   "title": "Senior PR Manager",
-   "company": "Perk",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-65426",
-   "score": 60,
-   "matched": [
-    "sponsorship or relocation",
-    "positioning",
-    "editorial",
-    "campaign",
-    "narrative",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "prompt",
-    "b2b",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
-   "first_seen": "2026-08-22",
    "is_new": false
   },
   {
@@ -439,54 +413,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-director-of-creative-hamburg-255686",
-   "title": "Director of Creative (m/w/d)",
-   "company": "Pammys\u2122 (dieseo GmbH)",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/director-of-creative-hamburg-255686",
-   "score": 26,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "art direction",
-    "production",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
-   "first_seen": "2026-08-23",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-137047",
-   "title": "Creative Director (m/w/d)",
-   "company": "Pammys\u2122 (dieseo GmbH)",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/creative-director-hamburg-137047",
-   "score": 26,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "art direction",
-    "production",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
-   "first_seen": "2026-08-23",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
    "title": "Senior Vertical Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -548,47 +474,26 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-browserstack-jobs-consultant-content-strategist",
-   "title": "Consultant - Content Strategist",
-   "company": "BrowserStack",
-   "location": "India",
-   "url": "https://himalayas.app/companies/browserstack/jobs/consultant-content-strategist",
-   "score": 17,
+   "id": "https-jobicy-com-jobs-151441-lead-creative-producer",
+   "title": "Lead Creative Producer",
+   "company": "Ruby Labs",
+   "location": "Europe, T\u00fcrkiye",
+   "url": "https://jobicy.com/jobs/151441-lead-creative-producer",
+   "score": 22,
    "matched": [
-    "brand voice",
+    "concept",
+    "campaign",
+    "script",
     "production",
-    "in-house",
     "ai",
     "pr",
     "team",
-    "- asks only 2 years"
+    "- asks only 3 years"
    ],
-   "years": 2,
-   "summary": "Who are we and what do we do? BrowserStack is the world's leading software testing platform powering over two million tests every day across 22 global data centers. BrowserStack 's products help developers build bug-free software for the 5 billion internet users accessing websites and mobile applications through millions of combinations of digital environments\u2014devices, browsers, operating systems,",
+   "years": 3,
+   "summary": "About us Ruby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/ A",
    "first_seen": "2026-08-24",
    "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-paselo-gmbh-senior-creative-strategist-munster-89014",
-   "title": "(Senior) Creative Strategist (m/w/d)",
-   "company": "paselo GmbH",
-   "location": "M\u00fcnster",
-   "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/senior-creative-strategist-munster-89014",
-   "score": 17,
-   "matched": [
-    "storytelling",
-    "script",
-    "ai",
-    "fmcg",
-    "e-commerce",
-    "pr",
-    "team",
-    "- roas"
-   ],
-   "years": null,
-   "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
-   "first_seen": "2026-08-23",
-   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
