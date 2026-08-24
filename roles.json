@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-24 05:29 UTC",
- "scanned": 3436,
+ "updated": "2026-08-24 11:18 UTC",
+ "scanned": 3418,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -306,30 +306,6 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-rkd-group-jobs-senior-copywriter",
-   "title": "Senior Copywriter",
-   "company": "RKD Group",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/rkd-group/jobs/senior-copywriter",
-   "score": 33,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "concept",
-    "campaign",
-    "production",
-    "agency",
-    "ai",
-    "pr",
-    "team",
-    "- asks only 2 years"
-   ],
-   "years": 2,
-   "summary": "Senior Copywriter A career that makes a difference! RKD Group is a leading direct response marketing and advertising agency dedicated to serving nonprofits. Headquartered in Dallas, Texas, we are a remote-first company that has helped hundreds of nonprofits raise billions of dollars to drive meaningful impact. At RKD, we help mission-driven organizations through data-informed strategy, breakthroug",
-   "first_seen": "2026-08-24",
-   "is_new": true
-  },
-  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-dex-content-marketing-lead-london-411344",
    "title": "Content Marketing Lead",
    "company": "Dex",
@@ -570,6 +546,27 @@
    "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-himalayas-app-companies-browserstack-jobs-consultant-content-strategist",
+   "title": "Consultant - Content Strategist",
+   "company": "BrowserStack",
+   "location": "India",
+   "url": "https://himalayas.app/companies/browserstack/jobs/consultant-content-strategist",
+   "score": 17,
+   "matched": [
+    "brand voice",
+    "production",
+    "in-house",
+    "ai",
+    "pr",
+    "team",
+    "- asks only 2 years"
+   ],
+   "years": 2,
+   "summary": "Who are we and what do we do? BrowserStack is the world's leading software testing platform powering over two million tests every day across 22 global data centers. BrowserStack 's products help developers build bug-free software for the 5 billion internet users accessing websites and mobile applications through millions of combinations of digital environments\u2014devices, browsers, operating systems,",
+   "first_seen": "2026-08-24",
+   "is_new": true
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-paselo-gmbh-senior-creative-strategist-munster-89014",
