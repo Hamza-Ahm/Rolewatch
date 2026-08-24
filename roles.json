@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-23 23:11 UTC",
- "scanned": 3437,
+ "updated": "2026-08-24 05:29 UTC",
+ "scanned": 3436,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -306,6 +306,30 @@
    "is_new": false
   },
   {
+   "id": "https-himalayas-app-companies-rkd-group-jobs-senior-copywriter",
+   "title": "Senior Copywriter",
+   "company": "RKD Group",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/rkd-group/jobs/senior-copywriter",
+   "score": 33,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "concept",
+    "campaign",
+    "production",
+    "agency",
+    "ai",
+    "pr",
+    "team",
+    "- asks only 2 years"
+   ],
+   "years": 2,
+   "summary": "Senior Copywriter A career that makes a difference! RKD Group is a leading direct response marketing and advertising agency dedicated to serving nonprofits. Headquartered in Dallas, Texas, we are a remote-first company that has helped hundreds of nonprofits raise billions of dollars to drive meaningful impact. At RKD, we help mission-driven organizations through data-informed strategy, breakthroug",
+   "first_seen": "2026-08-24",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-dex-content-marketing-lead-london-411344",
    "title": "Content Marketing Lead",
    "company": "Dex",
@@ -347,7 +371,7 @@
    "years": null,
    "summary": "<p><strong><span data-contrast=\"auto\">Start:</span></strong><span data-contrast=\"auto\"> ASAP </span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335551550\":0,\"335551620\":0,\"335559738\":240,\"335559739\":240}\"> </span></p> <p><strong><span data-contrast=\"auto\">Type of Contract:</span></strong><span data-contrast=\"auto\"> Full Time / Permanent </span><span data-ccp-props=\"{\"134233117\":fal",
    "first_seen": "2026-08-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -545,26 +569,6 @@
    "years": null,
    "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
    "first_seen": "2026-08-19",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-lovehoney-group-senior-ecommerce-growth-manager-brandstores-berlin-214090",
-   "title": "Senior Ecommerce Growth Manager - Brandstores",
-   "company": "Lovehoney Group",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/lovehoney-group/senior-ecommerce-growth-manager-brandstores-berlin-214090",
-   "score": 18,
-   "matched": [
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "retail",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Lovehoney Group is the world\u2019s leading sexual wellbeing company, with the mission to elevate pleasure through innovative technologies, a data-driven approach, and foster creative and fresh perspectives on intimacy. We offer exciting brands with innovative, high-quality sex toys, lingerie, and accessories in a streamlined online shopping experience. At Lovehoney, we employ over 800 passionate and p",
-   "first_seen": "2026-08-22",
    "is_new": false
   },
   {
