@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-25 05:23 UTC",
- "scanned": 3404,
+ "updated": "2026-08-25 11:17 UTC",
+ "scanned": 3413,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -159,30 +159,6 @@
    "is_new": false
   },
   {
-   "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
-   "title": "Copywriter, Global Creative [All genders]",
-   "company": "hellofresh",
-   "location": "Berlin, Berlin, Germany",
-   "url": "https://careers.hellofresh.com/global/en/job/8030063?gh_jid=8030063",
-   "score": 50,
-   "matched": [
-    "sponsorship or relocation",
-    "tone of voice",
-    "copywriting",
-    "copywriter",
-    "concept",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
-   "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
    "title": "PR Manager, Japan",
    "company": "adyen",
@@ -254,31 +230,6 @@
    "years": null,
    "summary": "Position Green is a frontrunner in sustainability software, supporting organizations to accelerate their sustainability journey. Position Green\u2019s offering combines a proprietary software with specialized sustainability advisory services. In making sustainability measurable and actionable, Position Green simplifies the ESG reporting challenge and helps build robust strategies that reduce risk and c",
    "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-151500-meta-creative-strategist-performance-creative",
-   "title": "Meta Creative Strategist \u2014 Performance Creative",
-   "company": "Oowlish Technology",
-   "location": "Brazil",
-   "url": "https://jobicy.com/jobs/151500-meta-creative-strategist-performance-creative",
-   "score": 39,
-   "matched": [
-    "copywriting",
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "campaign",
-    "script",
-    "in-house",
-    "ai",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is re",
-   "first_seen": "2026-08-24",
    "is_new": false
   },
   {
@@ -516,6 +467,24 @@
    ],
    "years": null,
    "summary": "\u00dcber uns: HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalyse \u00fcber Architektur, Softwareentwicklung und Implementierung bis hin zum Betrieb. Mit rund 800 Kolleg:innen in Deutschland, Polen, Litauen, R",
+   "first_seen": "2026-08-25",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-teaching-finance-gmbh-co-kg-content-director-hockenheim-210557",
+   "title": "Content Director (m/w/d)",
+   "company": "Teaching Finance GmbH & Co. KG",
+   "location": "Hockenheim, Baden-W\u00fcrttemberg, Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/companies/teaching-finance-gmbh-co-kg/content-director-hockenheim-210557",
+   "score": 16,
+   "matched": [
+    "copywriter",
+    "storytelling",
+    "ai",
+    "pr"
+   ],
+   "years": null,
+   "summary": "Content Director (m/w/d) \u00dcber Teaching Socials Teaching Socials ist eines der schnellstwachsenden Unternehmensberatungen im DACH-Raum und das f\u00fchrende Beratungsunternehmen f\u00fcr Personal Brands im Finanz- und Immobilienbereich. Rolle & Wirkung Als Content Director bist du der strategische Kopf hinter unserem gesamten Content-\u00d6kosystem . Du entwickelst nicht nur Inhalte \u2013 du baust Marken, die den Mar",
    "first_seen": "2026-08-25",
    "is_new": true
   },
