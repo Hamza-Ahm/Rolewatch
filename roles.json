@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-25 11:17 UTC",
- "scanned": 3413,
+ "updated": "2026-08-25 17:23 UTC",
+ "scanned": 3400,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -79,6 +79,32 @@
    "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless is a global bank payment company. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off payments without the chasi",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-chrono24-senior-brand-marketing-manager-emea-karlsruhe-43516",
+   "title": "Senior Brand Marketing Manager EMEA (m/f/d)",
+   "company": "Chrono24",
+   "location": "Karlsruhe",
+   "url": "https://www.arbeitnow.com/jobs/companies/chrono24/senior-brand-marketing-manager-emea-karlsruhe-43516",
+   "score": 62,
+   "matched": [
+    "brand strategy",
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "brand campaign",
+    "global brand",
+    "multi-market",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "About As Senior Brand Marketing Manager EMEA, you own integrated brand marketing strategy and execution across our largest region - Germany, Italy, UK, France, Rest of Europe, and Middle East. You bring the local market voice and competitive insight into marketing - planning, translate it into end-to-end multi-channel execution, and act as the connective tissue between Growth EMEA, central Brand &",
+   "first_seen": "2026-08-25",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -184,6 +210,31 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8152695",
+   "title": "Brand Strategy Lead",
+   "company": "getyourguide",
+   "location": "Berlin",
+   "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8152695",
+   "score": 48,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "narrative",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "own the brand",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
+   "first_seen": "2026-08-25",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-com-jobs-companies-kittl-brand-marketing-lead-berlin-427309",
    "title": "Brand Marketing Lead",
    "company": "Kittl",
@@ -209,6 +260,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-crytek-global-brand-marketing-director-frankfurt-35247",
+   "title": "Global Brand & Marketing Director",
+   "company": "Crytek",
+   "location": "Frankfurt",
+   "url": "https://www.arbeitnow.com/jobs/companies/crytek/global-brand-marketing-director-frankfurt-35247",
+   "score": 44,
+   "matched": [
+    "sponsorship or relocation",
+    "positioning",
+    "creative direction",
+    "campaign",
+    "global brand",
+    "art direction",
+    "in-house",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "- roas"
+   ],
+   "years": null,
+   "summary": "As Global Brand & Marketing Director you will lead Crytek\u2019s global marketing function across brand, creative, performance, and lifecycle, reporting to the Chief Publishing Officer. You will own how Hunt: Showdown 1896 and unannounced projects are positioned, launched, and grown in market. You will lead the marketing team and build the creative engine and operating model that drive how Crytek\u2019s gam",
+   "first_seen": "2026-08-25",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31271496",
    "title": "Content Marketing Manager",
    "company": "Position Green AB",
@@ -231,6 +308,31 @@
    "summary": "Position Green is a frontrunner in sustainability software, supporting organizations to accelerate their sustainability journey. Position Green\u2019s offering combines a proprietary software with specialized sustainability advisory services. In making sustainability measurable and actionable, Position Green simplifies the ESG reporting challenge and helps build robust strategies that reduce risk and c",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
+   "title": "Creative Systems & Optimization Manager",
+   "company": "hellofresh",
+   "location": "Brooklyn, New York, United States",
+   "url": "https://careers.hellofresh.com/global/en/job/8155432?gh_jid=8155432",
+   "score": 40,
+   "matched": [
+    "campaign",
+    "localization",
+    "script",
+    "production",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<p>HelloFresh is seeking a sharp, systems-minded Creative Systems &amp; Optimization Manager to own the operating model behind our XPOD studio. As the single intake owner across Paid Social, Organic Social, Brand Partnerships and localization, this role turns a complex, multi-brand production slate into one prioritized, efficient engine \u2014 ensuring the highest-impact work moves first.</p> <p>XPOD C",
+   "first_seen": "2026-08-25",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
@@ -258,6 +360,30 @@
    "is_new": false
   },
   {
+   "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
+   "title": "Manager, Brand & Product Marketing",
+   "company": "hellofresh",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.hellofresh.com/global/en/job/8135970?gh_jid=8135970",
+   "score": 39,
+   "matched": [
+    "positioning",
+    "concept",
+    "campaign",
+    "agency",
+    "stakeholder",
+    "ai",
+    "retail",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
+   "first_seen": "2026-08-25",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
    "title": "Brand Enablement Manager",
    "company": "adyen",
@@ -281,26 +407,48 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-submer-global-communications-pr-director-london-139813",
-   "title": "Global Communications & PR Director",
-   "company": "Submer",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/submer/global-communications-pr-director-london-139813",
-   "score": 32,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-anaplan-senior-technical-content-manager-manchester-482033",
+   "title": "Senior Technical Content Manager",
+   "company": "Anaplan",
+   "location": "Manchester",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-technical-content-manager-manchester-482033",
+   "score": 31,
    "matched": [
-    "positioning",
-    "campaign",
-    "narrative",
-    "production",
-    "agency",
+    "editorial",
+    "localisation",
+    "localization",
     "stakeholder",
+    "cross-functional",
     "ai",
-    "pr"
+    "pr",
+    "team"
    ],
    "years": null,
-   "summary": "<p><strong><span data-contrast=\"auto\">Start:</span></strong><span data-contrast=\"auto\"> ASAP </span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335551550\":0,\"335551620\":0,\"335559738\":240,\"335559739\":240}\"> </span></p> <p><strong><span data-contrast=\"auto\">Type of Contract:</span></strong><span data-contrast=\"auto\"> Full Time / Permanent </span><span data-ccp-props=\"{\"134233117\":fal",
-   "first_seen": "2026-08-23",
-   "is_new": false
+   "summary": "<div class=\"content-intro\"><p>At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.</p> <p>What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.</p> <p",
+   "first_seen": "2026-08-25",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-anaplan-senior-technical-content-manager-york-464666",
+   "title": "Senior Technical Content Manager",
+   "company": "Anaplan",
+   "location": "York",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-technical-content-manager-york-464666",
+   "score": 31,
+   "matched": [
+    "editorial",
+    "localisation",
+    "localization",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p>At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.</p> <p>What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.</p> <p",
+   "first_seen": "2026-08-25",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -345,29 +493,6 @@
    "years": null,
    "summary": "Hello potential future Oatly employee It's us. The original oat drink company. At Oatly, we're on a mission to make it easier for people to eat better and live healthier lives without recklessly taxing the planet's resources. Simple as that. Across the world people\u2019s consumption habits and diets are evolving to be more plant-based. Enter Oatly, the #1 oat based dairy alternative producer in the wo",
    "first_seen": "2026-08-21",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8049101",
-   "title": "Employer Brand Program Manager",
-   "company": "adyen",
-   "location": "Chicago; San Francisco",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8049101",
-   "score": 28,
-   "matched": [
-    "brand strategy",
-    "campaign",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "- pipeline generation",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-19",
    "is_new": false
   },
   {
@@ -486,7 +611,7 @@
    "years": null,
    "summary": "Content Director (m/w/d) \u00dcber Teaching Socials Teaching Socials ist eines der schnellstwachsenden Unternehmensberatungen im DACH-Raum und das f\u00fchrende Beratungsunternehmen f\u00fcr Personal Brands im Finanz- und Immobilienbereich. Rolle & Wirkung Als Content Director bist du der strategische Kopf hinter unserem gesamten Content-\u00d6kosystem . Du entwickelst nicht nur Inhalte \u2013 du baust Marken, die den Mar",
    "first_seen": "2026-08-25",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
