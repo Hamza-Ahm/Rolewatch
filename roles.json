@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-27 04:08 UTC",
- "scanned": 3409,
+ "updated": "2026-08-27 15:58 UTC",
+ "scanned": 3420,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -131,6 +131,32 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-18",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31403250",
+   "title": "Global PR & Communications Manager to H&M HOME",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31403250",
+   "score": 52,
+   "matched": [
+    "campaign",
+    "brand campaign",
+    "storytelling",
+    "global brand",
+    "script",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "internal communications",
+    "press release",
+    "pr"
+   ],
+   "years": null,
+   "summary": "Job Description We are now on the search for a strategic and passionate PR & Communications Manager to join the Global Marketing & Communications team at H&M HOME for a parental cover (1 year). H&M HOME is a global Interior brand within the H&M group - one of the biggest fashion and design companies in the world. At H&M HOME we are building a design driven interior brand and currently operate in +",
+   "first_seen": "2026-08-27",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
@@ -329,6 +355,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-senior-creative-concept-berlin-de-221098",
+   "title": "Senior Creative Concept",
+   "company": "wongdoody",
+   "location": "Berlin, DE",
+   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-creative-concept-berlin-de-221098",
+   "score": 31,
+   "matched": [
+    "copywriting",
+    "concept",
+    "film",
+    "production",
+    "ai",
+    "b2b",
+    "retail",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<p><span style=\"font-size: 12px;\">Wir sind WongDoody, mehr als 2.000 Kolleg:innen in 24 Designstudios auf vier Kontinenten \u2013 ein hochgradig kollaboratives Team aus Expert:innen f\u00fcr Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere L\u00f6sungen entstehen dort, wo Kreativit\u00e4t und Technologie zusammentreffen \u2013 mit einem klaren Fokus auf die Bed\u00fcrfnisse und Erlebnisse der Nutzer:in",
+   "first_seen": "2026-08-27",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31380575",
    "title": "Communications Manager at Oatly - Nordics",
    "company": "Oatly AB",
@@ -372,6 +421,48 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-stuttgart-hybrid-317602",
+   "title": "Senior Creative Digital Strategist (m/w/d) in Stuttgart - Hybrid",
+   "company": "Klickpiloten",
+   "location": "Stuttgart",
+   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-stuttgart-hybrid-317602",
+   "score": 24,
+   "matched": [
+    "creative strategy",
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
+   "first_seen": "2026-08-27",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-332519",
+   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
+   "company": "Klickpiloten",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-332519",
+   "score": 24,
+   "matched": [
+    "creative strategy",
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
+   "first_seen": "2026-08-27",
+   "is_new": true
+  },
+  {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
    "title": "Head of Marketing & Communications",
    "company": "garden3d",
@@ -410,6 +501,47 @@
    "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-19588",
+   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
+   "company": "Klickpiloten",
+   "location": "Stuttgart",
+   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-195881",
+   "score": 19,
+   "matched": [
+    "creative direction",
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- roas"
+   ],
+   "years": null,
+   "summary": "Ihre Aufgaben Um unser Business weiter auszubauen, suchen wir engagierte Kolleg*innen, die mit uns die Zukunft des Social Commerce gestalten. Du kennst TikTok nicht nur von der For You Page, sondern verstehst, wie Marken dort Reichweite, Community und Umsatz aufbauen. Du denkst Content nicht isoliert, sondern entlang der gesamten Customer Journey \u2013 von der ersten Aufmerksamkeit bis zum Kauf im Tik",
+   "first_seen": "2026-08-27",
+   "is_new": true
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
+   "title": "Editorial Content Manager - CDD (M/F/X)",
+   "company": "hellofresh",
+   "location": "Paris, Paris, France",
+   "url": "https://careers.hellofresh.com/global/en/job/8161221?gh_jid=8161221",
+   "score": 19,
+   "matched": [
+    "copywriting",
+    "editorial",
+    "concept",
+    "ai",
+    "pr"
+   ],
+   "years": null,
+   "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
+   "first_seen": "2026-08-27",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
