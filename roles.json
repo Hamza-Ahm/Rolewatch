@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-26 18:47 UTC",
- "scanned": 3402,
+ "updated": "2026-08-27 04:08 UTC",
+ "scanned": 3409,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -133,32 +133,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-vivenu-senior-content-writer-copywriter-dusseldorf-14722",
-   "title": "(Senior) Content Writer / Copywriter (d/f/m)",
-   "company": "Vivenu",
-   "location": "D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-content-writer-copywriter-dusseldorf-14722",
-   "score": 54,
-   "matched": [
-    "positioning",
-    "copywriting",
-    "copywriter",
-    "editorial",
-    "storytelling",
-    "global brand",
-    "script",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world\u2019s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed ",
-   "first_seen": "2026-08-26",
-   "is_new": false
-  },
-  {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
    "title": "Corporate Brand Manager",
    "company": "supercell",
@@ -260,30 +234,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-vivenu-senior-manager-seo-geo-content-strategy-dusseldorf-213386",
-   "title": "Senior Manager SEO, GEO & Content Strategy (d/f/m)",
-   "company": "Vivenu",
-   "location": "D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/vivenu/senior-manager-seo-geo-content-strategy-dusseldorf-213386",
-   "score": 39,
-   "matched": [
-    "campaign",
-    "storytelling",
-    "narrative",
-    "global brand",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world\u2019s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford University and the Hockenheimring turning what was once a simple transaction into a strategic business advantage. Backed ",
-   "first_seen": "2026-08-26",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
    "title": "Senior Content Writer, Global",
    "company": "adyen",
@@ -353,72 +303,6 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-19",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-anaplan-senior-technical-content-manager-manchester-482033",
-   "title": "Senior Technical Content Manager",
-   "company": "Anaplan",
-   "location": "Manchester",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-technical-content-manager-manchester-482033",
-   "score": 31,
-   "matched": [
-    "editorial",
-    "localisation",
-    "localization",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p>At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.</p> <p>What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.</p> <p",
-   "first_seen": "2026-08-25",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-anaplan-senior-technical-content-manager-york-464666",
-   "title": "Senior Technical Content Manager",
-   "company": "Anaplan",
-   "location": "York",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/senior-technical-content-manager-york-464666",
-   "score": 31,
-   "matched": [
-    "editorial",
-    "localisation",
-    "localization",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p>At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.</p> <p>What unites Anaplanners across teams and geographies is our collective commitment to our customers\u2019 success and to our Winning Culture.</p> <p",
-   "first_seen": "2026-08-25",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-bbdo-germany-creative-director-copy-automotive-frankfurt-45457",
-   "title": "Creative Director Copy (d/w/m) | Automotive",
-   "company": "BBDO Germany",
-   "location": "Frankfurt",
-   "url": "https://www.arbeitnow.com/jobs/companies/bbdo-germany/creative-director-copy-automotive-frankfurt-45457",
-   "score": 31,
-   "matched": [
-    "brand platform",
-    "copywriter",
-    "storytelling",
-    "art direction",
-    "ai",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "Deine Aufgaben Entwicklung, Produktion und Umsetzung kreativer Konzepte und Textstrategien f\u00fcr Automotive Kampagnen Entwicklung von kreativer Leitideen und deren \u00dcbersetzung in verschiedene Kommunikationskan\u00e4le und Formate Pr\u00e4sentation von Ideen und Konzepten vor Kunden und internen Teams Leitung eines mehrk\u00f6pfigen Textteams und Sicherstellung (von qualitativ hochwertiger Arbeit) einer konstant ho",
-   "first_seen": "2026-08-26",
    "is_new": false
   },
   {
