@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-28 01:13 UTC",
- "scanned": 3443,
+ "updated": "2026-08-28 16:59 UTC",
+ "scanned": 3425,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -51,32 +51,6 @@
    ],
    "years": 12,
    "summary": "NOTE: This is a FULLY remote role, but the candidate must be within Europe to collaborate with their team, peers, and internal customers. You do not have to be in the specific country or city shown in this listing, but please only apply if you are physically based within Europe . Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management ",
-   "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-gocardless-jobs-8102709",
-   "title": "Content Marketing Manager",
-   "company": "gocardless",
-   "location": "Leeds, UK",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8102709",
-   "score": 63,
-   "matched": [
-    "tone of voice",
-    "brand guidelines",
-    "copywriting",
-    "long-form",
-    "editorial",
-    "campaign",
-    "integrated campaign",
-    "script",
-    "production",
-    "cross-functional",
-    "ai",
-    "b2b"
-   ],
-   "years": 4,
-   "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless is a global bank payment company. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off payments without the chasi",
    "first_seen": "2026-08-16",
    "is_new": false
   },
@@ -332,28 +306,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-saint-sass-praktikum-creative-strategist-berlin-165783",
-   "title": "Praktikum Creative Strategist (m/w/d)",
-   "company": "saint sass",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/saint-sass/praktikum-creative-strategist-berlin-165783",
-   "score": 34,
-   "matched": [
-    "copywriting",
-    "creative strategy",
-    "concept",
-    "storytelling",
-    "script",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "saint sass ist ein junges, schnell wachsendes Start-Up mit dem Herzen in Berlin-Mitte. Bekannt geworden sind wir mit unserer Statement Strumpfhose und launchen jetzt weitere Statement Produkte, welche wir in unserem eigenen Online-Shop vertreiben. In Deutschland, \u00d6sterreich und der Schweiz sind wir bereits sehr erfolgreich und nun planen wir auch weitere europ\u00e4ische M\u00e4rkte mit unseren Produkten zu",
-   "first_seen": "2026-08-28",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -374,29 +326,6 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-19",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-senior-creative-concept-berlin-de-221098",
-   "title": "Senior Creative Concept",
-   "company": "wongdoody",
-   "location": "Berlin, DE",
-   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-creative-concept-berlin-de-221098",
-   "score": 31,
-   "matched": [
-    "copywriting",
-    "concept",
-    "film",
-    "production",
-    "ai",
-    "b2b",
-    "retail",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<p><span style=\"font-size: 12px;\">Wir sind WongDoody, mehr als 2.000 Kolleg:innen in 24 Designstudios auf vier Kontinenten \u2013 ein hochgradig kollaboratives Team aus Expert:innen f\u00fcr Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere L\u00f6sungen entstehen dort, wo Kreativit\u00e4t und Technologie zusammentreffen \u2013 mit einem klaren Fokus auf die Bed\u00fcrfnisse und Erlebnisse der Nutzer:in",
-   "first_seen": "2026-08-27",
    "is_new": false
   },
   {
@@ -422,6 +351,54 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-director-of-creative-hamburg-133458",
+   "title": "Director of Creative (m/w/d)",
+   "company": "Pammys\u2122 (dieseo GmbH)",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/director-of-creative-hamburg-133458",
+   "score": 26,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "art direction",
+    "production",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
+   "first_seen": "2026-08-28",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-288600",
+   "title": "Creative Director (m/w/d)",
+   "company": "Pammys\u2122 (dieseo GmbH)",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/creative-director-hamburg-288600",
+   "score": 26,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "art direction",
+    "production",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
+   "first_seen": "2026-08-28",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
    "title": "Senior Vertical Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -440,48 +417,6 @@
    "years": 7,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-20",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-stuttgart-hybrid-317602",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Stuttgart - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Stuttgart",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-stuttgart-hybrid-317602",
-   "score": 24,
-   "matched": [
-    "creative strategy",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
-   "first_seen": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-332519",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-332519",
-   "score": 24,
-   "matched": [
-    "creative strategy",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Ihre Aufgaben Entwickle Ideen, die Marken ver\u00e4ndern. Die besten Strategien entstehen nicht in endlosen Pr\u00e4sentationen. Sie entstehen dort, wo Menschen neugierig bleiben, Daten hinterfragen, kreative Ideen zulassen und den Mut haben, Dinge anders zu denken. Genau daf\u00fcr suchen wir dich. Als Senior Creative Digital Strategis t entwickelst du nicht einfach Marketingkonzepte. Du schaffst Strategien, di",
-   "first_seen": "2026-08-27",
    "is_new": false
   },
   {
@@ -525,28 +460,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-klickpiloten-senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-19588",
-   "title": "Senior Creative Digital Strategist (m/w/d) in Hamburg - Hybrid",
-   "company": "Klickpiloten",
-   "location": "Stuttgart",
-   "url": "https://www.arbeitnow.com/jobs/companies/klickpiloten/senior-creative-digital-strategist-in-hamburg-hybrid-stuttgart-195881",
-   "score": 19,
-   "matched": [
-    "creative direction",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team",
-    "- roas"
-   ],
-   "years": null,
-   "summary": "Ihre Aufgaben Um unser Business weiter auszubauen, suchen wir engagierte Kolleg*innen, die mit uns die Zukunft des Social Commerce gestalten. Du kennst TikTok nicht nur von der For You Page, sondern verstehst, wie Marken dort Reichweite, Community und Umsatz aufbauen. Du denkst Content nicht isoliert, sondern entlang der gesamten Customer Journey \u2013 von der ersten Aufmerksamkeit bis zum Kauf im Tik",
-   "first_seen": "2026-08-27",
-   "is_new": false
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -564,6 +477,25 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-united-media-senior-content-writer-at-united-media-london-10626",
+   "title": "Senior Content Writer at United Media",
+   "company": "United Media",
+   "location": "London, England, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-content-writer-at-united-media-london-10626",
+   "score": 17,
+   "matched": [
+    "ai",
+    "retail",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or creating great stories and content? If so, you might be our next Senior Content Writer. About us United Media focuses on building large sca",
+   "first_seen": "2026-08-28",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
