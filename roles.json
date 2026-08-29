@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-29 00:52 UTC",
+ "updated": "2026-08-29 11:25 UTC",
  "scanned": 3422,
  "roles": [
   {
@@ -159,6 +159,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-almedia-marketing-communications-manager-b2b-berlin-428643",
+   "title": "Marketing Communications Manager (B2B)",
+   "company": "Almedia",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/almedia/marketing-communications-manager-b2b-berlin-428643",
+   "score": 50,
+   "matched": [
+    "long-form",
+    "concept",
+    "campaign",
+    "brand campaign",
+    "storytelling",
+    "narrative",
+    "messaging framework",
+    "production",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr"
+   ],
+   "years": null,
+   "summary": "This isn\u2019t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We\u2019re aiming to become Germany\u2019s second bootstrapped unicorn. Almedia is already Europe\u2019s #3 fastest-growing company in 2025 (FT1000). We are building the future of marketing by rewarding our community of over 70 million users for engaging with our advertisers",
+   "first_seen": "2026-08-29",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
    "title": "PR Manager, Japan",
    "company": "adyen",
@@ -232,6 +258,30 @@
    "summary": "<p>HelloFresh is seeking a sharp, systems-minded Creative Systems &amp; Optimization Manager to own the operating model behind our XPOD studio. As the single intake owner across Paid Social, Organic Social, Brand Partnerships and localization, this role turns a complex, multi-brand production slate into one prioritized, efficient engine \u2014 ensuring the highest-impact work moves first.</p> <p>XPOD C",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-jung-von-matt-creative-director-art-hamburg-132222",
+   "title": "Creative Director Art",
+   "company": "Jung von Matt",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/jung-von-matt/creative-director-art-hamburg-132222",
+   "score": 39,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "campaign",
+    "production",
+    "agency",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "Position Jung von Matt SPORTS is looking for a Creative Director Art (m/f/d) About You Strong understanding of creative strategy and its business impact. Ability to translate complex challenges into clear creative direction. Excellent judgment in evaluating and sharpening ideas. Strong interdisciplinary creative leadership across all media and channels. High standards for creative quality and exec",
+   "first_seen": "2026-08-29",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
@@ -329,54 +379,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-director-of-creative-hamburg-133458",
-   "title": "Director of Creative (m/w/d)",
-   "company": "Pammys\u2122 (dieseo GmbH)",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/director-of-creative-hamburg-133458",
-   "score": 26,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "art direction",
-    "production",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
-   "first_seen": "2026-08-28",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-288600",
-   "title": "Creative Director (m/w/d)",
-   "company": "Pammys\u2122 (dieseo GmbH)",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/creative-director-hamburg-288600",
-   "score": 26,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "art direction",
-    "production",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
-   "first_seen": "2026-08-28",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
    "title": "Senior Vertical Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -435,7 +437,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
    "first_seen": "2026-08-29",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
@@ -474,25 +476,6 @@
    "years": null,
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-united-media-senior-content-writer-at-united-media-london-10626",
-   "title": "Senior Content Writer at United Media",
-   "company": "United Media",
-   "location": "London, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/senior-content-writer-at-united-media-london-10626",
-   "score": 17,
-   "matched": [
-    "ai",
-    "retail",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or creating great stories and content? If so, you might be our next Senior Content Writer. About us United Media focuses on building large sca",
-   "first_seen": "2026-08-28",
    "is_new": false
   },
   {
