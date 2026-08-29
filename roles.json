@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-28 16:59 UTC",
- "scanned": 3425,
+ "updated": "2026-08-29 00:52 UTC",
+ "scanned": 3422,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -329,28 +329,6 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31380575",
-   "title": "Communications Manager at Oatly - Nordics",
-   "company": "Oatly AB",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31380575",
-   "score": 30,
-   "matched": [
-    "editorial",
-    "campaign",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Hello potential future Oatly employee It's us. The original oat drink company. At Oatly, we're on a mission to make it easier for people to eat better and live healthier lives without recklessly taxing the planet's resources. Simple as that. Across the world people\u2019s consumption habits and diets are evolving to be more plant-based. Enter Oatly, the #1 oat based dairy alternative producer in the wo",
-   "first_seen": "2026-08-21",
-   "is_new": false
-  },
-  {
    "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-director-of-creative-hamburg-133458",
    "title": "Director of Creative (m/w/d)",
    "company": "Pammys\u2122 (dieseo GmbH)",
@@ -372,7 +350,7 @@
    "years": null,
    "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
    "first_seen": "2026-08-28",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-288600",
@@ -396,7 +374,7 @@
    "years": null,
    "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
    "first_seen": "2026-08-28",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
@@ -438,6 +416,26 @@
    "summary": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin o",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wppmedia-senior-creative-concepter-mensch-dusseldorf-283524",
+   "title": "Senior Creative Concepter (Mensch)",
+   "company": "wppmedia",
+   "location": "Dusseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-creative-concepter-mensch-dusseldorf-283524",
+   "score": 24,
+   "matched": [
+    "copywriting",
+    "concept",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
+   "first_seen": "2026-08-29",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
@@ -495,7 +493,7 @@
    "years": 5,
    "summary": "Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or creating great stories and content? If so, you might be our next Senior Content Writer. About us United Media focuses on building large sca",
    "first_seen": "2026-08-28",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
