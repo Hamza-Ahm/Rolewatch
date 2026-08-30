@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-30 00:53 UTC",
- "scanned": 3413,
+ "updated": "2026-08-30 10:11 UTC",
+ "scanned": 3412,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -420,26 +420,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-wppmedia-senior-creative-concepter-mensch-dusseldorf-283524",
-   "title": "Senior Creative Concepter (Mensch)",
-   "company": "wppmedia",
-   "location": "Dusseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-creative-concepter-mensch-dusseldorf-283524",
-   "score": 24,
-   "matched": [
-    "copywriting",
-    "concept",
-    "ai",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
-   "first_seen": "2026-08-29",
-   "is_new": false
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
    "title": "Head of Project Management, H&M Global Communications",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -458,6 +438,25 @@
    "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-www-themuse-com-jobs-bankofamerica-cyber-brand-defence-specialist",
+   "title": "Cyber Brand Defence Specialist",
+   "company": "Bank of America",
+   "location": "Chester, United Kingdom",
+   "url": "https://www.themuse.com/jobs/bankofamerica/cyber-brand-defence-specialist",
+   "score": 21,
+   "matched": [
+    "concept",
+    "script",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Job Description: Job Title: Cyber Brand Defence Specialist Corporate Title: Up to Vice President Location: Chester At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day. Being a Great Place to Work is c",
+   "first_seen": "2026-08-30",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
