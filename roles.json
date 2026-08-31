@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-31 11:14 UTC",
- "scanned": 3189,
+ "updated": "2026-08-31 21:42 UTC",
+ "scanned": 3419,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -81,28 +81,54 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-152144-creative-lead-visual-merchandising",
-   "title": "Creative Lead - Visual Merchandising",
-   "company": "Spotify",
-   "location": "Sweden, UK",
-   "url": "https://jobicy.com/jobs/152144-creative-lead-visual-merchandising",
-   "score": 56,
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
+   "title": "Senior Content Manager, APAC",
+   "company": "adyen",
+   "location": "Singapore",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7681261",
+   "score": 57,
    "matched": [
+    "tone of voice",
+    "copywriting",
+    "long-form",
     "editorial",
-    "creative direction",
-    "creative strategy",
+    "campaign",
     "storytelling",
-    "global brand",
-    "art direction",
-    "production",
+    "narrative",
+    "agency",
     "stakeholder",
     "ai",
-    "generative ai",
-    "pr",
-    "team"
+    "b2b",
+    "fintech"
    ],
-   "years": 10,
-   "summary": "The Platform team creates the technology that enables Spotify to learn quickly and scale easily, enabling rapid growth in our users and our business around the globe. Spanning many disciplines, we work to make the business work; creating the infrastructure, tooling, frameworks, and capabilities needed to welcome a billion customers. Visual Merchandising shapes how content looks and feels across th",
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-31",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
+   "title": "Senior Content Marketing Manager, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
+   "score": 57,
+   "matched": [
+    "copywriting",
+    "long-form",
+    "editorial",
+    "storytelling",
+    "narrative",
+    "global brand",
+    "script",
+    "production",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-31",
    "is_new": true
   },
@@ -130,7 +156,7 @@
    "years": null,
    "summary": "Job Description We are now on the search for a strategic and passionate PR & Communications Manager to join the Global Marketing & Communications team at H&M HOME for a parental cover (15 months). H&M HOME is a global Interior brand within the H&M group - one of the biggest fashion and design companies in the world. At H&M HOME we are building a design driven interior brand and currently operate i",
    "first_seen": "2026-08-31",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31403250",
@@ -185,6 +211,31 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
+   "title": "PR Manager, Japan",
+   "company": "adyen",
+   "location": "Tokyo",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8098412",
+   "score": 48,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "campaign",
+    "brand campaign",
+    "storytelling",
+    "agency",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-31",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8152695",
    "title": "Brand Strategy Lead",
    "company": "getyourguide",
@@ -235,6 +286,31 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
+   "title": "Senior Content Writer, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
+   "score": 39,
+   "matched": [
+    "long-form",
+    "editorial",
+    "storytelling",
+    "narrative",
+    "production",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-31",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
    "title": "Manager, Brand & Product Marketing",
    "company": "hellofresh",
@@ -257,6 +333,73 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
+   "title": "Brand Enablement Manager",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8090506",
+   "score": 34,
+   "matched": [
+    "brand guidelines",
+    "global brand",
+    "agency",
+    "in-house",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-31",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
+   "title": "Senior Communication Business Partner - Tech",
+   "company": "adyen",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7410347",
+   "score": 31,
+   "matched": [
+    "storytelling",
+    "narrative",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "internal communications",
+    "pr",
+    "team",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
+   "first_seen": "2026-08-31",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
+   "title": "Senior Vertical Manager, Digital Content, Media & Communications",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8137858",
+   "score": 26,
+   "matched": [
+    "script",
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-08-31",
+   "is_new": true
   },
   {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
