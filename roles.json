@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-30 19:34 UTC",
+ "updated": "2026-08-31 00:59 UTC",
  "scanned": 3416,
  "roles": [
   {
@@ -53,6 +53,32 @@
    "summary": "NOTE: This is a FULLY remote role, but the candidate must be within Europe to collaborate with their team, peers, and internal customers. You do not have to be in the specific country or city shown in this listing, but please only apply if you are physically based within Europe . Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management ",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-chrono24-senior-brand-marketing-manager-emea-karlsruhe-204002",
+   "title": "Senior Brand Marketing Manager EMEA (m/f/d)",
+   "company": "Chrono24",
+   "location": "Karlsruhe",
+   "url": "https://www.arbeitnow.com/jobs/companies/chrono24/senior-brand-marketing-manager-emea-karlsruhe-204002",
+   "score": 62,
+   "matched": [
+    "brand strategy",
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "brand campaign",
+    "global brand",
+    "multi-market",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "About As Senior Brand Marketing Manager EMEA, you own integrated brand marketing strategy and execution across our largest region - Germany, Italy, UK, France, Rest of Europe, and Middle East. You bring the local market voice and competitive insight into marketing - planning, translate it into end-to-end multi-channel execution, and act as the connective tissue between Growth EMEA, central Brand &",
+   "first_seen": "2026-08-31",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -257,30 +283,6 @@
    "years": null,
    "summary": "<p>HelloFresh is seeking a sharp, systems-minded Creative Systems &amp; Optimization Manager to own the operating model behind our XPOD studio. As the single intake owner across Paid Social, Organic Social, Brand Partnerships and localization, this role turns a complex, multi-brand production slate into one prioritized, efficient engine \u2014 ensuring the highest-impact work moves first.</p> <p>XPOD C",
    "first_seen": "2026-08-25",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-jung-von-matt-creative-director-art-hamburg-132222",
-   "title": "Creative Director Art",
-   "company": "Jung von Matt",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/jung-von-matt/creative-director-art-hamburg-132222",
-   "score": 39,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "campaign",
-    "production",
-    "agency",
-    "ai",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "Position Jung von Matt SPORTS is looking for a Creative Director Art (m/f/d) About You Strong understanding of creative strategy and its business impact. Ability to translate complex challenges into clear creative direction. Excellent judgment in evaluating and sharpening ideas. Strong interdisciplinary creative leadership across all media and channels. High standards for creative quality and exec",
-   "first_seen": "2026-08-29",
    "is_new": false
   },
   {
