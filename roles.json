@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-01 09:39 UTC",
- "scanned": 3391,
+ "updated": "2026-09-01 15:17 UTC",
+ "scanned": 3396,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -281,6 +281,28 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-bbdo-germany-creative-director-copy-automotive-frankfurt-376413",
+   "title": "Creative Director Copy (d/w/m) | Automotive",
+   "company": "BBDO Germany",
+   "location": "Frankfurt",
+   "url": "https://www.arbeitnow.com/jobs/companies/bbdo-germany/creative-director-copy-automotive-frankfurt-376413",
+   "score": 31,
+   "matched": [
+    "brand platform",
+    "copywriter",
+    "storytelling",
+    "art direction",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "Deine Aufgaben Entwicklung, Produktion und Umsetzung kreativer Konzepte und Textstrategien f\u00fcr Automotive Kampagnen Entwicklung von kreativer Leitideen und deren \u00dcbersetzung in verschiedene Kommunikationskan\u00e4le und Formate Pr\u00e4sentation von Ideen und Konzepten vor Kunden und internen Teams Leitung eines mehrk\u00f6pfigen Textteams und Sicherstellung (von qualitativ hochwertiger Arbeit) einer konstant ho",
+   "first_seen": "2026-09-01",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -442,6 +464,25 @@
    "summary": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach extending acro",
    "first_seen": "2026-09-01",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munich-194212",
+   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
+   "company": "New Flag GmbH",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munich-194212",
+   "score": 15,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fmcg",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&#x26;D und internationalen Ver",
+   "first_seen": "2026-09-01",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
