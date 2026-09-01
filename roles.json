@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-01 01:30 UTC",
- "scanned": 3417,
+ "updated": "2026-09-01 09:39 UTC",
+ "scanned": 3391,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -29,32 +29,6 @@
    "is_new": false
   },
   {
-   "id": "https-careers-hostaway-com-o-senior-director-brand-and-content-remote",
-   "title": "Senior Director Brand and Content - 100% Remote - Europe",
-   "company": "hostaway",
-   "location": "Vienna, Austria",
-   "url": "https://careers.hostaway.com/o/senior-director-brand-and-content-remote",
-   "score": 65,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "copywriter",
-    "editorial",
-    "storytelling",
-    "narrative",
-    "localization",
-    "production",
-    "in-house",
-    "cross-functional",
-    "ai",
-    "b2b"
-   ],
-   "years": 12,
-   "summary": "NOTE: This is a FULLY remote role, but the candidate must be within Europe to collaborate with their team, peers, and internal customers. You do not have to be in the specific country or city shown in this listing, but please only apply if you are physically based within Europe . Trusted by 20,000+ property managers worldwide, Hostaway is an industry leading, AI-powered vacation rental management ",
-   "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
    "title": "Senior Content Manager, APAC",
    "company": "adyen",
@@ -77,32 +51,6 @@
    ],
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-31",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
-   "title": "Senior Content Marketing Manager, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
-   "score": 57,
-   "matched": [
-    "copywriting",
-    "long-form",
-    "editorial",
-    "storytelling",
-    "narrative",
-    "global brand",
-    "script",
-    "production",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-31",
    "is_new": false
   },
@@ -258,7 +206,7 @@
    "years": null,
    "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and optional AI, in",
    "first_seen": "2026-09-01",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
@@ -283,31 +231,6 @@
    "years": null,
    "summary": "<p>HelloFresh is seeking a sharp, systems-minded Creative Systems &amp; Optimization Manager to own the operating model behind our XPOD studio. As the single intake owner across Paid Social, Organic Social, Brand Partnerships and localization, this role turns a complex, multi-brand production slate into one prioritized, efficient engine \u2014 ensuring the highest-impact work moves first.</p> <p>XPOD C",
    "first_seen": "2026-08-25",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
-   "title": "Senior Content Writer, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
-   "score": 39,
-   "matched": [
-    "long-form",
-    "editorial",
-    "storytelling",
-    "narrative",
-    "production",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "10+ years"
-   ],
-   "years": 10,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-08-31",
    "is_new": false
   },
   {
@@ -420,7 +343,7 @@
    "years": null,
    "summary": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach exten",
    "first_seen": "2026-09-01",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
@@ -518,7 +441,7 @@
    "years": 1,
    "summary": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach extending acro",
    "first_seen": "2026-09-01",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
