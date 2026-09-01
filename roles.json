@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-31 21:42 UTC",
- "scanned": 3419,
+ "updated": "2026-09-01 01:30 UTC",
+ "scanned": 3417,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -55,32 +55,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-chrono24-senior-brand-marketing-manager-emea-karlsruhe-204002",
-   "title": "Senior Brand Marketing Manager EMEA (m/f/d)",
-   "company": "Chrono24",
-   "location": "Karlsruhe",
-   "url": "https://www.arbeitnow.com/jobs/companies/chrono24/senior-brand-marketing-manager-emea-karlsruhe-204002",
-   "score": 62,
-   "matched": [
-    "brand strategy",
-    "concept",
-    "campaign",
-    "integrated campaign",
-    "brand campaign",
-    "global brand",
-    "multi-market",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "About As Senior Brand Marketing Manager EMEA, you own integrated brand marketing strategy and execution across our largest region - Germany, Italy, UK, France, Rest of Europe, and Middle East. You bring the local market voice and competitive insight into marketing - planning, translate it into end-to-end multi-channel execution, and act as the connective tissue between Growth EMEA, central Brand &",
-   "first_seen": "2026-08-31",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
    "title": "Senior Content Manager, APAC",
    "company": "adyen",
@@ -104,7 +78,7 @@
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
@@ -130,7 +104,7 @@
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-31",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
@@ -233,7 +207,7 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8152695",
@@ -259,6 +233,32 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-duck-duck-go-remote-creative-design-lead-marketing-campaigns-330441",
+   "title": "Creative Design Lead (Marketing Campaigns)",
+   "company": "Duck Duck Go",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-creative-design-lead-marketing-campaigns-330441",
+   "score": 43,
+   "matched": [
+    "creative direction",
+    "concept",
+    "campaign",
+    "script",
+    "production",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and optional AI, in",
+   "first_seen": "2026-09-01",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
@@ -308,7 +308,7 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -355,7 +355,7 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -378,7 +378,7 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-31",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
@@ -399,6 +399,27 @@
    "years": 7,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-gismart-remote-creative-production-lead-radiotech-346194",
+   "title": "Creative Production Lead (Radiotech)",
+   "company": "Gismart",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-creative-production-lead-radiotech-346194",
+   "score": 24,
+   "matched": [
+    "creative strategy",
+    "production",
+    "in-house",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach exten",
+   "first_seen": "2026-09-01",
    "is_new": true
   },
   {
@@ -478,6 +499,26 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-gismart-remote-creative-marketing-manager-fitme-95053",
+   "title": "Creative Marketing Manager (FitMe)",
+   "company": "Gismart",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/gismart/remote-creative-marketing-manager-fitme-95053",
+   "score": 16,
+   "matched": [
+    "creative strategy",
+    "concept",
+    "ai",
+    "pr",
+    "team",
+    "- asks only 1 years"
+   ],
+   "years": 1,
+   "summary": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach extending acro",
+   "first_seen": "2026-09-01",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
