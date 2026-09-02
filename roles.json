@@ -1,33 +1,7 @@
 {
- "updated": "2026-09-02 09:10 UTC",
- "scanned": 3395,
+ "updated": "2026-09-02 14:48 UTC",
+ "scanned": 3429,
  "roles": [
-  {
-   "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
-   "title": "Lead Copywriter, Global Creative Studio (m/f/x)",
-   "company": "hellofresh",
-   "location": "Berlin, Berlin, Germany",
-   "url": "https://careers.hellofresh.com/global/en/job/8113659?gh_jid=8113659",
-   "score": 76,
-   "matched": [
-    "tone of voice",
-    "copywriting",
-    "copywriter",
-    "creative direction",
-    "concept",
-    "campaign",
-    "localization",
-    "global brand",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai"
-   ],
-   "years": 8,
-   "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
-   "first_seen": "2026-08-17",
-   "is_new": false
-  },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
    "title": "Senior Content Manager, APAC",
@@ -180,7 +154,7 @@
    "years": 5,
    "summary": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The ",
    "first_seen": "2026-09-02",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
@@ -233,6 +207,31 @@
    "is_new": false
   },
   {
+   "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
+   "title": "Manager, Brand Strategy (Factor)",
+   "company": "hellofresh",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.hellofresh.com/global/en/job/8135970?gh_jid=8135970",
+   "score": 46,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "concept",
+    "campaign",
+    "agency",
+    "stakeholder",
+    "ai",
+    "retail",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
+   "first_seen": "2026-08-25",
+   "is_new": false
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
    "title": "Creative Systems & Optimization Manager",
    "company": "hellofresh",
@@ -258,30 +257,6 @@
    "is_new": false
   },
   {
-   "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
-   "title": "Manager, Brand & Product Marketing",
-   "company": "hellofresh",
-   "location": "Toronto, Ontario, Canada",
-   "url": "https://careers.hellofresh.com/global/en/job/8135970?gh_jid=8135970",
-   "score": 39,
-   "matched": [
-    "positioning",
-    "concept",
-    "campaign",
-    "agency",
-    "stakeholder",
-    "ai",
-    "retail",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
-   "first_seen": "2026-08-25",
-   "is_new": false
-  },
-  {
    "id": "https-www-arbeitnow-com-jobs-companies-yepoda-pr-manager-berlin-25620",
    "title": "PR Manager (m/f/d)",
    "company": "Yepoda",
@@ -302,7 +277,7 @@
    "years": null,
    "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
    "first_seen": "2026-09-02",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -348,48 +323,6 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-08-31",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-start-to-finish-consulting-gmbh-creative-strategist-creative-director-hamburg-902",
-   "title": "Creative Strategist / Creative Director (w/m/d)",
-   "company": "Start To Finish Consulting GmbH",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/creative-strategist-creative-director-hamburg-90260",
-   "score": 27,
-   "matched": [
-    "copywriting",
-    "creative strategy",
-    "concept",
-    "production",
-    "e-commerce",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Wir sind Start to Finish. Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team: Aus diesem Grund unterst\u00fctzen wir aufstrebende Startups und Growth Companies wie Snocks, Seller X, Mellow Noir, Pets Deli und viele mehr dabei, die Schl\u00fcsselpositionen in ihren Teams zu besetzen. Mit \u00fcber 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique f\u00fcr Startups im deutschsprachigen ",
-   "first_seen": "2026-09-01",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-start-to-finish-consulting-gmbh-senior-direct-response-copywriter-hamburg-480509",
-   "title": "Senior Direct Response Copywriter (m/w/d)",
-   "company": "Start To Finish Consulting GmbH",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/senior-direct-response-copywriter-hamburg-480509",
-   "score": 26,
-   "matched": [
-    "copywriter",
-    "creative strategy",
-    "script",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Wir sind Start to Finish. Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team: Aus diesem Grund unterst\u00fctzen wir aufstrebende Startups und Growth Companies wie Snocks, Seller X, Mellow Noir, Pets Deli und viele mehr dabei, die Schl\u00fcsselpositionen in ihren Teams zu besetzen. Mit \u00fcber 100 zufriedenen Kunden sind wir die #1 Recruiting Boutique f\u00fcr Startups im deutschsprachigen ",
-   "first_seen": "2026-09-01",
    "is_new": false
   },
   {
