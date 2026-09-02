@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-02 14:48 UTC",
- "scanned": 3429,
+ "updated": "2026-09-02 19:33 UTC",
+ "scanned": 3436,
  "roles": [
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -129,31 +129,6 @@
    "years": null,
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/8beb421f-c04e-4929-afcc-3ca384c21530/clash royale arena sketch.jpeg] WE PUT PLAYERS FIRST IN EVERYTHING WE DO. THAT MINDSET ALSO GUIDES HOW WE BUILD AND EVOLVE SUPERCELL AS A BRAND. SUPERCELL HAS BEEN AROUND FOR OVER 15 YEARS, AND AS WE MOVE FORWARD WITH A REFRESHED BRAND STRATEGY, WE\u2019RE TAKING THE CORPORATE BRAN",
    "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-149995-content-marketing-lead",
-   "title": "Content marketing lead",
-   "company": "Canonical",
-   "location": "EMEA",
-   "url": "https://jobicy.com/jobs/149995-content-marketing-lead",
-   "score": 48,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "campaign",
-    "integrated campaign",
-    "narrative",
-    "production",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The ",
-   "first_seen": "2026-09-02",
    "is_new": false
   },
   {
@@ -301,6 +276,31 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-quince-senior-creative-strategist-232315",
+   "title": "Senior Creative Strategist",
+   "company": "Quince",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-creative-strategist-232315",
+   "score": 33,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "production",
+    "cross-functional",
+    "ai",
+    "retail",
+    "pr",
+    "team",
+    "- meta ads manager",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
+   "first_seen": "2026-09-02",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
