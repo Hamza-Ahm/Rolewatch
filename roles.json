@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-02 00:39 UTC",
- "scanned": 3393,
+ "updated": "2026-09-02 09:10 UTC",
+ "scanned": 3395,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -158,6 +158,31 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-149995-content-marketing-lead",
+   "title": "Content marketing lead",
+   "company": "Canonical",
+   "location": "EMEA",
+   "url": "https://jobicy.com/jobs/149995-content-marketing-lead",
+   "score": 48,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "campaign",
+    "integrated campaign",
+    "narrative",
+    "production",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The ",
+   "first_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
    "title": "PR Manager, Japan",
    "company": "adyen",
@@ -257,6 +282,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-pr-manager-berlin-25620",
+   "title": "PR Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/pr-manager-berlin-25620",
+   "score": 36,
+   "matched": [
+    "concept",
+    "campaign",
+    "storytelling",
+    "ai",
+    "b2b",
+    "retail",
+    "press release",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
+   "first_seen": "2026-09-02",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
    "title": "Brand Enablement Manager",
    "company": "adyen",
@@ -277,28 +325,6 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-bbdo-germany-creative-director-copy-automotive-frankfurt-376413",
-   "title": "Creative Director Copy (d/w/m) | Automotive",
-   "company": "BBDO Germany",
-   "location": "Frankfurt",
-   "url": "https://www.arbeitnow.com/jobs/companies/bbdo-germany/creative-director-copy-automotive-frankfurt-376413",
-   "score": 31,
-   "matched": [
-    "brand platform",
-    "copywriter",
-    "storytelling",
-    "art direction",
-    "ai",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "Deine Aufgaben Entwicklung, Produktion und Umsetzung kreativer Konzepte und Textstrategien f\u00fcr Automotive Kampagnen Entwicklung von kreativer Leitideen und deren \u00dcbersetzung in verschiedene Kommunikationskan\u00e4le und Formate Pr\u00e4sentation von Ideen und Konzepten vor Kunden und internen Teams Leitung eines mehrk\u00f6pfigen Textteams und Sicherstellung (von qualitativ hochwertiger Arbeit) einer konstant ho",
-   "first_seen": "2026-09-01",
    "is_new": false
   },
   {
@@ -463,25 +489,6 @@
    "years": null,
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munich-194212",
-   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
-   "company": "New Flag GmbH",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munich-194212",
-   "score": 15,
-   "matched": [
-    "stakeholder",
-    "ai",
-    "fmcg",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&#x26;D und internationalen Ver",
-   "first_seen": "2026-09-01",
    "is_new": false
   },
   {
