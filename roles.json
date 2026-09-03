@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-02 19:33 UTC",
- "scanned": 3436,
+ "updated": "2026-09-03 00:49 UTC",
+ "scanned": 3437,
  "roles": [
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -26,31 +26,6 @@
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-sumup-senior-content-editorial-lead-london-354334",
-   "title": "Senior Content & Editorial Lead",
-   "company": "SumUp",
-   "location": "London, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-content-editorial-lead-london-354334",
-   "score": 54,
-   "matched": [
-    "tone of voice",
-    "verbal identity",
-    "copywriter",
-    "editorial",
-    "creative direction",
-    "campaign",
-    "script",
-    "ai",
-    "retail",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Senior Content & Editorial Lead Team: Central Brand & Marketing, Content Location: London, office-first Team description SumUp recently invested in a full brand refresh, giving the business a distinctive new voice with real momentum behind it. The Global Content Chapter, more than 10 content managers working across the organisation, is ready for someone to take that voice further: to shape it into",
-   "first_seen": "2026-09-01",
    "is_new": false
   },
   {
@@ -300,6 +275,30 @@
    "years": 5,
    "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
    "first_seen": "2026-09-02",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-bifrost-studios-marketing-manager-growth-brand-london-173011",
+   "title": "Marketing Manager, Growth & Brand",
+   "company": "Bifrost Studios",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bifrost-studios/marketing-manager-growth-brand-london-173011",
+   "score": 32,
+   "matched": [
+    "positioning",
+    "copywriter",
+    "campaign",
+    "brand book",
+    "agency",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "- attribution"
+   ],
+   "years": null,
+   "summary": "Granite, a Bifrost portfolio company, builds sovereign AI infrastructure for Europe: compute, energy and a new generation of sovereign AI technology, running in modular, liquid-cooled containers it specifies, builds and operates itself. Europe is deciding right now where its AI workloads are going to live, and most of the available answers are American. Granite is one of very few teams building th",
+   "first_seen": "2026-09-03",
    "is_new": true
   },
   {
@@ -404,6 +403,26 @@
    "summary": "Job Description: Job Title: Cyber Brand Defence Specialist Corporate Title: Up to Vice President Location: Chester At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day. Being a Great Place to Work is c",
    "first_seen": "2026-08-30",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-phmg-careers-product-owner-communications-channels-ai-manchester-177736",
+   "title": "Product Owner - Communications Channels & AI",
+   "company": "PHMG Careers",
+   "location": "Manchester, England, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-177736",
+   "score": 19,
+   "matched": [
+    "production",
+    "agency",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Role: Product Owner \u2013 Communication Channels & AI Location: Manchester Hours: Monday-Friday 8:45am-5:15pm Package: \u00a380k OTE As Product Owner - Technical Products, your role is to own and continuously improve PHMG's Technical product portfolio, ensuring Cloud Telephony, AI Receptionist and CCE deliver measurable client value, operational quality and long-term commercial growth. You are accountable ",
+   "first_seen": "2026-09-03",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
