@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-03 09:17 UTC",
- "scanned": 3430,
+ "updated": "2026-09-03 14:47 UTC",
+ "scanned": 3427,
  "roles": [
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -29,6 +29,32 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
+   "title": "Senior Content Marketing Manager, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
+   "score": 57,
+   "matched": [
+    "copywriting",
+    "long-form",
+    "editorial",
+    "storytelling",
+    "narrative",
+    "global brand",
+    "script",
+    "production",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
+   "first_seen": "2026-09-03",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-sumup-senior-content-editorial-lead-london-264872",
    "title": "Senior Content & Editorial Lead",
    "company": "sumup",
@@ -51,7 +77,7 @@
    "years": null,
    "summary": "<h2><strong>Senior Content &amp; Editorial Lead</strong></h2> <p> </p> <p><strong>Team: Central Brand &amp; Marketing, Content </strong></p> <p><strong>Location: London, office-first</strong></p> <h2> </h2> <h2><strong>Team description</strong></h2> <p>SumUp recently invested in a full brand refresh, giving the business a distinctive new voice with real momentum behind it. The Global Content Chapt",
    "first_seen": "2026-09-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
@@ -207,6 +233,29 @@
    "is_new": false
   },
   {
+   "id": "https-himalayas-app-companies-avalere-health-jobs-senior-copywriter",
+   "title": "Senior Copywriter",
+   "company": "Avalere Health",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/avalere-health/jobs/senior-copywriter",
+   "score": 40,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "concept",
+    "campaign",
+    "agency",
+    "ai",
+    "pr",
+    "team",
+    "4+ years"
+   ],
+   "years": 4,
+   "summary": "About Avalere Health United by one profound purpose: to reach EVERY PATIENT POSSIBLE . At Avalere Health , we ensure every patient is identified, treated, supported, and cared for. Equally. Our Advisory, Medical, and Marketing teams come together \u2013 powerfully and intentionally \u2013 to forge unconventional connections, building a future where healthcare is not a barrier and no patient is left behind. ",
+   "first_seen": "2026-09-03",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
    "title": "Creative Systems & Optimization Manager",
    "company": "hellofresh",
@@ -254,7 +303,7 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -391,7 +440,7 @@
    "years": null,
    "summary": "<div class=\"react-pdf__Page__textContent textLayer selecting\" data-main-rotation=\"0\"> <h2><strong>Vos missions</strong></h2> </div> <div class=\"react-pdf__Page__annotations annotationLayer\" data-main-rotation=\"0\"> <p>Doctolib est le leader technologique et de l\u2019IA en sant\u00e9, avec l\u2019ambition de transformer la sant\u00e9 en Europe. Alors que nous enrichissons notre suite de technologies et d\u2019assistants IA",
    "first_seen": "2026-09-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
@@ -511,7 +560,7 @@
    "years": null,
    "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
    "first_seen": "2026-09-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
