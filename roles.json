@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-03 00:49 UTC",
- "scanned": 3437,
+ "updated": "2026-09-03 09:17 UTC",
+ "scanned": 3430,
  "roles": [
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -27,6 +27,31 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-sumup-senior-content-editorial-lead-london-264872",
+   "title": "Senior Content & Editorial Lead",
+   "company": "sumup",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-content-editorial-lead-london-264872",
+   "score": 54,
+   "matched": [
+    "tone of voice",
+    "verbal identity",
+    "copywriter",
+    "editorial",
+    "creative direction",
+    "campaign",
+    "script",
+    "ai",
+    "retail",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h2><strong>Senior Content &amp; Editorial Lead</strong></h2> <p> </p> <p><strong>Team: Central Brand &amp; Marketing, Content </strong></p> <p><strong>Location: London, office-first</strong></p> <h2> </h2> <h2><strong>Team description</strong></h2> <p>SumUp recently invested in a full brand refresh, giving the business a distinctive new voice with real momentum behind it. The Global Content Chapt",
+   "first_seen": "2026-09-03",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
@@ -207,27 +232,29 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-pr-manager-berlin-25620",
-   "title": "PR Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/pr-manager-berlin-25620",
-   "score": 36,
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
+   "title": "Senior Content Writer, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
+   "score": 39,
    "matched": [
-    "concept",
-    "campaign",
+    "long-form",
+    "editorial",
     "storytelling",
+    "narrative",
+    "production",
+    "stakeholder",
     "ai",
-    "b2b",
-    "retail",
-    "press release",
     "pr",
-    "team"
+    "team",
+    "mentor",
+    "10+ years"
    ],
-   "years": null,
-   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
-   "first_seen": "2026-09-02",
-   "is_new": false
+   "years": 10,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-09-03",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -299,7 +326,7 @@
    "years": null,
    "summary": "Granite, a Bifrost portfolio company, builds sovereign AI infrastructure for Europe: compute, energy and a new generation of sovereign AI technology, running in modular, liquid-cooled containers it specifies, builds and operates itself. Europe is deciding right now where its AI workloads are going to live, and most of the available answers are American. Granite is one of very few teams building th",
    "first_seen": "2026-09-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -344,6 +371,27 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
    "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-doctolib-jobs-7825998003",
+   "title": "Brand Manager BtoB (x/f/m)",
+   "company": "doctolib",
+   "location": "Paris, Paris, France",
+   "url": "https://job-boards.greenhouse.io/doctolib/jobs/7825998003",
+   "score": 25,
+   "matched": [
+    "copywriting",
+    "storytelling",
+    "script",
+    "production",
+    "ai",
+    "b2b",
+    "pr"
+   ],
+   "years": null,
+   "summary": "<div class=\"react-pdf__Page__textContent textLayer selecting\" data-main-rotation=\"0\"> <h2><strong>Vos missions</strong></h2> </div> <div class=\"react-pdf__Page__annotations annotationLayer\" data-main-rotation=\"0\"> <p>Doctolib est le leader technologique et de l\u2019IA en sant\u00e9, avec l\u2019ambition de transformer la sant\u00e9 en Europe. Alors que nous enrichissons notre suite de technologies et d\u2019assistants IA",
+   "first_seen": "2026-09-03",
+   "is_new": true
   },
   {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
@@ -422,7 +470,7 @@
    "years": null,
    "summary": "Role: Product Owner \u2013 Communication Channels & AI Location: Manchester Hours: Monday-Friday 8:45am-5:15pm Package: \u00a380k OTE As Product Owner - Technical Products, your role is to own and continuously improve PHMG's Technical product portfolio, ensuring Cloud Telephony, AI Receptionist and CCE deliver measurable client value, operational quality and long-term commercial growth. You are accountable ",
    "first_seen": "2026-09-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
@@ -442,6 +490,28 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-paselo-gmbh-senior-creative-strategist-munster-115374",
+   "title": "(Senior) Creative Strategist (m/w/d)",
+   "company": "paselo GmbH",
+   "location": "M\u00fcnster",
+   "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/senior-creative-strategist-munster-115374",
+   "score": 17,
+   "matched": [
+    "storytelling",
+    "script",
+    "ai",
+    "fmcg",
+    "e-commerce",
+    "pr",
+    "team",
+    "- roas"
+   ],
+   "years": null,
+   "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
+   "first_seen": "2026-09-03",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
