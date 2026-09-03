@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-03 14:47 UTC",
- "scanned": 3427,
+ "updated": "2026-09-03 19:30 UTC",
+ "scanned": 3434,
  "roles": [
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -52,7 +52,7 @@
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-sumup-senior-content-editorial-lead-london-264872",
@@ -233,29 +233,6 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-avalere-health-jobs-senior-copywriter",
-   "title": "Senior Copywriter",
-   "company": "Avalere Health",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/avalere-health/jobs/senior-copywriter",
-   "score": 40,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "concept",
-    "campaign",
-    "agency",
-    "ai",
-    "pr",
-    "team",
-    "4+ years"
-   ],
-   "years": 4,
-   "summary": "About Avalere Health United by one profound purpose: to reach EVERY PATIENT POSSIBLE . At Avalere Health , we ensure every patient is identified, treated, supported, and cared for. Equally. Our Advisory, Medical, and Marketing teams come together \u2013 powerfully and intentionally \u2013 to forge unconventional connections, building a future where healthcare is not a barrier and no patient is left behind. ",
-   "first_seen": "2026-09-03",
-   "is_new": true
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
    "title": "Creative Systems & Optimization Manager",
    "company": "hellofresh",
@@ -326,31 +303,6 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-quince-senior-creative-strategist-232315",
-   "title": "Senior Creative Strategist",
-   "company": "Quince",
-   "location": "Not stated",
-   "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-creative-strategist-232315",
-   "score": 33,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "production",
-    "cross-functional",
-    "ai",
-    "retail",
-    "pr",
-    "team",
-    "- meta ads manager",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
-   "first_seen": "2026-09-02",
    "is_new": false
   },
   {
