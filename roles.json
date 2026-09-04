@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-04 09:11 UTC",
- "scanned": 3444,
+ "updated": "2026-09-04 14:37 UTC",
+ "scanned": 3449,
  "roles": [
   {
    "id": "https-jobicy-com-jobs-152491-creative-director",
@@ -282,7 +282,7 @@
    "years": 5,
    "summary": "HEALTH CAN\u2019T WAIT. Not for symptoms to get worse. Not for a six\u2011month appointment. Not for a system to catch up. But that\u2019s exactly how healthcare works today. You wait, until you can\u2019t. Alan exists to end the wait. Health is a universal right, and we believe this right can only become real when it\u2019s coupled with prevention. We need to stop treating health as something we repair and start treating",
    "first_seen": "2026-09-04",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
@@ -502,26 +502,6 @@
    "years": null,
    "summary": "Job Description: Job Title: Cyber Brand Defence Specialist Corporate Title: Up to Vice President Location: Chester At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day. Being a Great Place to Work is c",
    "first_seen": "2026-08-30",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-phmg-careers-product-owner-communications-channels-ai-manchester-177736",
-   "title": "Product Owner - Communications Channels & AI",
-   "company": "PHMG Careers",
-   "location": "Manchester, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-177736",
-   "score": 19,
-   "matched": [
-    "production",
-    "agency",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Role: Product Owner \u2013 Communication Channels & AI Location: Manchester Hours: Monday-Friday 8:45am-5:15pm Package: \u00a380k OTE As Product Owner - Technical Products, your role is to own and continuously improve PHMG's Technical product portfolio, ensuring Cloud Telephony, AI Receptionist and CCE deliver measurable client value, operational quality and long-term commercial growth. You are accountable ",
-   "first_seen": "2026-09-03",
    "is_new": false
   },
   {
