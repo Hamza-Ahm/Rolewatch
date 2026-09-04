@@ -1,33 +1,7 @@
 {
- "updated": "2026-09-04 14:37 UTC",
- "scanned": 3449,
+ "updated": "2026-09-04 19:12 UTC",
+ "scanned": 3459,
  "roles": [
-  {
-   "id": "https-jobicy-com-jobs-152491-creative-director",
-   "title": "Creative Director",
-   "company": "Boulevard",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/152491-creative-director",
-   "score": 69,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "creative direction",
-    "concept",
-    "campaign",
-    "brand campaign",
-    "storytelling",
-    "production",
-    "in-house",
-    "stakeholder",
-    "cross-functional",
-    "ai"
-   ],
-   "years": 10,
-   "summary": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we could design a modern, user-fr",
-   "first_seen": "2026-09-04",
-   "is_new": false
-  },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
    "title": "Senior Content Manager, APAC",
@@ -355,29 +329,6 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-08-31",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-brand-experience-manager-berlin-299535",
-   "title": "Brand Experience Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-299535",
-   "score": 33,
-   "matched": [
-    "concept",
-    "brand book",
-    "production",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "own the brand"
-   ],
-   "years": null,
-   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
-   "first_seen": "2026-09-04",
    "is_new": false
   },
   {
