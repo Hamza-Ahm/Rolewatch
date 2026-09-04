@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-04 00:30 UTC",
- "scanned": 3440,
+ "updated": "2026-09-04 09:11 UTC",
+ "scanned": 3444,
  "roles": [
   {
    "id": "https-jobicy-com-jobs-152491-creative-director",
@@ -26,7 +26,7 @@
    "years": 10,
    "summary": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we could design a modern, user-fr",
    "first_seen": "2026-09-04",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -259,6 +259,32 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
+   "title": "Brand Event Manager",
+   "company": "alan",
+   "location": "Paris, France",
+   "url": "https://jobs.ashbyhq.com/alan/ef851009-718d-4318-a330-149dccd9683b",
+   "score": 44,
+   "matched": [
+    "positioning",
+    "narrative",
+    "global brand",
+    "international markets",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "- attribution"
+   ],
+   "years": 5,
+   "summary": "HEALTH CAN\u2019T WAIT. Not for symptoms to get worse. Not for a six\u2011month appointment. Not for a system to catch up. But that\u2019s exactly how healthcare works today. You wait, until you can\u2019t. Alan exists to end the wait. Health is a universal right, and we believe this right can only become real when it\u2019s coupled with prevention. We need to stop treating health as something we repair and start treating",
+   "first_seen": "2026-09-04",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
    "title": "Creative Systems & Optimization Manager",
    "company": "hellofresh",
@@ -352,30 +378,6 @@
    "years": null,
    "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
    "first_seen": "2026-09-04",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-bifrost-studios-marketing-manager-growth-brand-london-173011",
-   "title": "Marketing Manager, Growth & Brand",
-   "company": "Bifrost Studios",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/bifrost-studios/marketing-manager-growth-brand-london-173011",
-   "score": 32,
-   "matched": [
-    "positioning",
-    "copywriter",
-    "campaign",
-    "brand book",
-    "agency",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "- attribution"
-   ],
-   "years": null,
-   "summary": "Granite, a Bifrost portfolio company, builds sovereign AI infrastructure for Europe: compute, energy and a new generation of sovereign AI technology, running in modular, liquid-cooled containers it specifies, builds and operates itself. Europe is deciding right now where its AI workloads are going to live, and most of the available answers are American. Granite is one of very few teams building th",
-   "first_seen": "2026-09-03",
    "is_new": false
   },
   {
