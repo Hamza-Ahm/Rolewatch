@@ -1,7 +1,33 @@
 {
- "updated": "2026-09-03 19:30 UTC",
- "scanned": 3434,
+ "updated": "2026-09-04 00:30 UTC",
+ "scanned": 3440,
  "roles": [
+  {
+   "id": "https-jobicy-com-jobs-152491-creative-director",
+   "title": "Creative Director",
+   "company": "Boulevard",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/152491-creative-director",
+   "score": 69,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "creative direction",
+    "concept",
+    "campaign",
+    "brand campaign",
+    "storytelling",
+    "production",
+    "in-house",
+    "stakeholder",
+    "cross-functional",
+    "ai"
+   ],
+   "years": 10,
+   "summary": "Who is Boulevard? Boulevard provides the first and only client experience platform for appointment-based, self-care businesses. We empower our customers to give their clients more of the magical moments that matter most. Before launching in 2016, our founders spent months interviewing salon managers and working behind front desks to understand their pain points so we could design a modern, user-fr",
+   "first_seen": "2026-09-04",
+   "is_new": true
+  },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
    "title": "Senior Content Manager, APAC",
@@ -306,6 +332,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-brand-experience-manager-berlin-299535",
+   "title": "Brand Experience Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-299535",
+   "score": 33,
+   "matched": [
+    "concept",
+    "brand book",
+    "production",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "own the brand"
+   ],
+   "years": null,
+   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
+   "first_seen": "2026-09-04",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-bifrost-studios-marketing-manager-growth-brand-london-173011",
    "title": "Marketing Manager, Growth & Brand",
    "company": "Bifrost Studios",
@@ -490,28 +539,6 @@
    "years": null,
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-paselo-gmbh-senior-creative-strategist-munster-115374",
-   "title": "(Senior) Creative Strategist (m/w/d)",
-   "company": "paselo GmbH",
-   "location": "M\u00fcnster",
-   "url": "https://www.arbeitnow.com/jobs/companies/paselo-gmbh/senior-creative-strategist-munster-115374",
-   "score": 17,
-   "matched": [
-    "storytelling",
-    "script",
-    "ai",
-    "fmcg",
-    "e-commerce",
-    "pr",
-    "team",
-    "- roas"
-   ],
-   "years": null,
-   "summary": "paselo ist ein junges, schnell wachsendes Unternehmen f\u00fcr hochwertige Erg\u00e4nzungsfuttermittel f\u00fcr Hunde. Unsere Mission: Die Gesundheit und Lebensfreude von Hunden nachhaltig zu f\u00f6rdern \u2013 mit nat\u00fcrlichen, laborgepr\u00fcften Produkten, die wissenschaftlich fundiert sind und von Tierhaltern gesch\u00e4tzt werden. Um dieses Wachstum strukturiert voranzutreiben, suchen wir jemanden, der Creatives nicht verwalte",
-   "first_seen": "2026-09-03",
    "is_new": false
   },
   {
