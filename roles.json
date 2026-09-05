@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05 00:28 UTC",
+ "updated": "2026-09-05 08:43 UTC",
  "scanned": 3459,
  "roles": [
   {
@@ -330,6 +330,54 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-director-of-creative-hamburg-295991",
+   "title": "Director of Creative (m/w/d)",
+   "company": "Pammys\u2122 (dieseo GmbH)",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/director-of-creative-hamburg-295991",
+   "score": 26,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "art direction",
+    "production",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
+   "first_seen": "2026-09-05",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-175062",
+   "title": "Creative Director (m/w/d)",
+   "company": "Pammys\u2122 (dieseo GmbH)",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/creative-director-hamburg-175062",
+   "score": 26,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "art direction",
+    "production",
+    "ai",
+    "e-commerce",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
+   "first_seen": "2026-09-05",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
    "title": "Senior Vertical Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -466,7 +514,7 @@
    "years": null,
    "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&D und internationalen Vertrieb",
    "first_seen": "2026-09-05",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
