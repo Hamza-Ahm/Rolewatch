@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04 19:12 UTC",
+ "updated": "2026-09-05 00:28 UTC",
  "scanned": 3459,
  "roles": [
   {
@@ -51,31 +51,6 @@
    ],
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
-   "first_seen": "2026-09-03",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-sumup-senior-content-editorial-lead-london-264872",
-   "title": "Senior Content & Editorial Lead",
-   "company": "sumup",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-content-editorial-lead-london-264872",
-   "score": 54,
-   "matched": [
-    "tone of voice",
-    "verbal identity",
-    "copywriter",
-    "editorial",
-    "creative direction",
-    "campaign",
-    "script",
-    "ai",
-    "retail",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<h2><strong>Senior Content &amp; Editorial Lead</strong></h2> <p> </p> <p><strong>Team: Central Brand &amp; Marketing, Content </strong></p> <p><strong>Location: London, office-first</strong></p> <h2> </h2> <h2><strong>Team description</strong></h2> <p>SumUp recently invested in a full brand refresh, giving the business a distinctive new voice with real momentum behind it. The Global Content Chapt",
    "first_seen": "2026-09-03",
    "is_new": false
   },
@@ -473,6 +448,25 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munchen-16816",
+   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
+   "company": "New Flag GmbH",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-168164",
+   "score": 15,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fmcg",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&D und internationalen Vertrieb",
+   "first_seen": "2026-09-05",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
