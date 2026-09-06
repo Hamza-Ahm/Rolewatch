@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-06 00:21 UTC",
- "scanned": 3605,
+ "updated": "2026-09-06 09:02 UTC",
+ "scanned": 3604,
  "roles": [
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
@@ -232,6 +232,32 @@
    "summary": "HEALTH CAN\u2019T WAIT. Not for symptoms to get worse. Not for a six\u2011month appointment. Not for a system to catch up. But that\u2019s exactly how healthcare works today. You wait, until you can\u2019t. Alan exists to end the wait. Health is a universal right, and we believe this right can only become real when it\u2019s coupled with prevention. We need to stop treating health as something we repair and start treating",
    "first_seen": "2026-09-04",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-duck-duck-go-remote-creative-design-lead-marketing-campaigns-86272",
+   "title": "Creative Design Lead (Marketing Campaigns)",
+   "company": "Duck Duck Go",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-creative-design-lead-marketing-campaigns-86272",
+   "score": 43,
+   "matched": [
+    "creative direction",
+    "concept",
+    "campaign",
+    "script",
+    "production",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and optional AI, in",
+   "first_seen": "2026-09-06",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
@@ -495,25 +521,6 @@
    "years": null,
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munchen-16816",
-   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
-   "company": "New Flag GmbH",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-168164",
-   "score": 15,
-   "matched": [
-    "stakeholder",
-    "ai",
-    "fmcg",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&D und internationalen Vertrieb",
-   "first_seen": "2026-09-05",
    "is_new": false
   },
   {
