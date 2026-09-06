@@ -1,7 +1,33 @@
 {
- "updated": "2026-09-06 09:02 UTC",
- "scanned": 3604,
+ "updated": "2026-09-06 13:12 UTC",
+ "scanned": 3607,
  "roles": [
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-deliveroo-local-lead-creative-campaigns-8-month-ftc-paris-390979",
+   "title": "Local Lead, Creative Campaigns (8-Month FTC)",
+   "company": "Deliveroo",
+   "location": "Paris - Main Office",
+   "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/local-lead-creative-campaigns-8-month-ftc-paris-390979",
+   "score": 71,
+   "matched": [
+    "creative strategy",
+    "campaign",
+    "brand campaign",
+    "localisation",
+    "transcreation",
+    "global brand",
+    "multi-market",
+    "production",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai"
+   ],
+   "years": 8,
+   "summary": "Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Brand & Experience team builds the emotional connection between Deliveroo and our customers, riders, and partners. With a deep understanding of our audience and a passion for creativity, we bring our brand to life across every touchpoint. Whether it\u2019s a push notificati",
+   "first_seen": "2026-09-06",
+   "is_new": true
+  },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7681261",
    "title": "Senior Content Manager, APAC",
@@ -257,7 +283,7 @@
    "years": null,
    "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 300+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, annual revenue now exceeds $100m USD and millions use our browser on on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and optional AI, in",
    "first_seen": "2026-09-06",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
@@ -446,6 +472,27 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-gismart-remote-creative-production-lead-radiotech-185726",
+   "title": "Creative Production Lead (Radiotech)",
+   "company": "Gismart",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-production-lead-radiotech-185726",
+   "score": 24,
+   "matched": [
+    "creative strategy",
+    "production",
+    "in-house",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have recently achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach exten",
+   "first_seen": "2026-09-06",
+   "is_new": true
+  },
+  {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
    "title": "Head of Marketing & Communications",
    "company": "garden3d",
@@ -522,6 +569,26 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-gismart-remote-creative-marketing-manager-fitme-282873",
+   "title": "Creative Marketing Manager (FitMe)",
+   "company": "Gismart",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.fr/jobs/companies/gismart/remote-creative-marketing-manager-fitme-282873",
+   "score": 16,
+   "matched": [
+    "creative strategy",
+    "concept",
+    "ai",
+    "pr",
+    "team",
+    "- asks only 1 years"
+   ],
+   "years": 1,
+   "summary": "About us: Gismart is a value-driven mobile app developer with a strong presence in the Health & Wellness, Utilities, and Music app markets. We have achieved a significant milestone of over 1 billion downloads worldwide, taking a step toward our mission of cultivating the well-being of people worldwide. With headquarters in London, UK, Gismart is a dynamic global company with a reach extending acro",
+   "first_seen": "2026-09-06",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31355657",
