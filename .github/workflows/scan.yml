@@ -1,7 +1,7 @@
 name: rolewatch
 on:
   schedule:
-    - cron: "0 5,11,17,23 * * *"
+    - cron: "0 7 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -14,9 +14,15 @@ jobs:
         with:
           python-version: "3.12"
       - run: python3 rolewatch.py
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          JOOBLE_KEY: ${{ secrets.JOOBLE_KEY }}
+          ADZUNA_ID: ${{ secrets.ADZUNA_ID }}
+          ADZUNA_KEY: ${{ secrets.ADZUNA_KEY }}
       - run: |
           git config user.name "rolewatch"
           git config user.email "rolewatch@users.noreply.github.com"
           git add -A
           git commit -m "scan" || echo "no changes"
+          git pull --rebase origin main
           git push
