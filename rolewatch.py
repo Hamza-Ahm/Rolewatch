@@ -45,6 +45,7 @@ COMPANIES = [
     "flixbus", "getyourguide", "sennder", "forto", "choco", "personio",
     "doctolib", "alan", "qonto", "payfit", "backmarket", "voiscooters",
     "tink", "northvolt", "bolt", "remote", "deel", "contentful",
+    "celonis", "make", "productboard", "rossum", "mews", "kiwicom",
     "sinch", "truecaller", "einride", "epidemicsound", "kahoot",
     "mollie", "messagebird", "bird", "framer", "tide", "gocardless",
     "starlingbank", "octopusenergy", "hostaway", "onfido", "canva",
@@ -762,9 +763,16 @@ ADZUNA_COUNTRIES = ["gb", "de", "nl", "es", "fr", "it", "pl", "at",
 
 # Jooble is searched city by city. This is where the Gulf comes from.
 JOOBLE_PLACES = [
+    # Gulf and APAC
     "Dubai", "Abu Dhabi", "Sharjah", "Doha", "Riyadh", "Jeddah",
-    "Kuala Lumpur", "Singapore", "Amsterdam", "Berlin", "Barcelona",
-    "Stockholm", "Copenhagen", "London", "Dublin", "Lisbon", "Brussels",
+    "Kuala Lumpur", "Singapore",
+    # Europe
+    "Amsterdam", "Rotterdam", "Berlin", "Munich", "Hamburg", "Cologne",
+    "Barcelona", "Madrid", "Valencia", "Lisbon", "Porto",
+    "Stockholm", "Gothenburg", "Malmo", "Copenhagen", "Oslo", "Helsinki",
+    "London", "Manchester", "Dublin", "Brussels", "Antwerp",
+    "Paris", "Milan", "Rome", "Vienna", "Zurich", "Geneva",
+    "Prague", "Warsaw", "Krakow", "Tallinn", "Budapest",
 ]
 
 
