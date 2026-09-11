@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-10 12:05 UTC",
- "scanned": 3881,
+ "updated": "2026-09-11 12:03 UTC",
+ "scanned": 3886,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -26,7 +26,7 @@
    "years": 8,
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-09-10",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
@@ -79,32 +79,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-orbitalindustries-communications-lead-london-432102",
-   "title": "Communications Lead",
-   "company": "Orbitalindustries",
-   "location": "London, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/orbitalindustries/communications-lead-london-432102",
-   "score": 55,
-   "matched": [
-    "positioning",
-    "brand voice",
-    "long-form",
-    "editorial",
-    "campaign",
-    "storytelling",
-    "narrative",
-    "messaging framework",
-    "production",
-    "stakeholder",
-    "ai",
-    "pr"
-   ],
-   "years": null,
-   "summary": "Orbital Industries is an AI Industrial company, with frontier AI embedded at every step in the production of critical physical products - from creating advanced materials to engineering and manufacturing. Every Orbital Industries product is developed using CurieOS, our AI operating system, uniting AI-automated hardware engineering with AI-designed material science to achieve breakthrough real-worl",
-   "first_seen": "2026-09-10",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
@@ -284,6 +258,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-fyxer-lead-copywriter-london-173935",
+   "title": "Lead Copywriter",
+   "company": "Fyxer",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/lead-copywriter-london-173935",
+   "score": 44,
+   "matched": [
+    "tone of voice",
+    "copywriter",
+    "editorial",
+    "storytelling",
+    "localisation",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About Fyxer Fyxer is building an AI executive assistant that handles emails, scheduling and follow-up, freeing people in client-facing roles to focus on their customers. It's the digital assistant for everyone drowning in their inbox, helping thousands of professionals reclaim hours they didn't even know they could get back. The Role We're looking for an exceptional contract Copywriter to join our",
+   "first_seen": "2026-09-11",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
    "title": "Brand Event Manager",
    "company": "alan",
@@ -315,13 +313,14 @@
    "company": "supercell",
    "location": "Helsinki",
    "url": "https://jobs.ashbyhq.com/supercell/76e56d65-9884-4c86-b616-f9c70c4a7a34",
-   "score": 41,
+   "score": 44,
    "matched": [
     "creative direction",
     "creative strategy",
     "concept",
     "campaign",
     "production",
+    "in-house",
     "stakeholder",
     "cross-functional",
     "ai",
@@ -332,7 +331,7 @@
    "years": null,
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31447382",
@@ -384,6 +383,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-jung-von-matt-creative-director-art-hamburg-377369",
+   "title": "Creative Director Art",
+   "company": "Jung von Matt",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/jung-von-matt/creative-director-art-hamburg-377369",
+   "score": 39,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "campaign",
+    "production",
+    "agency",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "Position Jung von Matt SPORTS is looking for a Creative Director Art (m/f/d) About You Strong understanding of creative strategy and its business impact. Ability to translate complex challenges into clear creative direction. Excellent judgment in evaluating and sharpening ideas. Strong interdisciplinary creative leadership across all media and channels. High standards for creative quality and exec",
+   "first_seen": "2026-09-11",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
    "title": "Senior Content Writer, Global",
    "company": "adyen",
@@ -433,30 +456,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
-   "title": "Head of Brand",
-   "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
-   "score": 38,
-   "matched": [
-    "positioning",
-    "campaign",
-    "brand campaign",
-    "narrative",
-    "production",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
-   "first_seen": "2026-09-07",
-   "is_new": false
-  },
-  {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
@@ -481,27 +480,28 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-pergolux-content-marketing-manager-berlin-398395",
-   "title": "Content Marketing Manager",
-   "company": "Pergolux",
-   "location": "Berlin | SCAN Team",
-   "url": "https://www.arbeitnow.com/jobs/companies/pergolux/content-marketing-manager-berlin-398395",
-   "score": 37,
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "title": "Head of Brand",
+   "company": "make",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "score": 38,
    "matched": [
-    "brand strategy",
-    "long-form",
+    "positioning",
     "campaign",
-    "localisation",
+    "brand campaign",
+    "narrative",
     "production",
+    "cross-functional",
     "ai",
-    "e-commerce",
+    "b2b",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "As a Content Marketing Manager you will own organic social as an always-on channel for the Scandinavian market, translating the global content and brand strategy into relevant local content. You will manage the local community in their own language and act as the fast, native-speaking point of contact for market-specific content needs, working within existing SEO and brand frameworks rather than b",
-   "first_seen": "2026-09-10",
-   "is_new": true
+   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
+   "first_seen": "2026-09-07",
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -546,7 +546,7 @@
    "years": 7,
    "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
    "first_seen": "2026-09-10",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -594,73 +594,26 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-cesiumastro-lead-communications-architect-munich-germany-56043",
-   "title": "Lead Communications Architect",
-   "company": "CesiumAstro",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/lead-communications-architect-munich-germany-56043",
-   "score": 26,
+   "id": "https-www-arbeitnow-com-jobs-companies-shopware-ag-remote-senior-content-marketing-manager-seo-geo-blog-schoppingen-2763",
+   "title": "Senior Content Marketing Manager \u2013 SEO/GEO & Blog (m/w/d)",
+   "company": "shopware AG",
+   "location": "Homeoffice",
+   "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-content-marketing-manager-seo-geo-blog-schoppingen-276304",
+   "score": 27,
    "matched": [
-    "concept",
-    "production",
-    "cross-functional",
+    "editorial",
+    "stakeholder",
     "ai",
-    "pr",
-    "team",
-    "mentor",
-    "12+ years"
-   ],
-   "years": 12,
-   "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place fo",
-   "first_seen": "2026-09-10",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-director-of-creative-hamburg-417270",
-   "title": "Director of Creative (m/w/d)",
-   "company": "Pammys\u2122 (dieseo GmbH)",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/director-of-creative-hamburg-417270",
-   "score": 26,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "art direction",
-    "production",
-    "ai",
+    "generative ai",
+    "prompt",
+    "b2b",
     "e-commerce",
     "pr",
-    "team",
-    "- media buying"
+    "team"
    ],
    "years": null,
-   "summary": "Stellenbeschreibung Du siehst eine Brand und wei\u00dft sofort, was ihr fehlt. Du erkennst, ob ein Design au\u00dfergew\u00f6hnlich oder einfach nur sch\u00f6n ist. Du verstehst, warum Content Reichweite bekommt, warum ein Creative verkauft und warum sich eine Website trotz perfekter Optik nicht richtig anf\u00fchlt. Du kennst die Trends von morgen, ohne jedem Trend hinterherzulaufen. Und du kannst aus all dem eine klare ",
-   "first_seen": "2026-09-10",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-pammys-dieseo-gmbh-creative-director-hamburg-203270",
-   "title": "Creative Director (m/w/d)",
-   "company": "Pammys\u2122 (dieseo GmbH)",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/creative-director-hamburg-203270",
-   "score": 26,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "art direction",
-    "production",
-    "ai",
-    "e-commerce",
-    "pr",
-    "team",
-    "- media buying"
-   ],
-   "years": null,
-   "summary": "Stellenbeschreibung Good taste is not enough. Du erkennst innerhalb von Sekunden, ob ein Creative funktioniert. Du siehst ein Interface und wei\u00dft, warum es nicht konvertiert. Du verstehst, warum eine Brand auf TikTok pl\u00f6tzlich kulturell relevant wird, w\u00e4hrend eine andere trotz Millionenbudget unsichtbar bleibt. Du kannst \u00fcber Typografie, Art Direction und UX genauso tief diskutieren wie \u00fcber Hooks",
-   "first_seen": "2026-09-10",
+   "summary": "Shopware ist ein f\u00fchrendes E-Commerce-System, das es Unternehmen weltweit erm\u00f6glicht, schnell und effizient im digitalen Handel zu skalieren. Als zukunftsweisende Open-Source-L\u00f6sung wird Shopware bereits von einigen der gr\u00f6\u00dften europ\u00e4ischen Marken, Einzelh\u00e4ndlern und Herstellern in den B2C- und B2B-Branchen genutzt. Als Senior Content Marketing Manager \u2013 SEO/GEO & Blog \u00fcbernimmst du eine zentrale ",
+   "first_seen": "2026-09-11",
    "is_new": true
   },
   {
