@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-11 12:03 UTC",
- "scanned": 3886,
+ "updated": "2026-09-12 11:30 UTC",
+ "scanned": 3897,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -258,6 +258,30 @@
    "is_new": false
   },
   {
+   "id": "https-himalayas-app-companies-fyxer-jobs-lead-copywriter",
+   "title": "Lead Copywriter",
+   "company": "FYXER",
+   "location": "United Kingdom",
+   "url": "https://himalayas.app/companies/fyxer/jobs/lead-copywriter",
+   "score": 44,
+   "matched": [
+    "tone of voice",
+    "copywriter",
+    "editorial",
+    "storytelling",
+    "localisation",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About Fyxer Fyxer is building an AI executive assistant that handles emails, scheduling and follow-up, freeing people in client-facing roles to focus on their customers. It's the digital assistant for everyone drowning in their inbox, helping thousands of professionals reclaim hours they didn't even know they could get back. The Role We're looking for an exceptional contract Copywriter to join our",
+   "first_seen": "2026-09-12",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-fyxer-lead-copywriter-london-173935",
    "title": "Lead Copywriter",
    "company": "Fyxer",
@@ -279,7 +303,7 @@
    "years": 5,
    "summary": "About Fyxer Fyxer is building an AI executive assistant that handles emails, scheduling and follow-up, freeing people in client-facing roles to focus on their customers. It's the digital assistant for everyone drowning in their inbox, helping thousands of professionals reclaim hours they didn't even know they could get back. The Role We're looking for an exceptional contract Copywriter to join our",
    "first_seen": "2026-09-11",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
@@ -383,30 +407,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-jung-von-matt-creative-director-art-hamburg-377369",
-   "title": "Creative Director Art",
-   "company": "Jung von Matt",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/jung-von-matt/creative-director-art-hamburg-377369",
-   "score": 39,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "campaign",
-    "production",
-    "agency",
-    "ai",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "Position Jung von Matt SPORTS is looking for a Creative Director Art (m/f/d) About You Strong understanding of creative strategy and its business impact. Ability to translate complex challenges into clear creative direction. Excellent judgment in evaluating and sharpening ideas. Strong interdisciplinary creative leadership across all media and channels. High standards for creative quality and exec",
-   "first_seen": "2026-09-11",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
    "title": "Senior Content Writer, Global",
    "company": "adyen",
@@ -504,6 +504,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-pr-manager-berlin-98388",
+   "title": "PR Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/pr-manager-berlin-98388",
+   "score": 36,
+   "matched": [
+    "concept",
+    "campaign",
+    "storytelling",
+    "ai",
+    "b2b",
+    "retail",
+    "press release",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
+   "first_seen": "2026-09-12",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
    "title": "Brand Enablement Manager",
    "company": "adyen",
@@ -547,6 +570,52 @@
    "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
    "first_seen": "2026-09-10",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-brand-experience-manager-berlin-199979",
+   "title": "Brand Experience Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-199979",
+   "score": 33,
+   "matched": [
+    "concept",
+    "brand book",
+    "production",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "own the brand"
+   ],
+   "years": null,
+   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
+   "first_seen": "2026-09-12",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-136222",
+   "title": "Senior Creative Strategist (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-136222",
+   "score": 32,
+   "matched": [
+    "creative strategy",
+    "campaign",
+    "narrative",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
+   "first_seen": "2026-09-12",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -594,29 +663,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-shopware-ag-remote-senior-content-marketing-manager-seo-geo-blog-schoppingen-2763",
-   "title": "Senior Content Marketing Manager \u2013 SEO/GEO & Blog (m/w/d)",
-   "company": "shopware AG",
-   "location": "Homeoffice",
-   "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-senior-content-marketing-manager-seo-geo-blog-schoppingen-276304",
-   "score": 27,
-   "matched": [
-    "editorial",
-    "stakeholder",
-    "ai",
-    "generative ai",
-    "prompt",
-    "b2b",
-    "e-commerce",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Shopware ist ein f\u00fchrendes E-Commerce-System, das es Unternehmen weltweit erm\u00f6glicht, schnell und effizient im digitalen Handel zu skalieren. Als zukunftsweisende Open-Source-L\u00f6sung wird Shopware bereits von einigen der gr\u00f6\u00dften europ\u00e4ischen Marken, Einzelh\u00e4ndlern und Herstellern in den B2C- und B2B-Branchen genutzt. Als Senior Content Marketing Manager \u2013 SEO/GEO & Blog \u00fcbernimmst du eine zentrale ",
-   "first_seen": "2026-09-11",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8187387",
    "title": "Senior Strategy Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -659,6 +705,27 @@
    "is_new": false
   },
   {
+   "id": "https-himalayas-app-companies-bjak-jobs-creative-project-executive",
+   "title": "Creative Project Executive",
+   "company": "Bjak",
+   "location": "Malaysia",
+   "url": "https://himalayas.app/companies/bjak/jobs/creative-project-executive",
+   "score": 24,
+   "matched": [
+    "campaign",
+    "production",
+    "agency",
+    "in-house",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in th",
+   "first_seen": "2026-09-12",
+   "is_new": true
+  },
+  {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
    "title": "Head of Marketing & Communications",
    "company": "garden3d",
@@ -697,6 +764,46 @@
    "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
    "first_seen": "2026-08-19",
    "is_new": false
+  },
+  {
+   "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
+   "title": "Senior Communications Officer Strategic Communications",
+   "company": "GiveWell",
+   "location": "United States",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
+   "score": 21,
+   "matched": [
+    "editorial",
+    "narrative",
+    "production",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
+   "first_seen": "2026-09-12",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-242132",
+   "title": "(Senior) Social Brand Manager (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-242132",
+   "score": 19,
+   "matched": [
+    "campaign",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
+   "first_seen": "2026-09-12",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
