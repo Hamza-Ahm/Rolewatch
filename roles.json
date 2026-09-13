@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-12 11:30 UTC",
- "scanned": 3897,
+ "updated": "2026-09-13 12:35 UTC",
+ "scanned": 3900,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -27,6 +27,58 @@
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-09-10",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31469901",
+   "title": "Creative Director",
+   "company": "Hello Global AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31469901",
+   "score": 67,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "brand guidelines",
+    "editorial",
+    "creative direction",
+    "concept",
+    "campaign",
+    "production",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai"
+   ],
+   "years": null,
+   "summary": "Agency-Based | Outdoor, Lifestyle & Active IndustriesPosition Overview We are seeking an experienced, strategic, and highly collaborative Creative Director to lead the creative vision and execution of campaigns, content, and brand experiences for clients across the outdoor, lifestyle, wellness, fitness, sport, travel, and active industries. This agency-based role will work across multiple client a",
+   "first_seen": "2026-09-13",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-faculty-head-of-brand-marketing-london-288916",
+   "title": "Head of Brand Marketing",
+   "company": "Faculty",
+   "location": "UK - London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/head-of-brand-marketing-london-288916",
+   "score": 64,
+   "matched": [
+    "brand strategy",
+    "brand positioning",
+    "positioning",
+    "tone of voice",
+    "brand guidelines",
+    "editorial",
+    "campaign",
+    "storytelling",
+    "narrative",
+    "ai",
+    "retail",
+    "pr"
+   ],
+   "years": null,
+   "summary": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here . We don\u2019t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thin",
+   "first_seen": "2026-09-13",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
@@ -258,54 +310,6 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-fyxer-jobs-lead-copywriter",
-   "title": "Lead Copywriter",
-   "company": "FYXER",
-   "location": "United Kingdom",
-   "url": "https://himalayas.app/companies/fyxer/jobs/lead-copywriter",
-   "score": 44,
-   "matched": [
-    "tone of voice",
-    "copywriter",
-    "editorial",
-    "storytelling",
-    "localisation",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About Fyxer Fyxer is building an AI executive assistant that handles emails, scheduling and follow-up, freeing people in client-facing roles to focus on their customers. It's the digital assistant for everyone drowning in their inbox, helping thousands of professionals reclaim hours they didn't even know they could get back. The Role We're looking for an exceptional contract Copywriter to join our",
-   "first_seen": "2026-09-12",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-fyxer-lead-copywriter-london-173935",
-   "title": "Lead Copywriter",
-   "company": "Fyxer",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/fyxer/lead-copywriter-london-173935",
-   "score": 44,
-   "matched": [
-    "tone of voice",
-    "copywriter",
-    "editorial",
-    "storytelling",
-    "localisation",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About Fyxer Fyxer is building an AI executive assistant that handles emails, scheduling and follow-up, freeing people in client-facing roles to focus on their customers. It's the digital assistant for everyone drowning in their inbox, helping thousands of professionals reclaim hours they didn't even know they could get back. The Role We're looking for an exceptional contract Copywriter to join our",
-   "first_seen": "2026-09-11",
-   "is_new": false
-  },
-  {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
    "title": "Brand Event Manager",
    "company": "alan",
@@ -356,6 +360,31 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-tem-brand-creative-design-lead-united-kingdom-175007",
+   "title": "Brand & Creative Design Lead",
+   "company": "tem",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/brand-creative-design-lead-united-kingdom-175007",
+   "score": 41,
+   "matched": [
+    "positioning",
+    "concept",
+    "campaign",
+    "storytelling",
+    "production",
+    "in-house",
+    "cross-functional",
+    "ai",
+    "fintech",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\ud83d\udcc8 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. tem exists to fix a broken global energy market that\u2019s long favoured legacy operators, intermediaries, and opaque pricing. Today\u2019s electricit",
+   "first_seen": "2026-09-13",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31447382",
@@ -456,30 +485,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
-   "title": "Head of Brand",
-   "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
-   "score": 38,
-   "matched": [
-    "positioning",
-    "campaign",
-    "brand campaign",
-    "narrative",
-    "production",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
-   "first_seen": "2026-09-07",
-   "is_new": false
-  },
-  {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
@@ -504,27 +509,28 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-pr-manager-berlin-98388",
-   "title": "PR Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/pr-manager-berlin-98388",
-   "score": 36,
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "title": "Head of Brand",
+   "company": "make",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "score": 38,
    "matched": [
-    "concept",
+    "positioning",
     "campaign",
-    "storytelling",
+    "brand campaign",
+    "narrative",
+    "production",
+    "cross-functional",
     "ai",
     "b2b",
-    "retail",
-    "press release",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
-   "first_seen": "2026-09-12",
-   "is_new": true
+   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
+   "first_seen": "2026-09-07",
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -570,52 +576,6 @@
    "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
    "first_seen": "2026-09-10",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-brand-experience-manager-berlin-199979",
-   "title": "Brand Experience Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-199979",
-   "score": 33,
-   "matched": [
-    "concept",
-    "brand book",
-    "production",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "own the brand"
-   ],
-   "years": null,
-   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
-   "first_seen": "2026-09-12",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-136222",
-   "title": "Senior Creative Strategist (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-136222",
-   "score": 32,
-   "matched": [
-    "creative strategy",
-    "campaign",
-    "narrative",
-    "production",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
-   "first_seen": "2026-09-12",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -705,27 +665,6 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-bjak-jobs-creative-project-executive",
-   "title": "Creative Project Executive",
-   "company": "Bjak",
-   "location": "Malaysia",
-   "url": "https://himalayas.app/companies/bjak/jobs/creative-project-executive",
-   "score": 24,
-   "matched": [
-    "campaign",
-    "production",
-    "agency",
-    "in-house",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, its the leading insurance platform in Southeast Asia. Today, we are expanding ways to help people in th",
-   "first_seen": "2026-09-12",
-   "is_new": true
-  },
-  {
    "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
    "title": "Head of Marketing & Communications",
    "company": "garden3d",
@@ -783,27 +722,7 @@
    "years": null,
    "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
    "first_seen": "2026-09-12",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-242132",
-   "title": "(Senior) Social Brand Manager (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-242132",
-   "score": 19,
-   "matched": [
-    "campaign",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
-   "first_seen": "2026-09-12",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
