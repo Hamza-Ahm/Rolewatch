@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-13 12:35 UTC",
- "scanned": 3900,
+ "updated": "2026-09-14 13:42 UTC",
+ "scanned": 3870,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -52,33 +52,7 @@
    "years": null,
    "summary": "Agency-Based | Outdoor, Lifestyle & Active IndustriesPosition Overview We are seeking an experienced, strategic, and highly collaborative Creative Director to lead the creative vision and execution of campaigns, content, and brand experiences for clients across the outdoor, lifestyle, wellness, fitness, sport, travel, and active industries. This agency-based role will work across multiple client a",
    "first_seen": "2026-09-13",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-faculty-head-of-brand-marketing-london-288916",
-   "title": "Head of Brand Marketing",
-   "company": "Faculty",
-   "location": "UK - London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/head-of-brand-marketing-london-288916",
-   "score": 64,
-   "matched": [
-    "brand strategy",
-    "brand positioning",
-    "positioning",
-    "tone of voice",
-    "brand guidelines",
-    "editorial",
-    "campaign",
-    "storytelling",
-    "narrative",
-    "ai",
-    "retail",
-    "pr"
-   ],
-   "years": null,
-   "summary": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we\u2019ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here . We don\u2019t chase hype cycles. We innovate, build and deploy responsible AI which moves the needle - and we know a thin",
-   "first_seen": "2026-09-13",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
@@ -360,31 +334,6 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-tem-brand-creative-design-lead-united-kingdom-175007",
-   "title": "Brand & Creative Design Lead",
-   "company": "tem",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/brand-creative-design-lead-united-kingdom-175007",
-   "score": 41,
-   "matched": [
-    "positioning",
-    "concept",
-    "campaign",
-    "storytelling",
-    "production",
-    "in-house",
-    "cross-functional",
-    "ai",
-    "fintech",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "\ud83d\udcc8 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. tem exists to fix a broken global energy market that\u2019s long favoured legacy operators, intermediaries, and opaque pricing. Today\u2019s electricit",
-   "first_seen": "2026-09-13",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31447382",
@@ -725,6 +674,44 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-ykone-gmbh-account-lead-influencer-marketing-brand-strategy-munich-492454",
+   "title": "Account Lead Influencer Marketing & Brand Strategy (m/w/d)",
+   "company": "Ykone GmbH",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/ykone-gmbh/account-lead-influencer-marketing-brand-strategy-munich-492454",
+   "score": 21,
+   "matched": [
+    "brand strategy",
+    "campaign",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Du arbeitest im Influencer Marketing und denkst manchmal: Da m\u00fcsste eigentlich noch mehr gehen? Mehr Strategie. Mehr Verantwortung. Gr\u00f6\u00dfere Marken. Gr\u00f6\u00dfere Ideen. Ein eigenes Team. Und vor allem mehr Einfluss darauf, was am Ende wirklich passiert und was im besten Fall die Branche pr\u00e4gt? Then keep reading. \ud83d\udc40 Ykone z\u00e4hlt zu den f\u00fchrenden Influencer Marketing Agenturen weltweit. Seit \u00fcber 13 Jahren ",
+   "first_seen": "2026-09-14",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-aampere-founding-brand-manager-munchen-378004",
+   "title": "Founding Brand Manager (m/w/d)",
+   "company": "Aampere",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-brand-manager-munchen-378004",
+   "score": 20,
+   "matched": [
+    "tone of voice",
+    "narrative",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\u00dcber Aampere Werde Teil von Aampere , einem Seed-Stage VC-backed Startup, das den europ\u00e4ischen Markt f\u00fcr gebrauchte E-Autos neu definiert . Seit unserem Launch erm\u00f6glichen wir EV-Besitzern einen schnellen & reibungslosen Verkauf innerhalb von 48h. Kaufende H\u00e4ndler aus ganz Europa haben Zugriff auf E-Autos von bisher nicht erschlossene Kundengruppen. Unser Team kommt aus der deutschen Startup-Szene",
+   "first_seen": "2026-09-14",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -742,6 +729,25 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munchen-37178",
+   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
+   "company": "New Flag GmbH",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-371785",
+   "score": 15,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "fmcg",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&D und internationalen Vertrieb",
+   "first_seen": "2026-09-14",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
