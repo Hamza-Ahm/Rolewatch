@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-14 13:42 UTC",
- "scanned": 3870,
+ "updated": "2026-09-15 12:30 UTC",
+ "scanned": 3747,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -105,6 +105,32 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-08",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-sharkninjaoperatingllc-social-creative-director-emea-london-442552",
+   "title": "Social Creative Director, EMEA",
+   "company": "Sharkninjaoperatingllc",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/social-creative-director-emea-london-442552",
+   "score": 53,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "campaign",
+    "global brand",
+    "multi-market",
+    "production",
+    "ai",
+    "retail",
+    "pr",
+    "team",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About Us</span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":0,\"335559739\":280}\"> </span></p> <p>SharkNinja is a global product design and technology company, with a diversified portfolio of 5-star rated lifestyle solutions that positively impact people\u2019s lives in homes around the world. <strong>Powe",
+   "first_seen": "2026-09-15",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
@@ -505,26 +531,29 @@
    "is_new": false
   },
   {
-   "id": "https-remoteok-com-remote-jobs-remote-freelance-creative-director-bmwl-1135901",
-   "title": "Freelance Creative Director",
-   "company": "BMWL",
-   "location": "California, California, United States",
-   "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-quince-senior-creative-strategist-london-368524",
+   "title": "Senior Creative Strategist",
+   "company": "Quince",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-creative-strategist-london-368524",
    "score": 33,
    "matched": [
     "creative direction",
+    "creative strategy",
     "concept",
-    "campaign",
     "production",
+    "cross-functional",
     "ai",
+    "retail",
     "pr",
     "team",
-    "7+ years"
+    "- meta ads manager",
+    "5+ years"
    ],
-   "years": 7,
-   "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
-   "first_seen": "2026-09-10",
-   "is_new": false
+   "years": 5,
+   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
+   "first_seen": "2026-09-15",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -572,6 +601,27 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
+   "title": "Senior Strategy Manager, Digital Content, Media & Communications",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8137858",
+   "score": 26,
+   "matched": [
+    "script",
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-09-08",
+   "is_new": false
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8187387",
    "title": "Senior Strategy Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -590,27 +640,6 @@
    "years": 7,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-09",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
-   "title": "Senior Vertical Manager, Digital Content, Media & Communications",
-   "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8137858",
-   "score": 26,
-   "matched": [
-    "script",
-    "stakeholder",
-    "ai",
-    "fintech",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-09-08",
    "is_new": false
   },
   {
@@ -654,64 +683,6 @@
    "is_new": false
   },
   {
-   "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
-   "title": "Senior Communications Officer Strategic Communications",
-   "company": "GiveWell",
-   "location": "United States",
-   "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
-   "score": 21,
-   "matched": [
-    "editorial",
-    "narrative",
-    "production",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
-   "first_seen": "2026-09-12",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-ykone-gmbh-account-lead-influencer-marketing-brand-strategy-munich-492454",
-   "title": "Account Lead Influencer Marketing & Brand Strategy (m/w/d)",
-   "company": "Ykone GmbH",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/ykone-gmbh/account-lead-influencer-marketing-brand-strategy-munich-492454",
-   "score": 21,
-   "matched": [
-    "brand strategy",
-    "campaign",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Du arbeitest im Influencer Marketing und denkst manchmal: Da m\u00fcsste eigentlich noch mehr gehen? Mehr Strategie. Mehr Verantwortung. Gr\u00f6\u00dfere Marken. Gr\u00f6\u00dfere Ideen. Ein eigenes Team. Und vor allem mehr Einfluss darauf, was am Ende wirklich passiert und was im besten Fall die Branche pr\u00e4gt? Then keep reading. \ud83d\udc40 Ykone z\u00e4hlt zu den f\u00fchrenden Influencer Marketing Agenturen weltweit. Seit \u00fcber 13 Jahren ",
-   "first_seen": "2026-09-14",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-aampere-founding-brand-manager-munchen-378004",
-   "title": "Founding Brand Manager (m/w/d)",
-   "company": "Aampere",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-brand-manager-munchen-378004",
-   "score": 20,
-   "matched": [
-    "tone of voice",
-    "narrative",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "\u00dcber Aampere Werde Teil von Aampere , einem Seed-Stage VC-backed Startup, das den europ\u00e4ischen Markt f\u00fcr gebrauchte E-Autos neu definiert . Seit unserem Launch erm\u00f6glichen wir EV-Besitzern einen schnellen & reibungslosen Verkauf innerhalb von 48h. Kaufende H\u00e4ndler aus ganz Europa haben Zugriff auf E-Autos von bisher nicht erschlossene Kundengruppen. Unser Team kommt aus der deutschen Startup-Szene",
-   "first_seen": "2026-09-14",
-   "is_new": true
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -731,22 +702,43 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munchen-37178",
-   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
-   "company": "New Flag GmbH",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-371785",
-   "score": 15,
+   "id": "https-www-arbeitnow-com-jobs-companies-pennylane-content-communications-marketing-manager-germany-berlin-344091",
+   "title": "Content & Communications Marketing Manager - Germany (m/w/d)",
+   "company": "Pennylane",
+   "location": "Berlin Office",
+   "url": "https://www.arbeitnow.com/jobs/companies/pennylane/content-communications-marketing-manager-germany-berlin-344091",
+   "score": 18,
    "matched": [
-    "stakeholder",
+    "editorial",
     "ai",
-    "fmcg",
+    "b2b",
+    "fintech",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&D und internationalen Vertrieb",
-   "first_seen": "2026-09-14",
+   "summary": "M\u00f6chtest du das t\u00e4gliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivit\u00e4t und Autonomie sch\u00e4tzt? Stimmen unsere Company Values mit deiner Vision \u00fcberein? Dann ist Pennylane der richtige Ort f\u00fcr dich! Unsere Vision Wir wollen das beliebteste finanzielle Betriebssystem f\u00fcr KMU (kleine und mittlere U",
+   "first_seen": "2026-09-15",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-cosmo-beauty-brand-house-gmbh-brand-manager-dach-berlin-496947",
+   "title": "Brand Manager DACH (m/w/d)",
+   "company": "Cosmo Beauty Brand House GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/cosmo-beauty-brand-house-gmbh/brand-manager-dach-berlin-496947",
+   "score": 17,
+   "matched": [
+    "stakeholder",
+    "ai",
+    "retail",
+    "e-commerce",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Wir sind ein vielf\u00e4ltiges Team von Sch\u00f6nheitsenthusiasten aus der ganzen Welt, die sich f\u00fcr ein integratives und unterst\u00fctzendes Arbeitsumfeld einsetzen, in dem sich jeder wertgesch\u00e4tzt und respektiert f\u00fchlt. Als f\u00fchrende internationale Sch\u00f6nheitsmarke haben wir uns zum Ziel gesetzt, qualitativ hochwertige Produkte anzubieten, die den Menschen helfen, ihren einzigartigen Sinn f\u00fcr Stil zu st\u00e4rken. ",
+   "first_seen": "2026-09-15",
    "is_new": true
   },
   {
