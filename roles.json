@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-15 12:30 UTC",
- "scanned": 3747,
+ "updated": "2026-09-16 12:27 UTC",
+ "scanned": 3836,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -105,32 +105,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-sharkninjaoperatingllc-social-creative-director-emea-london-442552",
-   "title": "Social Creative Director, EMEA",
-   "company": "Sharkninjaoperatingllc",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sharkninjaoperatingllc/social-creative-director-emea-london-442552",
-   "score": 53,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "campaign",
-    "global brand",
-    "multi-market",
-    "production",
-    "ai",
-    "retail",
-    "pr",
-    "team",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About Us</span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":0,\"335559739\":280}\"> </span></p> <p>SharkNinja is a global product design and technology company, with a diversified portfolio of 5-star rated lifestyle solutions that positively impact people\u2019s lives in homes around the world. <strong>Powe",
-   "first_seen": "2026-09-15",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
@@ -411,6 +385,31 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-norgine-2-senior-brand-lead-dach-consumer-health-maternity-leave-cover-wettenberg",
+   "title": "Senior Brand Lead DACH (Consumer Health), Maternity Leave Cover",
+   "company": "Norgine 2",
+   "location": "Wettenberg, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/norgine-2/senior-brand-lead-dach-consumer-health-maternity-leave-cover-wettenberg-36219",
+   "score": 39,
+   "matched": [
+    "concept",
+    "campaign",
+    "global brand",
+    "script",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "fmcg",
+    "e-commerce",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Want a 3D Career? Join Norgine. At Norgine, our colleagues Dare themselves to be different and try new things, Drive to achieve their goals and beyond, and Develop themselves and their community. We call it the 3D career at Norgine and it offers you a fully-rounded experience with no limits. Bring everything about yourself that you\u2019re proud of, whether that\u2019s your passion for making a difference, ",
+   "first_seen": "2026-09-16",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
    "title": "Senior Content Writer, Global",
    "company": "adyen",
@@ -434,6 +433,30 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-08",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31483855",
+   "title": "Employer Branding Specialist",
+   "company": "Nordic Investin Group Aktiebolag",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31483855",
+   "score": 38,
+   "matched": [
+    "copywriting",
+    "editorial",
+    "campaign",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "internal communications",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Nordic Investin has been engaged by a partner company to find an Employer Branding Specialist. You can turn the reality of working somewhere into a story that attracts attention without becoming polished corporate fiction. The partner wants to strengthen its position in competitive talent markets. You will connect employee insight, recruitment needs and communications expertise to create employer ",
+   "first_seen": "2026-09-16",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
@@ -460,11 +483,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -484,11 +507,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -531,28 +554,48 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-quince-senior-creative-strategist-london-368524",
-   "title": "Senior Creative Strategist",
-   "company": "Quince",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-creative-strategist-london-368524",
+   "id": "https-remoteok-com-remote-jobs-remote-freelance-creative-director-bmwl-1135901",
+   "title": "Freelance Creative Director",
+   "company": "BMWL",
+   "location": "California, California, United States",
+   "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
    "score": 33,
    "matched": [
     "creative direction",
-    "creative strategy",
     "concept",
+    "campaign",
     "production",
-    "cross-functional",
     "ai",
-    "retail",
     "pr",
     "team",
-    "- meta ads manager",
-    "5+ years"
+    "7+ years"
    ],
-   "years": 5,
-   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
-   "first_seen": "2026-09-15",
+   "years": 7,
+   "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
+   "first_seen": "2026-09-16",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-355142",
+   "title": "Senior Creative Strategist (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-355142",
+   "score": 32,
+   "matched": [
+    "creative strategy",
+    "campaign",
+    "narrative",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
+   "first_seen": "2026-09-16",
    "is_new": true
   },
   {
@@ -601,27 +644,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
-   "title": "Senior Strategy Manager, Digital Content, Media & Communications",
-   "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8137858",
-   "score": 26,
-   "matched": [
-    "script",
-    "stakeholder",
-    "ai",
-    "fintech",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8187387",
    "title": "Senior Strategy Manager, Digital Content, Media & Communications",
    "company": "adyen",
@@ -643,24 +665,46 @@
    "is_new": false
   },
   {
-   "id": "https-remotive-com-remote-jobs-marketing-head-of-marketing-communications-2091068",
-   "title": "Head of Marketing & Communications",
-   "company": "garden3d",
-   "location": "Worldwide",
-   "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-   "score": 24,
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
+   "title": "Senior Strategy Manager, Digital Content, Media & Communications",
+   "company": "adyen",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8137858",
+   "score": 26,
    "matched": [
-    "editorial",
-    "narrative",
+    "script",
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-09-08",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-phmg-careers-product-owner-communications-channels-ai-manchester-31608",
+   "title": "Product Owner - Communications Channels & AI",
+   "company": "PHMG Careers",
+   "location": "Manchester, England, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/phmg-careers/product-owner-communications-channels-ai-manchester-31608",
+   "score": 25,
+   "matched": [
+    "global brand",
     "production",
+    "agency",
+    "cross-functional",
     "ai",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "We are hiring a Head of Marketing & Communications to tell the garden3d story across the internet, from wherever in the world you happen to be. More details if you check our original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin o",
-   "first_seen": "2026-08-19",
-   "is_new": false
+   "summary": "Role: Product Owner \u2013 Communication Channels & AI Location: Manchester Hours: Monday-Friday 8:45am-5:15pm Package: \u00a380k OTE As Product Owner - Technical Products, your role is to own and continuously improve PHMG's Technical product portfolio, ensuring Cloud Telephony, AI Receptionist and CCE deliver measurable client value, operational quality and long-term commercial growth. You are accountable ",
+   "first_seen": "2026-09-16",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
@@ -683,6 +727,46 @@
    "is_new": false
   },
   {
+   "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
+   "title": "Senior Communications Officer Strategic Communications",
+   "company": "GiveWell",
+   "location": "United States",
+   "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
+   "score": 21,
+   "matched": [
+    "editorial",
+    "narrative",
+    "production",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
+   "first_seen": "2026-09-16",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-47568",
+   "title": "(Senior) Social Brand Manager (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-47568",
+   "score": 19,
+   "matched": [
+    "campaign",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
+   "first_seen": "2026-09-16",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -700,46 +784,6 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-pennylane-content-communications-marketing-manager-germany-berlin-344091",
-   "title": "Content & Communications Marketing Manager - Germany (m/w/d)",
-   "company": "Pennylane",
-   "location": "Berlin Office",
-   "url": "https://www.arbeitnow.com/jobs/companies/pennylane/content-communications-marketing-manager-germany-berlin-344091",
-   "score": 18,
-   "matched": [
-    "editorial",
-    "ai",
-    "b2b",
-    "fintech",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "M\u00f6chtest du das t\u00e4gliche Leben von Millionen von Unternehmern in Deutschland (und bald in Europa) beeinflussen? Suchst du nach einem Arbeitsumfeld, das Vertrauen, Proaktivit\u00e4t und Autonomie sch\u00e4tzt? Stimmen unsere Company Values mit deiner Vision \u00fcberein? Dann ist Pennylane der richtige Ort f\u00fcr dich! Unsere Vision Wir wollen das beliebteste finanzielle Betriebssystem f\u00fcr KMU (kleine und mittlere U",
-   "first_seen": "2026-09-15",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-cosmo-beauty-brand-house-gmbh-brand-manager-dach-berlin-496947",
-   "title": "Brand Manager DACH (m/w/d)",
-   "company": "Cosmo Beauty Brand House GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/cosmo-beauty-brand-house-gmbh/brand-manager-dach-berlin-496947",
-   "score": 17,
-   "matched": [
-    "stakeholder",
-    "ai",
-    "retail",
-    "e-commerce",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Wir sind ein vielf\u00e4ltiges Team von Sch\u00f6nheitsenthusiasten aus der ganzen Welt, die sich f\u00fcr ein integratives und unterst\u00fctzendes Arbeitsumfeld einsetzen, in dem sich jeder wertgesch\u00e4tzt und respektiert f\u00fchlt. Als f\u00fchrende internationale Sch\u00f6nheitsmarke haben wir uns zum Ziel gesetzt, qualitativ hochwertige Produkte anzubieten, die den Menschen helfen, ihren einzigartigen Sinn f\u00fcr Stil zu st\u00e4rken. ",
-   "first_seen": "2026-09-15",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
