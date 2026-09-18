@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-17 12:28 UTC",
- "scanned": 3711,
+ "updated": "2026-09-18 12:06 UTC",
+ "scanned": 3859,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -551,52 +551,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-eb485598-6bf3-40a5-8560-d70150131305-global-pr-lead-12-month-ftc-london-294905",
-   "title": "Global PR Lead - 12 month FTC",
-   "company": "Eb485598 6Bf3 40A5 8560 D70150131305",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/eb485598-6bf3-40a5-8560-d70150131305/global-pr-lead-12-month-ftc-london-294905",
-   "score": 32,
-   "matched": [
-    "campaign",
-    "global brand",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "About Skyscanner Everyone loves travelling, but planning is not without its challenges \u2708\ufe0f. That's why we've spent 20 years building tools that turn travel-planning chaos into a breeze. Today, around 160 million travellers count on us every month to skip the whole \u201c47 browser tabs open\u201d phase and find flights, cars, and hotels quickly and easily \ud83d\udcbb. Joining Skyscanner means becoming part of a global",
-   "first_seen": "2026-09-17",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-355142",
-   "title": "Senior Creative Strategist (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-355142",
-   "score": 32,
-   "matched": [
-    "creative strategy",
-    "campaign",
-    "narrative",
-    "production",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
-   "first_seen": "2026-09-16",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -642,48 +596,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8187387",
-   "title": "Senior Strategy Manager, Digital Content, Media & Communications",
-   "company": "adyen",
-   "location": "San Francisco",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8187387",
-   "score": 26,
-   "matched": [
-    "script",
-    "stakeholder",
-    "ai",
-    "fintech",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-09-09",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8137858",
-   "title": "Senior Strategy Manager, Digital Content, Media & Communications",
-   "company": "adyen",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8137858",
-   "score": 26,
-   "matched": [
-    "script",
-    "stakeholder",
-    "ai",
-    "fintech",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
    "title": "Head of Project Management, H&M Global Communications",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -724,48 +636,23 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-wolt-jobs-8208032",
-   "title": "Brand Media Manager",
-   "company": "wolt",
-   "location": "Tel Aviv, Israel",
-   "url": "https://job-boards.greenhouse.io/wolt/jobs/8208032",
-   "score": 21,
+   "id": "https-www-arbeitnow-com-jobs-companies-aampere-founding-brand-manager-munchen-87116",
+   "title": "Founding Brand Manager (m/w/d)",
+   "company": "Aampere",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-brand-manager-munchen-87116",
+   "score": 20,
    "matched": [
-    "campaign",
-    "global brand",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "- attribution",
-    "- mmm"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
-   "first_seen": "2026-09-17",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-47568",
-   "title": "(Senior) Social Brand Manager (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-47568",
-   "score": 19,
-   "matched": [
-    "campaign",
-    "agency",
-    "stakeholder",
+    "tone of voice",
+    "narrative",
     "ai",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
-   "first_seen": "2026-09-16",
-   "is_new": false
+   "summary": "\u00dcber Aampere Werde Teil von Aampere , einem Seed-Stage VC-backed Startup, das den europ\u00e4ischen Markt f\u00fcr gebrauchte E-Autos neu definiert . Seit unserem Launch erm\u00f6glichen wir EV-Besitzern einen schnellen & reibungslosen Verkauf innerhalb von 48h. Kaufende H\u00e4ndler aus ganz Europa haben Zugriff auf E-Autos von bisher nicht erschlossene Kundengruppen. Unser Team kommt aus der deutschen Startup-Szene",
+   "first_seen": "2026-09-18",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
@@ -785,6 +672,25 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-bifrost-studios-head-of-content-london-164672",
+   "title": "Head of Content",
+   "company": "Bifrost Studios",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bifrost-studios/head-of-content-london-164672",
+   "score": 17,
+   "matched": [
+    "campaign",
+    "ai",
+    "fintech",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Leopard Labs builds digital products and distribution around global thought leaders in institutional capital. Our first products serve macroeconomic intelligence to institutional hedge funds managing more than 200 billion dollars. We are now adding more domains to the portfolio \u2014 and we are hiring a Head of Content to build the distribution and growth of that thought leadership to a global audienc",
+   "first_seen": "2026-09-18",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
