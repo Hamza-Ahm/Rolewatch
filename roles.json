@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-18 12:06 UTC",
- "scanned": 3859,
+ "updated": "2026-09-19 11:49 UTC",
+ "scanned": 3862,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -185,6 +185,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-almedia-marketing-communications-manager-b2b-berlin-477409",
+   "title": "Marketing Communications Manager (B2B)",
+   "company": "Almedia",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/almedia/marketing-communications-manager-b2b-berlin-477409",
+   "score": 50,
+   "matched": [
+    "long-form",
+    "concept",
+    "campaign",
+    "brand campaign",
+    "storytelling",
+    "narrative",
+    "messaging framework",
+    "production",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr"
+   ],
+   "years": null,
+   "summary": "This isn\u2019t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We\u2019re aiming to become Germany\u2019s second bootstrapped unicorn. Almedia is already Europe\u2019s #3 fastest-growing company in 2025 (FT1000). We are building the future of marketing by rewarding our community of over 80 million users for engaging with our advertisers",
+   "first_seen": "2026-09-19",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
    "title": "Copywriter, Global Creative [All genders]",
    "company": "hellofresh",
@@ -257,6 +283,32 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-pigment-head-of-brand-marketing-london-or-paris-75283",
+   "title": "Head of Brand Marketing",
+   "company": "Pigment",
+   "location": "London or Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pigment/head-of-brand-marketing-london-or-paris-75283",
+   "score": 47,
+   "matched": [
+    "brand strategy",
+    "campaign",
+    "narrative",
+    "film",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "Join Pigment: The AI Platform Redefining Business Planning Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering every team\u2014from Finance to HR\u2014to build, adapt, and align strategic plans in real time. Founded in 2019, Pigment is one of the fastest-growing",
+   "first_seen": "2026-09-19",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -596,26 +648,6 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31370754",
-   "title": "Head of Project Management, H&M Global Communications",
-   "company": "H & M Hennes & Mauritz GBC AB",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31370754",
-   "score": 22,
-   "matched": [
-    "script",
-    "stakeholder",
-    "ai",
-    "internal communications",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Job Description The Global Communications department at H&M Group works with integrated communications to reach our different target groups with our story. Our role is to build, strengthen, and protect our company and brands through communication, always with the customer first in mind. We work with integrated communications to share our story with different target groups, from exciting collaborat",
-   "first_seen": "2026-08-19",
-   "is_new": false
-  },
-  {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
    "title": "Senior Communications Officer Strategic Communications",
    "company": "GiveWell",
@@ -636,22 +668,27 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-aampere-founding-brand-manager-munchen-87116",
-   "title": "Founding Brand Manager (m/w/d)",
-   "company": "Aampere",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-brand-manager-munchen-87116",
-   "score": 20,
+   "id": "https-job-boards-greenhouse-io-wolt-jobs-8208032",
+   "title": "Brand Media Manager",
+   "company": "wolt",
+   "location": "Tel Aviv, Israel",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8208032",
+   "score": 21,
    "matched": [
-    "tone of voice",
-    "narrative",
+    "campaign",
+    "global brand",
+    "agency",
+    "stakeholder",
+    "cross-functional",
     "ai",
     "pr",
-    "team"
+    "team",
+    "- attribution",
+    "- mmm"
    ],
    "years": null,
-   "summary": "\u00dcber Aampere Werde Teil von Aampere , einem Seed-Stage VC-backed Startup, das den europ\u00e4ischen Markt f\u00fcr gebrauchte E-Autos neu definiert . Seit unserem Launch erm\u00f6glichen wir EV-Besitzern einen schnellen & reibungslosen Verkauf innerhalb von 48h. Kaufende H\u00e4ndler aus ganz Europa haben Zugriff auf E-Autos von bisher nicht erschlossene Kundengruppen. Unser Team kommt aus der deutschen Startup-Szene",
-   "first_seen": "2026-09-18",
+   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
+   "first_seen": "2026-09-19",
    "is_new": true
   },
   {
@@ -672,25 +709,6 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-bifrost-studios-head-of-content-london-164672",
-   "title": "Head of Content",
-   "company": "Bifrost Studios",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/bifrost-studios/head-of-content-london-164672",
-   "score": 17,
-   "matched": [
-    "campaign",
-    "ai",
-    "fintech",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Leopard Labs builds digital products and distribution around global thought leaders in institutional capital. Our first products serve macroeconomic intelligence to institutional hedge funds managing more than 200 billion dollars. We are now adding more domains to the portfolio \u2014 and we are hiring a Head of Content to build the distribution and growth of that thought leadership to a global audienc",
-   "first_seen": "2026-09-18",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
