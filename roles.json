@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-20 12:03 UTC",
- "scanned": 3864,
+ "updated": "2026-09-21 13:40 UTC",
+ "scanned": 3852,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -284,29 +284,29 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-151207-ai-creative-director-ai-associate-creative-director",
-   "title": "AI Creative Director / AI Associate Creative Director",
-   "company": "Superside",
-   "location": "LATAM, Argentina",
-   "url": "https://jobicy.com/jobs/151207-ai-creative-director-ai-associate-creative-director",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-threecolts-senior-brand-lead-327459",
+   "title": "Senior Brand Lead",
+   "company": "Threecolts",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/threecolts/senior-brand-lead-327459",
    "score": 44,
    "matched": [
-    "creative direction",
-    "concept",
+    "positioning",
+    "editorial",
     "campaign",
+    "narrative",
     "production",
-    "in-house",
-    "cross-functional",
+    "stakeholder",
     "ai",
-    "prompt",
+    "b2b",
+    "retail",
+    "e-commerce",
     "pr",
-    "team",
-    "mentor",
-    "5+ years"
+    "team"
    ],
-   "years": 5,
-   "summary": "Superside is seeking visionary AI Creative Directors/Associate Creative Directors to guide a globally distributed team across branding, ad and social creative, presentations, print, and landing pages. In this high-impact role, you\u2019ll shape the future of AI-enhanced creativity by integrating generative tools into our design workflows, elevating both quality and efficiency. You\u2019ll lead by example as",
-   "first_seen": "2026-09-20",
+   "years": 7,
+   "summary": "<div class=\"content-intro\"><h4><strong>About Threecolts</strong></h4> <p>Threecolts is the leading software suite for online &amp; offline consumer brands (Amazon, Walmart, Target, Shopify, eBay, etc.). We\u2019ve built a powerful ecosystem of software solutions to help businesses grow smarter \u2014 from revenue recovery and retail finance, to multichannel operations and pricing optimization. With over 500",
+   "first_seen": "2026-09-21",
    "is_new": true
   },
   {
@@ -460,30 +460,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-151211-ai-lead-creative",
-   "title": "AI Lead Creative",
-   "company": "Superside",
-   "location": "LATAM, Argentina",
-   "url": "https://jobicy.com/jobs/151211-ai-lead-creative",
-   "score": 38,
-   "matched": [
-    "creative direction",
-    "concept",
-    "in-house",
-    "cross-functional",
-    "ai",
-    "generative ai",
-    "pr",
-    "team",
-    "mentor",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Superside is looking for a Lead Creative with a passion for Generative AI to shape creative excellence across branding, landing pages, ads, social, print, and presentations. You\u2019ll guide a global team of top-tier creatives, combining strategic leadership with hands-on craft to deliver human-centered, high-impact work for leading brands worldwide. This role sits at the intersection of creativity an",
-   "first_seen": "2026-09-20",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
    "title": "Senior Communications Manager",
    "company": "getyourguide",
@@ -508,11 +484,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -532,11 +508,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -601,6 +577,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-7125",
+   "title": "Senior Creative Strategist (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-7125",
+   "score": 32,
+   "matched": [
+    "creative strategy",
+    "campaign",
+    "narrative",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
+   "first_seen": "2026-09-21",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -646,23 +645,24 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-retailinsights-linkedin-copywriting-executive-at-retail-insights-london-208407",
-   "title": "LinkedIn Copywriting Executive at Retail Insights",
-   "company": "Retailinsights",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/linkedin-copywriting-executive-at-retail-insights-london-208407",
-   "score": 24,
+   "id": "https-www-arbeitnow-com-jobs-companies-intermate-media-gmbh-senior-creative-concept-copy-social-gn-berlin-268915",
+   "title": "Senior Creative Concept/Copy (Social) (gn)",
+   "company": "Intermate Media GmbH",
+   "location": "Berlin, Berlin, Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-creative-concept-copy-social-gn-berlin-268915",
+   "score": 26,
    "matched": [
-    "copywriting",
-    "campaign",
+    "copywriter",
+    "concept",
+    "stakeholder",
     "ai",
-    "retail",
+    "fmcg",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "<p><span style=\"font-weight: 400;\">Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about people? If so, you might be our next LinkedIn Copywriting Executive.</span></p> <p><strong>About us</strong></p> <p",
-   "first_seen": "2026-09-20",
+   "summary": "Intermate x SAMY \u2013 Shaping the State of Social Intermate geh\u00f6rt zu den gr\u00f6\u00dften Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, K\u00f6ln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben \u00fcber unsere eigene Technologie. Unsere Kund:innen si",
+   "first_seen": "2026-09-21",
    "is_new": true
   },
   {
@@ -710,6 +710,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-119343",
+   "title": "(Senior) Social Brand Manager (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-119343",
+   "score": 19,
+   "matched": [
+    "campaign",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
+   "first_seen": "2026-09-21",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -729,22 +749,22 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-retailinsights-email-content-manager-at-retail-insights-london-44499",
-   "title": "Email Content Manager at Retail Insights",
-   "company": "Retailinsights",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/email-content-manager-at-retail-insights-london-44499",
-   "score": 16,
+   "id": "https-himalayas-app-companies-scalejet-jobs-amazon-brand-manager-4846308682",
+   "title": "Amazon Brand Manager",
+   "company": "ScaleJet",
+   "location": "Mexico",
+   "url": "https://himalayas.app/companies/scalejet/jobs/amazon-brand-manager-4846308682",
+   "score": 17,
    "matched": [
     "campaign",
+    "cross-functional",
     "ai",
-    "retail",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "<p><span style=\"font-weight: 400;\">Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing? If so, you might be our Email Content Manager.</span></p> <h3><strong>About us</strong></h3> <p><span st",
-   "first_seen": "2026-09-20",
+   "summary": "Our client, a fast-growing eCommerce company, operating in the USA, is looking for a talented and experienced Amazon Brand Manager to join the vibrant team for a full time remote job. As a Brand Manager, you will play a pivotal role in driving the success of the company's brands. You will be responsible for monitoring and enhancing SKU-Level Performance across the company's diverse portfolio, as w",
+   "first_seen": "2026-09-21",
    "is_new": true
   },
   {
@@ -764,7 +784,7 @@
    "years": null,
    "summary": "<p>Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing? If so, you might be our Email Content Manager.</p> <h3><strong>About us</strong></h3> <p>United Media focuses on building large scale in",
    "first_seen": "2026-09-20",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
