@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-21 13:40 UTC",
- "scanned": 3852,
+ "updated": "2026-09-22 12:24 UTC",
+ "scanned": 3838,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -53,6 +53,32 @@
    "summary": "Agency-Based | Outdoor, Lifestyle & Active IndustriesPosition Overview We are seeking an experienced, strategic, and highly collaborative Creative Director to lead the creative vision and execution of campaigns, content, and brand experiences for clients across the outdoor, lifestyle, wellness, fitness, sport, travel, and active industries. This agency-based role will work across multiple client a",
    "first_seen": "2026-09-13",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-creative-director-concept-communication-berlin-de-dusseldorf-231651",
+   "title": "Creative Director Concept & Communication",
+   "company": "wongdoody",
+   "location": "Berlin, DE | D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/creative-director-concept-communication-berlin-de-dusseldorf-231651",
+   "score": 58,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "creative direction",
+    "concept",
+    "campaign",
+    "art direction",
+    "production",
+    "ai",
+    "retail",
+    "fmcg",
+    "pr",
+    "team"
+   ],
+   "years": 8,
+   "summary": "<p><strong style=\"font-size: 11px;\">WongDoody</strong><span style=\"font-size: 11px;\"> \u2013 that\u2019s over 2,000 colleagues across 22 design studios on four continents. In Germany, around 300 colleagues work with us at our locations in Berlin, Stuttgart, D\u00fcsseldorf, and remotely. Our service areas include Experience Design, Immersive Experiences, Influencer Marketing, and future-proof, holistic Digital M",
+   "first_seen": "2026-09-22",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
@@ -282,32 +308,6 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-threecolts-senior-brand-lead-327459",
-   "title": "Senior Brand Lead",
-   "company": "Threecolts",
-   "location": "Not stated",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/threecolts/senior-brand-lead-327459",
-   "score": 44,
-   "matched": [
-    "positioning",
-    "editorial",
-    "campaign",
-    "narrative",
-    "production",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "retail",
-    "e-commerce",
-    "pr",
-    "team"
-   ],
-   "years": 7,
-   "summary": "<div class=\"content-intro\"><h4><strong>About Threecolts</strong></h4> <p>Threecolts is the leading software suite for online &amp; offline consumer brands (Amazon, Walmart, Target, Shopify, eBay, etc.). We\u2019ve built a powerful ecosystem of software solutions to help businesses grow smarter \u2014 from revenue recovery and retail finance, to multichannel operations and pricing optimization. With over 500",
-   "first_seen": "2026-09-21",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
@@ -597,7 +597,7 @@
    "years": null,
    "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
    "first_seen": "2026-09-21",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -643,27 +643,6 @@
    "summary": "Bring your life Want to help bring global brand projects to life, from planning to final delivery? At Thule, we create products and experiences that inspire people to live an active life and bring what they love, wherever their adventures take them. We are looking for a Project Manager - Brand to join our Global Brand team and ensure that all the pieces of our global campaigns come together at the",
    "first_seen": "2026-09-09",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-intermate-media-gmbh-senior-creative-concept-copy-social-gn-berlin-268915",
-   "title": "Senior Creative Concept/Copy (Social) (gn)",
-   "company": "Intermate Media GmbH",
-   "location": "Berlin, Berlin, Deutschland",
-   "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-creative-concept-copy-social-gn-berlin-268915",
-   "score": 26,
-   "matched": [
-    "copywriter",
-    "concept",
-    "stakeholder",
-    "ai",
-    "fmcg",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Intermate x SAMY \u2013 Shaping the State of Social Intermate geh\u00f6rt zu den gr\u00f6\u00dften Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, K\u00f6ln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben \u00fcber unsere eigene Technologie. Unsere Kund:innen si",
-   "first_seen": "2026-09-21",
-   "is_new": true
   },
   {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
@@ -727,7 +706,7 @@
    "years": null,
    "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
    "first_seen": "2026-09-21",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
@@ -749,42 +728,23 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-scalejet-jobs-amazon-brand-manager-4846308682",
-   "title": "Amazon Brand Manager",
-   "company": "ScaleJet",
-   "location": "Mexico",
-   "url": "https://himalayas.app/companies/scalejet/jobs/amazon-brand-manager-4846308682",
-   "score": 17,
-   "matched": [
-    "campaign",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Our client, a fast-growing eCommerce company, operating in the USA, is looking for a talented and experienced Amazon Brand Manager to join the vibrant team for a full time remote job. As a Brand Manager, you will play a pivotal role in driving the success of the company's brands. You will be responsible for monitoring and enhancing SKU-Level Performance across the company's diverse portfolio, as w",
-   "first_seen": "2026-09-21",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-unitedmedia-email-content-manager-at-united-media-london-100233",
-   "title": "Email Content Manager at United Media",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-unitedmedia-senior-content-writer-at-united-media-london-164134",
+   "title": "Senior Content Writer at United Media",
    "company": "Unitedmedia",
    "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/email-content-manager-at-united-media-london-100233",
-   "score": 16,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/senior-content-writer-at-united-media-london-164134",
+   "score": 17,
    "matched": [
-    "campaign",
     "ai",
     "retail",
     "pr",
-    "team"
+    "team",
+    "5+ years"
    ],
-   "years": null,
-   "summary": "<p>Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about marketing? If so, you might be our Email Content Manager.</p> <h3><strong>About us</strong></h3> <p>United Media focuses on building large scale in",
-   "first_seen": "2026-09-20",
-   "is_new": false
+   "years": 5,
+   "summary": "<p><span style=\"font-weight: 400;\">Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or creating great stories and content? If so, you might be our next Senior Content Writer.</span></p> <p><s",
+   "first_seen": "2026-09-22",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
@@ -804,6 +764,25 @@
    "summary": "Company description: Orkla Foods Sverige tillagar mat och dryck i Sverige med k\u00e4rlek och omtanke om m\u00e4nniskor, hav och land. Vi \u00e4r en lokal samh\u00e4llsakt\u00f6r som med v\u00e5ra 1500 medarbetare g\u00f6r skillnad och bidrar till en mer h\u00e5llbar och h\u00e4lsosam vardag. Ca 90 procent av den mat och dryck vi s\u00e4ljer i Sverige tillagar vi lokalt p\u00e5 n\u00e5gon av v\u00e5ra 7 anl\u00e4ggningar i Sverige. Job description:\u00c4r du Orkla Food S",
    "first_seen": "2026-09-09",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-gocomo-gmbh-brand-strategist-berlin-146489",
+   "title": "Brand Strategist (m/w/d)",
+   "company": "gocomo GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/brand-strategist-berlin-146489",
+   "score": 15,
+   "matched": [
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Deine Rolle Als Brand Strategist bei gocomo bist du der strategische Kopf hinter den Kampagnen und der vertrauensvolle Partner unserer Kunden und f\u00fchrst deren Accounts komplett eigenst\u00e4ndig. Du liest zwischen den Zeilen von Daten, sp\u00fcrst kulturelle Trends auf, bevor sie im Mainstream ankommen und \u00fcbersetzt komplexe Insights in messerscharfe Kommunikationsstrategien und packendes Storytelling. Dabe",
+   "first_seen": "2026-09-22",
+   "is_new": true
   }
  ]
 }
