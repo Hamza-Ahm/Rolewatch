@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-22 12:24 UTC",
- "scanned": 3838,
+ "updated": "2026-09-23 12:36 UTC",
+ "scanned": 3866,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -29,55 +29,29 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31469901",
-   "title": "Creative Director",
-   "company": "Hello Global AB",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31469901",
-   "score": 67,
+   "id": "https-www-arbeitnow-fr-jobs-companies-prose-scientific-communication-manager-paris-94987",
+   "title": "Scientific Communication Manager",
+   "company": "Prose",
+   "location": "Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/prose/scientific-communication-manager-paris-94987",
+   "score": 57,
    "matched": [
     "brand positioning",
     "positioning",
-    "brand guidelines",
-    "editorial",
-    "creative direction",
+    "tone of voice",
     "concept",
-    "campaign",
-    "production",
-    "agency",
+    "storytelling",
+    "narrative",
     "in-house",
     "stakeholder",
-    "ai"
-   ],
-   "years": null,
-   "summary": "Agency-Based | Outdoor, Lifestyle & Active IndustriesPosition Overview We are seeking an experienced, strategic, and highly collaborative Creative Director to lead the creative vision and execution of campaigns, content, and brand experiences for clients across the outdoor, lifestyle, wellness, fitness, sport, travel, and active industries. This agency-based role will work across multiple client a",
-   "first_seen": "2026-09-13",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-creative-director-concept-communication-berlin-de-dusseldorf-231651",
-   "title": "Creative Director Concept & Communication",
-   "company": "wongdoody",
-   "location": "Berlin, DE | D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/creative-director-concept-communication-berlin-de-dusseldorf-231651",
-   "score": 58,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "creative direction",
-    "concept",
-    "campaign",
-    "art direction",
-    "production",
+    "cross-functional",
     "ai",
-    "retail",
-    "fmcg",
     "pr",
     "team"
    ],
-   "years": 8,
-   "summary": "<p><strong style=\"font-size: 11px;\">WongDoody</strong><span style=\"font-size: 11px;\"> \u2013 that\u2019s over 2,000 colleagues across 22 design studios on four continents. In Germany, around 300 colleagues work with us at our locations in Berlin, Stuttgart, D\u00fcsseldorf, and remotely. Our service areas include Experience Design, Immersive Experiences, Influencer Marketing, and future-proof, holistic Digital M",
-   "first_seen": "2026-09-22",
+   "years": 5,
+   "summary": "Our Mission Prose is truly custom hair and skin care made-to-order\u2014just for you. Our line of custom products are made by an in-house, Paris-based R&D team of gifted chemists who combine natural ingredients in innovative ways alongside dermatologists, giving consumers clean skin care, hair care and impeccable results. At the heart of Prose\u2019s success is Singular, its proprietary AI-powered beauty-te",
+   "first_seen": "2026-09-23",
    "is_new": true
   },
   {
@@ -235,6 +209,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-goodlord-head-of-brand-marketing-london-1104",
+   "title": "Head of Brand Marketing",
+   "company": "Goodlord",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/head-of-brand-marketing-london-1104",
+   "score": 48,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "campaign",
+    "storytelling",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "fintech",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\ud83d\udccd London (Hybrid \u2013 2 days in office, 3 days remote/wfh or office if you prefer!) Two in five people in the UK rent their homes. At Goodlord, our mission is to be the gold standard platform for renting - simplifying complexity across agents, landlords and tenants. We\u2019re looking for a hands-on Head of Brand Marketing to own how Goodlord shows up in the world - from our brand and content to PR, corpo",
+   "first_seen": "2026-09-23",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
    "title": "PR Manager, Japan",
    "company": "adyen",
@@ -283,6 +283,32 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-cortea-ai-product-marketing-content-lead-berlin-220446",
+   "title": "Product Marketing & Content Lead (m/f/x)",
+   "company": "Cortea AI",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/product-marketing-content-lead-berlin-220446",
+   "score": 47,
+   "matched": [
+    "positioning",
+    "editorial",
+    "campaign",
+    "storytelling",
+    "narrative",
+    "messaging framework",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About Cortea Cortea is building the quality layer for AI-powered audits . Our Audit Quality Agents help audit firms use AI with greater trust, consistency, and professional oversight. Built around auditing standards and review workflows, they enable firms to deliver more reliable and reviewable work while increasing capacity across the audit process. We're building an AI-native company from day on",
+   "first_seen": "2026-09-23",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -436,6 +462,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-l1ve-gmbh-pr-communications-manager-berlin-350215",
+   "title": "PR & Communications Manager (m/f/d)",
+   "company": "L1VE GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/pr-communications-manager-berlin-350215",
+   "score": 38,
+   "matched": [
+    "positioning",
+    "tone of voice",
+    "editorial",
+    "stakeholder",
+    "ai",
+    "internal communications",
+    "press release",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Your mission About L1VE L1VE is a growing media and technology company with locations in Berlin and New York. With immersive 14K, 3D and 360\u00b0 streaming technologies and innovative live formats, L1VE is transforming the way people experience sports, music and entertainment. As we continue to grow, we are looking for a PR &#x26; Communications Manager to take responsibility for both internal and ext",
+   "first_seen": "2026-09-23",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31483855",
    "title": "Employer Branding Specialist",
    "company": "Nordic Investin Group Aktiebolag",
@@ -484,6 +533,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "title": "Head of Brand",
+   "company": "make",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "score": 38,
+   "matched": [
+    "positioning",
+    "campaign",
+    "brand campaign",
+    "narrative",
+    "production",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
+   "first_seen": "2026-09-07",
+   "is_new": false
+  },
+  {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
@@ -508,28 +581,29 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
-   "title": "Head of Brand",
-   "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
-   "score": 38,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-content-marketing-manager-merchant-emea-london-254289",
+   "title": "Senior Content Marketing Manager, Merchant - EMEA",
+   "company": "Deliveroo ",
+   "location": "London, England, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-content-marketing-manager-merchant-emea-london-254289",
+   "score": 34,
    "matched": [
-    "positioning",
+    "editorial",
     "campaign",
-    "brand campaign",
-    "narrative",
+    "localisation",
     "production",
-    "cross-functional",
+    "stakeholder",
     "ai",
     "b2b",
+    "retail",
     "pr",
-    "team"
+    "team",
+    "- attribution"
    ],
    "years": null,
-   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
-   "first_seen": "2026-09-07",
-   "is_new": false
+   "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team. The role Help merchants get more from their partnership with Wolt and Deliveroo. Reporting to the EMEA ",
+   "first_seen": "2026-09-23",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -574,29 +648,6 @@
    "years": 7,
    "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
    "first_seen": "2026-09-16",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-7125",
-   "title": "Senior Creative Strategist (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-7125",
-   "score": 32,
-   "matched": [
-    "creative strategy",
-    "campaign",
-    "narrative",
-    "production",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
-   "first_seen": "2026-09-21",
    "is_new": false
   },
   {
@@ -689,26 +740,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-119343",
-   "title": "(Senior) Social Brand Manager (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-119343",
-   "score": 19,
-   "matched": [
-    "campaign",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
-   "first_seen": "2026-09-21",
-   "is_new": false
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -728,22 +759,22 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-unitedmedia-senior-content-writer-at-united-media-london-164134",
-   "title": "Senior Content Writer at United Media",
-   "company": "Unitedmedia",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/senior-content-writer-at-united-media-london-164134",
-   "score": 17,
+   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munchen-27097",
+   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
+   "company": "New Flag GmbH",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-270970",
+   "score": 15,
    "matched": [
+    "stakeholder",
     "ai",
-    "retail",
+    "fmcg",
     "pr",
-    "team",
-    "5+ years"
+    "team"
    ],
-   "years": 5,
-   "summary": "<p><span style=\"font-weight: 400;\">Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or creating great stories and content? If so, you might be our next Senior Content Writer.</span></p> <p><s",
-   "first_seen": "2026-09-22",
+   "years": null,
+   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&D und internationalen Vertrieb",
+   "first_seen": "2026-09-23",
    "is_new": true
   },
   {
@@ -764,25 +795,6 @@
    "summary": "Company description: Orkla Foods Sverige tillagar mat och dryck i Sverige med k\u00e4rlek och omtanke om m\u00e4nniskor, hav och land. Vi \u00e4r en lokal samh\u00e4llsakt\u00f6r som med v\u00e5ra 1500 medarbetare g\u00f6r skillnad och bidrar till en mer h\u00e5llbar och h\u00e4lsosam vardag. Ca 90 procent av den mat och dryck vi s\u00e4ljer i Sverige tillagar vi lokalt p\u00e5 n\u00e5gon av v\u00e5ra 7 anl\u00e4ggningar i Sverige. Job description:\u00c4r du Orkla Food S",
    "first_seen": "2026-09-09",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-gocomo-gmbh-brand-strategist-berlin-146489",
-   "title": "Brand Strategist (m/w/d)",
-   "company": "gocomo GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/gocomo-gmbh/brand-strategist-berlin-146489",
-   "score": 15,
-   "matched": [
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Deine Rolle Als Brand Strategist bei gocomo bist du der strategische Kopf hinter den Kampagnen und der vertrauensvolle Partner unserer Kunden und f\u00fchrst deren Accounts komplett eigenst\u00e4ndig. Du liest zwischen den Zeilen von Daten, sp\u00fcrst kulturelle Trends auf, bevor sie im Mainstream ankommen und \u00fcbersetzt komplexe Insights in messerscharfe Kommunikationsstrategien und packendes Storytelling. Dabe",
-   "first_seen": "2026-09-22",
-   "is_new": true
   }
  ]
 }
