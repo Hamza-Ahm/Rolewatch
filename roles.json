@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-23 12:36 UTC",
- "scanned": 3866,
+ "updated": "2026-09-24 12:34 UTC",
+ "scanned": 3844,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -27,32 +27,6 @@
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-09-10",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-prose-scientific-communication-manager-paris-94987",
-   "title": "Scientific Communication Manager",
-   "company": "Prose",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/prose/scientific-communication-manager-paris-94987",
-   "score": 57,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "tone of voice",
-    "concept",
-    "storytelling",
-    "narrative",
-    "in-house",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": 5,
-   "summary": "Our Mission Prose is truly custom hair and skin care made-to-order\u2014just for you. Our line of custom products are made by an in-house, Paris-based R&D team of gifted chemists who combine natural ingredients in innovative ways alongside dermatologists, giving consumers clean skin care, hair care and impeccable results. At the heart of Prose\u2019s success is Singular, its proprietary AI-powered beauty-te",
-   "first_seen": "2026-09-23",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
@@ -209,32 +183,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-goodlord-head-of-brand-marketing-london-1104",
-   "title": "Head of Brand Marketing",
-   "company": "Goodlord",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/head-of-brand-marketing-london-1104",
-   "score": 48,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "campaign",
-    "storytelling",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "fintech",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "\ud83d\udccd London (Hybrid \u2013 2 days in office, 3 days remote/wfh or office if you prefer!) Two in five people in the UK rent their homes. At Goodlord, our mission is to be the gold standard platform for renting - simplifying complexity across agents, landlords and tenants. We\u2019re looking for a hands-on Head of Brand Marketing to own how Goodlord shows up in the world - from our brand and content to PR, corpo",
-   "first_seen": "2026-09-23",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
    "title": "PR Manager, Japan",
    "company": "adyen",
@@ -283,32 +231,6 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-25",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-cortea-ai-product-marketing-content-lead-berlin-220446",
-   "title": "Product Marketing & Content Lead (m/f/x)",
-   "company": "Cortea AI",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/cortea-ai/product-marketing-content-lead-berlin-220446",
-   "score": 47,
-   "matched": [
-    "positioning",
-    "editorial",
-    "campaign",
-    "storytelling",
-    "narrative",
-    "messaging framework",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About Cortea Cortea is building the quality layer for AI-powered audits . Our Audit Quality Agents help audit firms use AI with greater trust, consistency, and professional oversight. Built around auditing standards and review workflows, they enable firms to deliver more reliable and reviewable work while increasing capacity across the audit process. We're building an AI-native company from day on",
-   "first_seen": "2026-09-23",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -437,6 +359,31 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-151500-meta-creative-strategist-performance-creative",
+   "title": "Meta Creative Strategist \u2014 Performance Creative",
+   "company": "Oowlish Technology",
+   "location": "Brazil",
+   "url": "https://jobicy.com/jobs/151500-meta-creative-strategist-performance-creative",
+   "score": 39,
+   "matched": [
+    "copywriting",
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "campaign",
+    "script",
+    "in-house",
+    "ai",
+    "pr",
+    "team",
+    "- media buying"
+   ],
+   "years": null,
+   "summary": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is re",
+   "first_seen": "2026-09-24",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
    "title": "Senior Content Writer, Global",
    "company": "adyen",
@@ -460,29 +407,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-l1ve-gmbh-pr-communications-manager-berlin-350215",
-   "title": "PR & Communications Manager (m/f/d)",
-   "company": "L1VE GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/l1ve-gmbh/pr-communications-manager-berlin-350215",
-   "score": 38,
-   "matched": [
-    "positioning",
-    "tone of voice",
-    "editorial",
-    "stakeholder",
-    "ai",
-    "internal communications",
-    "press release",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Your mission About L1VE L1VE is a growing media and technology company with locations in Berlin and New York. With immersive 14K, 3D and 360\u00b0 streaming technologies and innovative live formats, L1VE is transforming the way people experience sports, music and entertainment. As we continue to grow, we are looking for a PR &#x26; Communications Manager to take responsibility for both internal and ext",
-   "first_seen": "2026-09-23",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31483855",
@@ -533,30 +457,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
-   "title": "Head of Brand",
-   "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
-   "score": 38,
-   "matched": [
-    "positioning",
-    "campaign",
-    "brand campaign",
-    "narrative",
-    "production",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
-   "first_seen": "2026-09-07",
-   "is_new": false
-  },
-  {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
@@ -581,29 +481,28 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-content-marketing-manager-merchant-emea-london-254289",
-   "title": "Senior Content Marketing Manager, Merchant - EMEA",
-   "company": "Deliveroo ",
-   "location": "London, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-content-marketing-manager-merchant-emea-london-254289",
-   "score": 34,
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "title": "Head of Brand",
+   "company": "make",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "score": 38,
    "matched": [
-    "editorial",
+    "positioning",
     "campaign",
-    "localisation",
+    "brand campaign",
+    "narrative",
     "production",
-    "stakeholder",
+    "cross-functional",
     "ai",
     "b2b",
-    "retail",
     "pr",
-    "team",
-    "- attribution"
+    "team"
    ],
    "years": null,
-   "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team. The role Help merchants get more from their partnership with Wolt and Deliveroo. Reporting to the EMEA ",
-   "first_seen": "2026-09-23",
-   "is_new": true
+   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
+   "first_seen": "2026-09-07",
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -759,22 +658,22 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-senior-global-product-brand-manager-hair-professional-munchen-27097",
-   "title": "(Senior) Global Product & Brand Manager (m/w/d) | Hair Professional",
-   "company": "New Flag GmbH",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/senior-global-product-brand-manager-hair-professional-munchen-270970",
-   "score": 15,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-retailinsights-senior-content-writer-at-retail-insights-london-425294",
+   "title": "Senior Content Writer at Retail Insights",
+   "company": "Retailinsights",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/senior-content-writer-at-retail-insights-london-425294",
+   "score": 17,
    "matched": [
-    "stakeholder",
     "ai",
-    "fmcg",
+    "retail",
     "pr",
-    "team"
+    "team",
+    "5+ years"
    ],
-   "years": null,
-   "summary": "Das erwartet Dich bei uns Im Produktmanagement f\u00fcr unsere professionelle Hair-Care-Marke Urban Alchemy verantwortest Du die Entwicklung, Steuerung und Weiterentwicklung unseres Produktportfolios \u2013 von der Idee bis zur Kommerzialisierung. Du analysierst Markt-, Preis- und Wettbewerbsdaten, steuerst Produktentwicklungen und arbeitest eng mit Lieferanten, Herstellern, R&D und internationalen Vertrieb",
-   "first_seen": "2026-09-23",
+   "years": 5,
+   "summary": "<p>Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with young, motivated and extremely driven people? And are you curious or passionate about finding or creating great stories and content? If so, you might be our Senior Content Writer.</p> <p><strong>About us</strong></p> <p>Retail Insigh",
+   "first_seen": "2026-09-24",
    "is_new": true
   },
   {
