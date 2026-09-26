@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-25 12:35 UTC",
- "scanned": 3830,
+ "updated": "2026-09-26 12:05 UTC",
+ "scanned": 3841,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -29,29 +29,81 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-thehutgroup-head-of-brand-global-campaigns-thg-nutrition-manchester-150923",
-   "title": "Head of Brand & Global Campaigns | THG Nutrition",
-   "company": "Thehutgroup",
-   "location": "Manchester",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/head-of-brand-global-campaigns-thg-nutrition-manchester-150923",
-   "score": 61,
+   "id": "https-www-arbeitnow-fr-jobs-companies-satispay-head-of-brand-relocation-to-milan-paris-116632",
+   "title": "Head of Brand (Relocation to Milan)",
+   "company": "Satispay",
+   "location": "Paris, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/satispay/head-of-brand-relocation-to-milan-paris-116632",
+   "score": 69,
    "matched": [
+    "sponsorship or relocation",
     "brand strategy",
-    "brand positioning",
-    "positioning",
+    "creative direction",
+    "concept",
     "campaign",
-    "brand campaign",
-    "global brand",
-    "international markets",
-    "in-house",
+    "storytelling",
+    "rebrand",
+    "script",
+    "production",
     "stakeholder",
     "cross-functional",
-    "ai",
-    "retail"
+    "ai"
    ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong><span data-contrast=\"auto\">About THG</span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335551550\":1,\"335551620\":1,\"335559685\":0,\"335559737\":0,\"335559738\":0,\"335559739\":160,\"335559740\":279}\"> </span></p> <p><span data-contrast=\"auto\">We are THG, a global ecommerce group on a mission to be the global online leader in beauty",
-   "first_seen": "2026-09-25",
+   "years": 10,
+   "summary": "Please note that this opportunity requires relocation to our Milan office. About us Traditional banking has never really given people control over their financial life. Satispay exists to change that: to empower people through finance . That means making financial services easy and accessible for millions of users. We started with payments, then benefits, investing, cards... and we\u2019re not done. No",
+   "first_seen": "2026-09-26",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-satispay-head-of-brand-relocation-to-milan-london-141629",
+   "title": "Head of Brand (Relocation to Milan)",
+   "company": "Satispay",
+   "location": "London, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/satispay/head-of-brand-relocation-to-milan-london-141629",
+   "score": 69,
+   "matched": [
+    "sponsorship or relocation",
+    "brand strategy",
+    "creative direction",
+    "concept",
+    "campaign",
+    "storytelling",
+    "rebrand",
+    "script",
+    "production",
+    "stakeholder",
+    "cross-functional",
+    "ai"
+   ],
+   "years": 10,
+   "summary": "Please note that this opportunity requires relocation to our Milan office. About us Traditional banking has never really given people control over their financial life. Satispay exists to change that: to empower people through finance . That means making financial services easy and accessible for millions of users. We started with payments, then benefits, investing, cards... and we\u2019re not done. No",
+   "first_seen": "2026-09-26",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-satispay-head-of-brand-relocation-to-milan-berlin-364682",
+   "title": "Head of Brand (Relocation to Milan)",
+   "company": "Satispay",
+   "location": "Berlin, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/satispay/head-of-brand-relocation-to-milan-berlin-364682",
+   "score": 69,
+   "matched": [
+    "sponsorship or relocation",
+    "brand strategy",
+    "creative direction",
+    "concept",
+    "campaign",
+    "storytelling",
+    "rebrand",
+    "script",
+    "production",
+    "stakeholder",
+    "cross-functional",
+    "ai"
+   ],
+   "years": 10,
+   "summary": "Please note that this opportunity requires relocation to our Milan office. About us Traditional banking has never really given people control over their financial life. Satispay exists to change that: to empower people through finance . That means making financial services easy and accessible for millions of users. We started with payments, then benefits, investing, cards... and we\u2019re not done. No",
+   "first_seen": "2026-09-26",
    "is_new": true
   },
   {
@@ -105,32 +157,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-duolingo-senior-creative-director-marketing-london-109584",
-   "title": "Senior Creative Director, Marketing",
-   "company": "Duolingo",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/duolingo/senior-creative-director-marketing-london-109584",
-   "score": 56,
-   "matched": [
-    "concept",
-    "campaign",
-    "integrated campaign",
-    "storytelling",
-    "narrative",
-    "global brand",
-    "script",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It\u2019s a big mission, and that\u2019s where you come in!</p> <p>At Duolingo, you\u2019ll join a team that cares about educating our users, experimenting with big ideas, making fact-based decisions, and finding innovative solutions to complex problems. You\u2019ll have limitless learning opportunities and dai",
-   "first_seen": "2026-09-25",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
@@ -211,55 +237,29 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-finom-art-director-brand-marketing-design-united-kingdom-182859",
-   "title": "Art Director, Brand & Marketing Design",
-   "company": "Finom",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/finom/art-director-brand-marketing-design-united-kingdom-182859",
-   "score": 51,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-omaze-creative-director-ftc-london-38839",
+   "title": "Creative Director - FTC",
+   "company": "Omaze",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/omaze/creative-director-ftc-london-38839",
+   "score": 50,
    "matched": [
-    "copywriter",
-    "editorial",
+    "brand guidelines",
     "creative direction",
     "concept",
     "campaign",
-    "narrative",
-    "production",
-    "stakeholder",
-    "ai",
-    "fintech",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Art Director, Brand & Marketing Design About the Role Finom is building a brand that European entrepreneurs recognise and trust, and right now the visual side of that brand needs an owner. We are looking for an Art Director to lead our Marketing Design team and take ownership of Finom's visual identity end to end. Not marketing design in isolation: the brand system itself, the guidelines behind it",
-   "first_seen": "2026-09-25",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-quantum-creative-strategist-london-26743",
-   "title": "Creative Strategist",
-   "company": "Quantum",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/creative-strategist-london-26743",
-   "score": 50,
-   "matched": [
-    "creative strategy",
-    "concept",
-    "campaign",
-    "global brand",
-    "script",
+    "storytelling",
+    "art direction",
     "production",
     "agency",
-    "in-house",
+    "stakeholder",
+    "cross-functional",
     "ai",
-    "generative ai",
-    "pr",
-    "team"
+    "pr"
    ],
    "years": null,
-   "summary": "Our Company At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity. Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world\u2019s most used digital comparison service, delivering value and simplicity to millions. We drive growth through data-driven affiliate marketing built for performance from day one",
-   "first_seen": "2026-09-25",
+   "summary": "Who We Are: At Omaze, we give our community in the UK and Germany the chance to win luxury homes and other life-changing prizes \u2014 all while raising money for the causes they love. Thanks to our Omaze Community, we\u2019ve raised over \u00a3150 million for UK charities in just five years. That\u2019s millions helping organisations like Age UK, the RSPCA, British Heart Foundation and Great Ormond Street Hospital C",
+   "first_seen": "2026-09-26",
    "is_new": true
   },
   {
@@ -285,31 +285,6 @@
    "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-09-09",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-goodlord-head-of-brand-marketing-london-1539",
-   "title": "Head of Brand Marketing",
-   "company": "Goodlord",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/head-of-brand-marketing-london-1539",
-   "score": 48,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "campaign",
-    "brand campaign",
-    "narrative",
-    "agency",
-    "in-house",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "\ud83d\udccd London (Hybrid \u2013 2 days in office, 3 days remote/WFH or office if you prefer!) Two in five people in the UK rent their homes. At Goodlord, our mission is to be the gold standard platform for renting - simplifying complexity across agents, landlords and tenants. We\u2019re looking for a hands-on Head of Brand to own how Goodlord shows up in the world - from our brand and content to PR, corporate affai",
-   "first_seen": "2026-09-25",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
@@ -385,6 +360,84 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-wolt-jobs-8232982",
+   "title": "Senior Creative Producer (Fixed-term Employment)",
+   "company": "wolt",
+   "location": "Athens, Greece; Berlin, Germany; Copenhagen, Denmark; Helsinki, Finland; Stockholm, Sweden",
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8232982",
+   "score": 46,
+   "matched": [
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "localization",
+    "production",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
+   "first_seen": "2026-09-26",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wolt-senior-creative-producer-fixed-term-employment-berlin-458587",
+   "title": "Senior Creative Producer (Fixed-term Employment)",
+   "company": "wolt",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-creative-producer-fixed-term-employment-berlin-458587",
+   "score": 46,
+   "matched": [
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "localization",
+    "production",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
+   "first_seen": "2026-09-26",
+   "is_new": true
+  },
+  {
+   "id": "https-jobicy-com-jobs-154080-head-of-brand-creative",
+   "title": "Head of Brand Creative",
+   "company": "Phantom",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/154080-head-of-brand-creative",
+   "score": 45,
+   "matched": [
+    "brand guidelines",
+    "campaign",
+    "storytelling",
+    "script",
+    "production",
+    "stakeholder",
+    "ai",
+    "fintech",
+    "pr",
+    "team",
+    "mentor",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time ",
+   "first_seen": "2026-09-26",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
@@ -609,31 +662,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-content-marketing-manager-merchant-emea-london-211851",
-   "title": "Senior Content Marketing Manager, Merchant - EMEA",
-   "company": "Deliveroo",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-content-marketing-manager-merchant-emea-london-211851",
-   "score": 34,
-   "matched": [
-    "editorial",
-    "campaign",
-    "localisation",
-    "production",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "retail",
-    "pr",
-    "team",
-    "- attribution"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p> <p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.</p></div><p><strong>The role</strong></p> <p>",
-   "first_seen": "2026-09-25",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
    "title": "Brand Enablement Manager",
    "company": "adyen",
@@ -657,26 +685,28 @@
    "is_new": false
   },
   {
-   "id": "https-remoteok-com-remote-jobs-remote-freelance-creative-director-bmwl-1135901",
-   "title": "Freelance Creative Director",
-   "company": "BMWL",
-   "location": "California, California, United States",
-   "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-   "score": 33,
+   "id": "https-www-arbeitnow-com-jobs-companies-impossible-founders-senior-marketing-communications-manager-all-genders-hamburg-4",
+   "title": "Senior Marketing & Communications Manager (all genders)",
+   "company": "Impossible Founders",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/impossible-founders/senior-marketing-communications-manager-all-genders-hamburg-478081",
+   "score": 32,
    "matched": [
-    "creative direction",
-    "concept",
     "campaign",
-    "production",
+    "integrated campaign",
+    "messaging framework",
+    "agency",
+    "stakeholder",
     "ai",
     "pr",
     "team",
-    "7+ years"
+    "mentor",
+    "- attribution"
    ],
-   "years": 7,
-   "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
-   "first_seen": "2026-09-16",
-   "is_new": false
+   "years": null,
+   "summary": "Your mission As Senior Communications Manager, you will build and lead marketing and communications initiatives that increase awareness, strengthen our media visibility, and attract the right founders to Impossible Founders\u2019 programs and formats. You will turn our brand and communications priorities into integrated campaigns and audience journeys, taking ownership of day-to-day coordination and ex",
+   "first_seen": "2026-09-26",
+   "is_new": true
   },
   {
    "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-433818",
@@ -699,7 +729,7 @@
    "years": null,
    "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
    "first_seen": "2026-09-25",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -745,27 +775,6 @@
    "summary": "Bring your life Want to help bring global brand projects to life, from planning to final delivery? At Thule, we create products and experiences that inspire people to live an active life and bring what they love, wherever their adventures take them. We are looking for a Project Manager - Brand to join our Global Brand team and ensure that all the pieces of our global campaigns come together at the",
    "first_seen": "2026-09-09",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-hawarhelp-germandream-communications-managerin-content-campaigns-mit-schwerpunkt-",
-   "title": "Communications Manager:in | Content & Campaigns mit Schwerpunkt antisemitismuskritische Bildungsarbeit bei GermanDream (m/w/d \u00b7 Teilzeit)",
-   "company": "H\u00c1WAR.help & GermanDream",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/hawarhelp-germandream/communications-managerin-content-campaigns-mit-schwerpunkt-antisemitismuskritische-bildungsarbeit-bei-germandream-teilzeit-berlin-10196",
-   "score": 25,
-   "matched": [
-    "brand guidelines",
-    "campaign",
-    "storytelling",
-    "film",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Die Position BERLIN \u00b7 a b sofort \u00b7 befristet bis 31.12.2027 Teilzeit \u2013 32 Std./Woche | Besetzung vorbehaltlich der Mittelzusage Bewerbungsfrist: 30.09.2026, 13.00 Uhr Du m\u00f6chtest gesellschaftlich relevante Themen verst\u00e4ndlich, sensibel und zielgruppengerecht erz\u00e4hlen? Du hast ein Gesp\u00fcr f\u00fcr Social Media, Storytelling und politische Bildungsarbeit \u2013 und willst Inhalte und Kampagnen f\u00fcr ein antisemi",
-   "first_seen": "2026-09-25",
-   "is_new": true
   },
   {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
@@ -829,7 +838,7 @@
    "years": null,
    "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
    "first_seen": "2026-09-25",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
