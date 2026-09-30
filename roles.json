@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-29 13:47 UTC",
- "scanned": 3955,
+ "updated": "2026-09-30 13:22 UTC",
+ "scanned": 3942,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -382,30 +382,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
-   "title": "Head of Brand",
-   "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
-   "score": 38,
-   "matched": [
-    "positioning",
-    "campaign",
-    "brand campaign",
-    "narrative",
-    "production",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
-   "first_seen": "2026-09-07",
-   "is_new": false
-  },
-  {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
@@ -430,27 +406,28 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-jung-von-matt-senior-creative-team-berlin-437984",
-   "title": "Senior Creative Team (d/f/m)",
-   "company": "Jung von Matt",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/jung-von-matt/senior-creative-team-berlin-437984",
-   "score": 34,
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "title": "Head of Brand",
+   "company": "make",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "score": 38,
    "matched": [
-    "brand platform",
-    "copywriting",
+    "positioning",
     "campaign",
-    "film",
-    "art direction",
-    "stakeholder",
+    "brand campaign",
+    "narrative",
+    "production",
+    "cross-functional",
     "ai",
+    "b2b",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Position Achtung vor gef\u00e4lschten Jobangeboten: Bitte pr\u00fcft, ob die Stelle auf unserer offiziellen Karriereseite ver\u00f6ffentlicht ist. Im weiteren Bewerbungsverfahren kommunizieren wir ausschlie\u00dflich \u00fcber unsere offiziellen JvM-Kan\u00e4le. Wir verlangen niemals Zahlungen, Bankdaten oder den Kauf von Arbeitsmitteln. Jung von Matt HAVEL sucht nach einem Senior Creative Team (d/f/m). Als ideales Senior Krea",
-   "first_seen": "2026-09-29",
-   "is_new": true
+   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
+   "first_seen": "2026-09-07",
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -498,6 +475,53 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-impossible-founders-senior-marketing-communications-manager-all-genders-hamburg-2",
+   "title": "Senior Marketing & Communications Manager (all genders)",
+   "company": "Impossible Founders",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/impossible-founders/senior-marketing-communications-manager-all-genders-hamburg-219497",
+   "score": 32,
+   "matched": [
+    "campaign",
+    "integrated campaign",
+    "messaging framework",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "- attribution"
+   ],
+   "years": null,
+   "summary": "Your mission As Senior Communications Manager, you will build and lead marketing and communications initiatives that increase awareness, strengthen our media visibility, and attract the right founders to Impossible Founders\u2019 programs and formats. You will turn our brand and communications priorities into integrated campaigns and audience journeys, taking ownership of day-to-day coordination and ex",
+   "first_seen": "2026-09-30",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-457375",
+   "title": "Senior Creative Strategist (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-457375",
+   "score": 32,
+   "matched": [
+    "creative strategy",
+    "campaign",
+    "narrative",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
+   "first_seen": "2026-09-30",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -521,6 +545,27 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-hawarhelp-germandream-communications-managerin-content-campaigns-mit-schwerpunkt-",
+   "title": "Communications Manager:in | Content & Campaigns mit Schwerpunkt antisemitismuskritische Bildungsarbeit bei GermanDream (m/w/d \u00b7 Teilzeit)",
+   "company": "H\u00c1WAR.help & GermanDream",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/hawarhelp-germandream/communications-managerin-content-campaigns-mit-schwerpunkt-antisemitismuskritische-bildungsarbeit-bei-germandream-teilzeit-berlin-277367",
+   "score": 25,
+   "matched": [
+    "brand guidelines",
+    "campaign",
+    "storytelling",
+    "film",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Die Position BERLIN \u00b7 a b sofort \u00b7 befristet bis 31.12.2027 Teilzeit \u2013 32 Std./Woche | Besetzung vorbehaltlich der Mittelzusage Bewerbungsfrist: 30.09.2026, 13.00 Uhr Du m\u00f6chtest gesellschaftlich relevante Themen verst\u00e4ndlich, sensibel und zielgruppengerecht erz\u00e4hlen? Du hast ein Gesp\u00fcr f\u00fcr Social Media, Storytelling und politische Bildungsarbeit \u2013 und willst Inhalte und Kampagnen f\u00fcr ein antisemi",
+   "first_seen": "2026-09-30",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
    "title": "Communication Specialist",
    "company": "Nobia Sweden AB",
@@ -539,7 +584,7 @@
    "years": null,
    "summary": "Are you an experienced communicator who knows how to turn complex messages into clear communication? Are you comfortable working closely with C-level and do you have experience with press relations? Then this could be the role for you. Nobia Group is one of Europe\u2019s largest kitchen specialists, listed on Nasdaq Stockholm, operating across the Nordic region with strong local brands including HTH, u",
    "first_seen": "2026-09-29",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
@@ -586,6 +631,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-473857",
+   "title": "(Senior) Social Brand Manager (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-473857",
+   "score": 19,
+   "matched": [
+    "campaign",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
+   "first_seen": "2026-09-30",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -603,6 +668,44 @@
    "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
    "first_seen": "2026-08-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-ideematec-deutschland-gmbh-head-of-marketing-communications-gn-renewable-energy-i",
+   "title": "Head of Marketing & Communications (gn) | Renewable Energy",
+   "company": "Ideematec Deutschland GmbH",
+   "location": "Ismaning",
+   "url": "https://www.arbeitnow.com/jobs/companies/ideematec-deutschland-gmbh/head-of-marketing-communications-gn-renewable-energy-ismaning-297085",
+   "score": 18,
+   "matched": [
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "IDEEMATEC ist einer der weltweit f\u00fchrenden Hersteller von Utility-Scale-Solartrackern und weltweiter Technologief\u00fchrer im Bereich Agri-PV. Unsere Tracker bieten einzigartige Vorteile wie hohe Zuverl\u00e4ssigkeit \u00fcber den gesamten Lebenszyklus und daraus resultierende niedrige Stromgestehungskosten (LCOE). Als Wegbereiter f\u00fcr kommerzielle Solartracker in der Landwirtschaft erschlie\u00dfen wir mit unseren A",
+   "first_seen": "2026-09-30",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-brand-strategy-manager-munich-208490",
+   "title": "Brand Strategy Manager (m/w/d)",
+   "company": "New Flag GmbH",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/brand-strategy-manager-munich-208490",
+   "score": 16,
+   "matched": [
+    "brand strategy",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Das erwartet Dich bei uns Du willst die Haarwelt nicht nur beobachten, sondern mitgestalten? Du brennst f\u00fcr Hair &#x26; Care, f\u00fcr Pflegeprodukte und f\u00fcr das Friseursalon-Business, und Du hast Lust, zwei starke Marken wirklich nach vorne zu bringen? Als Brand Strategy Manager verantwortest Du die strategische Entwicklung unserer Partnermarken O&#x26;M und EVO. Du f\u00fchrst Deine Marken wie Dein eigene",
+   "first_seen": "2026-09-30",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
