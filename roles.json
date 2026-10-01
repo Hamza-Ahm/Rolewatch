@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-30 13:22 UTC",
- "scanned": 3942,
+ "updated": "2026-10-01 14:15 UTC",
+ "scanned": 3931,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -52,32 +52,6 @@
    "years": null,
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31417247",
-   "title": "Global PR & Communications Manager to H&M HOME",
-   "company": "H & M Hennes & Mauritz GBC AB",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31417247",
-   "score": 52,
-   "matched": [
-    "campaign",
-    "brand campaign",
-    "storytelling",
-    "global brand",
-    "script",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "internal communications",
-    "press release",
-    "pr"
-   ],
-   "years": null,
-   "summary": "Job Description We are now on the search for a strategic and passionate PR & Communications Manager to join the Global Marketing & Communications team at H&M HOME for a parental cover (15 months). H&M HOME is a global Interior brand within the H&M group - one of the biggest fashion and design companies in the world. At H&M HOME we are building a design driven interior brand and currently operate i",
-   "first_seen": "2026-08-31",
    "is_new": false
   },
   {
@@ -185,7 +159,7 @@
    "id": "https-job-boards-greenhouse-io-wolt-jobs-8232982",
    "title": "Senior Creative Producer (Fixed-term Employment)",
    "company": "wolt",
-   "location": "Athens, Greece; Berlin, Germany; Copenhagen, Denmark; Helsinki, Finland; Stockholm, Sweden",
+   "location": "Helsinki, Finland",
    "url": "https://job-boards.greenhouse.io/wolt/jobs/8232982",
    "score": 46,
    "matched": [
@@ -206,6 +180,30 @@
    "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
    "first_seen": "2026-09-26",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-conduct-communications-strategist-london-393811",
+   "title": "Communications Strategist",
+   "company": "Conduct",
+   "location": "London, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/communications-strategist-london-393811",
+   "score": 45,
+   "matched": [
+    "sponsorship or relocation",
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "narrative",
+    "script",
+    "ai",
+    "internal communications",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "TL;DR: One of Conduct's early marketing and comms hires. You'll help build the most exciting brand in enterprise technology from scratch and make sure every CIO, engineer, and future teammate knows it. Why Conduct We believe the world's largest companies should move at the speed of their ideas, not the speed of the decade-old systems they run on. Today they don't. Every process change and every ne",
+   "first_seen": "2026-10-01",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
@@ -382,6 +380,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "title": "Head of Brand",
+   "company": "make",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "score": 38,
+   "matched": [
+    "positioning",
+    "campaign",
+    "brand campaign",
+    "narrative",
+    "production",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
+   "first_seen": "2026-09-07",
+   "is_new": false
+  },
+  {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
@@ -406,28 +428,27 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
-   "title": "Head of Brand",
-   "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
-   "score": 38,
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31539941",
+   "title": "Communications Manager, Corporate",
+   "company": "Aktiebolaget Tetra Pak",
+   "location": "Lund, Sk\u00e5ne l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31539941",
+   "score": 37,
    "matched": [
     "positioning",
-    "campaign",
-    "brand campaign",
+    "editorial",
+    "storytelling",
     "narrative",
-    "production",
-    "cross-functional",
+    "stakeholder",
     "ai",
-    "b2b",
     "pr",
-    "team"
+    "team",
+    "13+ years"
    ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p>Make is the platform to manage all your automations and AI agents in one visual landscape \u2013 for teams driving business impact without relying on developers. Part of Celonis, a global leader in process intelligence recognized on the Forbes Cloud 100 for seven consecutive years, we're headquartered in Prague, Czechia, with hubs in Madrid, Munich, Raleigh, and Pristina, ",
-   "first_seen": "2026-09-07",
-   "is_new": false
+   "years": 13,
+   "summary": "At Tetra Pak we commit to making food safe and available, everywhere; and we protect what's good \u2013 protecting food, protecting people, and protecting the planet. By doing so we touch millions of people's lives every day. And we need people like you to make it happen. We empower you to reach your potential with opportunities to make an impact to be proud of \u2013 for food, people and the planet. Job Su",
+   "first_seen": "2026-10-01",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -475,50 +496,24 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-impossible-founders-senior-marketing-communications-manager-all-genders-hamburg-2",
-   "title": "Senior Marketing & Communications Manager (all genders)",
-   "company": "Impossible Founders",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/impossible-founders/senior-marketing-communications-manager-all-genders-hamburg-219497",
-   "score": 32,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-paires-founding-head-of-brand-united-kingdom-424738",
+   "title": "Founding Head of Brand",
+   "company": "Paires",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/paires/founding-head-of-brand-united-kingdom-424738",
+   "score": 31,
    "matched": [
-    "campaign",
-    "integrated campaign",
-    "messaging framework",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "- attribution"
-   ],
-   "years": null,
-   "summary": "Your mission As Senior Communications Manager, you will build and lead marketing and communications initiatives that increase awareness, strengthen our media visibility, and attract the right founders to Impossible Founders\u2019 programs and formats. You will turn our brand and communications priorities into integrated campaigns and audience journeys, taking ownership of day-to-day coordination and ex",
-   "first_seen": "2026-09-30",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-457375",
-   "title": "Senior Creative Strategist (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-457375",
-   "score": 32,
-   "matched": [
-    "creative strategy",
-    "campaign",
-    "narrative",
-    "production",
-    "agency",
-    "stakeholder",
+    "brand strategy",
+    "positioning",
+    "editorial",
+    "film",
     "ai",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
-   "first_seen": "2026-09-30",
+   "summary": "We are hiring a Founding Head of Brand to own how Pairs presents itself to founders and investors: its positioning, voice and visual identity, and the writing and video behind them. Pairs is a global network of family offices, institutional investors, VCs and angels. We screen deal flow very tightly, and the opportunities that clear our diligence go out to the network. We invest alongside them too",
+   "first_seen": "2026-10-01",
    "is_new": true
   },
   {
@@ -545,24 +540,46 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-hawarhelp-germandream-communications-managerin-content-campaigns-mit-schwerpunkt-",
-   "title": "Communications Manager:in | Content & Campaigns mit Schwerpunkt antisemitismuskritische Bildungsarbeit bei GermanDream (m/w/d \u00b7 Teilzeit)",
-   "company": "H\u00c1WAR.help & GermanDream",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/hawarhelp-germandream/communications-managerin-content-campaigns-mit-schwerpunkt-antisemitismuskritische-bildungsarbeit-bei-germandream-teilzeit-berlin-277367",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-wppproduction-account-director-6-months-ftc-beauty-luxury-brand-london-254096",
+   "title": "Account Director (6 months FTC- Beauty Luxury Brand)",
+   "company": "Wppproduction",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppproduction/account-director-6-months-ftc-beauty-luxury-brand-london-254096",
    "score": 25,
    "matched": [
-    "brand guidelines",
-    "campaign",
-    "storytelling",
-    "film",
+    "production",
+    "agency",
+    "stakeholder",
     "ai",
+    "retail",
+    "fmcg",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Die Position BERLIN \u00b7 a b sofort \u00b7 befristet bis 31.12.2027 Teilzeit \u2013 32 Std./Woche | Besetzung vorbehaltlich der Mittelzusage Bewerbungsfrist: 30.09.2026, 13.00 Uhr Du m\u00f6chtest gesellschaftlich relevante Themen verst\u00e4ndlich, sensibel und zielgruppengerecht erz\u00e4hlen? Du hast ein Gesp\u00fcr f\u00fcr Social Media, Storytelling und politische Bildungsarbeit \u2013 und willst Inhalte und Kampagnen f\u00fcr ein antisemi",
-   "first_seen": "2026-09-30",
+   "summary": "<div class=\"content-intro\"><p class=\"ms-outlook-mobile-reference-message skipProofing\"><strong>About WPP Production</strong></p> <p class=\"ms-outlook-mobile-reference-message skipProofing\">We are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft experts into one connected organisation. We combine world-class human craft wi",
+   "first_seen": "2026-10-01",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-idnty-gmbh-senior-art-director-brand-digital-design-freiburg-im-breisgau-360999",
+   "title": "Senior Art Director (m/w/d) - Brand & Digital Design",
+   "company": "IDNTY GmbH",
+   "location": "Freiburg im Breisgau",
+   "url": "https://www.arbeitnow.com/jobs/companies/idnty-gmbh/senior-art-director-brand-digital-design-freiburg-im-breisgau-360999",
+   "score": 23,
+   "matched": [
+    "brand guidelines",
+    "rebrand",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "DEINE MISSION BEI IDNTY Du denkst in starken visuellen Konzepten und verwandelst komplexe Markenherausforderungen in \u00fcberzeugende Designl\u00f6sungen? Als Senior Art Director f\u00fchrst du bei uns kreative Projekte von der ersten Idee bis zur finalen Umsetzung und pr\u00e4gst nachhaltig die visuelle Identit\u00e4t unserer Kunden. Aufgaben Das machst du konkret: Du entwickelst ganzheitliche Brand Identity Konzepte un",
+   "first_seen": "2026-10-01",
    "is_new": true
   },
   {
@@ -631,26 +648,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-473857",
-   "title": "(Senior) Social Brand Manager (all genders)",
-   "company": "WeCreate Germany",
-   "location": "Hybrid",
-   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-473857",
-   "score": 19,
-   "matched": [
-    "campaign",
-    "agency",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
-   "first_seen": "2026-09-30",
-   "is_new": true
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
    "title": "Editorial Content Manager - CDD (M/F/X)",
    "company": "hellofresh",
@@ -670,41 +667,22 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-ideematec-deutschland-gmbh-head-of-marketing-communications-gn-renewable-energy-i",
-   "title": "Head of Marketing & Communications (gn) | Renewable Energy",
-   "company": "Ideematec Deutschland GmbH",
-   "location": "Ismaning",
-   "url": "https://www.arbeitnow.com/jobs/companies/ideematec-deutschland-gmbh/head-of-marketing-communications-gn-renewable-energy-ismaning-297085",
-   "score": 18,
+   "id": "https-www-arbeitnow-com-jobs-companies-1komma50-senior-content-manager-berlin-128439",
+   "title": "(Senior) Content Manager (m/w/d)",
+   "company": "1KOMMA5\u02da",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-content-manager-berlin-128439",
+   "score": 17,
    "matched": [
-    "storytelling",
-    "stakeholder",
+    "copywriting",
     "ai",
-    "b2b",
+    "fintech",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "IDEEMATEC ist einer der weltweit f\u00fchrenden Hersteller von Utility-Scale-Solartrackern und weltweiter Technologief\u00fchrer im Bereich Agri-PV. Unsere Tracker bieten einzigartige Vorteile wie hohe Zuverl\u00e4ssigkeit \u00fcber den gesamten Lebenszyklus und daraus resultierende niedrige Stromgestehungskosten (LCOE). Als Wegbereiter f\u00fcr kommerzielle Solartracker in der Landwirtschaft erschlie\u00dfen wir mit unseren A",
-   "first_seen": "2026-09-30",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-new-flag-gmbh-brand-strategy-manager-munich-208490",
-   "title": "Brand Strategy Manager (m/w/d)",
-   "company": "New Flag GmbH",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/new-flag-gmbh/brand-strategy-manager-munich-208490",
-   "score": 16,
-   "matched": [
-    "brand strategy",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Das erwartet Dich bei uns Du willst die Haarwelt nicht nur beobachten, sondern mitgestalten? Du brennst f\u00fcr Hair &#x26; Care, f\u00fcr Pflegeprodukte und f\u00fcr das Friseursalon-Business, und Du hast Lust, zwei starke Marken wirklich nach vorne zu bringen? Als Brand Strategy Manager verantwortest Du die strategische Entwicklung unserer Partnermarken O&#x26;M und EVO. Du f\u00fchrst Deine Marken wie Dein eigene",
-   "first_seen": "2026-09-30",
+   "summary": "1KOMMA5\u00b0 Bei 1KOMMA5\u00b0 verfolgen wir eine Vision: Living on wind and sunlight forever for free . Daf\u00fcr bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W\u00e4rmepumpe und E-Mobilit\u00e4t denken wir nicht einzeln, sondern steuern sie als intelligentes, integriertes Gesamtsystem in unserem virtuellen K",
+   "first_seen": "2026-10-01",
    "is_new": true
   },
   {
