@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-01 14:15 UTC",
- "scanned": 3931,
+ "updated": "2026-10-02 13:37 UTC",
+ "scanned": 3923,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -29,6 +29,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-trainline-senior-brand-manager-9-month-ftc-london-486031",
+   "title": "Senior Brand Manager - 9 Month FTC",
+   "company": "Trainline",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-brand-manager-9-month-ftc-london-486031",
+   "score": 57,
+   "matched": [
+    "brand strategy",
+    "brand platform",
+    "creative direction",
+    "campaign",
+    "integrated campaign",
+    "global brand",
+    "agency",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. Great journeys start with Trainline \ud83d\ude84 We\u2019re Europe\u2019s leading independent rail platform, helping mill",
+   "first_seen": "2026-10-02",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
    "title": "Senior B2B Content Marketing Manager, Global",
    "company": "adyen",
@@ -55,6 +81,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-creative-strategist-berlin-230349",
+   "title": "Creative Strategist",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/creative-strategist-berlin-230349",
+   "score": 54,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "campaign",
+    "narrative",
+    "script",
+    "production",
+    "in-house",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "e-commerce"
+   ],
+   "years": 4,
+   "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So you get the innovation and the results that K-Beauty is known for, plus a real commitment to sustainability. And we make it genuinely fun and",
+   "first_seen": "2026-10-02",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
    "title": "Corporate Brand Manager",
    "company": "supercell",
@@ -79,6 +131,30 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/8beb421f-c04e-4929-afcc-3ca384c21530/clash royale arena sketch.jpeg] WE PUT PLAYERS FIRST IN EVERYTHING WE DO. THAT MINDSET ALSO GUIDES HOW WE BUILD AND EVOLVE SUPERCELL AS A BRAND. SUPERCELL HAS BEEN AROUND FOR OVER 15 YEARS, AND AS WE MOVE FORWARD WITH A REFRESHED BRAND STRATEGY, WE\u2019RE TAKING THE CORPORATE BRAN",
    "first_seen": "2026-08-16",
    "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
+   "title": "Copywriter, Global Creative [All genders]",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://careers.hellofresh.com/global/en/job/8030063?gh_jid=8030063",
+   "score": 50,
+   "matched": [
+    "sponsorship or relocation",
+    "tone of voice",
+    "copywriting",
+    "copywriter",
+    "concept",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
+   "first_seen": "2026-10-02",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
@@ -182,30 +258,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-conduct-communications-strategist-london-393811",
-   "title": "Communications Strategist",
-   "company": "Conduct",
-   "location": "London, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/communications-strategist-london-393811",
-   "score": 45,
-   "matched": [
-    "sponsorship or relocation",
-    "concept",
-    "campaign",
-    "integrated campaign",
-    "narrative",
-    "script",
-    "ai",
-    "internal communications",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "TL;DR: One of Conduct's early marketing and comms hires. You'll help build the most exciting brand in enterprise technology from scratch and make sure every CIO, engineer, and future teammate knows it. Why Conduct We believe the world's largest companies should move at the speed of their ideas, not the speed of the decade-old systems they run on. Today they don't. Every process change and every ne",
-   "first_seen": "2026-10-01",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
    "title": "Brand Event Manager",
    "company": "alan",
@@ -280,6 +332,30 @@
    "summary": "Job description The Branding, Marketing, and Communications Executive will be responsible for the positioning, brand, and awareness raising of the work and impact of the AquaBioTech Group internationally. The post holder will need to develop a communications strategy in line with AquaBioTech Group's international business plan, identifying key stakeholders, communication platforms, and/or channels",
    "first_seen": "2026-09-08",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-pr-manager-berlin-275507",
+   "title": "PR Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/pr-manager-berlin-275507",
+   "score": 40,
+   "matched": [
+    "concept",
+    "campaign",
+    "storytelling",
+    "ai",
+    "b2b",
+    "retail",
+    "press release",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
+   "first_seen": "2026-10-02",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
@@ -448,7 +524,7 @@
    "years": 13,
    "summary": "At Tetra Pak we commit to making food safe and available, everywhere; and we protect what's good \u2013 protecting food, protecting people, and protecting the planet. By doing so we touch millions of people's lives every day. And we need people like you to make it happen. We empower you to reach your potential with opportunities to make an impact to be proud of \u2013 for food, people and the planet. Job Su",
    "first_seen": "2026-10-01",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -496,24 +572,48 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-paires-founding-head-of-brand-united-kingdom-424738",
-   "title": "Founding Head of Brand",
-   "company": "Paires",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/paires/founding-head-of-brand-united-kingdom-424738",
-   "score": 31,
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-brand-experience-manager-berlin-441930",
+   "title": "Brand Experience Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-441930",
+   "score": 33,
    "matched": [
-    "brand strategy",
-    "positioning",
-    "editorial",
-    "film",
+    "concept",
+    "brand book",
+    "production",
+    "cross-functional",
     "ai",
     "pr",
-    "team"
+    "team",
+    "mentor",
+    "own the brand"
    ],
    "years": null,
-   "summary": "We are hiring a Founding Head of Brand to own how Pairs presents itself to founders and investors: its positioning, voice and visual identity, and the writing and video behind them. Pairs is a global network of family offices, institutional investors, VCs and angels. We screen deal flow very tightly, and the opportunities that clear our diligence go out to the network. We invest alongside them too",
-   "first_seen": "2026-10-01",
+   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
+   "first_seen": "2026-10-02",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-kraken-public-relations-communications-manager-london-115911",
+   "title": "Public Relations & Communications Manager",
+   "company": "Kraken",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/public-relations-communications-manager-london-115911",
+   "score": 31,
+   "matched": [
+    "positioning",
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. Before you apply, we encourage you to explore our culture page t",
+   "first_seen": "2026-10-02",
    "is_new": true
   },
   {
@@ -540,46 +640,26 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-wppproduction-account-director-6-months-ftc-beauty-luxury-brand-london-254096",
-   "title": "Account Director (6 months FTC- Beauty Luxury Brand)",
-   "company": "Wppproduction",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppproduction/account-director-6-months-ftc-beauty-luxury-brand-london-254096",
-   "score": 25,
+   "id": "https-www-arbeitnow-fr-jobs-companies-skeletontech-remote-senior-communications-manager-france-416314",
+   "title": "Senior Communications Manager",
+   "company": "Skeletontech",
+   "location": "France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/skeletontech/remote-senior-communications-manager-france-416314",
+   "score": 30,
    "matched": [
-    "production",
-    "agency",
-    "stakeholder",
-    "ai",
-    "retail",
-    "fmcg",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p class=\"ms-outlook-mobile-reference-message skipProofing\"><strong>About WPP Production</strong></p> <p class=\"ms-outlook-mobile-reference-message skipProofing\">We are WPP Production - the unified global production company that brings together all of WPP's content producers, studios and craft experts into one connected organisation. We combine world-class human craft wi",
-   "first_seen": "2026-10-01",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-idnty-gmbh-senior-art-director-brand-digital-design-freiburg-im-breisgau-360999",
-   "title": "Senior Art Director (m/w/d) - Brand & Digital Design",
-   "company": "IDNTY GmbH",
-   "location": "Freiburg im Breisgau",
-   "url": "https://www.arbeitnow.com/jobs/companies/idnty-gmbh/senior-art-director-brand-digital-design-freiburg-im-breisgau-360999",
-   "score": 23,
-   "matched": [
-    "brand guidelines",
-    "rebrand",
+    "narrative",
+    "in-house",
     "stakeholder",
     "ai",
     "b2b",
+    "press release",
     "pr",
-    "team"
+    "team",
+    "10+ years"
    ],
-   "years": null,
-   "summary": "DEINE MISSION BEI IDNTY Du denkst in starken visuellen Konzepten und verwandelst komplexe Markenherausforderungen in \u00fcberzeugende Designl\u00f6sungen? Als Senior Art Director f\u00fchrst du bei uns kreative Projekte von der ersten Idee bis zur finalen Umsetzung und pr\u00e4gst nachhaltig die visuelle Identit\u00e4t unserer Kunden. Aufgaben Das machst du konkret: Du entwickelst ganzheitliche Brand Identity Konzepte un",
-   "first_seen": "2026-10-01",
+   "years": 10,
+   "summary": "Skeleton Technologies is looking for a Senior Communications Manager to join our team. About Skeleton Skeleton Technologies is a global leader in critical power infrastructure for AI data centers and electrical grid stability, founded in 2009. Power today is more than electricity. It is national security, digital continuity, and economic resilience. Skeleton is the Backbone of Power: equipping AI ",
+   "first_seen": "2026-10-02",
    "is_new": true
   },
   {
@@ -648,41 +728,22 @@
    "is_new": false
   },
   {
-   "id": "https-careers-hellofresh-com-global-en-job-8161221-gh_jid-8161221",
-   "title": "Editorial Content Manager - CDD (M/F/X)",
-   "company": "hellofresh",
-   "location": "Paris, Paris, France",
-   "url": "https://careers.hellofresh.com/global/en/job/8161221?gh_jid=8161221",
-   "score": 19,
+   "id": "https-www-arbeitnow-com-jobs-companies-german-design-council-rat-fur-formgebung-manager-communications-marketing-frankfu",
+   "title": "Manager Communications & Marketing (w/m/d)",
+   "company": "German Design Council - Rat f\u00fcr Formgebung",
+   "location": "Frankfurt am Main",
+   "url": "https://www.arbeitnow.com/jobs/companies/german-design-council-rat-fur-formgebung/manager-communications-marketing-frankfurt-am-main-155215",
+   "score": 16,
    "matched": [
-    "copywriting",
-    "editorial",
-    "concept",
+    "creative direction",
+    "stakeholder",
     "ai",
-    "pr"
-   ],
-   "years": null,
-   "summary": "<h3><strong>Rejoins une superstar de la foodtech fran\u00e7aise</strong></h3> <p>Chez HelloFresh, nous bousculons les habitudes alimentaires des fran\u00e7ais gr\u00e2ce \u00e0 nos Box \u00e0 cuisiner ! </p> <p>Notre ambition ? R\u00e9volutionner le quotidien de nos abonn\u00e9s, en promouvant une fa\u00e7on plus durable de cuisiner et en leur faisant d\u00e9couvrir de d\u00e9licieuses recettes, cr\u00e9atives et \u00e9quilibr\u00e9es. L\u2019alliance parfaite entre",
-   "first_seen": "2026-08-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-1komma50-senior-content-manager-berlin-128439",
-   "title": "(Senior) Content Manager (m/w/d)",
-   "company": "1KOMMA5\u02da",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/1komma50/senior-content-manager-berlin-128439",
-   "score": 17,
-   "matched": [
-    "copywriting",
-    "ai",
-    "fintech",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "1KOMMA5\u00b0 Bei 1KOMMA5\u00b0 verfolgen wir eine Vision: Living on wind and sunlight forever for free . Daf\u00fcr bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, W\u00e4rmepumpe und E-Mobilit\u00e4t denken wir nicht einzeln, sondern steuern sie als intelligentes, integriertes Gesamtsystem in unserem virtuellen K",
-   "first_seen": "2026-10-01",
+   "summary": "Moving business by design \u2013 das ist unsere Mission. Der German Design Council ist die Instanz f\u00fcr Design in Deutschland. Gegr\u00fcndet 1953, mit aktuell rund 60 Mitarbeitenden und Standorten in Frankfurt, Shanghai und Singapur, bringen wir Wirtschaft und Design zusammen und machen Circular Design zum Schl\u00fcssel zukunftsorientierter Gesch\u00e4ftsmodelle. Hast du Lust, die Zukunft zu gestalten? Dann bist du ",
+   "first_seen": "2026-10-02",
    "is_new": true
   },
   {
