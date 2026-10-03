@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-02 13:37 UTC",
- "scanned": 3923,
+ "updated": "2026-10-03 12:16 UTC",
+ "scanned": 3925,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -29,29 +29,29 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-trainline-senior-brand-manager-9-month-ftc-london-486031",
-   "title": "Senior Brand Manager - 9 Month FTC",
-   "company": "Trainline",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-brand-manager-9-month-ftc-london-486031",
-   "score": 57,
+   "id": "https-careers-hellofresh-com-global-en-job-8239188-gh_jid-8239188",
+   "title": "Brand and Media Manager - all genders",
+   "company": "hellofresh",
+   "location": "K\u00f8benhavn, Capital RegionDenmark, Denmark",
+   "url": "https://careers.hellofresh.com/global/en/job/8239188?gh_jid=8239188",
+   "score": 61,
    "matched": [
     "brand strategy",
-    "brand platform",
-    "creative direction",
+    "brand positioning",
+    "positioning",
     "campaign",
-    "integrated campaign",
-    "global brand",
+    "brand campaign",
+    "script",
     "agency",
-    "stakeholder",
+    "cross-functional",
     "ai",
-    "b2b",
+    "fmcg",
     "pr",
     "team"
    ],
-   "years": null,
-   "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. Great journeys start with Trainline \ud83d\ude84 We\u2019re Europe\u2019s leading independent rail platform, helping mill",
-   "first_seen": "2026-10-02",
+   "years": 4,
+   "summary": "<p><strong>The Role (What\u2019s In The Box)</strong></p> <p data-pm-slice=\"1 1 []\">Over the years, we've seen this mission spread around the world and beyond our wildest dreams, with HelloFresh now serving customers across markets around the globe. Our weekly boxes full of exciting recipes and high-quality, fresh ingredients have blossomed into a community of customers looking for delicious, healthy, ",
+   "first_seen": "2026-10-03",
    "is_new": true
   },
   {
@@ -81,29 +81,29 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-creative-strategist-berlin-230349",
-   "title": "Creative Strategist",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/creative-strategist-berlin-230349",
-   "score": 54,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-quince-senior-manager-of-global-communications-london-188584",
+   "title": "Senior Manager of Global Communications",
+   "company": "Quince",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-manager-of-global-communications-london-188584",
+   "score": 52,
    "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
+    "brand strategy",
+    "editorial",
     "campaign",
+    "storytelling",
     "narrative",
     "script",
-    "production",
-    "in-house",
-    "stakeholder",
+    "agency",
     "cross-functional",
     "ai",
-    "e-commerce"
+    "retail",
+    "pr",
+    "team"
    ],
-   "years": 4,
-   "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So you get the innovation and the results that K-Beauty is known for, plus a real commitment to sustainability. And we make it genuinely fun and",
-   "first_seen": "2026-10-02",
+   "years": 8,
+   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
+   "first_seen": "2026-10-03",
    "is_new": true
   },
   {
@@ -154,7 +154,7 @@
    "years": null,
    "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-10-02",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
@@ -310,6 +310,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-airspeed-organic-growth-ai-search-content-strategy-manager-london-239271",
+   "title": "Organic Growth, AI Search & Content Strategy Manager",
+   "company": "Airspeed",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/airspeed/organic-growth-ai-search-content-strategy-manager-london-239271",
+   "score": 40,
+   "matched": [
+    "positioning",
+    "brand voice",
+    "editorial",
+    "campaign",
+    "storytelling",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "- backlink"
+   ],
+   "years": 6,
+   "summary": "About the Role Airspeed is looking for an Organic Growth, AI Search & Content Strategy Manager to build and scale how we are discovered, trusted, and chosen across search and AI-powered discovery. You will own our organic growth strategy across SEO, content, and emerging answer engines, turning customer and market insight into high-quality content that builds authority and drives measurable pipeli",
+   "first_seen": "2026-10-03",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31447382",
    "title": "Branding, Marketing & Communications Executive (Ref no: 449162)",
    "company": "Jobsplus",
@@ -332,30 +358,6 @@
    "summary": "Job description The Branding, Marketing, and Communications Executive will be responsible for the positioning, brand, and awareness raising of the work and impact of the AquaBioTech Group internationally. The post holder will need to develop a communications strategy in line with AquaBioTech Group's international business plan, identifying key stakeholders, communication platforms, and/or channels",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-pr-manager-berlin-275507",
-   "title": "PR Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/pr-manager-berlin-275507",
-   "score": 40,
-   "matched": [
-    "concept",
-    "campaign",
-    "storytelling",
-    "ai",
-    "b2b",
-    "retail",
-    "press release",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
-   "first_seen": "2026-10-02",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
@@ -454,6 +456,29 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-09-08",
    "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-8242756-gh_jid-8242756",
+   "title": "Senior Manager, Public Relations",
+   "company": "hellofresh",
+   "location": "New York, NY, United States",
+   "url": "https://careers.hellofresh.com/global/en/job/8242756?gh_jid=8242756",
+   "score": 38,
+   "matched": [
+    "brand voice",
+    "campaign",
+    "storytelling",
+    "narrative",
+    "agency",
+    "ai",
+    "press release",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<h1><strong>Senior Manager, Public Relations \u2013 Factor</strong></h1> <p><span style=\"text-decoration: underline;\"><strong>Location:</strong> Hybrid position to the New York City HelloFresh Headquarters</span></p> <h2><strong>About Factor</strong></h2> <p>At Factor, we\u2019re on a mission to make real food the new standard for how the world eats.</p> <p>We believe convenience should never come at the ex",
+   "first_seen": "2026-10-03",
+   "is_new": true
   },
   {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
@@ -572,51 +597,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-brand-experience-manager-berlin-441930",
-   "title": "Brand Experience Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-441930",
-   "score": 33,
-   "matched": [
-    "concept",
-    "brand book",
-    "production",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "own the brand"
-   ],
-   "years": null,
-   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
-   "first_seen": "2026-10-02",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-kraken-public-relations-communications-manager-london-115911",
-   "title": "Public Relations & Communications Manager",
-   "company": "Kraken",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/public-relations-communications-manager-london-115911",
-   "score": 31,
-   "matched": [
-    "positioning",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. Before you apply, we encourage you to explore our culture page t",
-   "first_seen": "2026-10-02",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -638,29 +618,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-skeletontech-remote-senior-communications-manager-france-416314",
-   "title": "Senior Communications Manager",
-   "company": "Skeletontech",
-   "location": "France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/skeletontech/remote-senior-communications-manager-france-416314",
-   "score": 30,
-   "matched": [
-    "narrative",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "press release",
-    "pr",
-    "team",
-    "10+ years"
-   ],
-   "years": 10,
-   "summary": "Skeleton Technologies is looking for a Senior Communications Manager to join our team. About Skeleton Skeleton Technologies is a global leader in critical power infrastructure for AI data centers and electrical grid stability, founded in 2009. Power today is more than electricity. It is national security, digital continuity, and economic resilience. Skeleton is the Backbone of Power: equipping AI ",
-   "first_seen": "2026-10-02",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
@@ -728,42 +685,23 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-german-design-council-rat-fur-formgebung-manager-communications-marketing-frankfu",
-   "title": "Manager Communications & Marketing (w/m/d)",
-   "company": "German Design Council - Rat f\u00fcr Formgebung",
-   "location": "Frankfurt am Main",
-   "url": "https://www.arbeitnow.com/jobs/companies/german-design-council-rat-fur-formgebung/manager-communications-marketing-frankfurt-am-main-155215",
-   "score": 16,
+   "id": "https-www-arbeitnow-ch-jobs-companies-flink-brand-manager-zurich-196111",
+   "title": "Brand Manager",
+   "company": "Flink",
+   "location": "Z\u00fcrich",
+   "url": "https://www.arbeitnow.ch/jobs/companies/flink/brand-manager-zurich-196111",
+   "score": 18,
    "matched": [
-    "creative direction",
-    "stakeholder",
+    "campaign",
+    "production",
     "ai",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Moving business by design \u2013 das ist unsere Mission. Der German Design Council ist die Instanz f\u00fcr Design in Deutschland. Gegr\u00fcndet 1953, mit aktuell rund 60 Mitarbeitenden und Standorten in Frankfurt, Shanghai und Singapur, bringen wir Wirtschaft und Design zusammen und machen Circular Design zum Schl\u00fcssel zukunftsorientierter Gesch\u00e4ftsmodelle. Hast du Lust, die Zukunft zu gestalten? Dann bist du ",
-   "first_seen": "2026-10-02",
+   "summary": "About Flink Flink Robotics delivers superhuman physical work. We are a Z\u00fcrich-based deep tech startup developing a physics-based world model that lets machines reason about the physical world and do work robots couldn't do before - starting with logistics. We're a team of engineers and researchers with roots at ETH Z\u00fcrich, backed by leading European investors. The technology is ambitious; now we w",
+   "first_seen": "2026-10-03",
    "is_new": true
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31452545",
-   "title": "Senior Brand Manager",
-   "company": "Orkla Foods Sverige AB",
-   "location": "Malm\u00f6, Sk\u00e5ne l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31452545",
-   "score": 15,
-   "matched": [
-    "script",
-    "ai",
-    "retail",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Company description: Orkla Foods Sverige tillagar mat och dryck i Sverige med k\u00e4rlek och omtanke om m\u00e4nniskor, hav och land. Vi \u00e4r en lokal samh\u00e4llsakt\u00f6r som med v\u00e5ra 1500 medarbetare g\u00f6r skillnad och bidrar till en mer h\u00e5llbar och h\u00e4lsosam vardag. Ca 90 procent av den mat och dryck vi s\u00e4ljer i Sverige tillagar vi lokalt p\u00e5 n\u00e5gon av v\u00e5ra 7 anl\u00e4ggningar i Sverige. Job description:\u00c4r du Orkla Food S",
-   "first_seen": "2026-09-09",
-   "is_new": false
   }
  ]
 }
