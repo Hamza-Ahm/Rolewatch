@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-03 12:16 UTC",
- "scanned": 3925,
+ "updated": "2026-10-04 13:04 UTC",
+ "scanned": 3924,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -52,7 +52,7 @@
    "years": 4,
    "summary": "<p><strong>The Role (What\u2019s In The Box)</strong></p> <p data-pm-slice=\"1 1 []\">Over the years, we've seen this mission spread around the world and beyond our wildest dreams, with HelloFresh now serving customers across markets around the globe. Our weekly boxes full of exciting recipes and high-quality, fresh ingredients have blossomed into a community of customers looking for delicious, healthy, ",
    "first_seen": "2026-10-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
@@ -79,32 +79,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-quince-senior-manager-of-global-communications-london-188584",
-   "title": "Senior Manager of Global Communications",
-   "company": "Quince",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-manager-of-global-communications-london-188584",
-   "score": 52,
-   "matched": [
-    "brand strategy",
-    "editorial",
-    "campaign",
-    "storytelling",
-    "narrative",
-    "script",
-    "agency",
-    "cross-functional",
-    "ai",
-    "retail",
-    "pr",
-    "team"
-   ],
-   "years": 8,
-   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
-   "first_seen": "2026-10-03",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
@@ -310,32 +284,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-airspeed-organic-growth-ai-search-content-strategy-manager-london-239271",
-   "title": "Organic Growth, AI Search & Content Strategy Manager",
-   "company": "Airspeed",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/airspeed/organic-growth-ai-search-content-strategy-manager-london-239271",
-   "score": 40,
-   "matched": [
-    "positioning",
-    "brand voice",
-    "editorial",
-    "campaign",
-    "storytelling",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "- backlink"
-   ],
-   "years": 6,
-   "summary": "About the Role Airspeed is looking for an Organic Growth, AI Search & Content Strategy Manager to build and scale how we are discovered, trusted, and chosen across search and AI-powered discovery. You will own our organic growth strategy across SEO, content, and emerging answer engines, turning customer and market insight into high-quality content that builds authority and drives measurable pipeli",
-   "first_seen": "2026-10-03",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31447382",
    "title": "Branding, Marketing & Communications Executive (Ref no: 449162)",
    "company": "Jobsplus",
@@ -478,7 +426,7 @@
    "years": null,
    "summary": "<h1><strong>Senior Manager, Public Relations \u2013 Factor</strong></h1> <p><span style=\"text-decoration: underline;\"><strong>Location:</strong> Hybrid position to the New York City HelloFresh Headquarters</span></p> <h2><strong>About Factor</strong></h2> <p>At Factor, we\u2019re on a mission to make real food the new standard for how the world eats.</p> <p>We believe convenience should never come at the ex",
    "first_seen": "2026-10-03",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
@@ -597,6 +545,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-creative-strategist-all-genders-hybrid-254635",
+   "title": "Senior Creative Strategist (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-254635",
+   "score": 32,
+   "matched": [
+    "creative strategy",
+    "campaign",
+    "narrative",
+    "production",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
+   "first_seen": "2026-10-04",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
    "title": "Senior Communication Business Partner - Tech",
    "company": "adyen",
@@ -618,6 +589,27 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-08",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-hawarhelp-germandream-communications-managerin-content-campaigns-mit-schwerpunkt-",
+   "title": "Communications Manager:in | Content & Campaigns mit Schwerpunkt antisemitismuskritische Bildungsarbeit bei GermanDream (m/w/d \u00b7 Teilzeit)",
+   "company": "H\u00c1WAR.help & GermanDream",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/hawarhelp-germandream/communications-managerin-content-campaigns-mit-schwerpunkt-antisemitismuskritische-bildungsarbeit-bei-germandream-teilzeit-berlin-441867",
+   "score": 25,
+   "matched": [
+    "brand guidelines",
+    "campaign",
+    "storytelling",
+    "film",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Die Position BERLIN \u00b7 a b sofort \u00b7 befristet bis 31.12.2027 Teilzeit \u2013 32 Std./Woche | Besetzung vorbehaltlich der Mittelzusage Bewerbungsfrist: 30.09.2026, 13.00 Uhr Du m\u00f6chtest gesellschaftlich relevante Themen verst\u00e4ndlich, sensibel und zielgruppengerecht erz\u00e4hlen? Du hast ein Gesp\u00fcr f\u00fcr Social Media, Storytelling und politische Bildungsarbeit \u2013 und willst Inhalte und Kampagnen f\u00fcr ein antisemi",
+   "first_seen": "2026-10-04",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
@@ -685,6 +677,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-wecreate-germany-senior-social-brand-manager-all-genders-hybrid-282227",
+   "title": "(Senior) Social Brand Manager (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-282227",
+   "score": 19,
+   "matched": [
+    "campaign",
+    "agency",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
+   "first_seen": "2026-10-04",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-ch-jobs-companies-flink-brand-manager-zurich-196111",
    "title": "Brand Manager",
    "company": "Flink",
@@ -701,7 +713,7 @@
    "years": null,
    "summary": "About Flink Flink Robotics delivers superhuman physical work. We are a Z\u00fcrich-based deep tech startup developing a physics-based world model that lets machines reason about the physical world and do work robots couldn't do before - starting with logistics. We're a team of engineers and researchers with roots at ETH Z\u00fcrich, backed by leading European investors. The technology is ambitious; now we w",
    "first_seen": "2026-10-03",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
