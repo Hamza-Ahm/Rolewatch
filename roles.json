@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-04 13:04 UTC",
- "scanned": 3924,
+ "updated": "2026-10-05 15:36 UTC",
+ "scanned": 3902,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -429,11 +429,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -453,11 +453,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -565,7 +565,7 @@
    "years": null,
    "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung \u2013 als stra",
    "first_seen": "2026-10-04",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
@@ -589,27 +589,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-hawarhelp-germandream-communications-managerin-content-campaigns-mit-schwerpunkt-",
-   "title": "Communications Manager:in | Content & Campaigns mit Schwerpunkt antisemitismuskritische Bildungsarbeit bei GermanDream (m/w/d \u00b7 Teilzeit)",
-   "company": "H\u00c1WAR.help & GermanDream",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/hawarhelp-germandream/communications-managerin-content-campaigns-mit-schwerpunkt-antisemitismuskritische-bildungsarbeit-bei-germandream-teilzeit-berlin-441867",
-   "score": 25,
-   "matched": [
-    "brand guidelines",
-    "campaign",
-    "storytelling",
-    "film",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Die Position BERLIN \u00b7 a b sofort \u00b7 befristet bis 31.12.2027 Teilzeit \u2013 32 Std./Woche | Besetzung vorbehaltlich der Mittelzusage Bewerbungsfrist: 30.09.2026, 13.00 Uhr Du m\u00f6chtest gesellschaftlich relevante Themen verst\u00e4ndlich, sensibel und zielgruppengerecht erz\u00e4hlen? Du hast ein Gesp\u00fcr f\u00fcr Social Media, Storytelling und politische Bildungsarbeit \u2013 und willst Inhalte und Kampagnen f\u00fcr ein antisemi",
-   "first_seen": "2026-10-04",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
@@ -694,7 +673,7 @@
    "years": null,
    "summary": "They do 08/15. We create 9:16 Wir schaffen Relevanz, um Aufmerksamkeit zu erreichen und zu skalieren. Sichtbarkeit ist nicht automatisch Relevanz. Reichweite nicht automatisch Wirkung. WeCreate ist eine Social-First Brand Building Agency f\u00fcr das Interest-Media-Zeitalter. Wir \u00fcbersetzen Social Signals und Community Insights in Social Strategien, Content-Systeme und messbare Markenwirkung als strate",
    "first_seen": "2026-10-04",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-ch-jobs-companies-flink-brand-manager-zurich-196111",
