@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-05 15:36 UTC",
- "scanned": 3902,
+ "updated": "2026-10-06 13:57 UTC",
+ "scanned": 3898,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -27,6 +27,32 @@
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-09-10",
    "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
+   "title": "Global Brand & PR Program Manager",
+   "company": "adyen",
+   "location": "New York; San Francisco",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8256429",
+   "score": 73,
+   "matched": [
+    "brand guidelines",
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "brand campaign",
+    "storytelling",
+    "narrative",
+    "global brand",
+    "production",
+    "agency",
+    "stakeholder",
+    "cross-functional"
+   ],
+   "years": 5,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-10-06",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8239188-gh_jid-8239188",
@@ -81,32 +107,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobs-ashbyhq-com-supercell-99339e8c-3190-4cfb-a7e4-01f675188597",
-   "title": "Corporate Brand Manager",
-   "company": "supercell",
-   "location": "Helsinki",
-   "url": "https://jobs.ashbyhq.com/supercell/99339e8c-3190-4cfb-a7e4-01f675188597",
-   "score": 52,
-   "matched": [
-    "brand strategy",
-    "brand guidelines",
-    "creative direction",
-    "concept",
-    "campaign",
-    "brand campaign",
-    "storytelling",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/8beb421f-c04e-4929-afcc-3ca384c21530/clash royale arena sketch.jpeg] WE PUT PLAYERS FIRST IN EVERYTHING WE DO. THAT MINDSET ALSO GUIDES HOW WE BUILD AND EVOLVE SUPERCELL AS A BRAND. SUPERCELL HAS BEEN AROUND FOR OVER 15 YEARS, AND AS WE MOVE FORWARD WITH A REFRESHED BRAND STRATEGY, WE\u2019RE TAKING THE CORPORATE BRAN",
-   "first_seen": "2026-08-16",
-   "is_new": false
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
    "title": "Copywriter, Global Creative [All genders]",
    "company": "hellofresh",
@@ -128,31 +128,6 @@
    "years": null,
    "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-10-02",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8098412",
-   "title": "PR Manager, Japan",
-   "company": "adyen",
-   "location": "Tokyo",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8098412",
-   "score": 48,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "campaign",
-    "brand campaign",
-    "storytelling",
-    "agency",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "10+ years"
-   ],
-   "years": 10,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-09-08",
    "is_new": false
   },
   {
@@ -429,11 +404,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -453,11 +428,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -568,27 +543,24 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7410347",
-   "title": "Senior Communication Business Partner - Tech",
-   "company": "adyen",
-   "location": "San Francisco",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7410347",
-   "score": 31,
+   "id": "https-www-arbeitnow-com-jobs-companies-valkental-gmbh-creative-strategist-video-ads-ugc-fur-meta-dusseldorf-413261",
+   "title": "Creative Strategist - Video Ads & UGC f\u00fcr Meta (m/w/d)",
+   "company": "Valkental GmbH",
+   "location": "D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/valkental-gmbh/creative-strategist-video-ads-ugc-fur-meta-dusseldorf-413261",
+   "score": 25,
    "matched": [
-    "storytelling",
-    "narrative",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "internal communications",
+    "copywriting",
+    "copywriter",
+    "creative strategy",
+    "e-commerce",
     "pr",
-    "team",
-    "10+ years"
+    "team"
    ],
-   "years": 10,
-   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
-   "first_seen": "2026-09-08",
-   "is_new": false
+   "years": null,
+   "summary": "Du schreibst Skripte f\u00fcr Video-Ads. Am n\u00e4chsten Tag siehst du im Ads Manager, was sie verkaufen. Valkental entwickelt seit 2020 Outdoorprodukte f\u00fcr mehr Sicherheit und Komfort im Stra\u00dfenverkehr. \u00dcber 400.000 Kunden vertrauen bereits auf uns. Unser Shop ist achtstellig. Deine Creatives sollen ihn auf dem Weg zu einem neunstelligen supporten. Aktuell schreibt eine Creative Strategist unsere Ads. Du ",
+   "first_seen": "2026-10-06",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
