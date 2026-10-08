@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-07 14:15 UTC",
- "scanned": 3937,
+ "updated": "2026-10-08 14:25 UTC",
+ "scanned": 3946,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -27,32 +27,6 @@
    "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
    "first_seen": "2026-09-10",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-oliver-agency-content-strategist-ai-copy-lead-london-274445",
-   "title": "Content Strategist & AI Copy Lead",
-   "company": "OLIVER Agency",
-   "location": "London, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/content-strategist-ai-copy-lead-london-274445",
-   "score": 73,
-   "matched": [
-    "positioning",
-    "copywriter",
-    "editorial",
-    "campaign",
-    "narrative",
-    "messaging framework",
-    "script",
-    "production",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai"
-   ],
-   "years": null,
-   "summary": "Established in 2004, OLIVER is the world's first and only specialist in designing, building, and running bespoke in-house agencies and marketing ecosystems for brands. We partner with over 300 clients in 40+ countries and counting. Our unique model drives creativity and efficiency, allowing us to deliver tailored solutions that resonate deeply with audiences. As a part of The Brandtech Group , we'",
-   "first_seen": "2026-10-07",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
@@ -133,29 +107,29 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-blue-state-creative-director-fundraising-and-mobilization-evergreen-london-1349",
-   "title": "Creative Director, Fundraising and Mobilization (Evergreen)",
-   "company": "Blue State",
-   "location": "London, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/blue-state/creative-director-fundraising-and-mobilization-evergreen-london-134972",
-   "score": 53,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-jellyfish-social-creative-director-london-104229",
+   "title": "Social Creative Director",
+   "company": "Jellyfish",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/jellyfish/social-creative-director-london-104229",
+   "score": 55,
    "matched": [
-    "brand world",
-    "copywriting",
-    "copywriter",
-    "creative strategy",
     "concept",
     "campaign",
+    "integrated campaign",
+    "localisation",
+    "transcreation",
+    "film",
+    "script",
+    "production",
     "agency",
-    "stakeholder",
     "ai",
     "pr",
-    "team",
-    "mentor"
+    "team"
    ],
    "years": null,
-   "summary": "Interested in joining Blue State's Creative Director team? Submit your application here to ensure you're first in line for future opportunities. Please note: this is an \"evergreen\" job post (i.e. not an active job post), but your expression of interest matters to us. While interviews aren't ongoing, we're excited to connect with talented individuals who share our commitment to Blue State's mission",
-   "first_seen": "2026-10-07",
+   "summary": "At Jellyfish, we believe in the power of diverse perspectives and inclusive collaboration. We welcome individuals who excel in collaborative, varied teams and value the unique contributions that each person brings to the table. Jellyfish is a global digital marketing agency; a unique fusion of tech enthusiasts, creative minds, and media and data experts all united to empower our clients along thei",
+   "first_seen": "2026-10-08",
    "is_new": true
   },
   {
@@ -308,55 +282,6 @@
    "years": null,
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
-   "is_new": false
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31447382",
-   "title": "Branding, Marketing & Communications Executive (Ref no: 449162)",
-   "company": "Jobsplus",
-   "location": "Not stated",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31447382",
-   "score": 40,
-   "matched": [
-    "positioning",
-    "brand guidelines",
-    "campaign",
-    "script",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "internal communications",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Job description The Branding, Marketing, and Communications Executive will be responsible for the positioning, brand, and awareness raising of the work and impact of the AquaBioTech Group internationally. The post holder will need to develop a communications strategy in line with AquaBioTech Group's international business plan, identifying key stakeholders, communication platforms, and/or channels",
-   "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
-   "id": "https-careers-hellofresh-com-global-en-job-8155432-gh_jid-8155432",
-   "title": "Creative Systems & Optimization Manager",
-   "company": "hellofresh",
-   "location": "Brooklyn, New York, United States",
-   "url": "https://careers.hellofresh.com/global/en/job/8155432?gh_jid=8155432",
-   "score": 40,
-   "matched": [
-    "campaign",
-    "localization",
-    "script",
-    "production",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<p>HelloFresh is seeking a sharp, systems-minded Creative Systems &amp; Optimization Manager to own the operating model behind our XPOD studio. As the single intake owner across Paid Social, Organic Social, Brand Partnerships and localization, this role turns a complex, multi-brand production slate into one prioritized, efficient engine \u2014 ensuring the highest-impact work moves first.</p> <p>XPOD C",
-   "first_seen": "2026-08-25",
    "is_new": false
   },
   {
@@ -572,47 +497,66 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-datadog-senior-public-relations-manager-emea-london-97470",
-   "title": "Senior Public Relations Manager (EMEA)",
-   "company": "Datadog",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-stackline-senior-manager-brand-operations-london-233833",
+   "title": "Senior Manager, Brand Operations",
+   "company": "Stackline",
    "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/datadog/senior-public-relations-manager-emea-london-97470",
-   "score": 33,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/stackline/senior-manager-brand-operations-london-233833",
+   "score": 29,
    "matched": [
-    "storytelling",
-    "narrative",
-    "agency",
-    "in-house",
+    "brand strategy",
+    "film",
+    "ai",
+    "retail",
+    "e-commerce",
+    "pr",
+    "team",
+    "4+ years"
+   ],
+   "years": 4,
+   "summary": "<div class=\"content-intro\"><div>Stackline is the first full-funnel connected commerce platform for the world's most innovative brands. Business leaders, product innovators, performance marketers, and analysts trust Stackline as the single source of commerce truth. Fueled by our proprietary neural network, our market insights, revenue metrics, behavior analyses, and autonomous functionality create ",
+   "first_seen": "2026-10-08",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-424794",
+   "title": "Enterprise Product Manager - ElevenCreative",
+   "company": "Elevenlabs",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-424794",
+   "score": 23,
+   "matched": [
+    "concept",
     "ai",
     "b2b",
     "pr",
     "team",
-    "6+ years"
+    "5+ years"
    ],
-   "years": 6,
-   "summary": "<p>Datadog is looking for a Senior PR Manager (EMEA) to lead our communications programme across EMEA during a fixed-term maternity cover. </p> <p>This role goes beyond traditional PR and product launches. You will shape and execute regional communications strategy, build Datadog\u2019s brand and reputation, and develop the external profiles of our EMEA leaders and experts. Working across global Commun",
-   "first_seen": "2026-10-07",
+   "years": 5,
+   "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
+   "first_seen": "2026-10-08",
    "is_new": true
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-intermate-media-gmbh-senior-creative-concept-copy-social-gn-berlin-3885",
-   "title": "Senior Creative Concept/Copy (Social) (gn)",
-   "company": "Intermate Media GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-creative-concept-copy-social-gn-berlin-3885",
-   "score": 26,
+   "id": "https-www-arbeitnow-com-jobs-companies-idnty-gmbh-art-director-brand-digital-design-freiburg-im-breisgau-280963",
+   "title": "Art Director (m/w/d) - Brand & Digital Design",
+   "company": "IDNTY GmbH",
+   "location": "Freiburg im Breisgau",
+   "url": "https://www.arbeitnow.com/jobs/companies/idnty-gmbh/art-director-brand-digital-design-freiburg-im-breisgau-280963",
+   "score": 23,
    "matched": [
-    "copywriter",
-    "concept",
-    "stakeholder",
+    "brand guidelines",
+    "rebrand",
     "ai",
-    "fmcg",
+    "b2b",
     "pr",
-    "team"
+    "team",
+    "mentor"
    ],
    "years": null,
-   "summary": "Jobbeschreibung Intermate x SAMY \u2013 Shaping the State of Social Intermate geh\u00f6rt zu den gr\u00f6\u00dften Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, K\u00f6ln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben \u00fcber unsere eigene Technologie. Unse",
-   "first_seen": "2026-10-07",
+   "summary": "DEINE MISSION BEI IDNTY Du hast schon ein paar Jahre Agenturluft geschnuppert und willst jetzt Marken nicht mehr nur gestalten, sondern visuell pr\u00e4gen? Als Art Director \u00fcbernimmst du bei uns eigene Designprojekte von der Idee bis zur Umsetzung \u2013 mit einem erfahrenen Senior Art Director an deiner Seite, der dich fordert und f\u00f6rdert. So w\u00e4chst du Schritt f\u00fcr Schritt in mehr Verantwortung hinein. Auf",
+   "first_seen": "2026-10-08",
    "is_new": true
   },
   {
@@ -637,6 +581,29 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-152729-client-strategy-manager-corporate-brands-retail",
+   "title": "Client Strategy Manager - Corporate Brands & Retail",
+   "company": "YipitData",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/152729-client-strategy-manager-corporate-brands-retail",
+   "score": 22,
+   "matched": [
+    "sponsorship or relocation",
+    "narrative",
+    "cross-functional",
+    "ai",
+    "retail",
+    "e-commerce",
+    "pr",
+    "team",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments. Our data and research teams",
+   "first_seen": "2026-10-08",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8258725",
    "title": "Senior Compliance Officer - Brand Integrity",
    "company": "adyen",
@@ -655,7 +622,7 @@
    "years": 5,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-07",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
@@ -702,6 +669,25 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-elevenlabs-remote-self-serve-product-manager-elevencreative-277813",
+   "title": "Self-Serve Product Manager - ElevenCreative",
+   "company": "Elevenlabs",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-277813",
+   "score": 19,
+   "matched": [
+    "concept",
+    "ai",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
+   "first_seen": "2026-10-08",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31565237",
    "title": "Senior Brand Manager",
    "company": "Orkla Foods Sverige AB",
@@ -718,7 +704,7 @@
    "years": null,
    "summary": "Company description: Orkla Foods Sverige tillagar mat och dryck i Sverige med k\u00e4rlek och omtanke om m\u00e4nniskor, hav och land. Vi \u00e4r en lokal samh\u00e4llsakt\u00f6r som med v\u00e5ra 1500 medarbetare g\u00f6r skillnad och bidrar till en mer h\u00e5llbar och h\u00e4lsosam vardag. Ca 90 procent av den mat och dryck vi s\u00e4ljer i Sverige tillagar vi lokalt p\u00e5 n\u00e5gon av v\u00e5ra 7 anl\u00e4ggningar i Sverige. Job description:\u00c4r du Orkla Food S",
    "first_seen": "2026-10-07",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
