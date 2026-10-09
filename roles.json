@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-08 14:25 UTC",
- "scanned": 3946,
+ "updated": "2026-10-09 14:10 UTC",
+ "scanned": 3806,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -107,29 +107,29 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-jellyfish-social-creative-director-london-104229",
-   "title": "Social Creative Director",
-   "company": "Jellyfish",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/jellyfish/social-creative-director-london-104229",
-   "score": 55,
+   "id": "https-www-arbeitnow-com-jobs-companies-isaraerospace-director-marketing-branding-parsdorf-bavaria-462118",
+   "title": "Director Marketing & Branding (f/m/d)",
+   "company": "isaraerospace",
+   "location": "Parsdorf, Bavaria",
+   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-marketing-branding-parsdorf-bavaria-462118",
+   "score": 56,
    "matched": [
-    "concept",
+    "brand strategy",
+    "positioning",
     "campaign",
     "integrated campaign",
-    "localisation",
-    "transcreation",
-    "film",
-    "script",
-    "production",
-    "agency",
+    "narrative",
+    "messaging framework",
+    "brand architecture",
+    "stakeholder",
     "ai",
+    "b2b",
     "pr",
     "team"
    ],
-   "years": null,
-   "summary": "At Jellyfish, we believe in the power of diverse perspectives and inclusive collaboration. We welcome individuals who excel in collaborative, varied teams and value the unique contributions that each person brings to the table. Jellyfish is a global digital marketing agency; a unique fusion of tech enthusiasts, creative minds, and media and data experts all united to empower our clients along thei",
-   "first_seen": "2026-10-08",
+   "years": 10,
+   "summary": "<p><strong>Mission Brief </strong></p> <p><span data-contrast=\"auto\">Isar Aerospace is entering an exciting new growth phase, advancing to the delivery of commercial launch services for institutional, governmental, and commercial customers worldwide.</span><span data-ccp-props=\"{}\"> </span></p> <p><span data-contrast=\"auto\">We are seeking a strategic and hands-on </span><strong><span data-contrast",
+   "first_seen": "2026-10-09",
    "is_new": true
   },
   {
@@ -381,11 +381,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -405,11 +405,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -450,6 +450,53 @@
    "summary": "At Tetra Pak we commit to making food safe and available, everywhere; and we protect what's good \u2013 protecting food, protecting people, and protecting the planet. By doing so we touch millions of people's lives every day. And we need people like you to make it happen. We empower you to reach your potential with opportunities to make an impact to be proud of \u2013 for food, people and the planet. Job Su",
    "first_seen": "2026-10-01",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31574071",
+   "title": "Content Strategist",
+   "company": "Voyado AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31574071",
+   "score": 36,
+   "matched": [
+    "positioning",
+    "editorial",
+    "campaign",
+    "agency",
+    "ai",
+    "b2b",
+    "retail",
+    "e-commerce",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Voyado is looking for a Content Strategist with native level English skills to join our Demand Generation team in Stockholm. Our team is focused on new customer acquisition, with two core goals: engaging our target accounts and creating pipeline. Content plays a vital role in both, fueling our channels with expertise and strong points of view that give the right buyers a reason to engage with Voya",
+   "first_seen": "2026-10-09",
+   "is_new": true
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31575836",
+   "title": "Global Employer Brand Lead",
+   "company": "Alfa Laval Technologies AB",
+   "location": "Lund, Sk\u00e5ne l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31575836",
+   "score": 34,
+   "matched": [
+    "campaign",
+    "storytelling",
+    "agency",
+    "stakeholder",
+    "ai",
+    "internal communications",
+    "pr",
+    "team",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "What you\u00b4ll do: As Global Employer Brand Lead, you play a key role in developing and activating our employer brand internally and externally across our global markets. Your main responsibilities include: Developing and executing our global employer branding strategy and identifying priorities to continuously support and enable Alfa Laval's growth. Creating plans and creative content for digital ca",
+   "first_seen": "2026-10-09",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -497,33 +544,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-stackline-senior-manager-brand-operations-london-233833",
-   "title": "Senior Manager, Brand Operations",
-   "company": "Stackline",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/stackline/senior-manager-brand-operations-london-233833",
-   "score": 29,
-   "matched": [
-    "brand strategy",
-    "film",
-    "ai",
-    "retail",
-    "e-commerce",
-    "pr",
-    "team",
-    "4+ years"
-   ],
-   "years": 4,
-   "summary": "<div class=\"content-intro\"><div>Stackline is the first full-funnel connected commerce platform for the world's most innovative brands. Business leaders, product innovators, performance marketers, and analysts trust Stackline as the single source of commerce truth. Fueled by our proprietary neural network, our market insights, revenue metrics, behavior analyses, and autonomous functionality create ",
-   "first_seen": "2026-10-08",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-424794",
+   "id": "https-www-arbeitnow-ch-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-286182",
    "title": "Enterprise Product Manager - ElevenCreative",
-   "company": "Elevenlabs",
+   "company": "ElevenLabs",
    "location": "Remote",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-424794",
+   "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-286182",
    "score": 23,
    "matched": [
     "concept",
@@ -535,28 +560,7 @@
    ],
    "years": 5,
    "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
-   "first_seen": "2026-10-08",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-idnty-gmbh-art-director-brand-digital-design-freiburg-im-breisgau-280963",
-   "title": "Art Director (m/w/d) - Brand & Digital Design",
-   "company": "IDNTY GmbH",
-   "location": "Freiburg im Breisgau",
-   "url": "https://www.arbeitnow.com/jobs/companies/idnty-gmbh/art-director-brand-digital-design-freiburg-im-breisgau-280963",
-   "score": 23,
-   "matched": [
-    "brand guidelines",
-    "rebrand",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "DEINE MISSION BEI IDNTY Du hast schon ein paar Jahre Agenturluft geschnuppert und willst jetzt Marken nicht mehr nur gestalten, sondern visuell pr\u00e4gen? Als Art Director \u00fcbernimmst du bei uns eigene Designprojekte von der Idee bis zur Umsetzung \u2013 mit einem erfahrenen Senior Art Director an deiner Seite, der dich fordert und f\u00f6rdert. So w\u00e4chst du Schritt f\u00fcr Schritt in mehr Verantwortung hinein. Auf",
-   "first_seen": "2026-10-08",
+   "first_seen": "2026-10-09",
    "is_new": true
   },
   {
@@ -581,29 +585,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-152729-client-strategy-manager-corporate-brands-retail",
-   "title": "Client Strategy Manager - Corporate Brands & Retail",
-   "company": "YipitData",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/152729-client-strategy-manager-corporate-brands-retail",
-   "score": 22,
-   "matched": [
-    "sponsorship or relocation",
-    "narrative",
-    "cross-functional",
-    "ai",
-    "retail",
-    "e-commerce",
-    "pr",
-    "team",
-    "- asks only 3 years"
-   ],
-   "years": 3,
-   "summary": "About Us: YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B. Every day, our proprietary technology analyzes billions of alternative data points to uncover actionable insights across sectors like software, AI, cloud, e-commerce, ridesharing, and payments. Our data and research teams",
-   "first_seen": "2026-10-08",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8258725",
    "title": "Senior Compliance Officer - Brand Integrity",
    "company": "adyen",
@@ -623,6 +604,26 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-07",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-bereal-creative-strategist-bereal-paris-159769",
+   "title": "Creative Strategist - BeReal",
+   "company": "BeReal",
+   "location": "Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/bereal/creative-strategist-bereal-paris-159769",
+   "score": 21,
+   "matched": [
+    "concept",
+    "production",
+    "ai",
+    "pr",
+    "team",
+    "4+ years"
+   ],
+   "years": 4,
+   "summary": "About Voodoo Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes chart-topping games like Mob Control and Block Jam, alongside popular apps suc",
+   "first_seen": "2026-10-09",
+   "is_new": true
   },
   {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
@@ -645,35 +646,11 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-wolt-jobs-8208032",
-   "title": "Brand Media Manager",
-   "company": "wolt",
-   "location": "Tel Aviv, Israel",
-   "url": "https://job-boards.greenhouse.io/wolt/jobs/8208032",
-   "score": 21,
-   "matched": [
-    "campaign",
-    "global brand",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "- attribution",
-    "- mmm"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
-   "first_seen": "2026-09-19",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-elevenlabs-remote-self-serve-product-manager-elevencreative-277813",
+   "id": "https-www-arbeitnow-ch-jobs-companies-elevenlabs-remote-self-serve-product-manager-elevencreative-158784",
    "title": "Self-Serve Product Manager - ElevenCreative",
-   "company": "Elevenlabs",
+   "company": "ElevenLabs",
    "location": "Remote",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-277813",
+   "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-self-serve-product-manager-elevencreative-158784",
    "score": 19,
    "matched": [
     "concept",
@@ -684,7 +661,7 @@
    ],
    "years": 5,
    "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
-   "first_seen": "2026-10-08",
+   "first_seen": "2026-10-09",
    "is_new": true
   },
   {
