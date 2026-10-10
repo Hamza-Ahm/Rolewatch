@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-09 14:10 UTC",
- "scanned": 3806,
+ "updated": "2026-10-10 13:19 UTC",
+ "scanned": 3976,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -81,6 +81,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-perk-senior-pr-manager-london-482991",
+   "title": "Senior PR Manager",
+   "company": "Perk",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-482991",
+   "score": 60,
+   "matched": [
+    "sponsorship or relocation",
+    "positioning",
+    "editorial",
+    "campaign",
+    "narrative",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "prompt",
+    "b2b",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
+   "first_seen": "2026-10-10",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
    "title": "Senior B2B Content Marketing Manager, Global",
    "company": "adyen",
@@ -105,32 +131,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-isaraerospace-director-marketing-branding-parsdorf-bavaria-462118",
-   "title": "Director Marketing & Branding (f/m/d)",
-   "company": "isaraerospace",
-   "location": "Parsdorf, Bavaria",
-   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-marketing-branding-parsdorf-bavaria-462118",
-   "score": 56,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "campaign",
-    "integrated campaign",
-    "narrative",
-    "messaging framework",
-    "brand architecture",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": 10,
-   "summary": "<p><strong>Mission Brief </strong></p> <p><span data-contrast=\"auto\">Isar Aerospace is entering an exciting new growth phase, advancing to the delivery of commercial launch services for institutional, governmental, and commercial customers worldwide.</span><span data-ccp-props=\"{}\"> </span></p> <p><span data-contrast=\"auto\">We are seeking a strategic and hands-on </span><strong><span data-contrast",
-   "first_seen": "2026-10-09",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -231,6 +231,31 @@
    "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
    "first_seen": "2026-09-26",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-neko-health-brand-creative-director-london-435165",
+   "title": "Brand Creative Director",
+   "company": "Neko Health",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/brand-creative-director-london-435165",
+   "score": 44,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "narrative",
+    "brand architecture",
+    "art direction",
+    "production",
+    "agency",
+    "in-house",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Mission Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. In a single, non-invasive visit under an hour, proprietary technology and direct clinical care combine to deliver personalised, actionable insights. It's a team tha",
+   "first_seen": "2026-10-10",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
@@ -473,7 +498,7 @@
    "years": null,
    "summary": "Voyado is looking for a Content Strategist with native level English skills to join our Demand Generation team in Stockholm. Our team is focused on new customer acquisition, with two core goals: engaging our target accounts and creating pipeline. Content plays a vital role in both, fueling our channels with expertise and strong points of view that give the right buyers a reason to engage with Voya",
    "first_seen": "2026-10-09",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31575836",
@@ -496,7 +521,7 @@
    "years": 8,
    "summary": "What you\u00b4ll do: As Global Employer Brand Lead, you play a key role in developing and activating our employer brand internally and externally across our global markets. Your main responsibilities include: Developing and executing our global employer branding strategy and identifying priorities to continuously support and enable Alfa Laval's growth. Creating plans and creative content for digital ca",
    "first_seen": "2026-10-09",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
@@ -544,6 +569,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-267248",
+   "title": "Enterprise Product Manager - ElevenCreative",
+   "company": "ElevenLabs",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.fr/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-267248",
+   "score": 23,
+   "matched": [
+    "concept",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
+   "first_seen": "2026-10-10",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-ch-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-286182",
    "title": "Enterprise Product Manager - ElevenCreative",
    "company": "ElevenLabs",
@@ -561,6 +606,45 @@
    "years": 5,
    "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
    "first_seen": "2026-10-09",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-haebmau-senior-consultant-corporate-communications-munchen-498822",
+   "title": "Senior Consultant Corporate Communications (m/w/d)",
+   "company": "Haebmau",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/haebmau/senior-consultant-corporate-communications-munchen-498822",
+   "score": 23,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "storytelling",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Beschreibung Als Senior Consultant Corporate Communications bei haebmau verantwortest du den Bereich Corporate Communications f\u00fcr Bestands- und Neukunden der Agentur sowie unsere interne und externe Unternehmenskommunikation. Gemeinsam mit deinen Kolleg*innen in unserem Growth & Collaboration-Teams sch\u00e4rfst du das Profil der Agenturmarke haebmau, betreust unsere Kommunikationskan\u00e4le und pflegst un",
+   "first_seen": "2026-10-10",
+   "is_new": true
+  },
+  {
+   "id": "https-himalayas-app-companies-x-rite-jobs-global-brand-color-program-manager",
+   "title": "Global Brand Color Program Manager",
+   "company": "X-Rite",
+   "location": "India",
+   "url": "https://himalayas.app/companies/x-rite/jobs/global-brand-color-program-manager",
+   "score": 23,
+   "matched": [
+    "global brand",
+    "production",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Imagine a world where everyone has access to clean water, safe food and medicine, and trusted essential goods. That is the tomorrow Veralto (VLTO) is creating today. Veralto is headquartered in Waltham, Mass. with 13 operating companies and 300+ locations worldwide. Our global team of 16,000 associates is committed to making an enduring positive impact on the world and is united by a powerful purp",
+   "first_seen": "2026-10-10",
    "is_new": true
   },
   {
@@ -606,26 +690,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-bereal-creative-strategist-bereal-paris-159769",
-   "title": "Creative Strategist - BeReal",
-   "company": "BeReal",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/bereal/creative-strategist-bereal-paris-159769",
-   "score": 21,
-   "matched": [
-    "concept",
-    "production",
-    "ai",
-    "pr",
-    "team",
-    "4+ years"
-   ],
-   "years": 4,
-   "summary": "About Voodoo Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes chart-topping games like Mob Control and Block Jam, alongside popular apps suc",
-   "first_seen": "2026-10-09",
-   "is_new": true
-  },
-  {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
    "title": "Senior Communications Officer Strategic Communications",
    "company": "GiveWell",
@@ -646,6 +710,25 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-aampere-founding-brand-manager-munchen-338750",
+   "title": "Founding Brand Manager (m/w/d)",
+   "company": "Aampere",
+   "location": "M\u00fcnchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-brand-manager-munchen-338750",
+   "score": 20,
+   "matched": [
+    "tone of voice",
+    "narrative",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\u00dcber Aampere Werde Teil von Aampere , einem Seed-Stage VC-backed Startup, das den europ\u00e4ischen Markt f\u00fcr gebrauchte E-Autos neu definiert . Seit unserem Launch erm\u00f6glichen wir EV-Besitzern einen schnellen & reibungslosen Verkauf innerhalb von 48h. Kaufende H\u00e4ndler aus ganz Europa haben Zugriff auf E-Autos von bisher nicht erschlossene Kundengruppen. Unser Team kommt aus der deutschen Startup-Szene",
+   "first_seen": "2026-10-10",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-ch-jobs-companies-elevenlabs-remote-self-serve-product-manager-elevencreative-158784",
    "title": "Self-Serve Product Manager - ElevenCreative",
    "company": "ElevenLabs",
@@ -662,7 +745,7 @@
    "years": 5,
    "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
    "first_seen": "2026-10-09",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31565237",
