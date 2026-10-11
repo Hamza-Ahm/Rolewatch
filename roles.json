@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10 13:19 UTC",
+ "updated": "2026-10-11 13:48 UTC",
  "scanned": 3976,
  "roles": [
   {
@@ -81,32 +81,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-perk-senior-pr-manager-london-482991",
-   "title": "Senior PR Manager",
-   "company": "Perk",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-482991",
-   "score": 60,
-   "matched": [
-    "sponsorship or relocation",
-    "positioning",
-    "editorial",
-    "campaign",
-    "narrative",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "prompt",
-    "b2b",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
-   "first_seen": "2026-10-10",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
    "title": "Senior B2B Content Marketing Manager, Global",
    "company": "adyen",
@@ -131,6 +105,32 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
    "first_seen": "2026-09-08",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-phrase-marketing-communications-manager-united-kingdom-413845",
+   "title": "Marketing Communications Manager",
+   "company": "Phrase",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/phrase/marketing-communications-manager-united-kingdom-413845",
+   "score": 52,
+   "matched": [
+    "brand voice",
+    "editorial",
+    "campaign",
+    "localization",
+    "script",
+    "production",
+    "stakeholder",
+    "ai",
+    "generative ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": 5,
+   "summary": "Marketing Communications Manager At Phrase, we help open the door to global business by providing the world's leading Language Intelligence Platform. The Phrase Platform combines AI, agentic orchestration, and a headless, API-first architecture in one composable system. Beyond translation, it orchestrates and adapts content to culture, audience, channel, brand voice, and intended outcome in any la",
+   "first_seen": "2026-10-11",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -231,31 +231,6 @@
    "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
    "first_seen": "2026-09-26",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-neko-health-brand-creative-director-london-435165",
-   "title": "Brand Creative Director",
-   "company": "Neko Health",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/brand-creative-director-london-435165",
-   "score": 44,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "narrative",
-    "brand architecture",
-    "art direction",
-    "production",
-    "agency",
-    "in-house",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Mission Neko is redefining what prevention means, from treating illness when it arrives, to sustaining health before it's ever at risk. Our mission: make data-driven, preventative care accessible to more people, before symptoms appear. In a single, non-invasive visit under an hour, proprietary technology and direct clinical care combine to deliver personalised, actionable insights. It's a team tha",
-   "first_seen": "2026-10-10",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
@@ -524,29 +499,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8090506",
-   "title": "Brand Enablement Manager",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8090506",
-   "score": 34,
-   "matched": [
-    "brand guidelines",
-    "global brand",
-    "agency",
-    "in-house",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
    "id": "https-remoteok-com-remote-jobs-remote-freelance-creative-director-bmwl-1135901",
    "title": "Freelance Creative Director",
    "company": "BMWL",
@@ -569,6 +521,48 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-greylondon-senior-brand-strategist-london-408493",
+   "title": "Senior Brand Strategist",
+   "company": "Greylondon",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/greylondon/senior-brand-strategist-london-408493",
+   "score": 31,
+   "matched": [
+    "positioning",
+    "storytelling",
+    "narrative",
+    "production",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><div class=\"mt4\"> <p>Grey\u2019s mission is to create Famously Effective ideas that move people, businesses, and the world forward, harnessing the power of creativity to solve business challenges and drive growth for some of the world\u2019s most influential brands and companies, including Procter &amp; Gamble, Volvo, Haleon, Circle K, and The Coca-Cola Company. That commitment to",
+   "first_seen": "2026-10-11",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wppmedia-senior-creative-concept-mensch-dusseldorf-480536",
+   "title": "Senior Creative Concept (Mensch)",
+   "company": "wppmedia",
+   "location": "Dusseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-creative-concept-mensch-dusseldorf-480536",
+   "score": 24,
+   "matched": [
+    "copywriting",
+    "concept",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
+   "first_seen": "2026-10-11",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-fr-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-267248",
    "title": "Enterprise Product Manager - ElevenCreative",
    "company": "ElevenLabs",
@@ -586,7 +580,7 @@
    "years": 5,
    "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
    "first_seen": "2026-10-10",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-ch-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-286182",
@@ -607,45 +601,6 @@
    "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
    "first_seen": "2026-10-09",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-haebmau-senior-consultant-corporate-communications-munchen-498822",
-   "title": "Senior Consultant Corporate Communications (m/w/d)",
-   "company": "Haebmau",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/haebmau/senior-consultant-corporate-communications-munchen-498822",
-   "score": 23,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "storytelling",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Beschreibung Als Senior Consultant Corporate Communications bei haebmau verantwortest du den Bereich Corporate Communications f\u00fcr Bestands- und Neukunden der Agentur sowie unsere interne und externe Unternehmenskommunikation. Gemeinsam mit deinen Kolleg*innen in unserem Growth & Collaboration-Teams sch\u00e4rfst du das Profil der Agenturmarke haebmau, betreust unsere Kommunikationskan\u00e4le und pflegst un",
-   "first_seen": "2026-10-10",
-   "is_new": true
-  },
-  {
-   "id": "https-himalayas-app-companies-x-rite-jobs-global-brand-color-program-manager",
-   "title": "Global Brand Color Program Manager",
-   "company": "X-Rite",
-   "location": "India",
-   "url": "https://himalayas.app/companies/x-rite/jobs/global-brand-color-program-manager",
-   "score": 23,
-   "matched": [
-    "global brand",
-    "production",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Imagine a world where everyone has access to clean water, safe food and medicine, and trusted essential goods. That is the tomorrow Veralto (VLTO) is creating today. Veralto is headquartered in Waltham, Mass. with 13 operating companies and 300+ locations worldwide. Our global team of 16,000 associates is committed to making an enduring positive impact on the world and is united by a powerful purp",
-   "first_seen": "2026-10-10",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
@@ -708,25 +663,6 @@
    "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
    "first_seen": "2026-09-16",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-aampere-founding-brand-manager-munchen-338750",
-   "title": "Founding Brand Manager (m/w/d)",
-   "company": "Aampere",
-   "location": "M\u00fcnchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/aampere/founding-brand-manager-munchen-338750",
-   "score": 20,
-   "matched": [
-    "tone of voice",
-    "narrative",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "\u00dcber Aampere Werde Teil von Aampere , einem Seed-Stage VC-backed Startup, das den europ\u00e4ischen Markt f\u00fcr gebrauchte E-Autos neu definiert . Seit unserem Launch erm\u00f6glichen wir EV-Besitzern einen schnellen & reibungslosen Verkauf innerhalb von 48h. Kaufende H\u00e4ndler aus ganz Europa haben Zugriff auf E-Autos von bisher nicht erschlossene Kundengruppen. Unser Team kommt aus der deutschen Startup-Szene",
-   "first_seen": "2026-10-10",
-   "is_new": true
   },
   {
    "id": "https-www-arbeitnow-ch-jobs-companies-elevenlabs-remote-self-serve-product-manager-elevencreative-158784",
