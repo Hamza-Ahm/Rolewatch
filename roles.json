@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-11 13:48 UTC",
- "scanned": 3976,
+ "updated": "2026-10-12 16:32 UTC",
+ "scanned": 3959,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -55,6 +55,32 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
+   "title": "Senior B2B Content Marketing Manager, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
+   "score": 65,
+   "matched": [
+    "positioning",
+    "copywriter",
+    "long-form",
+    "editorial",
+    "concept",
+    "storytelling",
+    "narrative",
+    "script",
+    "production",
+    "agency",
+    "stakeholder",
+    "cross-functional"
+   ],
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
+   "first_seen": "2026-09-08",
+   "is_new": false
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8239188-gh_jid-8239188",
    "title": "Brand and Media Manager - all genders",
    "company": "hellofresh",
@@ -79,58 +105,6 @@
    "summary": "<p><strong>The Role (What\u2019s In The Box)</strong></p> <p data-pm-slice=\"1 1 []\">Over the years, we've seen this mission spread around the world and beyond our wildest dreams, with HelloFresh now serving customers across markets around the globe. Our weekly boxes full of exciting recipes and high-quality, fresh ingredients have blossomed into a community of customers looking for delicious, healthy, ",
    "first_seen": "2026-10-03",
    "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
-   "title": "Senior B2B Content Marketing Manager, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
-   "score": 57,
-   "matched": [
-    "copywriting",
-    "long-form",
-    "editorial",
-    "storytelling",
-    "narrative",
-    "global brand",
-    "script",
-    "production",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
-   "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-phrase-marketing-communications-manager-united-kingdom-413845",
-   "title": "Marketing Communications Manager",
-   "company": "Phrase",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/phrase/marketing-communications-manager-united-kingdom-413845",
-   "score": 52,
-   "matched": [
-    "brand voice",
-    "editorial",
-    "campaign",
-    "localization",
-    "script",
-    "production",
-    "stakeholder",
-    "ai",
-    "generative ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": 5,
-   "summary": "Marketing Communications Manager At Phrase, we help open the door to global business by providing the world's leading Language Intelligence Platform. The Phrase Platform combines AI, agentic orchestration, and a headless, API-first architecture in one composable system. Beyond translation, it orchestrates and adapts content to culture, audience, channel, brand voice, and intended outcome in any la",
-   "first_seen": "2026-10-11",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -233,6 +207,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-kraken-senior-performance-video-creative-consumer-london-93374",
+   "title": "Senior Performance Video Creative - Consumer",
+   "company": "Kraken",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-performance-video-creative-consumer-london-93374",
+   "score": 45,
+   "matched": [
+    "copywriting",
+    "concept",
+    "campaign",
+    "multi-market",
+    "script",
+    "production",
+    "agency",
+    "in-house",
+    "ai",
+    "fintech",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. Before you apply, we encourage you to explore our culture page t",
+   "first_seen": "2026-10-12",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
    "title": "Brand Event Manager",
    "company": "alan",
@@ -259,6 +259,30 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-lever-co-qonto-166bb683-468b-4b43-a5ad-741ff740bec7",
+   "title": "Head of Video and Storytelling",
+   "company": "qonto",
+   "location": "Paris",
+   "url": "https://jobs.lever.co/qonto/166bb683-468b-4b43-a5ad-741ff740bec7",
+   "score": 44,
+   "matched": [
+    "brand strategy",
+    "copywriter",
+    "storytelling",
+    "localization",
+    "script",
+    "production",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot, based on 55,000+ reviews. Our culture puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here). Our journey",
+   "first_seen": "2026-10-12",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
    "title": "Marketing Creative Lead",
    "company": "supercell",
@@ -282,55 +306,6 @@
    "years": null,
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
-   "title": "Senior Content Writer, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
-   "score": 39,
-   "matched": [
-    "long-form",
-    "editorial",
-    "storytelling",
-    "narrative",
-    "production",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "10+ years"
-   ],
-   "years": 10,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31483855",
-   "title": "Employer Branding Specialist",
-   "company": "Nordic Investin Group Aktiebolag",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31483855",
-   "score": 38,
-   "matched": [
-    "copywriting",
-    "editorial",
-    "campaign",
-    "production",
-    "agency",
-    "stakeholder",
-    "ai",
-    "internal communications",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Nordic Investin has been engaged by a partner company to find an Employer Branding Specialist. You can turn the reality of working somewhere into a story that attracts attention without becoming polished corporate fiction. The partner wants to strengthen its position in competitive talent markets. You will connect employee insight, recruitment needs and communications expertise to create employer ",
-   "first_seen": "2026-09-16",
    "is_new": false
   },
   {
@@ -499,28 +474,6 @@
    "is_new": false
   },
   {
-   "id": "https-remoteok-com-remote-jobs-remote-freelance-creative-director-bmwl-1135901",
-   "title": "Freelance Creative Director",
-   "company": "BMWL",
-   "location": "California, California, United States",
-   "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-   "score": 33,
-   "matched": [
-    "creative direction",
-    "concept",
-    "campaign",
-    "production",
-    "ai",
-    "pr",
-    "team",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) \u00e2\u0080\u0094 Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizati",
-   "first_seen": "2026-09-27",
-   "is_new": false
-  },
-  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-greylondon-senior-brand-strategist-london-408493",
    "title": "Senior Brand Strategist",
    "company": "Greylondon",
@@ -540,27 +493,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><div class=\"mt4\"> <p>Grey\u2019s mission is to create Famously Effective ideas that move people, businesses, and the world forward, harnessing the power of creativity to solve business challenges and drive growth for some of the world\u2019s most influential brands and companies, including Procter &amp; Gamble, Volvo, Haleon, Circle K, and The Coca-Cola Company. That commitment to",
    "first_seen": "2026-10-11",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-wppmedia-senior-creative-concept-mensch-dusseldorf-480536",
-   "title": "Senior Creative Concept (Mensch)",
-   "company": "wppmedia",
-   "location": "Dusseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-creative-concept-mensch-dusseldorf-480536",
-   "score": 24,
-   "matched": [
-    "copywriting",
-    "concept",
-    "ai",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
-   "first_seen": "2026-10-11",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-fr-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-267248",
@@ -645,6 +578,26 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-155104-content-lead",
+   "title": "Content Lead",
+   "company": "saas.group",
+   "location": "Anywhere",
+   "url": "https://jobicy.com/jobs/155104-content-lead",
+   "score": 22,
+   "matched": [
+    "long-form",
+    "script",
+    "production",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "This role is part of a fast-growing AI company that is set to join saas.group , as one of our upcoming brands. This role is attached to a future acquisition by saas.group . As the deal has not been officially announced yet, we can\u2019t share the company name in this job post. We\u2019ll tell you more about the company and product during the process. We are an AI platform that turns images and text into re",
+   "first_seen": "2026-10-12",
+   "is_new": true
+  },
+  {
    "id": "https-remoteok-com-remote-jobs-remote-senior-communications-officer-strategic-communications-givewell-1137379",
    "title": "Senior Communications Officer Strategic Communications",
    "company": "GiveWell",
@@ -701,6 +654,25 @@
    "summary": "Company description: Orkla Foods Sverige tillagar mat och dryck i Sverige med k\u00e4rlek och omtanke om m\u00e4nniskor, hav och land. Vi \u00e4r en lokal samh\u00e4llsakt\u00f6r som med v\u00e5ra 1500 medarbetare g\u00f6r skillnad och bidrar till en mer h\u00e5llbar och h\u00e4lsosam vardag. Ca 90 procent av den mat och dryck vi s\u00e4ljer i Sverige tillagar vi lokalt p\u00e5 n\u00e5gon av v\u00e5ra 7 anl\u00e4ggningar i Sverige. Job description:\u00c4r du Orkla Food S",
    "first_seen": "2026-10-07",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-momox-senior-pr-communications-manager-teilzeit-berlin-212206",
+   "title": "(Senior) PR & Communications Manager (Teilzeit) (m/w/d)",
+   "company": "momox",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/momox/senior-pr-communications-manager-teilzeit-berlin-212206",
+   "score": 15,
+   "matched": [
+    "storytelling",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Unsere Mission Wir haben es uns zur Aufgabe gemacht, unseren Planeten zu retten \u2013 ein Second Hand Produkt nach dem anderen. Als PR & Communications Manager (m/w/d) gestaltest du, wie momox und unsere Marken nach au\u00dfen und innen kommunizieren. Dein Schwerpunkt liegt auf Corporate Communications, Pressearbeit und kreativer Markenkommunikation. In Teilzeit \u00fcbernimmst du eigenverantwortlich klar prior",
+   "first_seen": "2026-10-12",
+   "is_new": true
   }
  ]
 }
