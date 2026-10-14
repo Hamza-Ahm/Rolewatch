@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-13 14:50 UTC",
- "scanned": 3959,
+ "updated": "2026-10-14 12:41 UTC",
+ "scanned": 3951,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -52,7 +52,7 @@
    "years": null,
    "summary": "Head of Editorial About TOTEME TOTEME is a fashion house rooted in Swedish sensibilities, modern aspirations, and the notion of style. With an appreciation for how pieces are worn in practice, we create emblematic designs with an emphasis on materiality and shape. Archetype pieces are realized in authentic materials, rich textures and graphic silhouettes. Representing a direct and decisive way of ",
    "first_seen": "2026-10-13",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
@@ -133,32 +133,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-perk-senior-pr-manager-london-186034",
-   "title": "Senior PR Manager",
-   "company": "Perk",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-pr-manager-london-186034",
-   "score": 60,
-   "matched": [
-    "sponsorship or relocation",
-    "positioning",
-    "editorial",
-    "campaign",
-    "narrative",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "prompt",
-    "b2b",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, ",
-   "first_seen": "2026-10-13",
-   "is_new": true
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
    "title": "Copywriter, Global Creative [All genders]",
    "company": "hellofresh",
@@ -206,32 +180,6 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-25",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-accurx-senior-communications-pr-lead-12-month-ftc-london-159259",
-   "title": "Senior Communications & PR Lead (12-month FTC)",
-   "company": "Accurx",
-   "location": "London (Shoreditch)",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/accurx/senior-communications-pr-lead-12-month-ftc-london-159259",
-   "score": 46,
-   "matched": [
-    "positioning",
-    "campaign",
-    "narrative",
-    "rebrand",
-    "production",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "How you\u2019ll fix communication in healthcare as a Senior Communications & PR Lead (12m FTC) At Accurx, we\u2019ve supported thousands of healthcare organisations to deliver care for over 60 million patients. We\u2019re used by 98% of GP practices and in 68% of NHS Trusts - that\u2019s over 200,000 NHS staff each week. As the Senior Communications & PR Lead at Accurx (12m FTC), you\u2019ll drive brand awareness and inte",
-   "first_seen": "2026-10-13",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -283,30 +231,6 @@
    "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
    "first_seen": "2026-09-26",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-qonto-head-of-video-and-storytelling-paris-296043",
-   "title": "Head of Video and Storytelling",
-   "company": "Qonto",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/qonto/head-of-video-and-storytelling-paris-296043",
-   "score": 45,
-   "matched": [
-    "brand strategy",
-    "copywriter",
-    "storytelling",
-    "localization",
-    "script",
-    "production",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot , based on 55,000+ reviews. Our culture puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here ). Our journ",
-   "first_seen": "2026-10-13",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
@@ -548,7 +472,7 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-13",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31575836",
@@ -574,6 +498,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-nl-jobs-companies-duna-remote-content-lead-208493",
+   "title": "Content Lead",
+   "company": "Duna",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-content-lead-208493",
+   "score": 32,
+   "matched": [
+    "tone of voice",
+    "brand voice",
+    "long-form",
+    "script",
+    "ai",
+    "prompt",
+    "press release",
+    "pr",
+    "team",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "At Duna, we see the company as the second product we\u2019re building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work. Our mission is to redefine identity for the global economy. We\u2019re backed by world-class investors including Index Ventures as well as founders and executives from companies like Stripe, Adyen, Notion, Remo",
+   "first_seen": "2026-10-14",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-fr-jobs-companies-yubo-communications-lead-paris-331611",
    "title": "Communications Lead",
    "company": "Yubo",
@@ -593,51 +541,6 @@
    "years": null,
    "summary": "Who we are Yubo is the Social Discovery app to make new friends and hang out online. By eliminating likes and follows, we empower our users to create genuine connections and show up as their true selves. We've pioneered a new way for Gen Z to socialize online, and with millions of active users, our goal is to redefine how we connect today and tomorrow. Our team is international, multicultural and ",
    "first_seen": "2026-10-13",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-nl-jobs-companies-wearebeyondsports-marketing-communications-executive-alkmaar-211878",
-   "title": "Marketing & Communications Executive",
-   "company": "Wearebeyondsports",
-   "location": "Alkmaar",
-   "url": "https://www.arbeitnow.nl/jobs/companies/wearebeyondsports/marketing-communications-executive-alkmaar-211878",
-   "score": 27,
-   "matched": [
-    "concept",
-    "campaign",
-    "brand campaign",
-    "storytelling",
-    "stakeholder",
-    "ai",
-    "internal communications",
-    "pr",
-    "team",
-    "- keyword research",
-    "- asks only 3 years"
-   ],
-   "years": 3,
-   "summary": "Join Our Team as a Marketing & Communications Executive at Beyond Sports! Are you passionate about storytelling, content marketing, SEO, and building a brand that stands out in a rapidly evolving sports-tech industry? At Beyond Sports, we don\u2019t just visualize sports, we reinvent how fans experience them. Together with partners like NFL, NHL, FIFA, and Disney, we push the boundaries of real-time sp",
-   "first_seen": "2026-10-13",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-ch-jobs-companies-elevenlabs-remote-enterprise-product-manager-elevencreative-286182",
-   "title": "Enterprise Product Manager - ElevenCreative",
-   "company": "ElevenLabs",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-enterprise-product-manager-elevencreative-286182",
-   "score": 23,
-   "matched": [
-    "concept",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
-   "first_seen": "2026-10-09",
    "is_new": false
   },
   {
