@@ -1,7 +1,33 @@
 {
- "updated": "2026-10-14 12:41 UTC",
- "scanned": 3951,
+ "updated": "2026-10-15 12:30 UTC",
+ "scanned": 3938,
  "roles": [
+  {
+   "id": "https-jobs-ashbyhq-com-pleo-a1819f9e-f691-4873-9150-0aa831502fd1",
+   "title": "Senior Creative Project Manager - Brand",
+   "company": "pleo",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/pleo/a1819f9e-f691-4873-9150-0aa831502fd1",
+   "score": 82,
+   "matched": [
+    "sponsorship or relocation",
+    "brand strategy",
+    "brand guidelines",
+    "copywriter",
+    "campaign",
+    "integrated campaign",
+    "brand campaign",
+    "localization",
+    "multi-market",
+    "production",
+    "agency",
+    "in-house"
+   ],
+   "years": 5,
+   "summary": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
+   "first_seen": "2026-10-15",
+   "is_new": true
+  },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
    "title": "Lead Copywriter, Global Creative Studio (m/f/x)",
@@ -81,32 +107,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
-   "title": "Senior B2B Content Marketing Manager, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
-   "score": 65,
-   "matched": [
-    "positioning",
-    "copywriter",
-    "long-form",
-    "editorial",
-    "concept",
-    "storytelling",
-    "narrative",
-    "script",
-    "production",
-    "agency",
-    "stakeholder",
-    "cross-functional"
-   ],
-   "years": null,
-   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
-   "first_seen": "2026-09-08",
-   "is_new": false
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8239188-gh_jid-8239188",
    "title": "Brand and Media Manager - all genders",
    "company": "hellofresh",
@@ -131,6 +131,32 @@
    "summary": "<p><strong>The Role (What\u2019s In The Box)</strong></p> <p data-pm-slice=\"1 1 []\">Over the years, we've seen this mission spread around the world and beyond our wildest dreams, with HelloFresh now serving customers across markets around the globe. Our weekly boxes full of exciting recipes and high-quality, fresh ingredients have blossomed into a community of customers looking for delicious, healthy, ",
    "first_seen": "2026-10-03",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-sohohouseco-creative-director-soho-home-london-70502",
+   "title": "Creative Director, Soho Home",
+   "company": "Sohohouseco",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/creative-director-soho-home-london-70502",
+   "score": 53,
+   "matched": [
+    "brand world",
+    "editorial",
+    "creative direction",
+    "concept",
+    "campaign",
+    "storytelling",
+    "narrative",
+    "art direction",
+    "production",
+    "stakeholder",
+    "cross-functional",
+    "ai"
+   ],
+   "years": null,
+   "summary": "<p><strong>The Role..</strong></p> <p>We are looking for a Creative Director to lead the Soho Home Creative team and shape the visual expression of the brand across photography, campaigns, content, art direction, digital, editorial and wider brand communications.</p> <p>Working closely with the Chief Creative Officer, this role will translate the creative vision for Soho Home into a distinctive an",
+   "first_seen": "2026-10-15",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -233,56 +259,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobs-ashbyhq-com-alan-ef851009-718d-4318-a330-149dccd9683b",
-   "title": "Brand Event Manager",
-   "company": "alan",
-   "location": "Paris, France",
-   "url": "https://jobs.ashbyhq.com/alan/ef851009-718d-4318-a330-149dccd9683b",
-   "score": 44,
-   "matched": [
-    "positioning",
-    "narrative",
-    "global brand",
-    "international markets",
-    "production",
-    "agency",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team",
-    "- attribution"
-   ],
-   "years": 5,
-   "summary": "HEALTH CAN\u2019T WAIT. Not for symptoms to get worse. Not for a six\u2011month appointment. Not for a system to catch up. But that\u2019s exactly how healthcare works today. You wait, until you can\u2019t. Alan exists to end the wait. Health is a universal right, and we believe this right can only become real when it\u2019s coupled with prevention. We need to stop treating health as something we repair and start treating",
-   "first_seen": "2026-09-04",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-lever-co-qonto-166bb683-468b-4b43-a5ad-741ff740bec7",
-   "title": "Head of Video and Storytelling",
-   "company": "qonto",
-   "location": "Paris",
-   "url": "https://jobs.lever.co/qonto/166bb683-468b-4b43-a5ad-741ff740bec7",
-   "score": 44,
-   "matched": [
-    "brand strategy",
-    "copywriter",
-    "storytelling",
-    "localization",
-    "script",
-    "production",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Our mission and customers: We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be rated 4.8 on Trustpilot, based on 55,000+ reviews. Our culture puts customer satisfaction at the core of what we do, as proven by our Net Promoter Score of 75 (more about our culture here). Our journey",
-   "first_seen": "2026-10-12",
-   "is_new": false
-  },
-  {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
    "title": "Marketing Creative Lead",
    "company": "supercell",
@@ -356,6 +332,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-iwoca-uk-communications-executive-london-486297",
+   "title": "UK Communications Executive",
+   "company": "iwoca",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/uk-communications-executive-london-486297",
+   "score": 38,
+   "matched": [
+    "positioning",
+    "campaign",
+    "narrative",
+    "stakeholder",
+    "ai",
+    "b2b",
+    "fintech",
+    "press release",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "The company Small businesses move fast. Opportunities often don\u2019t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that\u2019s as flexible and responsive as they are. That's why we built iwoca. Our smart technology, data science and five-star customer service ensures business owners can act with the speed, confidence and control they need, exactly when i",
+   "first_seen": "2026-10-15",
+   "is_new": true
+  },
+  {
    "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
@@ -404,27 +404,28 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31539941",
-   "title": "Communications Manager, Corporate",
-   "company": "Aktiebolaget Tetra Pak",
-   "location": "Lund, Sk\u00e5ne l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31539941",
+   "id": "https-jobicy-com-jobs-153286-senior-ai-creative-innovator-paid-ads",
+   "title": "Senior AI Creative Innovator (Paid Ads)",
+   "company": "OKX",
+   "location": "APAC",
+   "url": "https://jobicy.com/jobs/153286-senior-ai-creative-innovator-paid-ads",
    "score": 37,
    "matched": [
-    "positioning",
-    "editorial",
-    "storytelling",
-    "narrative",
+    "concept",
+    "production",
     "stakeholder",
     "ai",
+    "generative ai",
+    "prompt",
+    "fintech",
     "pr",
     "team",
-    "13+ years"
+    "5+ years"
    ],
-   "years": 13,
-   "summary": "At Tetra Pak we commit to making food safe and available, everywhere; and we protect what's good \u2013 protecting food, protecting people, and protecting the planet. By doing so we touch millions of people's lives every day. And we need people like you to make it happen. We empower you to reach your potential with opportunities to make an impact to be proud of \u2013 for food, people and the planet. Job Su",
-   "first_seen": "2026-10-01",
-   "is_new": false
+   "years": 5,
+   "summary": "Who We Are At OKX , we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom. OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions of access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe an",
+   "first_seen": "2026-10-15",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31574071",
@@ -498,52 +499,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-nl-jobs-companies-duna-remote-content-lead-208493",
-   "title": "Content Lead",
-   "company": "Duna",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.nl/jobs/companies/duna/remote-content-lead-208493",
-   "score": 32,
-   "matched": [
-    "tone of voice",
-    "brand voice",
-    "long-form",
-    "script",
-    "ai",
-    "prompt",
-    "press release",
-    "pr",
-    "team",
-    "- asks only 3 years"
-   ],
-   "years": 3,
-   "summary": "At Duna, we see the company as the second product we\u2019re building and are continually working to create a transparent, ambitious culture. We want this to be the place where you do your best work. Our mission is to redefine identity for the global economy. We\u2019re backed by world-class investors including Index Ventures as well as founders and executives from companies like Stripe, Adyen, Notion, Remo",
-   "first_seen": "2026-10-14",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-yubo-communications-lead-paris-331611",
-   "title": "Communications Lead",
-   "company": "Yubo",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.fr/jobs/companies/yubo/communications-lead-paris-331611",
-   "score": 28,
-   "matched": [
-    "campaign",
-    "storytelling",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Who we are Yubo is the Social Discovery app to make new friends and hang out online. By eliminating likes and follows, we empower our users to create genuine connections and show up as their true selves. We've pioneered a new way for Gen Z to socialize online, and with millions of active users, our goal is to redefine how we connect today and tomorrow. Our team is international, multicultural and ",
-   "first_seen": "2026-10-13",
-   "is_new": false
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
    "title": "Communication Specialist",
    "company": "Nobia Sweden AB",
@@ -604,6 +559,67 @@
    "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
    "first_seen": "2026-09-16",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-yasoon-gmbh-creative-lead-senior-art-director-mannheim-433107",
+   "title": "Creative Lead / Senior Art Director",
+   "company": "yasoon GmbH",
+   "location": "Mannheim",
+   "url": "https://www.arbeitnow.com/jobs/companies/yasoon-gmbh/creative-lead-senior-art-director-mannheim-433107",
+   "score": 19,
+   "matched": [
+    "creative direction",
+    "art direction",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\u00dcber yasoon Wir sind yasoon, ein Softwareunternehmen aus Mannheim mit rund 20 Mitarbeitenden. Wir entwickeln Apps, die Microsoft 365 und Atlassian Jira miteinander verbinden und die Zusammenarbeit in Unternehmen einfacher machen. Wir sind ein kleines, ambitioniertes Team mit hohen Anspr\u00fcchen an unsere Produkte \u2013 und an unseren Markenauftritt. Wir m\u00f6gen gutes Design, klare Ideen und Menschen, die D",
+   "first_seen": "2026-10-15",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-fonoa-seo-content-lead-london-496078",
+   "title": "SEO Content Lead",
+   "company": "Fonoa",
+   "location": "London, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fonoa/seo-content-lead-london-496078",
+   "score": 18,
+   "matched": [
+    "editorial",
+    "script",
+    "production",
+    "ai",
+    "b2b",
+    "fintech",
+    "pr",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "Company Description Fonoa is the Tax Operating System for autonomous tax. AI that tracks every rule, acts on every obligation, and proves every decision, built on modular infrastructure. Fonoa\u2019s modules cover the full indirect tax lifecycle: tax ID validation, real-time tax determination, e-invoicing, and returns. All on one shared data model and integration, with one audit trail. Each added capab",
+   "first_seen": "2026-10-15",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-bursonglobalcareers-account-supervisor-affaires-publiques-communication-de-crise-h",
+   "title": "Account Supervisor \u2013 Affaires Publiques & Communication de Crise (H/F)",
+   "company": "Bursonglobalcareers",
+   "location": "Paris, Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/bursonglobalcareers/account-supervisor-affaires-publiques-communication-de-crise-h-f-paris-paris-77209",
+   "score": 16,
+   "matched": [
+    "production",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3><strong>Who we are:</strong></h3> <p>Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help brands and businesses redefine reputation as a competitive advantage so they can lead today and into the future. When you wor",
+   "first_seen": "2026-10-15",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31565237",
