@@ -1,33 +1,7 @@
 {
- "updated": "2026-10-16 12:08 UTC",
- "scanned": 3942,
+ "updated": "2026-10-17 11:25 UTC",
+ "scanned": 3948,
  "roles": [
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-pleo-senior-creative-project-manager-brand-london-251968",
-   "title": "Senior Creative Project Manager - Brand",
-   "company": "Pleo",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-creative-project-manager-brand-london-251968",
-   "score": 82,
-   "matched": [
-    "sponsorship or relocation",
-    "brand strategy",
-    "brand guidelines",
-    "copywriter",
-    "campaign",
-    "integrated campaign",
-    "brand campaign",
-    "localization",
-    "multi-market",
-    "production",
-    "agency",
-    "in-house"
-   ],
-   "years": 5,
-   "summary": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
-   "first_seen": "2026-10-16",
-   "is_new": true
-  },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
    "title": "Lead Copywriter, Global Creative Studio (m/f/x)",
@@ -157,6 +131,31 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-marketing-manager-brand-integrated-marketing-london-384974",
+   "title": "Senior Marketing Manager, Brand Integrated Marketing",
+   "company": "Deliveroo ",
+   "location": "London, England, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-brand-integrated-marketing-london-384974",
+   "score": 49,
+   "matched": [
+    "brand strategy",
+    "campaign",
+    "integrated campaign",
+    "brand campaign",
+    "global brand",
+    "multi-market",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team. Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth d",
+   "first_seen": "2026-10-17",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8152695",
    "title": "Brand Strategy Lead",
    "company": "getyourguide",
@@ -233,32 +232,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-crytek-global-brand-marketing-director-frankfurt-55166",
-   "title": "Global Brand & Marketing Director",
-   "company": "Crytek",
-   "location": "Frankfurt",
-   "url": "https://www.arbeitnow.com/jobs/companies/crytek/global-brand-marketing-director-frankfurt-55166",
-   "score": 44,
-   "matched": [
-    "sponsorship or relocation",
-    "positioning",
-    "creative direction",
-    "campaign",
-    "global brand",
-    "art direction",
-    "in-house",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "- roas"
-   ],
-   "years": null,
-   "summary": "As Global Brand & Marketing Director you will lead Crytek\u2019s global marketing function across brand, creative, performance, and lifecycle, reporting to the Chief Publishing Officer. You will own how Hunt: Showdown 1896 and unannounced projects are positioned, launched, and grown in market. You will lead the marketing team and build the creative engine and operating model that drive how Crytek\u2019s gam",
-   "first_seen": "2026-10-16",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
    "title": "Marketing Creative Lead",
    "company": "supercell",
@@ -283,6 +256,32 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-hcompany-social-media-and-content-strategist-community-paris-49907",
+   "title": "Social Media and Content Strategist - Community",
+   "company": "Hcompany",
+   "location": "Hybrid Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/social-media-and-content-strategist-community-paris-49907",
+   "score": 40,
+   "matched": [
+    "tone of voice",
+    "brand voice",
+    "long-form",
+    "editorial",
+    "campaign",
+    "storytelling",
+    "production",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "- asks only 2 years"
+   ],
+   "years": 2,
+   "summary": "H Company is an AI research and product company building autonomous agents for the enterprise. We combine proprietary models (Holo), computer-use agents, an orchestration platform and hands-on engineering into a single system designed for production use. Our agents operate any software the way a person does, with no API and no rebuilt stack. They rank #1 on OSWorld-Verified, the leading computer-u",
+   "first_seen": "2026-10-17",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
@@ -332,11 +331,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -356,11 +355,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -428,70 +427,26 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31575836",
-   "title": "Global Employer Brand Lead",
-   "company": "Alfa Laval Technologies AB",
-   "location": "Lund, Sk\u00e5ne l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31575836",
-   "score": 34,
-   "matched": [
-    "campaign",
-    "storytelling",
-    "agency",
-    "stakeholder",
-    "ai",
-    "internal communications",
-    "pr",
-    "team",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "What you\u00b4ll do: As Global Employer Brand Lead, you play a key role in developing and activating our employer brand internally and externally across our global markets. Your main responsibilities include: Developing and executing our global employer branding strategy and identifying priorities to continuously support and enable Alfa Laval's growth. Creating plans and creative content for digital ca",
-   "first_seen": "2026-10-09",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-brand-experience-manager-berlin-219786",
-   "title": "Brand Experience Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/brand-experience-manager-berlin-219786",
-   "score": 33,
-   "matched": [
-    "concept",
-    "brand book",
-    "production",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team",
-    "mentor",
-    "own the brand"
-   ],
-   "years": null,
-   "summary": "About Yepoda Our mission is to bring Clean K-Beauty Innovations, from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by Sander Joonyoung van Bladel and Veronika St",
-   "first_seen": "2026-10-16",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-benuta-gmbh-brand-strategy-lead-bonn-98057",
-   "title": "Brand Strategy Lead (m/w/d)",
-   "company": "benuta GmbH",
-   "location": "Bonn",
-   "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/brand-strategy-lead-bonn-98057",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
+   "title": "Content Writer, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8242353",
    "score": 31,
    "matched": [
-    "brand strategy",
-    "tone of voice",
-    "brand guidelines",
+    "long-form",
     "storytelling",
-    "e-commerce",
+    "production",
+    "stakeholder",
+    "ai",
+    "b2b",
     "pr",
-    "team"
+    "team",
+    "4+ years"
    ],
-   "years": null,
-   "summary": "Jobbeschreibung benuta geh\u00f6rt zu den f\u00fchrenden E-Commerce-Unternehmen f\u00fcr Teppiche und Wohnaccessoires in Europa. Wir glauben daran, dass gutes Design f\u00fcr alle zug\u00e4nglich sein sollte \u2013 und inspirieren Menschen dabei, sich ein Zuhause zu schaffen, das sie lieben. Mit unserem internationalen Wachstum steigt auch unser Anspruch an eine konsistente, starke Markenf\u00fchrung \u00fcber alle Kan\u00e4le hinweg. Worum ",
-   "first_seen": "2026-10-16",
+   "years": 4,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-10-17",
    "is_new": true
   },
   {
@@ -513,6 +468,25 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><h2><strong>Brief info about Vinted </strong></h2> <p data-renderer-start-pos=\"1\"><span data-sheets-root=\"1\">Our mission is to make second-hand the first choice, and we're looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life \u2013 or even a third.",
    "first_seen": "2026-10-16",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-melotech-founding-head-of-brand-berlin-385658",
+   "title": "Founding Head of Brand",
+   "company": "Melotech",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/melotech/founding-head-of-brand-berlin-385658",
+   "score": 22,
+   "matched": [
+    "campaign",
+    "narrative",
+    "brand book",
+    "ai",
+    "pr"
+   ],
+   "years": null,
+   "summary": "Who we are Melotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide. Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinvest and GFC, alongside world-class angels from firms such as Spotify, Blackston",
+   "first_seen": "2026-10-17",
    "is_new": true
   },
   {
@@ -578,6 +552,26 @@
    "is_new": false
   },
   {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607857",
+   "title": "Web Content Manager",
+   "company": "The Place AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31607857",
+   "score": 19,
+   "matched": [
+    "campaign",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "We at The Place are looking to connect with professionals experienced in digital content and website optimization who are interested in taking the next step in their careers as a Web Content Manager. We see opportunities for this type of expertise across our client network and would love to hear from you if you enjoy enhancing digital customer experiences, analyzing content performance and finding",
+   "first_seen": "2026-10-17",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-fr-jobs-companies-bursonglobalcareers-account-supervisor-affaires-publiques-communication-de-crise-h",
    "title": "Account Supervisor \u2013 Affaires Publiques & Communication de Crise (H/F)",
    "company": "Bursonglobalcareers",
@@ -597,41 +591,21 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-gusti-leder-gmbh-brand-und-community-manager-rostock-326788",
-   "title": "Brand und Community Manager (m/w/d)",
-   "company": "Gusti Leder GmbH",
-   "location": "Rostock",
-   "url": "https://www.arbeitnow.com/jobs/companies/gusti-leder-gmbh/brand-und-community-manager-rostock-326788",
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607646",
+   "title": "Digital Communications Officer (parental leave cover)",
+   "company": "Stift The Stockholm Environment Institute, Sei",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31607646",
    "score": 16,
    "matched": [
-    "storytelling",
-    "stakeholder",
+    "editorial",
     "ai",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Jobbeschreibung Gestalte die Zukunft der Lederindustrie mit uns bei Gusti Leder \ud83c\udf0d\u2728 Tauche ein in die Welt von Gusti Leder, wo jede Tasche eine Geschichte erz\u00e4hlt und jedes Produkt mehr als nur ein Accessoire ist \u2013 es ist ein Statement f\u00fcr transparente Produktion und Stil. Bei der , einem Unternehmen, das f\u00fcr sein Engagement f\u00fcr Transparenz, Qualit\u00e4t und die F\u00f6rderung von Slow Fashion bekannt ist, ",
-   "first_seen": "2026-10-16",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-eventinc-gmbh-product-marketing-brand-lead-mensch-hamburg-32726",
-   "title": "Product Marketing & Brand Lead (Mensch)",
-   "company": "Eventinc GmbH",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/eventinc-gmbh/product-marketing-brand-lead-mensch-hamburg-32726",
-   "score": 15,
-   "matched": [
-    "storytelling",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Worum gehts? Event Inc stellt sich als AI-First-Plattform f\u00fcr Events, Meetings und Hotels neu auf, und daf\u00fcr braucht es eine klare Stimme. Als Product Marketing & Brand Lead bestimmst Du, wie wir uns positionieren und wie unsere Marke bei Kunden, Partnern und Investoren wirkt. Du berichtest an unseren CRO und arbeitest eng mit unserem Content-, SEO- & GEO-Manager sowie unserem Data Analyst (Go-to-",
-   "first_seen": "2026-10-16",
+   "summary": "Are you an experienced digital communicator who understands how to turn science into stories that capture attention, spark curiosity, and inspire action? SEI is looking for a Digital Communications Editor to manage our global social media channels and help communicate our research and insights to diverse audiences. Become part of our international non-profit research organization and help translat",
+   "first_seen": "2026-10-17",
    "is_new": true
   },
   {
