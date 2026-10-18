@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-17 11:25 UTC",
- "scanned": 3948,
+ "updated": "2026-10-18 11:58 UTC",
+ "scanned": 3947,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -131,11 +131,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-marketing-manager-brand-integrated-marketing-london-384974",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-marketing-manager-brand-integrated-marketing-london-164676",
    "title": "Senior Marketing Manager, Brand Integrated Marketing",
-   "company": "Deliveroo ",
-   "location": "London, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-brand-integrated-marketing-london-384974",
+   "company": "Deliveroo",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-brand-integrated-marketing-london-164676",
    "score": 49,
    "matched": [
     "brand strategy",
@@ -151,8 +151,8 @@
     "team"
    ],
    "years": null,
-   "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team. Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth d",
-   "first_seen": "2026-10-17",
+   "summary": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p> <p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.</p></div><p data-path-to-node=\"3\">Join us in ",
+   "first_seen": "2026-10-18",
    "is_new": true
   },
   {
@@ -281,7 +281,7 @@
    "years": 2,
    "summary": "H Company is an AI research and product company building autonomous agents for the enterprise. We combine proprietary models (Holo), computer-use agents, an orchestration platform and hands-on engineering into a single system designed for production use. Our agents operate any software the way a person does, with no API and no rebuilt stack. They rank #1 on OSWorld-Verified, the leading computer-u",
    "first_seen": "2026-10-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
@@ -447,7 +447,7 @@
    "years": 4,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-nl-jobs-companies-vinteden-senior-employer-branding-specialist-amsterdam-422049",
@@ -487,7 +487,7 @@
    "years": null,
    "summary": "Who we are Melotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide. Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinvest and GFC, alongside world-class angels from firms such as Spotify, Blackston",
    "first_seen": "2026-10-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
@@ -552,6 +552,29 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-155675-catalog-content-lead",
+   "title": "Catalog & Content Lead",
+   "company": "Fresh Prints",
+   "location": "Philippines",
+   "url": "https://jobicy.com/jobs/155675-catalog-content-lead",
+   "score": 19,
+   "matched": [
+    "campaign",
+    "script",
+    "production",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "About the job Fresh Prints is about to go through the biggest catalog shift in company history. We've always sold custom apparel to groups - chapters, teams, clubs. That's changing: we're building a catalog where every product and design has its own shoppable page, so anyone can browse and buy directly, the way you'd shop at any other ecommerce store. Over the next year, our catalog will grow roug",
+   "first_seen": "2026-10-18",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607857",
    "title": "Web Content Manager",
    "company": "The Place AB",
@@ -569,26 +592,45 @@
    "years": null,
    "summary": "We at The Place are looking to connect with professionals experienced in digital content and website optimization who are interested in taking the next step in their careers as a Web Content Manager. We see opportunities for this type of expertise across our client network and would love to hear from you if you enjoy enhancing digital customer experiences, analyzing content performance and finding",
    "first_seen": "2026-10-17",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-hyplus-technology-gmbh-senior-java-fullstack-entwickler-fur-brandenburg-braunschw",
+   "title": "Senior Java Fullstack Entwickler (m/w/d) f\u00fcr Brandenburg, Braunschweig, Berlin",
+   "company": "HyPlus Technology GmbH",
+   "location": "Brunswick, Niedersachsen, Germany",
+   "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-java-fullstack-entwickler-fur-brandenburg-braunschweig-berlin-brunswick-330276",
+   "score": 16,
+   "matched": [
+    "script",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "\u00dcber uns: HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalyse \u00fcber Architektur, Softwareentwicklung und Implementierung bis hin zum Betrieb. Mit rund 800 Kolleg:innen in Deutschland, Polen, Litauen, R",
+   "first_seen": "2026-10-18",
    "is_new": true
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-bursonglobalcareers-account-supervisor-affaires-publiques-communication-de-crise-h",
-   "title": "Account Supervisor \u2013 Affaires Publiques & Communication de Crise (H/F)",
-   "company": "Bursonglobalcareers",
-   "location": "Paris, Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/bursonglobalcareers/account-supervisor-affaires-publiques-communication-de-crise-h-f-paris-paris-77209",
+   "id": "https-www-arbeitnow-com-jobs-companies-provipanda-gmbh-creative-director-paid-ads-social-content-gesucht-hamburg-250325",
+   "title": "Creative Director (m/w/d) Paid Ads & Social Content gesucht",
+   "company": "ProviPanda GmbH",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/creative-director-paid-ads-social-content-gesucht-hamburg-250325",
    "score": 16,
    "matched": [
+    "storytelling",
     "production",
     "ai",
     "pr",
-    "team",
-    "mentor"
+    "team"
    ],
    "years": null,
-   "summary": "<div class=\"content-intro\"><h3><strong>Who we are:</strong></h3> <p>Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help brands and businesses redefine reputation as a competitive advantage so they can lead today and into the future. When you wor",
-   "first_seen": "2026-10-15",
-   "is_new": false
+   "summary": "\u00dcber ProviPanda ProviPanda ist als wachsendes HR-Tech-Startup aus Hamburg die gr\u00f6\u00dfte Sales-Job-Plattform im DACH-Raum. Freelance \u00b7 Teilzeit \u00b7 Festanstellung m\u00f6glich Deine Rolle Du bist die kreative Kraft hinter unseren Videos. Du entwickelst die Ideen, schreibst die Skripte, leitest die Drehtage und stellst sicher, dass am Ende Videos herauskommen, die auffallen und performen. Videograf, Darstelle",
+   "first_seen": "2026-10-18",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607646",
@@ -606,7 +648,7 @@
    "years": null,
    "summary": "Are you an experienced digital communicator who understands how to turn science into stories that capture attention, spark curiosity, and inspire action? SEI is looking for a Digital Communications Editor to manage our global social media channels and help communicate our research and insights to diverse audiences. Become part of our international non-profit research organization and help translat",
    "first_seen": "2026-10-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31565237",
