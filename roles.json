@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18 11:58 UTC",
- "scanned": 3947,
+ "updated": "2026-10-19 14:24 UTC",
+ "scanned": 3932,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -107,6 +107,57 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
+   "title": "Senior B2B Content Marketing Manager, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
+   "score": 57,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "editorial",
+    "concept",
+    "storytelling",
+    "narrative",
+    "production",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
+   "first_seen": "2026-10-19",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-airalo-senior-director-brand-united-kingdom-211743",
+   "title": "Senior Director, Brand",
+   "company": "Airalo",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/airalo/senior-director-brand-united-kingdom-211743",
+   "score": 50,
+   "matched": [
+    "brand strategy",
+    "tone of voice",
+    "campaign",
+    "global brand",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "own the brand",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "Help Us Build The Future of Travel At Airalo, we make it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access mobile data in over 200 countries and regions. We\u2019re a fully remote team of 400+ people across 60+ countries, building a product used at a global scale every day. Work here is structured but fast-moving, with clear ",
+   "first_seen": "2026-10-19",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
    "title": "Copywriter, Global Creative [All genders]",
    "company": "hellofresh",
@@ -153,7 +204,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p> <p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.</p></div><p data-path-to-node=\"3\">Join us in ",
    "first_seen": "2026-10-18",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8152695",
@@ -258,30 +309,27 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-hcompany-social-media-and-content-strategist-community-paris-49907",
-   "title": "Social Media and Content Strategist - Community",
-   "company": "Hcompany",
-   "location": "Hybrid Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/social-media-and-content-strategist-community-paris-49907",
-   "score": 40,
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31612495",
+   "title": "Marketing & Communications Manager \u2013 ABB Motion",
+   "company": "ABB AB",
+   "location": "V\u00e4ster\u00e5s, V\u00e4stmanlands l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31612495",
+   "score": 39,
    "matched": [
-    "tone of voice",
-    "brand voice",
-    "long-form",
-    "editorial",
+    "brand positioning",
+    "positioning",
     "campaign",
-    "storytelling",
-    "production",
+    "integrated campaign",
+    "stakeholder",
     "ai",
     "b2b",
     "pr",
-    "team",
-    "- asks only 2 years"
+    "team"
    ],
-   "years": 2,
-   "summary": "H Company is an AI research and product company building autonomous agents for the enterprise. We combine proprietary models (Holo), computer-use agents, an orchestration platform and hands-on engineering into a single system designed for production use. Our agents operate any software the way a person does, with no API and no rebuilt stack. They rank #1 on OSWorld-Verified, the leading computer-u",
-   "first_seen": "2026-10-17",
-   "is_new": false
+   "years": null,
+   "summary": "At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This position reports to: Local Division Manager, MOIM, LSU Manager, MOHP, Lead Division Manager Motion Sweden. This is your chance to own the full marketing and communication",
+   "first_seen": "2026-10-19",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
@@ -331,11 +379,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -355,11 +403,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -471,25 +519,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-melotech-founding-head-of-brand-berlin-385658",
-   "title": "Founding Head of Brand",
-   "company": "Melotech",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/melotech/founding-head-of-brand-berlin-385658",
-   "score": 22,
-   "matched": [
-    "campaign",
-    "narrative",
-    "brand book",
-    "ai",
-    "pr"
-   ],
-   "years": null,
-   "summary": "Who we are Melotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide. Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinvest and GFC, alongside world-class angels from firms such as Spotify, Blackston",
-   "first_seen": "2026-10-17",
-   "is_new": false
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
    "title": "Communication Specialist",
    "company": "Nobia Sweden AB",
@@ -552,26 +581,24 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-155675-catalog-content-lead",
-   "title": "Catalog & Content Lead",
-   "company": "Fresh Prints",
-   "location": "Philippines",
-   "url": "https://jobicy.com/jobs/155675-catalog-content-lead",
+   "id": "https-www-arbeitnow-fr-jobs-companies-asight-creative-strategist-social-ads-bordeaux-267433",
+   "title": "Creative Strategist - Social Ads",
+   "company": "Asight",
+   "location": "Bordeaux",
+   "url": "https://www.arbeitnow.fr/jobs/companies/asight/creative-strategist-social-ads-bordeaux-267433",
    "score": 19,
    "matched": [
-    "campaign",
+    "copywriting",
+    "concept",
     "script",
     "production",
-    "cross-functional",
     "ai",
     "pr",
-    "team",
-    "mentor",
-    "- asks only 3 years"
+    "- roas"
    ],
-   "years": 3,
-   "summary": "About the job Fresh Prints is about to go through the biggest catalog shift in company history. We've always sold custom apparel to groups - chapters, teams, clubs. That's changing: we're building a catalog where every product and design has its own shoppable page, so anyone can browse and buy directly, the way you'd shop at any other ecommerce store. Over the next year, our catalog will grow roug",
-   "first_seen": "2026-10-18",
+   "years": null,
+   "summary": "ASight est une agence Growth Marketing ind\u00e9pendante de plus de 50 clients (DNVB, Ecommerce, Lead generation) et plus de 25M\u20ac de budget publicitaire sous gestion, essentiellement sur Google & Meta. Notre mission est de permettre \u00e0 nos clients d\u2019atteindre leurs objectifs de croissance via des strat\u00e9gies en Social ads & Search (SEA/SEO/GEO). Bas\u00e9s \u00e0 Bordeaux et lanc\u00e9s \u00e0 la fin de l'ann\u00e9e 2022, l'\u00e9qui",
+   "first_seen": "2026-10-19",
    "is_new": true
   },
   {
@@ -595,41 +622,22 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-hyplus-technology-gmbh-senior-java-fullstack-entwickler-fur-brandenburg-braunschw",
-   "title": "Senior Java Fullstack Entwickler (m/w/d) f\u00fcr Brandenburg, Braunschweig, Berlin",
-   "company": "HyPlus Technology GmbH",
-   "location": "Brunswick, Niedersachsen, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/hyplus-technology-gmbh/senior-java-fullstack-entwickler-fur-brandenburg-braunschweig-berlin-brunswick-330276",
+   "id": "https-www-arbeitnow-nl-jobs-companies-deerns-groep-bv-teamleider-en-senior-adviseur-brandveiligheid-zwolle-25716",
+   "title": "Teamleider en Senior Adviseur Brandveiligheid",
+   "company": "Deerns Groep BV",
+   "location": "Zwolle, Overijssel, Netherlands",
+   "url": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/teamleider-en-senior-adviseur-brandveiligheid-zwolle-25716",
    "score": 16,
    "matched": [
-    "script",
-    "stakeholder",
+    "concept",
     "ai",
     "pr",
-    "team"
+    "team",
+    "mentor"
    ],
    "years": null,
-   "summary": "\u00dcber uns: HyPlus ist Dein Wegbegleiter im digitalen Wandel. Gemeinsam mit unseren Kund:innen entwickeln wir strukturiert, partnerschaftlich und mit klarem Fokus auf nachhaltigen Mehrwert, deren digitale DNA. Wir begleiten Unternehmen von der Anforderungsanalyse \u00fcber Architektur, Softwareentwicklung und Implementierung bis hin zum Betrieb. Mit rund 800 Kolleg:innen in Deutschland, Polen, Litauen, R",
-   "first_seen": "2026-10-18",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-provipanda-gmbh-creative-director-paid-ads-social-content-gesucht-hamburg-250325",
-   "title": "Creative Director (m/w/d) Paid Ads & Social Content gesucht",
-   "company": "ProviPanda GmbH",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/creative-director-paid-ads-social-content-gesucht-hamburg-250325",
-   "score": 16,
-   "matched": [
-    "storytelling",
-    "production",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "\u00dcber ProviPanda ProviPanda ist als wachsendes HR-Tech-Startup aus Hamburg die gr\u00f6\u00dfte Sales-Job-Plattform im DACH-Raum. Freelance \u00b7 Teilzeit \u00b7 Festanstellung m\u00f6glich Deine Rolle Du bist die kreative Kraft hinter unseren Videos. Du entwickelst die Ideen, schreibst die Skripte, leitest die Drehtage und stellst sicher, dass am Ende Videos herauskommen, die auffallen und performen. Videograf, Darstelle",
-   "first_seen": "2026-10-18",
+   "summary": "Ben jij een ervaren Adviseur Brandveiligheid die niet alleen excelleert in complexe, grootschalige projecten, maar ook graag het voortouw neemt in het aansturen, coachen en laten groeien van een team? In deze rol combineer je inhoudelijke expertise met leiderschap en speel je een sleutelrol in de verdere ontwikkeling van ons team Brandveiligheid. De uitdaging Als Teamleider Brandveiligheid bij Dee",
+   "first_seen": "2026-10-19",
    "is_new": true
   },
   {
