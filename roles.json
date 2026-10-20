@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19 14:24 UTC",
- "scanned": 3932,
+ "updated": "2026-10-20 12:34 UTC",
+ "scanned": 3912,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -107,29 +107,29 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
-   "title": "Senior B2B Content Marketing Manager, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
-   "score": 57,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-delinea-corporate-communications-manager-emea-apac-bracknell-95352",
+   "title": "Corporate Communications Manager EMEA & APAC",
+   "company": "Delinea",
+   "location": "Home Office (United Kingdom)",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/delinea/corporate-communications-manager-emea-apac-bracknell-95352",
+   "score": 53,
    "matched": [
-    "copywriting",
-    "copywriter",
-    "editorial",
-    "concept",
+    "brand voice",
+    "campaign",
     "storytelling",
     "narrative",
-    "production",
+    "messaging framework",
     "agency",
     "stakeholder",
-    "cross-functional",
     "ai",
-    "b2b"
+    "internal communications",
+    "press release",
+    "pr",
+    "team"
    ],
-   "years": null,
-   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
-   "first_seen": "2026-10-19",
+   "years": 5,
+   "summary": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence, Delinea\u2019s leading cloud-native Identity Security Platform applies context throughout the entire identity lifecycle \u2013 across cloud and traditiona",
+   "first_seen": "2026-10-20",
    "is_new": true
   },
   {
@@ -155,7 +155,7 @@
    "years": 10,
    "summary": "Help Us Build The Future of Travel At Airalo, we make it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access mobile data in over 200 countries and regions. We\u2019re a fully remote team of 400+ people across 60+ countries, building a product used at a global scale every day. Work here is structured but fast-moving, with clear ",
    "first_seen": "2026-10-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -182,31 +182,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-marketing-manager-brand-integrated-marketing-london-164676",
-   "title": "Senior Marketing Manager, Brand Integrated Marketing",
-   "company": "Deliveroo",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-brand-integrated-marketing-london-164676",
-   "score": 49,
-   "matched": [
-    "brand strategy",
-    "campaign",
-    "integrated campaign",
-    "brand campaign",
-    "global brand",
-    "multi-market",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong>Our Global Structure</strong></p> <p><br>Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we\u2019re unlocking new possibilities as one global team.</p></div><p data-path-to-node=\"3\">Join us in ",
-   "first_seen": "2026-10-18",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8152695",
    "title": "Brand Strategy Lead",
    "company": "getyourguide",
@@ -230,6 +205,32 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31617242",
+   "title": "PR and Content Lead",
+   "company": "SKF Sverige Aktiebolag",
+   "location": "G\u00f6teborg, V\u00e4stra G\u00f6talands l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31617242",
+   "score": 46,
+   "matched": [
+    "campaign",
+    "storytelling",
+    "narrative",
+    "global brand",
+    "film",
+    "script",
+    "production",
+    "stakeholder",
+    "ai",
+    "press release",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Are you keen on creating stories that inspire, engage, and generate business impact? Do you thrive in a global environment where strategic communications and content shape brand perception? Are you ready to elevate SKF's corporate narrative and thought leadership through impactful PR and storytelling? Then you could be our next... PR and Content Lead SKF is on an exciting transformation journey, a",
+   "first_seen": "2026-10-20",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -329,7 +330,7 @@
    "years": null,
    "summary": "At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This position reports to: Local Division Manager, MOIM, LSU Manager, MOHP, Lead Division Manager Motion Sweden. This is your chance to own the full marketing and communication",
    "first_seen": "2026-10-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
@@ -498,46 +499,68 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-nl-jobs-companies-vinteden-senior-employer-branding-specialist-amsterdam-422049",
-   "title": "Senior Employer Branding Specialist",
-   "company": "Vinteden",
-   "location": "Amsterdam",
-   "url": "https://www.arbeitnow.nl/jobs/companies/vinteden/senior-employer-branding-specialist-amsterdam-422049",
-   "score": 28,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-monzo-senior-pr-and-communications-manager-12-month-fixed-term-contract-cardiff",
+   "title": "Senior PR and Communications Manager (12 month fixed-term contract)",
+   "company": "Monzo",
+   "location": "Cardiff",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-pr-and-communications-manager-12-month-fixed-term-contract-cardiff-352220",
+   "score": 29,
    "matched": [
-    "editorial",
     "campaign",
     "storytelling",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h2><strong>Brief info about Vinted </strong></h2> <p data-renderer-start-pos=\"1\"><span data-sheets-root=\"1\">Our mission is to make second-hand the first choice, and we're looking for people who want to help us get there. Every day, we work together to help our members buy and sell pre-loved clothing and lifestyle items, giving each piece a second life \u2013 or even a third.",
-   "first_seen": "2026-10-16",
-   "is_new": false
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31532847",
-   "title": "Communication Specialist",
-   "company": "Nobia Sweden AB",
-   "location": "J\u00f6nk\u00f6ping, J\u00f6nk\u00f6pings l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31532847",
-   "score": 22,
-   "matched": [
-    "campaign",
+    "international markets",
     "stakeholder",
     "cross-functional",
     "ai",
-    "press release",
     "pr",
     "team"
    ],
    "years": null,
-   "summary": "Are you an experienced communicator who knows how to turn complex messages into clear communication? Are you comfortable working closely with C-level and do you have experience with press relations? Then this could be the role for you. Nobia Group is one of Europe\u2019s largest kitchen specialists, listed on Nasdaq Stockholm, operating across the Nordic region with strong local brands including HTH, u",
-   "first_seen": "2026-09-29",
-   "is_new": false
+   "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
+   "first_seen": "2026-10-20",
+   "is_new": true
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-monzo-jobs-8288904",
+   "title": "Senior PR and Communications Manager (12 month fixed-term contract)",
+   "company": "monzo",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8288904",
+   "score": 29,
+   "matched": [
+    "campaign",
+    "storytelling",
+    "international markets",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
+   "first_seen": "2026-10-20",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-nl-jobs-companies-andurilindustries-director-european-strategic-communications-amsterdam-186061",
+   "title": "Director, European Strategic Communications",
+   "company": "Andurilindustries",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/andurilindustries/director-european-strategic-communications-amsterdam-186061",
+   "score": 22,
+   "matched": [
+    "narrative",
+    "agency",
+    "ai",
+    "pr",
+    "team",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "<div class=\"content-intro\"><p>Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century\u2019s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril\u2019s family of syste",
+   "first_seen": "2026-10-20",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8258725",
@@ -581,6 +604,46 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-migrando-gmbh-content-marketing-manager-cottbus-394239",
+   "title": "Content Marketing Manager (w/m/d)",
+   "company": "Migrando GmbH",
+   "location": "Cottbus",
+   "url": "https://www.arbeitnow.com/jobs/companies/migrando-gmbh/content-marketing-manager-cottbus-394239",
+   "score": 21,
+   "matched": [
+    "copywriting",
+    "storytelling",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "Einleitung Wir sind auf der Suche nach neuen Kollegen! Migrando ist ein Legal-Tech-Unternehmen aus Cottbus. Wir haben es uns zur Aufgabe gemacht, den komplizierten und langwierigen Prozess der Einb\u00fcrgerung effizienter und kundenfreundlicher zu gestalten. Mit unserer Expertise im Ausl\u00e4nderrecht, unserer juristischen Kompetenz und einem starken Team von zahlreichen Mitarbeitern begleiten wir tausend",
+   "first_seen": "2026-10-20",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-se3-head-of-marketing-communications-munich-155917",
+   "title": "Head of Marketing & Communications",
+   "company": "Se3",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/se3/head-of-marketing-communications-munich-155917",
+   "score": 21,
+   "matched": [
+    "storytelling",
+    "agency",
+    "ai",
+    "pr",
+    "team",
+    "mentor"
+   ],
+   "years": null,
+   "summary": "Join SE3 Labs as Head of Marketing / Communications Build a credible brand around SE3's technology and work in the field, and tell our story to the people who matter most. About SE3 SE3 Labs builds spatial intelligence and autonomy software for unmanned systems. We combine 3D computer vision, state estimation and AI to help autonomous platforms perceive their surroundings, know where they are and ",
+   "first_seen": "2026-10-20",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-fr-jobs-companies-asight-creative-strategist-social-ads-bordeaux-267433",
    "title": "Creative Strategist - Social Ads",
    "company": "Asight",
@@ -599,7 +662,7 @@
    "years": null,
    "summary": "ASight est une agence Growth Marketing ind\u00e9pendante de plus de 50 clients (DNVB, Ecommerce, Lead generation) et plus de 25M\u20ac de budget publicitaire sous gestion, essentiellement sur Google & Meta. Notre mission est de permettre \u00e0 nos clients d\u2019atteindre leurs objectifs de croissance via des strat\u00e9gies en Social ads & Search (SEA/SEO/GEO). Bas\u00e9s \u00e0 Bordeaux et lanc\u00e9s \u00e0 la fin de l'ann\u00e9e 2022, l'\u00e9qui",
    "first_seen": "2026-10-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607857",
@@ -638,7 +701,7 @@
    "years": null,
    "summary": "Ben jij een ervaren Adviseur Brandveiligheid die niet alleen excelleert in complexe, grootschalige projecten, maar ook graag het voortouw neemt in het aansturen, coachen en laten groeien van een team? In deze rol combineer je inhoudelijke expertise met leiderschap en speel je een sleutelrol in de verdere ontwikkeling van ons team Brandveiligheid. De uitdaging Als Teamleider Brandveiligheid bij Dee",
    "first_seen": "2026-10-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607646",
