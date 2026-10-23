@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22 12:49 UTC",
- "scanned": 3938,
+ "updated": "2026-10-23 12:27 UTC",
+ "scanned": 3933,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -104,6 +104,58 @@
    "years": null,
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-10-22",
+   "is_new": false
+  },
+  {
+   "id": "https-jobs-ashbyhq-com-pleo-667345dd-55ee-4df5-ab38-aae2655bae1f",
+   "title": "Brand Marketing Lead",
+   "company": "pleo",
+   "location": "London",
+   "url": "https://jobs.ashbyhq.com/pleo/667345dd-55ee-4df5-ab38-aae2655bae1f",
+   "score": 64,
+   "matched": [
+    "sponsorship or relocation",
+    "brand strategy",
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "brand campaign",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
+   "first_seen": "2026-10-23",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-taboola-senior-content-marketing-manager-london-214452",
+   "title": "Senior Content Marketing Manager",
+   "company": "Taboola",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/taboola/senior-content-marketing-manager-london-214452",
+   "score": 56,
+   "matched": [
+    "positioning",
+    "tone of voice",
+    "campaign",
+    "narrative",
+    "messaging framework",
+    "global brand",
+    "agency",
+    "ai",
+    "b2b",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<p><strong>Realize your potential by joining the leading performance-driven advertising company!</strong></p> <p>As a Senior Content Marketing Manager on the Marketing team in our London office, you will take ownership of key content initiatives, craft our product narrative, and protect our brand tone of voice across global touchpoints.</p> <p>Reporting directly to the Head of Global Brand and Mar",
+   "first_seen": "2026-10-23",
    "is_new": true
   },
   {
@@ -259,32 +311,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-trainline-brand-paid-media-manager-9-month-ftc-london-269345",
-   "title": "Brand Paid Media Manager - 9 Month FTC",
-   "company": "Trainline",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/brand-paid-media-manager-9-month-ftc-london-269345",
-   "score": 45,
-   "matched": [
-    "brand strategy",
-    "campaign",
-    "brand campaign",
-    "storytelling",
-    "global brand",
-    "international markets",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. Great journeys start with Trainline \ud83d\ude84 We\u2019re Europe\u2019s leading independent rail platform, helping mill",
-   "first_seen": "2026-10-22",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
    "title": "Marketing Creative Lead",
    "company": "supercell",
@@ -406,11 +432,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -430,11 +456,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -547,7 +573,7 @@
    "years": null,
    "summary": "<h2><strong>The role</strong></h2> <p>Meta is our core social channel, but the next leg of growth depends on what's around it. The 2026 ambition is clear: scale TikTok into our #2 social channel on incrementality-steered investment, and prove Pinterest, Snap, and other emerging platforms on the same evidence bar.</p> <p>This role owns that diversification agenda end-to-end. You're the in-house exp",
    "first_seen": "2026-10-22",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-monzo-jobs-8288904",
@@ -572,6 +598,27 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-monzo-senior-writer-borrowing-cardiff-44489",
+   "title": "Senior Writer, Borrowing",
+   "company": "Monzo",
+   "location": "Cardiff",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-writer-borrowing-cardiff-44489",
+   "score": 28,
+   "matched": [
+    "positioning",
+    "tone of voice",
+    "in-house",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
+   "first_seen": "2026-10-23",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-monzo-jobs-8312224",
    "title": "Senior Writer, Borrowing",
    "company": "monzo",
@@ -590,7 +637,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
    "first_seen": "2026-10-22",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-www-arbeitnow-fr-jobs-companies-foodlabs-senior-performance-creative-strategist-gn-at-female-health-consumer-start",
@@ -611,7 +658,7 @@
    "years": null,
    "summary": "About DITTO DITTO is a science-led brand redefining menstrual health. As a fast-growing, VC-backed business, we're scaling a new standard in menstrual wellbeing \u2014 empowering anyone with cycle symptoms to understand, support and optimise their health every day, not just during their period. Developed by female scientists and powered by biotechnology, the Cycle Supplement is backed by over 100 clini",
    "first_seen": "2026-10-22",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8258725",
@@ -655,47 +702,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-voodoo-lead-creative-manager-gaming-paris-436499",
-   "title": "Lead Creative Manager - Gaming",
-   "company": "Voodoo",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/lead-creative-manager-gaming-paris-436499",
-   "score": 21,
-   "matched": [
-    "concept",
-    "production",
-    "ai",
-    "pr",
-    "team",
-    "6+ years"
-   ],
-   "years": 6,
-   "summary": "About Voodoo Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes chart-topping games like Mob Control and Block Jam, alongside popular apps suc",
-   "first_seen": "2026-10-21",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-stronger-gmbh-creative-strategist-account-manager-vollzeit-berlin-55661",
-   "title": "Creative Strategist & Account Manager \u2013 Vollzeit (m/w/d)",
-   "company": "Stronger GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/stronger-gmbh/creative-strategist-account-manager-vollzeit-berlin-55661",
-   "score": 19,
-   "matched": [
-    "production",
-    "ai",
-    "fintech",
-    "e-commerce",
-    "pr",
-    "team",
-    "mentor"
-   ],
-   "years": null,
-   "summary": "\u00dcber Stronger GmbH Wir sind eine Paid Social Creative Agentur aus Hamburg mit einem 26-k\u00f6pfigen Team, die sich auf Social Advertising f\u00fcr E-Commerce, Mittelstand und FinTech im DACH-Raum spezialisiert hat. Wir verbinden Strategie, Creative Production und Creator Management unter einem Dach. Deine Aufgaben Account Management Du bist die strategische Hauptansprechperson f\u00fcr deine Kund:innen und baus",
-   "first_seen": "2026-10-22",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607857",
    "title": "Web Content Manager",
    "company": "The Place AB",
@@ -716,23 +722,23 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-nl-jobs-companies-deerns-groep-bv-teamleider-en-senior-adviseur-brandveiligheid-zwolle-25716",
-   "title": "Teamleider en Senior Adviseur Brandveiligheid",
-   "company": "Deerns Groep BV",
-   "location": "Zwolle, Overijssel, Netherlands",
-   "url": "https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/teamleider-en-senior-adviseur-brandveiligheid-zwolle-25716",
-   "score": 16,
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31637480",
+   "title": "Group HR Communication Manager",
+   "company": "Scania CV Aktiebolag",
+   "location": "S\u00f6dert\u00e4lje, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31637480",
+   "score": 18,
    "matched": [
-    "concept",
+    "editorial",
+    "stakeholder",
     "ai",
     "pr",
-    "team",
-    "mentor"
+    "team"
    ],
    "years": null,
-   "summary": "Ben jij een ervaren Adviseur Brandveiligheid die niet alleen excelleert in complexe, grootschalige projecten, maar ook graag het voortouw neemt in het aansturen, coachen en laten groeien van een team? In deze rol combineer je inhoudelijke expertise met leiderschap en speel je een sleutelrol in de verdere ontwikkeling van ons team Brandveiligheid. De uitdaging Als Teamleider Brandveiligheid bij Dee",
-   "first_seen": "2026-10-19",
-   "is_new": false
+   "summary": "Job Title: Group HR Communication Manager (m/f/d) TRATON is a group of strong brands with a shared mission: transforming transportation together to create the future of sustainable transport solutions. Within TRATON, we include MAN, Scania, Volkswagen Truck & Bus, and International. As part of a global team of industry experts, you get to think bigger, experience more, and reach further. Together,",
+   "first_seen": "2026-10-23",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607646",
