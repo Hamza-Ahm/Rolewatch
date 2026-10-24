@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23 12:27 UTC",
- "scanned": 3933,
+ "updated": "2026-10-24 11:53 UTC",
+ "scanned": 3945,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -130,32 +130,32 @@
    "years": null,
    "summary": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
    "first_seen": "2026-10-23",
-   "is_new": true
+   "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-taboola-senior-content-marketing-manager-london-214452",
-   "title": "Senior Content Marketing Manager",
-   "company": "Taboola",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/taboola/senior-content-marketing-manager-london-214452",
-   "score": 56,
+   "id": "https-www-arbeitnow-fr-jobs-companies-orakl-oncology-communications-brand-events-lead-villejuif-53086",
+   "title": "Communications, Brand & Events Lead",
+   "company": "Orakl Oncology",
+   "location": "Villejuif",
+   "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/communications-brand-events-lead-villejuif-53086",
+   "score": 55,
    "matched": [
     "positioning",
     "tone of voice",
-    "campaign",
+    "long-form",
+    "editorial",
+    "concept",
+    "storytelling",
     "narrative",
-    "messaging framework",
-    "global brand",
-    "agency",
+    "cross-functional",
     "ai",
     "b2b",
-    "pr",
-    "team",
-    "5+ years"
+    "internal communications",
+    "press release"
    ],
-   "years": 5,
-   "summary": "<p><strong>Realize your potential by joining the leading performance-driven advertising company!</strong></p> <p>As a Senior Content Marketing Manager on the Marketing team in our London office, you will take ownership of key content initiatives, craft our product narrative, and protect our brand tone of voice across global touchpoints.</p> <p>Reporting directly to the Head of Global Brand and Mar",
-   "first_seen": "2026-10-23",
+   "years": null,
+   "summary": "About Orakl Oncology Every cancer patient deserves a treatment that works for them. Today, too many never get one in time: fewer than 5% of new cancer drugs make it through clinical trials, and every failure costs patients precious time. Orakl exists to change those odds. We bridge biological and artificial intelligence by building large cohorts of virtual cancer patients, combining real patients'",
+   "first_seen": "2026-10-24",
    "is_new": true
   },
   {
@@ -232,6 +232,32 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-trainline-brand-manager-9-month-ftc-london-485043",
+   "title": "Brand Manager - 9 Month FTC",
+   "company": "Trainline",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/brand-manager-9-month-ftc-london-485043",
+   "score": 47,
+   "matched": [
+    "brand strategy",
+    "positioning",
+    "campaign",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "e-commerce",
+    "pr",
+    "team",
+    "own the brand"
+   ],
+   "years": null,
+   "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. Great journeys start with Trainline \ud83d\ude84 We\u2019re Europe\u2019s leading independent rail platform, helping mill",
+   "first_seen": "2026-10-24",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31617242",
@@ -360,6 +386,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-isaraerospace-senior-communications-specialist-parsdorf-bavaria-395734",
+   "title": "Senior Communications Specialist (f/m/d)",
+   "company": "isaraerospace",
+   "location": "Parsdorf, Bavaria",
+   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-communications-specialist-parsdorf-bavaria-395734",
+   "score": 39,
+   "matched": [
+    "positioning",
+    "campaign",
+    "storytelling",
+    "narrative",
+    "stakeholder",
+    "ai",
+    "press release",
+    "pr",
+    "team",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<p></p> <p><strong><span class=\"TextRun SCXW135214952 BCX8\" lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135214952 BCX8\">Mission Brief</span></span></strong></p> <p><span data-contrast=\"auto\">As Senior Communications Specialist, you will help shape how Isar Aerospace is perceived by media, customers, partners, policymakers, investors, and the broader public.</span><span data-cc",
+   "first_seen": "2026-10-24",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31621070",
    "title": "Brand & Integrated Marketing Lead, Europe",
    "company": "Lovable Labs Sweden AB",
@@ -432,11 +482,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Madrid, Spain",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
+   "location": "Prague, Czechia",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
    "score": 38,
    "matched": [
     "positioning",
@@ -456,11 +506,11 @@
    "is_new": false
   },
   {
-   "id": "https-www-make-com-en-careers-detail-gh_jid-7799520003",
+   "id": "https-www-make-com-en-careers-detail-gh_jid-7799522003",
    "title": "Head of Brand",
    "company": "make",
-   "location": "Prague, Czechia",
-   "url": "https://www.make.com/en/careers-detail?gh_jid=7799520003",
+   "location": "Madrid, Spain",
+   "url": "https://www.make.com/en/careers-detail?gh_jid=7799522003",
    "score": 38,
    "matched": [
     "positioning",
@@ -526,6 +576,54 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-13",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-ilert-gmbh-saas-content-marketing-manager-cologne-361459",
+   "title": "SaaS Content Marketing manager",
+   "company": "ilert GmbH",
+   "location": "Cologne",
+   "url": "https://www.arbeitnow.com/jobs/companies/ilert-gmbh/saas-content-marketing-manager-cologne-361459",
+   "score": 34,
+   "matched": [
+    "editorial",
+    "concept",
+    "campaign",
+    "storytelling",
+    "narrative",
+    "ai",
+    "b2b",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "ilert is an AI-first incident management software company helping companies respond to incidents faster and increase the availability of digital services. Our mission is to keep the world running at all times. We\u2019ve done the hardest part already: built something people love. Now it\u2019s time to take this to the next level and that\u2019s where you come in. Why this role is more than \u201cjust content\u201d: You\u2019ll",
+   "first_seen": "2026-10-24",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-quince-senior-creative-strategist-447214",
+   "title": "Senior Creative Strategist",
+   "company": "Quince",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-creative-strategist-447214",
+   "score": 33,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "concept",
+    "production",
+    "cross-functional",
+    "ai",
+    "retail",
+    "pr",
+    "team",
+    "- meta ads manager",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
+   "first_seen": "2026-10-24",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -598,27 +696,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-monzo-senior-writer-borrowing-cardiff-44489",
-   "title": "Senior Writer, Borrowing",
-   "company": "Monzo",
-   "location": "Cardiff",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/monzo/senior-writer-borrowing-cardiff-44489",
-   "score": 28,
-   "matched": [
-    "positioning",
-    "tone of voice",
-    "in-house",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
-   "first_seen": "2026-10-23",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-monzo-jobs-8312224",
    "title": "Senior Writer, Borrowing",
    "company": "monzo",
@@ -638,6 +715,27 @@
    "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
    "first_seen": "2026-10-22",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-plos-associate-editorial-director-2-year-ftc-307404",
+   "title": "Associate Editorial Director- 2 Year FTC",
+   "company": "Plos",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/plos/associate-editorial-director-2-year-ftc-307404",
+   "score": 25,
+   "matched": [
+    "editorial",
+    "script",
+    "in-house",
+    "stakeholder",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "<p></p> <p data-renderer-start-pos=\"36\"><em><span data-contrast=\"auto\"><strong>This position is fully remote/home based. Applications will be accepted from candidates based in the UK. This is a 2 Year FTC.</strong></span></em></p> <p></p> <p><strong>Role Summary</strong></p> <p></p> <p>In this role you will oversee a subset of the growing PLOS journals portfolio: you will manage PLOS Biology and P",
+   "first_seen": "2026-10-24",
+   "is_new": true
   },
   {
    "id": "https-www-arbeitnow-fr-jobs-companies-foodlabs-senior-performance-creative-strategist-gn-at-female-health-consumer-start",
@@ -738,7 +836,7 @@
    "years": null,
    "summary": "Job Title: Group HR Communication Manager (m/f/d) TRATON is a group of strong brands with a shared mission: transforming transportation together to create the future of sustainable transport solutions. Within TRATON, we include MAN, Scania, Volkswagen Truck & Bus, and International. As part of a global team of industry experts, you get to think bigger, experience more, and reach further. Together,",
    "first_seen": "2026-10-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607646",
