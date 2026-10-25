@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-24 11:53 UTC",
- "scanned": 3945,
+ "updated": "2026-10-25 12:23 UTC",
+ "scanned": 3853,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
@@ -81,6 +81,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-pleo-brand-marketing-lead-london-146587",
+   "title": "Brand Marketing Lead",
+   "company": "Pleo",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/brand-marketing-lead-london-146587",
+   "score": 65,
+   "matched": [
+    "sponsorship or relocation",
+    "brand strategy",
+    "concept",
+    "campaign",
+    "integrated campaign",
+    "brand campaign",
+    "agency",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "b2b",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
+   "first_seen": "2026-10-25",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
    "title": "Creative Strategist, Editorial",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -156,32 +182,6 @@
    "years": null,
    "summary": "About Orakl Oncology Every cancer patient deserves a treatment that works for them. Today, too many never get one in time: fewer than 5% of new cancer drugs make it through clinical trials, and every failure costs patients precious time. Orakl exists to change those odds. We bridge biological and artificial intelligence by building large cohorts of virtual cancer patients, combining real patients'",
    "first_seen": "2026-10-24",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-ch-jobs-companies-scholarrock-senior-director-patient-advocacy-communications-lead-emea-zug-73404",
-   "title": "Senior Director, Patient Advocacy & Communications Lead, EMEA",
-   "company": "Scholarrock",
-   "location": "Zug",
-   "url": "https://www.arbeitnow.ch/jobs/companies/scholarrock/senior-director-patient-advocacy-communications-lead-emea-zug-73404",
-   "score": 52,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "storytelling",
-    "narrative",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "internal communications",
-    "press release",
-    "pr",
-    "team"
-   ],
-   "years": 12,
-   "summary": "Scholar Rock is delivering muscle-targeted breakthroughs to transform the treatment of spinal muscular atrophy (SMA) and other rare neuromuscular diseases where muscle atrophy remains a critical unmet need. As a global leader in myostatin biology, a field focused on proteins that regulate muscle mass, the biopharmaceutical company is named for the visual resemblance of a scholar rock to protein st",
-   "first_seen": "2026-10-21",
    "is_new": false
   },
   {
@@ -234,32 +234,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-trainline-brand-manager-9-month-ftc-london-485043",
-   "title": "Brand Manager - 9 Month FTC",
-   "company": "Trainline",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/brand-manager-9-month-ftc-london-485043",
-   "score": 47,
-   "matched": [
-    "brand strategy",
-    "positioning",
-    "campaign",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "e-commerce",
-    "pr",
-    "team",
-    "own the brand"
-   ],
-   "years": null,
-   "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. Great journeys start with Trainline \ud83d\ude84 We\u2019re Europe\u2019s leading independent rail platform, helping mill",
-   "first_seen": "2026-10-24",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31617242",
    "title": "PR and Content Lead",
    "company": "SKF Sverige Aktiebolag",
@@ -309,6 +283,32 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-154042-director-product-communications-hers",
+   "title": "Director, Product Communications (Hers)",
+   "company": "hims &#038; hers",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/154042-director-product-communications-hers",
+   "score": 46,
+   "matched": [
+    "positioning",
+    "editorial",
+    "campaign",
+    "storytelling",
+    "narrative",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "internal communications",
+    "pr",
+    "team",
+    "12+ years"
+   ],
+   "years": 12,
+   "summary": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for result",
+   "first_seen": "2026-10-25",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-wolt-jobs-8232982",
@@ -407,7 +407,7 @@
    "years": 5,
    "summary": "<p></p> <p><strong><span class=\"TextRun SCXW135214952 BCX8\" lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135214952 BCX8\">Mission Brief</span></span></strong></p> <p><span data-contrast=\"auto\">As Senior Communications Specialist, you will help shape how Isar Aerospace is perceived by media, customers, partners, policymakers, investors, and the broader public.</span><span data-cc",
    "first_seen": "2026-10-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31621070",
@@ -578,29 +578,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-ilert-gmbh-saas-content-marketing-manager-cologne-361459",
-   "title": "SaaS Content Marketing manager",
-   "company": "ilert GmbH",
-   "location": "Cologne",
-   "url": "https://www.arbeitnow.com/jobs/companies/ilert-gmbh/saas-content-marketing-manager-cologne-361459",
-   "score": 34,
-   "matched": [
-    "editorial",
-    "concept",
-    "campaign",
-    "storytelling",
-    "narrative",
-    "ai",
-    "b2b",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "ilert is an AI-first incident management software company helping companies respond to incidents faster and increase the availability of digital services. Our mission is to keep the world running at all times. We\u2019ve done the hardest part already: built something people love. Now it\u2019s time to take this to the next level and that\u2019s where you come in. Why this role is more than \u201cjust content\u201d: You\u2019ll",
-   "first_seen": "2026-10-24",
-   "is_new": true
-  },
-  {
    "id": "https-www-arbeitnow-com-jobs-companies-quince-senior-creative-strategist-447214",
    "title": "Senior Creative Strategist",
    "company": "Quince",
@@ -623,7 +600,7 @@
    "years": 5,
    "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
    "first_seen": "2026-10-24",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -717,6 +694,28 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-alphasense-sector-lead-telecommunications-media-technology-directed-content-lon",
+   "title": "Sector Lead (Telecommunications Media Technology) Directed Content",
+   "company": "Alphasense",
+   "location": "London, Greater London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/sector-lead-telecommunications-media-technology-directed-content-london-greater-london-433492",
+   "score": 27,
+   "matched": [
+    "script",
+    "stakeholder",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team",
+    "mentor",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<div class=\"content-intro\"><h2><strong>About AlphaSense: </strong></h2> <p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content un",
+   "first_seen": "2026-10-25",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-co-uk-jobs-companies-plos-associate-editorial-director-2-year-ftc-307404",
    "title": "Associate Editorial Director- 2 Year FTC",
    "company": "Plos",
@@ -735,27 +734,6 @@
    "years": null,
    "summary": "<p></p> <p data-renderer-start-pos=\"36\"><em><span data-contrast=\"auto\"><strong>This position is fully remote/home based. Applications will be accepted from candidates based in the UK. This is a 2 Year FTC.</strong></span></em></p> <p></p> <p><strong>Role Summary</strong></p> <p></p> <p>In this role you will oversee a subset of the growing PLOS journals portfolio: you will manage PLOS Biology and P",
    "first_seen": "2026-10-24",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-foodlabs-senior-performance-creative-strategist-gn-at-female-health-consumer-start",
-   "title": "Senior Performance Creative Strategist (gn) @ Female Health Consumer Startup, London",
-   "company": "FoodLabs",
-   "location": "Paris, \u00cele-de-France, France",
-   "url": "https://www.arbeitnow.fr/jobs/companies/foodlabs/senior-performance-creative-strategist-gn-at-female-health-consumer-startup-london-paris-152577",
-   "score": 22,
-   "matched": [
-    "creative strategy",
-    "concept",
-    "storytelling",
-    "script",
-    "production",
-    "pr",
-    "- roas"
-   ],
-   "years": null,
-   "summary": "About DITTO DITTO is a science-led brand redefining menstrual health. As a fast-growing, VC-backed business, we're scaling a new standard in menstrual wellbeing \u2014 empowering anyone with cycle symptoms to understand, support and optimise their health every day, not just during their period. Developed by female scientists and powered by biotechnology, the Cycle Supplement is backed by over 100 clini",
-   "first_seen": "2026-10-22",
    "is_new": false
   },
   {
@@ -798,6 +776,26 @@
    "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
    "first_seen": "2026-09-16",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-duck-duck-go-remote-communications-and-social-media-manager-328503",
+   "title": "Communications and Social Media Manager",
+   "company": "Duck Duck Go",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-communications-and-social-media-manager-328503",
+   "score": 20,
+   "matched": [
+    "campaign",
+    "script",
+    "cross-functional",
+    "ai",
+    "pr",
+    "team"
+   ],
+   "years": null,
+   "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and o",
+   "first_seen": "2026-10-25",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607857",
