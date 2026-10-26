@@ -234,11 +234,15 @@ SIGNAL_TERMS = {
     "global brand": 4, "multi-market": 4, "international markets": 3,
     "brand book": 3, "rebrand": 4, "brand architecture": 3,
     "film": 2, "script": 3, "art direction": 2, "production": 2,
-    "agency": 2, "in-house": 2, "stakeholder": 2, "cross-functional": 1,
+    "agency": 2, "in-house": 2, "stakeholder": 1,
     "ai": 2, "generative ai": 3, "prompt": 3,
     "b2b": 2, "fintech": 2, "retail": 2, "fmcg": 2, "e-commerce": 1,
-    "internal communications": 2, "press release": 2, "pr": 1,
-    "team": 2, "mentor": 2, "own the brand": 4, "brand guardian": 4,
+    "internal communications": 3, "press release": 3,
+    "public relations": 3,
+    "mentor": 2, "own the brand": 5, "brand guardian": 5,
+    "head of brand": 5, "brand narrative": 5, "brand positioning": 5,
+    "own the positioning": 5, "brand platform": 4, "creative studio": 3,
+    "in-house creative": 3, "brand team": 3, "creative team": 3,
 }
 
 # Things that pull a role down even when it passes the hard filters.
@@ -336,21 +340,30 @@ def parse_years(body):
         return None
 
 
+SIGNAL_RE = {t: re.compile(r"(?<![a-z])" + re.escape(t) + r"(?![a-z])", re.I)
+             for t in SIGNAL_TERMS}
+PENALTY_RE = {t: re.compile(r"(?<![a-z])" + re.escape(t) + r"(?![a-z])", re.I)
+              for t in PENALTY_TERMS}
+
+
 def score(job, cv_terms):
+    """Terms are matched as whole words. Substring matching used to find
+    'ai' inside 'campaign' and 'pr' inside 'press', which scored noise."""
     blob = (job["title"] + " " + job["body"]).lower()
     hits, raw = [], 0
 
     for term, w in SIGNAL_TERMS.items():
-        if term in blob:
+        if SIGNAL_RE[term].search(blob):
             raw += w
             hits.append(term)
 
     for term, w in PENALTY_TERMS.items():
-        if term in blob:
+        if PENALTY_RE[term].search(blob):
             raw -= w
             hits.append("- " + term)
 
-    cv_hit = sum(1 for t in cv_terms if t in blob)
+    cv_hit = sum(1 for t in cv_terms
+                 if re.search(r"(?<![a-z])" + re.escape(t) + r"(?![a-z])", blob))
     raw += min(cv_hit, 25) * 0.4
 
     yrs = parse_years(job["body"])
@@ -371,61 +384,6 @@ def score(job, cv_terms):
 
     pct = max(0, min(100, round(raw / 72 * 100)))
     return pct, hits[:12], yrs
-
-
-
-# ---------------------------------------------------------------- drafting
-
-# Cover letters are drafted only for roles at or above this score, newest
-# first, and only a few per run so the bill stays small. Raise or lower
-# freely. Set MAX_DRAFTS to 0 to switch drafting off.
-MIN_SCORE_TO_DRAFT = 45
-MAX_DRAFTS = 5
-MODEL = "claude-sonnet-5"   # swap to "claude-haiku-4-5-20251001" for cheaper
-
-BRIEF = """You are drafting a cover letter for Hamza Ahmad. Follow every rule.
-
-WHO HE IS
-Copywriter and creative with a strong focus on brand strategy. Eleven years,
-seven in agency and four in-house. Indian national. Most recently Global Brand
-Copywriter at IKEA in Malmo, leading creative work across 31 markets. He built
-an internal AI tone of voice writing assistant there. He has directed brand
-films end to end, from concept and script through production and post, and has
-directed photoshoots and video shoots. Earlier: Razor Group in Berlin, and
-agency years at Leo Burnett, Saatchi and Saatchi and Mullen Lowe Lintas, plus
-freelance associate creative director work covering Publicis, Saatchi and
-McCann. Brands include Google, P&G, Unilever, DBS and MobiKwik. Markets across
-India, APAC, MENA and Europe, with localisation a core focus. He led the
-Biostadt rebrand end to end, released across 18 markets in 18 translations. He
-also runs CopyThat, a one-person creative studio.
-
-HARD RULES
-1. Never use an em dash. Not once. Use commas, full stops or semicolons.
-2. Open with him: who he is and what he has built. Never open with a line
-   lifted from the job ad, and never with a thesis statement about the
-   industry or the category.
-3. Do not include any paragraph about gaps, or where he would be new, or what
-   he is still learning. None.
-4. Call him a copywriter and creative with a strong focus on brand strategy.
-   Never call him a creative leader or a brand strategist. Keep the framing
-   humble.
-5. State the role title he is applying for and his eleven years of experience
-   explicitly, in plain sentences. Assume an AI screen reads this before a
-   human does, so mirror the employer's own vocabulary wherever it is honest
-   to do so.
-6. One continuous argument in flowing prose. Not a list of separate claims.
-   Argue why he fits: experience, the extra he brings, and self motivation.
-   Do not lecture the reader or state general principles at them.
-7. If the role is a stewardship or leadership seat rather than a making seat,
-   the first paragraph must carry the advantage of having made the work
-   himself, because direction from someone who has executed it is sharper.
-   Frame that as a positive, never as a comparison to people without a
-   creative background.
-8. Around 250 to 320 words. No greeting line beyond a simple one, no address
-   block, no signature block. Plain prose only.
-9. Never invent an achievement, a metric or a client he does not have.
-
-Return the letter text and nothing else. No preamble, no notes, no markdown."""
 
 
 def de_dash(text):
