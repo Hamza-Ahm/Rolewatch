@@ -969,10 +969,16 @@ def keep(job):
         return False
     if any(k in b for k in EXCLUDE_BODY):
         return False
-    if TEMP_RE.search(t) or TEMP_RE.search(b[:4000]):
-        return False
-    if re.search(r"\b(interim|freelance|freelancer|contractor|consultant)\b", t):
-        return False
+    # Permanent only, except in Sweden where temporary roles are fine.
+    in_sweden = bool(re.search(
+        r"sweden|sverige|stockholm|malm[oö]|gothenburg|g[oö]teborg|lund|uppsala|"
+        r"helsingborg|link[oö]ping|v[aä]ster[aå]s|[oö]rebro|\bl[aä]n\b",
+        job["location"].lower()))
+    if not in_sweden:
+        if TEMP_RE.search(t) or TEMP_RE.search(b[:4000]):
+            return False
+        if re.search(r"\b(interim|freelance|freelancer|contractor|consultant)\b", t):
+            return False
     if not any(k in blob for k in PLACES):
         return False
     return True
