@@ -45,6 +45,8 @@ COMPANIES = [
     "flixbus", "getyourguide", "sennder", "forto", "choco", "personio",
     "doctolib", "alan", "qonto", "payfit", "backmarket", "voiscooters",
     "tink", "northvolt", "bolt", "remote", "deel", "contentful",
+    "aira", "voi", "kry", "anyfin", "budbee", "instabee", "lunar", "kahoot",
+    "oura", "polestar", "volvocars", "sinch", "storytel", "readly", "acast",
     "celonis", "make", "productboard", "rossum", "mews", "kiwicom",
     "sinch", "truecaller", "einride", "epidemicsound", "kahoot",
     "mollie", "messagebird", "bird", "framer", "tide", "gocardless",
@@ -241,7 +243,7 @@ MIN_SENIORITY = [
     # Gulf and APAC ranks
     "specialist", "officer", "supervisor", "in charge", "senior executive",
 ]
-REQUIRE_SENIORITY = True
+REQUIRE_SENIORITY = False
 
 # ---------------------------------------------------------------- scoring
 
@@ -269,6 +271,13 @@ SIGNAL_TERMS = {
     "international markets": 4, "global campaign": 5, "across markets": 4,
     "regional adaptation": 4, "omnichannel": 4,
 
+    # web, search and conversion writing (IKEA webpages, Razor performance)
+    "localise": 5, "localize": 5, "localised": 4, "localized": 4,
+    "seo": 4, "geo": 3, "aeo": 4, "search engine": 3, "landing page": 3,
+    "website copy": 4, "web copy": 4, "blog": 2, "ad copy": 4,
+    "launch copy": 4, "conversion": 2, "email": 2, "cms": 2,
+    "native english": 3, "native-level english": 3,
+    "multiple markets": 4, "different markets": 4, "uk, ital": 2,
     # campaigns
     "integrated campaign": 4, "brand campaign": 4, "campaign": 3,
     "go-to-market": 2, "launch": 2,
@@ -679,9 +688,61 @@ def from_workday(slug):
     return []
 
 
+
+def _parse_rss(xml_text, company):
+    import xml.etree.ElementTree as ET
+    out = []
+    try:
+        root = ET.fromstring(xml_text)
+    except Exception:
+        return out
+    for item in root.iter("item"):
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        desc = item.findtext("description") or ""
+        loc = ""
+        for child in item:
+            tag = child.tag.lower()
+            if tag.endswith("location") or tag.endswith("city") or tag.endswith("locations"):
+                loc = " ".join(t for t in child.itertext()).strip() or loc
+        out.append(norm(company, title, loc, link, desc))
+    return out
+
+
+def _get_text(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+            return r.read().decode("utf-8", "replace")
+    except Exception:
+        return None
+
+
+def from_teamtailor(slug):
+    """Teamtailor runs a large share of Nordic careers sites. Each publishes
+    an RSS feed of open jobs at /jobs.rss."""
+    xml_text = _get_text(f"https://{slug}.teamtailor.com/jobs.rss")
+    return _parse_rss(xml_text, slug) if xml_text else []
+
+
+# Careers sites on their own domains (Teamtailor and others with RSS).
+CUSTOM_FEEDS = {
+    "Aira": "https://career.airahome.com/jobs.rss",
+}
+
+
+def from_custom_feeds():
+    out = []
+    for company, url in CUSTOM_FEEDS.items():
+        xml_text = _get_text(url)
+        if xml_text:
+            out.extend(_parse_rss(xml_text, company))
+    return out
+
+
 ATS = [from_greenhouse, from_lever, from_ashby,
        from_workable, from_smartrecruiters, from_recruitee,
-       from_workday]
+       from_workday, from_teamtailor]
 
 
 def from_jobtech():
@@ -930,7 +991,7 @@ BOARDS = [
     (from_remoteok, "remoteok"), (from_jobicy, "jobicy"),
     (from_muse, "themuse"), (from_himalayas, "himalayas"),
     (from_adzuna, "adzuna"), (from_jooble, "jooble"),
-    (from_jsearch, "jsearch"),
+    (from_jsearch, "jsearch"), (from_custom_feeds, "custom feeds"),
 ]
 
 
