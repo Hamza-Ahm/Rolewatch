@@ -45,6 +45,7 @@ COMPANIES = [
     "flixbus", "getyourguide", "sennder", "forto", "choco", "personio",
     "doctolib", "alan", "qonto", "payfit", "backmarket", "voiscooters",
     "tink", "northvolt", "bolt", "remote", "deel", "contentful",
+    "sixspeed", "kraken.com", "payplug", "piabo",
     "aira", "voi", "kry", "anyfin", "budbee", "instabee", "lunar", "kahoot",
     "oura", "polestar", "volvocars", "sinch", "storytel", "readly", "acast",
     "celonis", "make", "productboard", "rossum", "mews", "kiwicom",
@@ -728,6 +729,7 @@ def from_teamtailor(slug):
 # Careers sites on their own domains (Teamtailor and others with RSS).
 CUSTOM_FEEDS = {
     "Aira": "https://career.airahome.com/jobs.rss",
+    "Doodle": "https://careers.doodle.com/jobs.rss",
 }
 
 
@@ -740,9 +742,33 @@ def from_custom_feeds():
     return out
 
 
+
+def from_personio(slug):
+    """Personio runs many German and European careers sites. Each publishes
+    an XML feed of open positions."""
+    import xml.etree.ElementTree as ET
+    for host in (f"https://{slug}.jobs.personio.de/xml?language=en",
+                 f"https://{slug}.jobs.personio.com/xml?language=en"):
+        xml_text = _get_text(host)
+        if not xml_text or "<position" not in xml_text:
+            continue
+        try:
+            root = ET.fromstring(xml_text)
+        except Exception:
+            continue
+        out = []
+        for p in root.iter("position"):
+            pid = p.findtext("id") or ""
+            body = " ".join((d.findtext("value") or "") for d in p.iter("jobDescription"))
+            out.append(norm(slug, p.findtext("name"), p.findtext("office") or "",
+                            host.split("/xml")[0] + f"/job/{pid}", body))
+        return out
+    return []
+
+
 ATS = [from_greenhouse, from_lever, from_ashby,
        from_workable, from_smartrecruiters, from_recruitee,
-       from_workday, from_teamtailor]
+       from_workday, from_teamtailor, from_personio]
 
 
 def from_jobtech():
