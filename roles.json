@@ -1,33 +1,7 @@
 {
- "updated": "2026-10-25 12:23 UTC",
- "scanned": 3853,
+ "updated": "2026-10-26 13:56 UTC",
+ "scanned": 3927,
  "roles": [
-  {
-   "id": "https-careers-hellofresh-com-global-en-job-8113659-gh_jid-8113659",
-   "title": "Lead Copywriter, Global Creative Studio (m/f/x)",
-   "company": "hellofresh",
-   "location": "Berlin, Berlin, Germany",
-   "url": "https://careers.hellofresh.com/global/en/job/8113659?gh_jid=8113659",
-   "score": 76,
-   "matched": [
-    "tone of voice",
-    "copywriting",
-    "copywriter",
-    "creative direction",
-    "concept",
-    "campaign",
-    "localization",
-    "global brand",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "ai"
-   ],
-   "years": 8,
-   "summary": "<h2><strong>Lead Copywriter, Global Creative Studio (m/f/x)</strong></h2> <p>Brand Marketing \u00b7 Berlin or Warsaw</p> <p>At HelloFresh Group, our mission is to change the way people eat forever. Since our 2011 founding in Berlin, we've become the global market leader in the meal kit sector, inspiring millions of home cooks and food lovers every week. Our portfolio spans eight brands across 16 market",
-   "first_seen": "2026-09-10",
-   "is_new": false
-  },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31591015",
    "title": "Head of Editorial",
@@ -81,32 +55,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-pleo-brand-marketing-lead-london-146587",
-   "title": "Brand Marketing Lead",
-   "company": "Pleo",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/brand-marketing-lead-london-146587",
-   "score": 65,
-   "matched": [
-    "sponsorship or relocation",
-    "brand strategy",
-    "concept",
-    "campaign",
-    "integrated campaign",
-    "brand campaign",
-    "agency",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
-   "first_seen": "2026-10-25",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
    "title": "Creative Strategist, Editorial",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -156,32 +104,6 @@
    "years": null,
    "summary": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
    "first_seen": "2026-10-23",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-orakl-oncology-communications-brand-events-lead-villejuif-53086",
-   "title": "Communications, Brand & Events Lead",
-   "company": "Orakl Oncology",
-   "location": "Villejuif",
-   "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/communications-brand-events-lead-villejuif-53086",
-   "score": 55,
-   "matched": [
-    "positioning",
-    "tone of voice",
-    "long-form",
-    "editorial",
-    "concept",
-    "storytelling",
-    "narrative",
-    "cross-functional",
-    "ai",
-    "b2b",
-    "internal communications",
-    "press release"
-   ],
-   "years": null,
-   "summary": "About Orakl Oncology Every cancer patient deserves a treatment that works for them. Today, too many never get one in time: fewer than 5% of new cancer drugs make it through clinical trials, and every failure costs patients precious time. Orakl exists to change those odds. We bridge biological and artificial intelligence by building large cohorts of virtual cancer patients, combining real patients'",
-   "first_seen": "2026-10-24",
    "is_new": false
   },
   {
@@ -285,32 +207,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-154042-director-product-communications-hers",
-   "title": "Director, Product Communications (Hers)",
-   "company": "hims &#038; hers",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/154042-director-product-communications-hers",
-   "score": 46,
-   "matched": [
-    "positioning",
-    "editorial",
-    "campaign",
-    "storytelling",
-    "narrative",
-    "stakeholder",
-    "cross-functional",
-    "ai",
-    "internal communications",
-    "pr",
-    "team",
-    "12+ years"
-   ],
-   "years": 12,
-   "summary": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for result",
-   "first_seen": "2026-10-25",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-wolt-jobs-8232982",
    "title": "Senior Creative Producer (Fixed-term Employment)",
    "company": "wolt",
@@ -383,30 +279,6 @@
    "years": null,
    "summary": "At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This position reports to: Local Division Manager, MOIM, LSU Manager, MOHP, Lead Division Manager Motion Sweden. This is your chance to own the full marketing and communication",
    "first_seen": "2026-10-19",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-isaraerospace-senior-communications-specialist-parsdorf-bavaria-395734",
-   "title": "Senior Communications Specialist (f/m/d)",
-   "company": "isaraerospace",
-   "location": "Parsdorf, Bavaria",
-   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-communications-specialist-parsdorf-bavaria-395734",
-   "score": 39,
-   "matched": [
-    "positioning",
-    "campaign",
-    "storytelling",
-    "narrative",
-    "stakeholder",
-    "ai",
-    "press release",
-    "pr",
-    "team",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "<p></p> <p><strong><span class=\"TextRun SCXW135214952 BCX8\" lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW135214952 BCX8\">Mission Brief</span></span></strong></p> <p><span data-contrast=\"auto\">As Senior Communications Specialist, you will help shape how Isar Aerospace is perceived by media, customers, partners, policymakers, investors, and the broader public.</span><span data-cc",
-   "first_seen": "2026-10-24",
    "is_new": false
   },
   {
@@ -578,31 +450,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-quince-senior-creative-strategist-447214",
-   "title": "Senior Creative Strategist",
-   "company": "Quince",
-   "location": "Not stated",
-   "url": "https://www.arbeitnow.com/jobs/companies/quince/senior-creative-strategist-447214",
-   "score": 33,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "concept",
-    "production",
-    "cross-functional",
-    "ai",
-    "retail",
-    "pr",
-    "team",
-    "- meta ads manager",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
-   "first_seen": "2026-10-24",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
    "title": "Content Writer, Global",
    "company": "adyen",
@@ -694,47 +541,26 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-alphasense-sector-lead-telecommunications-media-technology-directed-content-lon",
-   "title": "Sector Lead (Telecommunications Media Technology) Directed Content",
-   "company": "Alphasense",
-   "location": "London, Greater London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/sector-lead-telecommunications-media-technology-directed-content-london-greater-london-433492",
-   "score": 27,
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
+   "title": "Senior Compliance Officer - Brand Integrity",
+   "company": "adyen",
+   "location": "Singapore",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8288362",
+   "score": 25,
    "matched": [
-    "script",
     "stakeholder",
     "cross-functional",
     "ai",
+    "fintech",
     "pr",
     "team",
     "mentor",
     "5+ years"
    ],
    "years": 5,
-   "summary": "<div class=\"content-intro\"><h2><strong>About AlphaSense: </strong></h2> <p style=\"text-align: justify;\"><span style=\"font-size: 12pt;\">AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content un",
-   "first_seen": "2026-10-25",
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-10-26",
    "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-plos-associate-editorial-director-2-year-ftc-307404",
-   "title": "Associate Editorial Director- 2 Year FTC",
-   "company": "Plos",
-   "location": "Not stated",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/plos/associate-editorial-director-2-year-ftc-307404",
-   "score": 25,
-   "matched": [
-    "editorial",
-    "script",
-    "in-house",
-    "stakeholder",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "<p></p> <p data-renderer-start-pos=\"36\"><em><span data-contrast=\"auto\"><strong>This position is fully remote/home based. Applications will be accepted from candidates based in the UK. This is a 2 Year FTC.</strong></span></em></p> <p></p> <p><strong>Role Summary</strong></p> <p></p> <p>In this role you will oversee a subset of the growing PLOS journals portfolio: you will manage PLOS Biology and P",
-   "first_seen": "2026-10-24",
-   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8258725",
@@ -776,26 +602,6 @@
    "summary": "GiveWell\u00e2\u0080\u0099s mission is to help people in need as much as we can by researching the most cost\u00e2\u0080\u0091effective ways to save and improve lives, sharing our work openly, and directing donations to the programs we believe will do the most good. Our work, which focuses on global health and well-being, is funded by tens of thousands of donors who rely on our research to inform their giving. We\u00e2\u0080\u0099ve grown fr",
    "first_seen": "2026-09-16",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-duck-duck-go-remote-communications-and-social-media-manager-328503",
-   "title": "Communications and Social Media Manager",
-   "company": "Duck Duck Go",
-   "location": "Remote",
-   "url": "https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-communications-and-social-media-manager-328503",
-   "score": 20,
-   "matched": [
-    "campaign",
-    "script",
-    "cross-functional",
-    "ai",
-    "pr",
-    "team"
-   ],
-   "years": null,
-   "summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use our browser on Mac , Windows , iOS , and Android , our search engine , and the DuckDuckGo subscription . We also offer private, useful, and o",
-   "first_seen": "2026-10-25",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31607857",
