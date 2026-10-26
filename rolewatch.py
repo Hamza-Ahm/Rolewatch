@@ -94,6 +94,14 @@ ACCEPT_TITLE = [
     # messaging and story
     r"storytell", r"messaging (lead|manager|director|strateg)",
     r"narrative (lead|director|strateg)",
+    # every other title family the CV fits
+    r"\bux (writer|copywriter|copy)", r"content design", r"product (copywriter|writer)",
+    r"(localisation|localization|transcreation) (lead|manager|director|specialist)",
+    r"copy chief", r"creative (manager|head|principal)",
+    r"(internal|employee|executive) communications",
+    r"campaign (lead|manager|director)", r"(brand|marketing) campaign",
+    r"(tone of voice|verbal|voice) (lead|manager|director|specialist)",
+    r"concept (lead|director|developer)", r"(head|director) of (copy|content|creative|brand)",
     # shapes from his own pipeline that the list was missing
     r"\bmarcom\b", r"marketing communications",
     r"head of (media|studio|marketing)", r"media house",
@@ -125,7 +133,7 @@ EXCLUDE_TITLE = [
     "affiliate", "crm specialist", "lifecycle marketing",
     "media strategist", "media planner", "media strategy", "programmatic",
     "trading", "product strategy", "pricing strategy", "product content",
-    "technical writer", "ux writer", "content moderator", "content operations",
+    "technical writer", "content moderator", "content operations",
     "commercial strategy", "customer strategy", "growth strategy",
     "crm strategy", "operations strategy", "vertical strategy",
     "account strategy", "finance and strategy", "pricing strategy",
@@ -178,6 +186,8 @@ NO_SPONSOR = [
     "existing right to work", "already authorised to work",
     "already authorized to work", "local candidates only",
     "no relocation", "relocation is not", "we do not offer relocation",
+    "unable to offer visa", "unable to offer sponsorship", "not able to offer visa",
+    "not able to sponsor", "cannot offer visa", "cannot offer sponsorship",
 ]
 
 # Ads that say the opposite. These get a badge and a small lift.
@@ -210,6 +220,8 @@ PLACES = [
     "qatar", "doha", "saudi", "riyadh", "jeddah", "bahrain", "manama",
     "kuwait", "oman", "muscat",
     "apac", "mena", "gulf", "middle east", "southeast asia", "sea region",
+    "india", "mumbai", "bangalore", "bengaluru", "new delhi", "delhi",
+    "gurgaon", "gurugram", "noida", "hyderabad", "pune", "chennai",
 ]
 
 MIN_SENIORITY = [
@@ -361,6 +373,25 @@ Swedish level C.
 """
 
 
+def load_companies():
+    """Slugs come from companies.txt if it exists, one per line, blank
+    lines and # comments ignored. Falls back to the COMPANIES list above."""
+    path = os.path.join(HERE, "companies.txt")
+    if not os.path.exists(path):
+        return COMPANIES
+    out = []
+    for line in open(path, encoding="utf-8", errors="replace"):
+        line = line.split("#")[0].strip().lower()
+        if line:
+            out.append(line)
+    seen, uniq = set(), []
+    for c in out:
+        if c not in seen:
+            seen.add(c)
+            uniq.append(c)
+    return uniq or COMPANIES
+
+
 def load_cv_terms():
     """Low-weight match terms pulled from CV_TEXT above. Edit CV_TEXT freely."""
     text = CV_TEXT.lower()
@@ -467,6 +498,11 @@ def draft_letter(role):
     except Exception as e:
         print(f"  draft failed for {role['title']}: {e}")
         return None
+
+
+MIN_SCORE_TO_DRAFT = 45
+MAX_DRAFTS = 0          # 0 = off. Needs ANTHROPIC_API_KEY to do anything.
+MODEL = "claude-sonnet-5"
 
 
 def add_drafts(roles, bodies, existing):
@@ -767,7 +803,7 @@ QUERIES = [
 
 # Adzuna country codes. Add or remove freely.
 ADZUNA_COUNTRIES = ["gb", "de", "nl", "es", "fr", "it", "pl", "at",
-                    "ch", "sg", "in"]
+                    "ch", "sg", "in"]  # in = India
 
 # Jooble is searched city by city. This is where the Gulf comes from.
 JOOBLE_PLACES = [
@@ -781,6 +817,8 @@ JOOBLE_PLACES = [
     "London", "Manchester", "Dublin", "Brussels", "Antwerp",
     "Paris", "Milan", "Rome", "Vienna", "Zurich", "Geneva",
     "Prague", "Warsaw", "Krakow", "Tallinn", "Budapest",
+    # India
+    "Mumbai", "Bengaluru", "Gurugram", "New Delhi",
 ]
 
 
@@ -911,7 +949,8 @@ def keep(job):
     by_subject = senior and any(k in t for k in CORE_NOUNS)
     if not (by_phrase or by_subject):
         return False
-    if any(k in t for k in EXCLUDE_TITLE):
+    if any(re.search(r"(?<![a-z])" + re.escape(k.strip()) + r"(?![a-z])", t)
+           for k in EXCLUDE_TITLE if not ("content designer" in t and k == "designer")):
         return False
     if REQUIRE_SENIORITY and not senior:
         return False
@@ -920,8 +959,6 @@ def keep(job):
     if language_walled(b):
         return False
     if any(k in b for k in EXCLUDE_BODY):
-        return False
-    if any(k in b for k in NO_SPONSOR):
         return False
     if not any(k in blob for k in PLACES):
         return False
