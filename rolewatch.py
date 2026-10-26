@@ -94,6 +94,10 @@ ACCEPT_TITLE = [
     # messaging and story
     r"storytell", r"messaging (lead|manager|director|strateg)",
     r"narrative (lead|director|strateg)",
+    # shapes from his own pipeline that the list was missing
+    r"\bmarcom\b", r"marketing communications",
+    r"head of (media|studio|marketing)", r"media house",
+    r"(brand|creative|content|editorial|communications) (studio|house)",
 ]
 
 ACCEPT_RE = [re.compile(p, re.I) for p in ACCEPT_TITLE]
@@ -223,26 +227,53 @@ REQUIRE_SENIORITY = True
 # What you actually want the job to be about. Weight 1 to 5.
 # These outrank anything picked up automatically from the CV.
 SIGNAL_TERMS = {
-    "brand strategy": 5, "brand positioning": 5, "positioning": 4,
-    "tone of voice": 5, "verbal identity": 5, "brand voice": 4,
-    "brand guidelines": 3, "brand platform": 4, "brand world": 3,
-    "copywriting": 4, "copywriter": 4, "long-form": 2, "editorial": 3,
-    "creative direction": 4, "creative strategy": 4, "concept": 3,
-    "campaign": 3, "integrated campaign": 4, "brand campaign": 4,
-    "storytelling": 3, "narrative": 3, "messaging framework": 4,
-    "localisation": 4, "localization": 4, "transcreation": 4,
-    "global brand": 4, "multi-market": 4, "international markets": 3,
-    "brand book": 3, "rebrand": 4, "brand architecture": 3,
-    "film": 2, "script": 3, "art direction": 2, "production": 2,
+    # the headline of his CV: this is the job
+    "brand positioning": 6, "positioning": 5, "insight development": 6,
+    "brand strategy": 5, "campaign management": 5,
+    "messaging framework": 6, "messaging frameworks": 6,
+    "tone of voice": 6, "verbal identity": 6, "brand voice": 5,
+    "brand narrative": 6, "head of brand": 5, "own the brand": 5,
+    "brand guardian": 5, "brand platform": 4, "brand book": 4,
+    "brand guidelines": 4, "brand architecture": 4, "rebrand": 4,
+
+    # craft he does daily
+    "copywriting": 5, "copywriter": 5, "copy lead": 5,
+    "creative direction": 4, "creative strategy": 4, "creative lead": 4,
+    "concept": 3, "editorial": 3, "long-form": 2, "storytelling": 3,
+    "narrative": 3, "script": 3, "film": 3, "manifesto": 3,
+
+    # how he works: global, many markets, localisation
+    "localisation": 5, "localization": 5, "transcreation": 5,
+    "content localisation": 5, "global brand": 5, "multi-market": 5,
+    "international markets": 4, "global campaign": 5, "across markets": 4,
+    "regional adaptation": 4, "omnichannel": 4,
+
+    # campaigns
+    "integrated campaign": 4, "brand campaign": 4, "campaign": 3,
+    "go-to-market": 2, "launch": 2,
+
+    # the AI credential, which is genuinely rare
+    "tone of voice tool": 5, "generative ai": 4, "llm": 4, "prompt": 4,
+    "ai tool": 3, "ai": 2,
+
+    # comms and PR, which he does and wants
+    "press release": 4, "public relations": 4,
+    "internal communications": 4, "corporate communications": 4,
+    "thought leadership": 3,
+
+    # leadership, four years of it
+    "mentor": 3, "creative team": 3, "creative studio": 3,
+    "in-house creative": 3, "brand team": 3, "line manage": 3,
+    "agency management": 4, "briefing": 3, "brief": 2,
     "agency": 2, "in-house": 2, "stakeholder": 1,
-    "ai": 2, "generative ai": 3, "prompt": 3,
-    "b2b": 2, "fintech": 2, "retail": 2, "fmcg": 2, "e-commerce": 1,
-    "internal communications": 3, "press release": 3,
-    "public relations": 3,
-    "mentor": 2, "own the brand": 5, "brand guardian": 5,
-    "head of brand": 5, "brand narrative": 5, "brand positioning": 5,
-    "own the positioning": 5, "brand platform": 4, "creative studio": 3,
-    "in-house creative": 3, "brand team": 3, "creative team": 3,
+
+    # sectors on his CV
+    "retail": 2, "fmcg": 2, "b2b": 2, "fintech": 2, "e-commerce": 2,
+    "direct-to-consumer": 3, "d2c": 3, "beauty": 2, "food": 1,
+    "circular": 3, "second-hand": 3, "sustainability": 2,
+
+    # platforms he built strategy for
+    "social platform": 2, "tiktok": 2, "instagram": 2, "reddit": 2,
 }
 
 # Things that pull a role down even when it passes the hard filters.
@@ -252,63 +283,82 @@ PENALTY_TERMS = {
     "cold outreach": 3, "quota": 4, "pipeline generation": 3,
     "hubspot admin": 2, "marketo": 2, "salesforce admin": 2,
     "seo audit": 2, "backlink": 3, "keyword research": 2,
+    # trade and retail execution: the Whirlpool shape, not his work
+    "trade marketing": 5, "retail execution": 5, "merchandising": 5,
+    "point of sale": 4, "pos material": 4, "display material": 4,
+    "sell-out": 4, "sell out data": 4, "category marketing": 4,
+    "phase-in": 3, "phase-out": 3, "planogram": 4, "in-store execution": 4,
+    "retailer requirement": 3, "shopper marketing": 4, "promotional content": 3,
+    # dealership and unit-sales shape: the Toyota one
+    "unit sales": 5, "finance penetration": 5, "trade-in": 4,
+    "showroom": 5, "demo fleet": 5, "conversion rate": 2,
+    # social commerce platform mechanics: the Colgate one
+    "social commerce": 3, "seller center": 4, "creator marketplace": 4,
+    "ads manager": 4, "social listening": 3, "affiliate partnership": 3,
 }
 
 YEARS_MIN, YEARS_MAX = 4, 14  # your 11 years sits comfortably inside
 
 
 CV_TEXT = """
-Hamza Ahmad. Senior brand copywriter and creative strategist. Eleven years,
-seven in agency and four in-house. Indian national.
+HAMZA AHMAD. Brand Positioning, Insight Development and Campaign Management.
+Malmo, Sweden.
 
-Global Brand Copywriter at IKEA, Malmo. Led creative work across 31 markets.
-Brand positioning, tone of voice, verbal identity, localisation and
-transcreation across a global brand system. Built an internal AI tone of
-voice writing assistant. Internal communications reaching 150,000 co-workers.
-Directed brand films end to end, from concept and script through production
-and post. Directed photoshoots and video shoots. Platform strategy for
-Reddit, Instagram and TikTok. Brand partnership work with UNHCR. Events for
-Unilever brands.
+SKILLS: Brand Positioning, Campaign Management, Insight Development,
+Messaging Frameworks, Brand Content, Agency Management, Stakeholder
+Management, Content Localisation.
 
-Razor Group, Berlin. E-commerce brand copywriting and positioning.
-Agency: Leo Burnett, Saatchi and Saatchi, Mullen Lowe Lintas. Freelance
-associate creative director covering Publicis, Saatchi and McCann.
+SUMMARY: Senior Creative with 11 years of experience and a strong focus on
+brand strategy. 7 years at agencies including Leo Burnett, Saatchi & Saatchi
+and Mullen Lowe Lintas, and 4 years in-house, most recently at IKEA in a
+global brand role across 31 markets. Led teams for the last 4 years. Builds
+tone of voice and messaging frameworks, writes brand narratives and press
+releases, and leads and mentors writers.
 
-Brands: Google, P&G, Unilever, DBS, MobiKwik, Tata Communications.
-Sectors: technology, fintech, retail, FMCG, food and beverage, finance,
-B2B enterprise, agriculture.
-Markets: India, APAC, MENA, Europe. Localisation a core focus.
-Biostadt rebranding led end to end, released across 18 markets in 18
-translations.
+Brand Copywriter, Global. IKEA (Ingka Services AB), IKEA Creative Studio,
+Malmo. Led global campaigns across 31 markets, from strategy and concept
+through to market output. Led the development of an AI tone of voice LLM
+across 3 iterations, used by people across IKEA to draft copy. Built the
+messaging frameworks and briefing templates teams across 31 markets worked
+from, and trained colleagues on using them. Wrote press releases and PR
+concepts, and internal communications reaching 150,000+ co-workers. Created
+the concept, script and brand positioning for a manifesto film on diversity
+and inclusion. Creative lead on the IKEA second-hand platform. Worked on
+Buyback & Resell, a circular retail initiative, across 16 markets. Built
+platform strategies for Reddit, Instagram and TikTok. Point of contact for
+brand questions across markets and functions, reviewing work before release.
 
-Skills: brand strategy, brand positioning, brand platform, messaging
-framework, campaign concept, integrated campaign, creative direction,
-copywriting, editorial, long-form, script, storytelling, narrative, press
-release, public relations, stakeholder management, mentoring, generative AI
-and prompt engineering, Figma.
+Copywriter, Global (Brand Positioning and E-commerce). Razor Group GmbH,
+Berlin. Built positioning and voice for 20+ direct-to-consumer brands across
+European markets. Created and optimised performance creative for paid social
+and search, iterating concepts from campaign data. Led and mentored a team
+of 3 creatives.
 
-Runs CopyThat, a one-person creative studio.
+Freelance Senior Copywriter and Associate Creative Director. Saatchi &
+Saatchi, Mullen Lowe Lintas, Leo Burnett, Dojo. Mumbai. Copy lead on
+MyGlamm, Nivea and Head & Shoulders. Led a national rebranding for Biostadt
+end to end, through omnichannel rollout with 19 regional adaptations.
+
+Senior Copywriter, Infectious Advertising, Mumbai. Led creative across
+integrated campaigns, managing a junior copywriter and a graphic designer.
+
+Copywriter, Leo Burnett, Mumbai. Campaigns across digital, TV, radio and
+print. Lead copywriter on creative direction for Ola Australia.
+
+Copywriter, Mullen Lowe Lintas, Mumbai and New Delhi. Worked on the Google
+account. Part of the team that launched Google Assistant in India and the
+Google Near Me campaigns.
+
+KEY BRANDS. Retail, FMCG and beauty: IKEA, Unilever, P&G, Pernod Ricard,
+Nivea, Head & Shoulders, MyGlamm, Closeup, Ariel, Tide, Pureit. Tech, media
+and platforms: Google India, Audible, GoDaddy, Hotstar, Ixigo, Ola,
+Foodpanda. Finance and payments: MobiKwik, Axis Bank, DBS Bank, Tata
+Capital. Agri and food: Biostadt, Biozyme, Cargill India.
+
+Effie Bronze 2015. MBA International Business. BA Economics and Statistics.
+Google Analytics Certification 2026. English and Hindi native, Urdu spoken,
+Swedish level C.
 """
-
-
-def load_companies():
-    """Slugs come from companies.txt if it exists, one per line, blank
-    lines and # comments ignored. Falls back to the COMPANIES list above.
-    Paste a few thousand in and the scan will work through all of them."""
-    path = os.path.join(HERE, "companies.txt")
-    if not os.path.exists(path):
-        return COMPANIES
-    out = []
-    for line in open(path, encoding="utf-8", errors="replace"):
-        line = line.split("#")[0].strip().lower()
-        if line:
-            out.append(line)
-    seen, uniq = set(), []
-    for c in out:
-        if c not in seen:
-            seen.add(c)
-            uniq.append(c)
-    return uniq or COMPANIES
 
 
 def load_cv_terms():
@@ -382,7 +432,7 @@ def score(job, cv_terms):
         raw += 5
         hits.insert(0, "sponsorship or relocation")
 
-    pct = max(0, min(100, round(raw / 72 * 100)))
+    pct = max(0, min(100, round(raw / 95 * 100)))
     return pct, hits[:12], yrs
 
 
