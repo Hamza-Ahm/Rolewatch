@@ -172,6 +172,15 @@ LANG_BEFORE = re.compile(r"\b(?:" + LANG_DEMAND + r")\b[^.\n]{0,25}\b(?:" + _L +
 
 EXCLUDE_BODY = ["tobacco", "cigarette", "vaping", "nicotine pouches"]
 
+# Permanent roles only. Anything fixed-term, temporary or cover is dropped.
+TEMP_RE = re.compile(
+    r"fixed[- ]term|\bftc\b|temporary (role|position|contract)|\btemp\b|"
+    r"maternity (cover|leave)|parental leave cover|caregiver leave|"
+    r"\b\d{1,2}[- ]month(s)? (fixed|contract|assignment|role|position)|"
+    r"\(\d{1,2} months?\)|\b\d{1,2}[- ]months? contract|"
+    r"contract role|"
+    r"visstidsanst\u00e4llning|vikariat|tidsbegr\u00e4nsad", re.I)
+
 # Ads that rule you out. These are dropped outright.
 NO_SPONSOR = [
     "no visa sponsorship", "no sponsorship available", "not offer sponsorship",
@@ -959,6 +968,10 @@ def keep(job):
     if language_walled(b):
         return False
     if any(k in b for k in EXCLUDE_BODY):
+        return False
+    if TEMP_RE.search(t) or TEMP_RE.search(b[:4000]):
+        return False
+    if re.search(r"\b(interim|freelance|freelancer|contractor|consultant)\b", t):
         return False
     if not any(k in blob for k in PLACES):
         return False
