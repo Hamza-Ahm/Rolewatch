@@ -1,7 +1,33 @@
 {
- "updated": "2026-10-28 13:53 UTC",
- "scanned": 4221,
+ "updated": "2026-10-29 13:59 UTC",
+ "scanned": 4359,
  "roles": [
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-deepl-senior-integrated-campaign-manager-london-235292",
+   "title": "Senior Integrated Campaign Manager",
+   "company": "Deepl",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-integrated-campaign-manager-london-235292",
+   "score": 59,
+   "matched": [
+    "positioning",
+    "campaign management",
+    "concept",
+    "narrative",
+    "global campaign",
+    "localize",
+    "blog",
+    "conversion",
+    "cms",
+    "integrated campaign",
+    "campaign",
+    "go-to-market"
+   ],
+   "years": 5,
+   "summary": "Meet DeepL DeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-like translation, improved writing and real-time voice translation. Founded in 2017 by CEO Jaroslaw \u201cJarek\u201d Kutylowski, De",
+   "first_seen": "2026-10-29",
+   "is_new": true
+  },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
    "title": "Copywriter, Global Creative [All genders]",
@@ -228,27 +254,53 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-7992449",
-   "title": "Senior Content Writer, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/7992449",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-siena-founding-creative-director-london-152190",
+   "title": "Founding Creative Director",
+   "company": "Siena",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/siena/founding-creative-director-london-152190",
+   "score": 37,
+   "matched": [
+    "positioning",
+    "creative direction",
+    "editorial",
+    "narrative",
+    "landing page",
+    "launch",
+    "ai",
+    "creative team",
+    "brief",
+    "agency",
+    "in-house"
+   ],
+   "years": null,
+   "summary": "Meet Siena Siena is the Agent of Record for CX, built for consumer brands like Spanx, FIGS, Brooklinen, and Gr\u00fcns. It runs as a connected multi-agent stack on top of a shared intelligence layer: agents that sell, support, listen, handle social and voice across the entire customer journey, turning every conversation into signal you can act on. The team We are a small, fully distributed, global team",
+   "first_seen": "2026-10-29",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-allica-bank-head-of-creative-london-262687",
+   "title": "Head of Creative",
+   "company": "Allica Bank",
+   "location": "London Office",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/head-of-creative-london-262687",
    "score": 34,
    "matched": [
-    "editorial",
-    "long-form",
-    "storytelling",
-    "narrative",
-    "seo",
-    "thought leadership",
-    "mentor",
-    "brief",
-    "10+ years"
+    "creative direction",
+    "creative lead",
+    "email",
+    "campaign",
+    "ai",
+    "creative studio",
+    "briefing",
+    "agency",
+    "in-house",
+    "fintech"
    ],
-   "years": 10,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-10-13",
-   "is_new": false
+   "years": null,
+   "summary": "About Allica Bank Allica is the UK\u2019s fastest growing company - and the fastest-growing financial technology (Fintech) firm ever. Our purpose is to help established SMEs, one of the last major underserved opportunities in Fintech. Established SMEs are the backbone of local communities - representing over a third of our economy - yet have been largely neglected both by traditional high street banks ",
+   "first_seen": "2026-10-29",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-mollie-a673dc2c-f11f-4ebd-9e84-347161dbf890",
@@ -411,6 +463,30 @@
    "is_new": false
   },
   {
+   "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
+   "title": "Senior Associate, Social & Brand Marketing",
+   "company": "hellofresh",
+   "location": "Toronto, Ontario, Canada",
+   "url": "https://careers.hellofresh.com/global/en/job/8325146?gh_jid=8325146",
+   "score": 27,
+   "matched": [
+    "brand voice",
+    "creative strategy",
+    "long-form",
+    "blog",
+    "ai",
+    "briefing",
+    "food",
+    "tiktok",
+    "instagram",
+    "- asks only 2 years"
+   ],
+   "years": 2,
+   "summary": "<p><strong>S'more about the team</strong></p> <p>We are looking for a Social &amp; Brand Marketing Senior Associate to bring The Pets Table to life across social, content, creators, and customers. Reporting to the Brand Marketing Manager, you\u2019ll run day-to-day organic social, create content, and own our blog. You\u2019ll also work cross functionally to help grow our influencer program and work with our",
+   "first_seen": "2026-10-29",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
    "title": "Senior Communications Manager",
    "company": "getyourguide",
@@ -451,6 +527,24 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-nl-jobs-companies-priva-stage-marketing-communicatie-copywriting-de-lier-212289",
+   "title": "Stage Marketing & Communicatie Copywriting",
+   "company": "Priva",
+   "location": "De Lier, Zuid-Holland, Netherlands",
+   "url": "https://www.arbeitnow.nl/jobs/companies/priva/stage-marketing-communicatie-copywriting-de-lier-212289",
+   "score": 24,
+   "matched": [
+    "tone of voice",
+    "copywriting",
+    "copywriter",
+    "seo"
+   ],
+   "years": null,
+   "summary": "Ga aan de slag met echte content en ontwikkel jouw schrijftalent Wil jij jouw schrijftalent verder ontwikkelen en leren hoe je technische kennis en innovatieve oplossingen vertaalt naar heldere, aansprekende content? Tijdens deze stage krijg je de ruimte om veel te schrijven, nieuwe onderwerpen te ontdekken en te leren hoe je verschillende doelgroepen bereikt met de juiste boodschap. Je komt terec",
+   "first_seen": "2026-10-29",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
@@ -510,6 +604,25 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-hanover-account-director-healthcare-communications-london-397304",
+   "title": "Account Director | Healthcare Communications | London",
+   "company": "Hanover",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hanover/account-director-healthcare-communications-london-397304",
+   "score": 19,
+   "matched": [
+    "email",
+    "public relations",
+    "corporate communications",
+    "agency",
+    "in-house"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong>About us</strong></p> <p> </p> <p>Hanover is an award-winning communications consultancy that advises enterprises, institutions, and individuals on building recognition and enhancing reputation.<br><br>From our offices across Europe and the Middle East, we adopt an integrated approach that connects the dots across channels, audiences and issues.<br><br>Our col",
+   "first_seen": "2026-10-29",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
    "title": "Internal Communications Lead",
    "company": "Lovable Labs Sweden AB",
@@ -546,6 +659,24 @@
    "summary": "TL;DR You're a communications professional who can plan and execute the work that advances Lovable's objectives across EU and Swedish policy environments, making sure our voice is heard on the issues that matter most. You'll pair sharp corporate communications with real policy fluency \u2014 working closely with internal teams and external partners to help policymakers, media, and other stakeholders un",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-teaching-socials-copywriter-ads-webinare-hockenheim-25490",
+   "title": "Copywriter (m/w/d) \u2013 Ads & Webinare",
+   "company": "Teaching Socials",
+   "location": "Hockenheim",
+   "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/copywriter-ads-webinare-hockenheim-25490",
+   "score": 17,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "storytelling",
+    "conversion"
+   ],
+   "years": null,
+   "summary": "Jobbeschreibung \u00dcber Teaching Socials Teaching Socials ist die f\u00fchrende Unternehmensberatung f\u00fcr Personal Brands im Finanz- & Immobilienbereich im DACH-Raum. Unser Team aus 25 High-Performern hat innerhalb von 2 Jahren ein konstantes Monatswachstum von \u00fcber 750.000 \u20ac aufgebaut. Wir verbinden Sichtbarkeit, Kundenakquise und Unternehmenswachstum in einem System \u2013 und du sorgst mit deiner Copy daf\u00fcr,",
+   "first_seen": "2026-10-29",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
@@ -601,24 +732,6 @@
    "summary": "Vill du kombinera kvalificerad SEO-analys med kvalitativt inneh\u00e5ll som hj\u00e4lper m\u00e4nniskor att fatta b\u00e4ttre beslut? M\u00e4klarOfferter s\u00f6ker en senior och operativ SEO- och inneh\u00e5llsansvarig som vill utveckla v\u00e5r organiska synlighet i Google, Bing och AI-drivna s\u00f6ktj\u00e4nster. Det h\u00e4r \u00e4r en roll f\u00f6r dig som b\u00e5de ser helheten och tycker om att sj\u00e4lv g\u00f6ra jobbet. Du identifierar m\u00f6jligheter, prioriterar insa",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-teneo-director-financial-communications-sports-london-143031",
-   "title": "Director, Financial Communications - Sports",
-   "company": "Teneo",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/teneo/director-financial-communications-sports-london-143031",
-   "score": 15,
-   "matched": [
-    "thought leadership",
-    "in-house",
-    "stakeholder",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "<p>Teneo is looking for a highly skilled, dynamic and driven communications professional to join its growing Strategic Sports Advisory team in London.</p> <p><strong>The Role</strong></p> <p>As a Director, you will be responsible for developing communications strategy and providing senior-led advice to clients. Directors work hand in hand with senior members of the firm to manage client engagement",
-   "first_seen": "2026-10-28",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
