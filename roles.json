@@ -1,33 +1,7 @@
 {
- "updated": "2026-10-29 13:59 UTC",
- "scanned": 4359,
+ "updated": "2026-10-30 13:54 UTC",
+ "scanned": 4383,
  "roles": [
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-deepl-senior-integrated-campaign-manager-london-235292",
-   "title": "Senior Integrated Campaign Manager",
-   "company": "Deepl",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-integrated-campaign-manager-london-235292",
-   "score": 59,
-   "matched": [
-    "positioning",
-    "campaign management",
-    "concept",
-    "narrative",
-    "global campaign",
-    "localize",
-    "blog",
-    "conversion",
-    "cms",
-    "integrated campaign",
-    "campaign",
-    "go-to-market"
-   ],
-   "years": 5,
-   "summary": "Meet DeepL DeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-like translation, improved writing and real-time voice translation. Founded in 2017 by CEO Jaroslaw \u201cJarek\u201d Kutylowski, De",
-   "first_seen": "2026-10-29",
-   "is_new": true
-  },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
    "title": "Copywriter, Global Creative [All genders]",
@@ -209,26 +183,27 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8152695",
-   "title": "Brand Strategy Lead",
-   "company": "getyourguide",
-   "location": "Berlin",
-   "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8152695",
-   "score": 40,
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8305610",
+   "title": "Senior Corporate Communications Manager",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8305610",
+   "score": 38,
    "matched": [
     "positioning",
-    "brand strategy",
-    "brand narrative",
-    "own the brand",
+    "editorial",
     "narrative",
-    "agency",
-    "stakeholder",
-    "8+ years"
+    "across markets",
+    "native english",
+    "internal communications",
+    "corporate communications",
+    "brief",
+    "agency"
    ],
-   "years": 8,
-   "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
-   "first_seen": "2026-08-25",
-   "is_new": false
+   "years": null,
+   "summary": "<p><strong>This is Adyen </strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environmen",
+   "first_seen": "2026-10-30",
+   "is_new": true
   },
   {
    "id": "https-careers-doodle-com-jobs-8558865-senior-brand-content-manager-all-genders",
@@ -252,55 +227,6 @@
    "summary": "Build the Organic Engine. Turn Content into Demand. Doodle is a B2B SaaS platform used by millions of professionals to coordinate meetings and collaboration. We are expanding from a scheduling product into a broader productivity and coordination platform, and we are launching the next generation of Doodle to the market. We are looking for a Brand & Content Manager with commercial instincts to buil",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-siena-founding-creative-director-london-152190",
-   "title": "Founding Creative Director",
-   "company": "Siena",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/siena/founding-creative-director-london-152190",
-   "score": 37,
-   "matched": [
-    "positioning",
-    "creative direction",
-    "editorial",
-    "narrative",
-    "landing page",
-    "launch",
-    "ai",
-    "creative team",
-    "brief",
-    "agency",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "Meet Siena Siena is the Agent of Record for CX, built for consumer brands like Spanx, FIGS, Brooklinen, and Gr\u00fcns. It runs as a connected multi-agent stack on top of a shared intelligence layer: agents that sell, support, listen, handle social and voice across the entire customer journey, turning every conversation into signal you can act on. The team We are a small, fully distributed, global team",
-   "first_seen": "2026-10-29",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-allica-bank-head-of-creative-london-262687",
-   "title": "Head of Creative",
-   "company": "Allica Bank",
-   "location": "London Office",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/head-of-creative-london-262687",
-   "score": 34,
-   "matched": [
-    "creative direction",
-    "creative lead",
-    "email",
-    "campaign",
-    "ai",
-    "creative studio",
-    "briefing",
-    "agency",
-    "in-house",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "About Allica Bank Allica is the UK\u2019s fastest growing company - and the fastest-growing financial technology (Fintech) firm ever. Our purpose is to help established SMEs, one of the last major underserved opportunities in Fintech. Established SMEs are the backbone of local communities - representing over a third of our economy - yet have been largely neglected both by traditional high street banks ",
-   "first_seen": "2026-10-29",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-mollie-a673dc2c-f11f-4ebd-9e84-347161dbf890",
@@ -464,7 +390,7 @@
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
-   "title": "Senior Associate, Social & Brand Marketing",
+   "title": "Senior Associate, Social & Brand Marketing (The Pets Table)",
    "company": "hellofresh",
    "location": "Toronto, Ontario, Canada",
    "url": "https://careers.hellofresh.com/global/en/job/8325146?gh_jid=8325146",
@@ -484,7 +410,7 @@
    "years": 2,
    "summary": "<p><strong>S'more about the team</strong></p> <p>We are looking for a Social &amp; Brand Marketing Senior Associate to bring The Pets Table to life across social, content, creators, and customers. Reporting to the Brand Marketing Manager, you\u2019ll run day-to-day organic social, create content, and own our blog. You\u2019ll also work cross functionally to help grow our influencer program and work with our",
    "first_seen": "2026-10-29",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
@@ -544,7 +470,7 @@
    "years": null,
    "summary": "Ga aan de slag met echte content en ontwikkel jouw schrijftalent Wil jij jouw schrijftalent verder ontwikkelen en leren hoe je technische kennis en innovatieve oplossingen vertaalt naar heldere, aansprekende content? Tijdens deze stage krijg je de ruimte om veel te schrijven, nieuwe onderwerpen te ontdekken en te leren hoe je verschillende doelgroepen bereikt met de juiste boodschap. Je komt terec",
    "first_seen": "2026-10-29",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
@@ -604,25 +530,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-hanover-account-director-healthcare-communications-london-397304",
-   "title": "Account Director | Healthcare Communications | London",
-   "company": "Hanover",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/hanover/account-director-healthcare-communications-london-397304",
-   "score": 19,
-   "matched": [
-    "email",
-    "public relations",
-    "corporate communications",
-    "agency",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong>About us</strong></p> <p> </p> <p>Hanover is an award-winning communications consultancy that advises enterprises, institutions, and individuals on building recognition and enhancing reputation.<br><br>From our offices across Europe and the Middle East, we adopt an integrated approach that connects the dots across channels, audiences and issues.<br><br>Our col",
-   "first_seen": "2026-10-29",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
    "title": "Internal Communications Lead",
    "company": "Lovable Labs Sweden AB",
@@ -661,24 +568,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-teaching-socials-copywriter-ads-webinare-hockenheim-25490",
-   "title": "Copywriter (m/w/d) \u2013 Ads & Webinare",
-   "company": "Teaching Socials",
-   "location": "Hockenheim",
-   "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/copywriter-ads-webinare-hockenheim-25490",
-   "score": 17,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "storytelling",
-    "conversion"
-   ],
-   "years": null,
-   "summary": "Jobbeschreibung \u00dcber Teaching Socials Teaching Socials ist die f\u00fchrende Unternehmensberatung f\u00fcr Personal Brands im Finanz- & Immobilienbereich im DACH-Raum. Unser Team aus 25 High-Performern hat innerhalb von 2 Jahren ein konstantes Monatswachstum von \u00fcber 750.000 \u20ac aufgebaut. Wir verbinden Sichtbarkeit, Kundenakquise und Unternehmenswachstum in einem System \u2013 und du sorgst mit deiner Copy daf\u00fcr,",
-   "first_seen": "2026-10-29",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
    "title": "Gameplay Capture & Video Artist, Creative Studio",
    "company": "supercell",
@@ -694,24 +583,6 @@
    ],
    "years": null,
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
-   "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-wolt-jobs-8282183",
-   "title": "Senior Associate, Internal Communications, International",
-   "company": "wolt",
-   "location": "Berlin, Germany; Helsinki, Finland",
-   "url": "https://job-boards.greenhouse.io/wolt/jobs/8282183",
-   "score": 16,
-   "matched": [
-    "editorial",
-    "internal communications",
-    "food",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "<div class=\"content-intro\"><h2><span data-sheets-root=\"1\">About Wolt</span></h2> <p><span data-sheets-root=\"1\">At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we\u2019re building the delivery of (almost) everything and you\u2019ll find us in over 500 cities in 30 countries around the world. In ",
    "first_seen": "2026-10-27",
    "is_new": false
   },
