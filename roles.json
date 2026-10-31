@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30 13:54 UTC",
- "scanned": 4383,
+ "updated": "2026-10-31 13:22 UTC",
+ "scanned": 4394,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -26,58 +26,6 @@
    "years": null,
    "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-10-02",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
-   "title": "Senior Video Creative, Performance - Kraken Consumer",
-   "company": "kraken.com",
-   "location": "United Kingdom",
-   "url": "https://jobs.ashbyhq.com/kraken.com/9cdd4c99-0f19-4886-aa13-ca0327cec800",
-   "score": 55,
-   "matched": [
-    "copywriting",
-    "creative lead",
-    "concept",
-    "multi-market",
-    "across markets",
-    "localize",
-    "blog",
-    "email",
-    "campaign",
-    "ai",
-    "brief",
-    "agency"
-   ],
-   "years": null,
-   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
-   "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-ashbyhq-com-kraken-com-6064492d-3fe8-449a-8013-fb196853409c",
-   "title": "Copywriter - Kraken Pro",
-   "company": "kraken.com",
-   "location": "Europe",
-   "url": "https://jobs.ashbyhq.com/kraken.com/6064492d-3fe8-449a-8013-fb196853409c",
-   "score": 51,
-   "matched": [
-    "tone of voice",
-    "copywriting",
-    "copywriter",
-    "long-form",
-    "narrative",
-    "blog",
-    "email",
-    "campaign",
-    "launch",
-    "ai",
-    "briefing",
-    "brief"
-   ],
-   "years": null,
-   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
-   "first_seen": "2026-10-27",
    "is_new": false
   },
   {
@@ -159,6 +107,57 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-campaign-manager-berlin-359326",
+   "title": "Campaign Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/campaign-manager-berlin-359326",
+   "score": 41,
+   "matched": [
+    "concept",
+    "storytelling",
+    "multi-market",
+    "localize",
+    "campaign",
+    "brief",
+    "retail",
+    "d2c",
+    "beauty",
+    "sustainability",
+    "tiktok"
+   ],
+   "years": null,
+   "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So you get the innovation and the results that K-Beauty is known for, plus a real commitment to sustainability. And we make it genuinely fun and",
+   "first_seen": "2026-10-31",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-senior-creative-strategist-berlin-384278",
+   "title": "Senior Creative Strategist (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/senior-creative-strategist-berlin-384278",
+   "score": 40,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "narrative",
+    "creative team",
+    "in-house",
+    "e-commerce",
+    "d2c",
+    "beauty",
+    "sustainability",
+    "tiktok",
+    "reddit",
+    "4+ years"
+   ],
+   "years": 4,
+   "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So you get the innovation and the results that K-Beauty is known for, plus a real commitment to sustainability. And we make it genuinely fun and",
+   "first_seen": "2026-10-31",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
    "title": "Global Brand & PR Program Manager",
    "company": "adyen",
@@ -183,6 +182,32 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-ashbyhq-com-kraken-com-6064492d-3fe8-449a-8013-fb196853409c",
+   "title": "Content Lead - Kraken Pro",
+   "company": "kraken.com",
+   "location": "Europe",
+   "url": "https://jobs.ashbyhq.com/kraken.com/6064492d-3fe8-449a-8013-fb196853409c",
+   "score": 40,
+   "matched": [
+    "copywriting",
+    "concept",
+    "script",
+    "blog",
+    "ad copy",
+    "email",
+    "campaign",
+    "ai",
+    "brief",
+    "fintech",
+    "tiktok",
+    "instagram"
+   ],
+   "years": null,
+   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
+   "first_seen": "2026-10-27",
+   "is_new": false
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8305610",
    "title": "Senior Corporate Communications Manager",
    "company": "adyen",
@@ -203,7 +228,7 @@
    "years": null,
    "summary": "<p><strong>This is Adyen </strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environmen",
    "first_seen": "2026-10-30",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-doodle-com-jobs-8558865-senior-brand-content-manager-all-genders",
@@ -227,6 +252,30 @@
    "summary": "Build the Organic Engine. Turn Content into Demand. Doodle is a B2B SaaS platform used by millions of professionals to coordinate meetings and collaboration. We are expanding from a scheduling product into a broader productivity and coordination platform, and we are launching the next generation of Doodle to the market. We are looking for a Brand & Content Manager with commercial instincts to buil",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-himalayas-app-companies-nxgentek-jobs-content-marketing-manager-utm_source-api",
+   "title": "Content Marketing Manager",
+   "company": "NEXGEN TECHNOLOGIES",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/nxgentek/jobs/content-marketing-manager?utm_source=api",
+   "score": 37,
+   "matched": [
+    "brand voice",
+    "concept",
+    "editorial",
+    "seo",
+    "geo",
+    "email",
+    "ai",
+    "thought leadership",
+    "b2b",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About the Role We are seeking an experienced Content Marketing Manager to own NexGen's content engine, from strategy and search insight through production, distribution, and measurement. Reporting directly to the CMO, you will identify what our buyers are searching for, build the content that answers it, and scale it across every channel where remote and hybrid leaders spend their time. You will p",
+   "first_seen": "2026-10-31",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-mollie-a673dc2c-f11f-4ebd-9e84-347161dbf890",
@@ -344,6 +393,27 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-gocardless-jobs-8336768",
+   "title": "Internal Communications Specialist",
+   "company": "gocardless",
+   "location": "Riga, Latvia",
+   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8336768",
+   "score": 30,
+   "matched": [
+    "tone of voice",
+    "omnichannel",
+    "email",
+    "launch",
+    "ai",
+    "internal communications",
+    "briefing"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless, a Mollie company, is a global leader in bank payments. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off paym",
+   "first_seen": "2026-10-31",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8242756-gh_jid-8242756",
    "title": "Senior Manager, Public Relations",
    "company": "hellofresh",
@@ -364,6 +434,27 @@
    "summary": "<h1><strong>Senior Manager, Public Relations \u2013 Factor</strong></h1> <p><span style=\"text-decoration: underline;\"><strong>Location:</strong> Hybrid position to the New York City HelloFresh Headquarters</span></p> <h2><strong>About Factor</strong></h2> <p>At Factor, we\u2019re on a mission to make real food the new standard for how the world eats.</p> <p>We believe convenience should never come at the ex",
    "first_seen": "2026-10-03",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-contentsquare-director-of-brand-creative-london-area-220523",
+   "title": "Director of Brand & Creative",
+   "company": "Contentsquare",
+   "location": "London area",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/contentsquare/director-of-brand-creative-london-area-220523",
+   "score": 27,
+   "matched": [
+    "creative direction",
+    "storytelling",
+    "blog",
+    "ai",
+    "creative studio",
+    "brief",
+    "agency"
+   ],
+   "years": null,
+   "summary": "Contentsquare is the all-in-one experience intelligence platform designed to be easily used by anyone who cares about digital journeys. With our flexible and scalable platform, organizations quickly get a deep understanding of their customers\u2019 whole online journey. We are a global leader in the experience analytics space, with a growing presence across 15 offices worldwide. We\u2019re here to stay\u2014and ",
+   "first_seen": "2026-10-31",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31621070",
@@ -455,6 +546,27 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-158190-executive-producer-brand-creative",
+   "title": "Executive Producer - Brand Creative",
+   "company": "Mercury",
+   "location": "Canada, USA",
+   "url": "https://jobicy.com/jobs/158190-executive-producer-brand-creative",
+   "score": 24,
+   "matched": [
+    "concept",
+    "film",
+    "ai",
+    "creative team",
+    "in-house creative",
+    "in-house",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "In the early 1900s, Sergei Diaghilev transformed ballet by bringing together extraordinary artists across disciplines. He paired Stravinsky with Picasso, Coco Chanel with choreographers, composers with painters. He wasn\u2019t the person on stage, but he created the conditions that made extraordinary work possible. Every production demanded creative ambition, difficult tradeoffs, relentless coordinatio",
+   "first_seen": "2026-10-31",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-nl-jobs-companies-priva-stage-marketing-communicatie-copywriting-de-lier-212289",
    "title": "Stage Marketing & Communicatie Copywriting",
    "company": "Priva",
@@ -471,6 +583,32 @@
    "summary": "Ga aan de slag met echte content en ontwikkel jouw schrijftalent Wil jij jouw schrijftalent verder ontwikkelen en leren hoe je technische kennis en innovatieve oplossingen vertaalt naar heldere, aansprekende content? Tijdens deze stage krijg je de ruimte om veel te schrijven, nieuwe onderwerpen te ontdekken en te leren hoe je verschillende doelgroepen bereikt met de juiste boodschap. Je komt terec",
    "first_seen": "2026-10-29",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-158185-manager-performance-creative-strategy",
+   "title": "Manager, Performance Creative Strategy",
+   "company": "Wpromote",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/158185-manager-performance-creative-strategy",
+   "score": 23,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "ad copy",
+    "conversion",
+    "email",
+    "campaign",
+    "ai",
+    "creative team",
+    "agency",
+    "tiktok",
+    "- meta ads manager",
+    "- ads manager"
+   ],
+   "years": 3,
+   "summary": "The Role Wpromote is looking for an ambitious, experienced, and self-motivated Manager, Performance Creative to join our growing Performance Creative team. This role is ideal for someone who thrives in the fast-paced environment of an agency and is passionate about developing high-performing creative across a variety of digital channels alongside a collaborative and innovative team. Reporting to a",
+   "first_seen": "2026-10-31",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
@@ -568,6 +706,25 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-designerdock-munchen-gmbh-senior-art-director-creative-ai-image-munich-13906",
+   "title": "(Senior) Art Director Creative AI & Image (m/w/d)",
+   "company": "Designerdock M\u00fcnchen GmbH",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/designerdock-munchen-gmbh/senior-art-director-creative-ai-image-munich-13906",
+   "score": 16,
+   "matched": [
+    "storytelling",
+    "prompt",
+    "ai",
+    "e-commerce",
+    "beauty"
+   ],
+   "years": null,
+   "summary": "Das Unternehmen: Du denkst in Bildern und machst KI zur kreativen Superpower? Du hast ein Auge f\u00fcr starke Bildwelten, liebst visuelles Storytelling und willst die M\u00f6glichkeiten generativer KI kreativ ausreizen? Du verbindest gestalterisches Gesp\u00fcr mit neuen Technologien und entwickelst Ideen, die Marken unverwechselbar machen? Dann wartet hier deine n\u00e4chste kreative Herausforderung. UNSER KUNDE F\u00fc",
+   "first_seen": "2026-10-31",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
    "title": "Gameplay Capture & Video Artist, Creative Studio",
    "company": "supercell",
@@ -621,6 +778,24 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-26",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-cbs-corporate-business-solutions-gmbh-senior-communications-manager-heidelberg-70",
+   "title": "(Senior) Communications Manager (m/w/d)",
+   "company": "cbs Corporate Business Solutions GmbH",
+   "location": "Heidelberg, Baden-W\u00fcrttemberg, Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/senior-communications-manager-heidelberg-70636",
+   "score": 15,
+   "matched": [
+    "storytelling",
+    "corporate communications",
+    "thought leadership",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "Wir sind die Berater der Weltmarktf\u00fchrer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Gesch\u00e4ftsprozessl\u00f6sungen vorantreiben. Gemeinsam st\u00e4rken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen- und Anlagenbau, Automotive, Life Science, Pharma und Chemie, mit denen wir viel gemeinsam haben. Unser ausgezeichneter Ruf bei Hidden Champ",
+   "first_seen": "2026-10-31",
+   "is_new": true
   }
  ]
 }
