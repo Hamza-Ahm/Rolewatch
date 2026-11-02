@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01 14:05 UTC",
- "scanned": 4341,
+ "updated": "2026-11-02 16:53 UTC",
+ "scanned": 4370,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -107,57 +107,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-campaign-manager-berlin-359326",
-   "title": "Campaign Manager (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/campaign-manager-berlin-359326",
-   "score": 41,
-   "matched": [
-    "concept",
-    "storytelling",
-    "multi-market",
-    "localize",
-    "campaign",
-    "brief",
-    "retail",
-    "d2c",
-    "beauty",
-    "sustainability",
-    "tiktok"
-   ],
-   "years": null,
-   "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So you get the innovation and the results that K-Beauty is known for, plus a real commitment to sustainability. And we make it genuinely fun and",
-   "first_seen": "2026-10-31",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-senior-creative-strategist-berlin-384278",
-   "title": "Senior Creative Strategist (m/f/d)",
-   "company": "Yepoda",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/senior-creative-strategist-berlin-384278",
-   "score": 40,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "narrative",
-    "creative team",
-    "in-house",
-    "e-commerce",
-    "d2c",
-    "beauty",
-    "sustainability",
-    "tiktok",
-    "reddit",
-    "4+ years"
-   ],
-   "years": 4,
-   "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So you get the innovation and the results that K-Beauty is known for, plus a real commitment to sustainability. And we make it genuinely fun and",
-   "first_seen": "2026-10-31",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
    "title": "Global Brand & PR Program Manager",
    "company": "adyen",
@@ -208,6 +157,53 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-tem-creative-lead-united-kingdom-432176",
+   "title": "Creative Lead",
+   "company": "tem",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/creative-lead-united-kingdom-432176",
+   "score": 39,
+   "matched": [
+    "positioning",
+    "creative lead",
+    "storytelling",
+    "campaign",
+    "launch",
+    "ai tool",
+    "ai",
+    "creative team",
+    "in-house",
+    "fintech",
+    "sustainability"
+   ],
+   "years": null,
+   "summary": "\ud83d\udcc8 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. tem exists to fix a broken global energy market that\u2019s long favoured legacy operators, intermediaries, and opaque pricing. Today\u2019s electricit",
+   "first_seen": "2026-11-02",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-marketing-manager-brand-integrated-marketing-london-345889",
+   "title": "Senior Marketing Manager, Brand Integrated Marketing",
+   "company": "Deliveroo ",
+   "location": "London, England, United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-brand-integrated-marketing-london-345889",
+   "score": 38,
+   "matched": [
+    "brand strategy",
+    "global brand",
+    "multi-market",
+    "global campaign",
+    "across markets",
+    "campaign",
+    "stakeholder",
+    "food"
+   ],
+   "years": null,
+   "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team. Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth d",
+   "first_seen": "2026-11-02",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8305610",
    "title": "Senior Corporate Communications Manager",
    "company": "adyen",
@@ -254,26 +250,26 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-pergolux-content-marketing-manager-berlin-172123",
-   "title": "Content Marketing Manager",
-   "company": "Pergolux",
-   "location": "Berlin | SCAN Team",
-   "url": "https://www.arbeitnow.com/jobs/companies/pergolux/content-marketing-manager-berlin-172123",
-   "score": 37,
+   "id": "https-jobicy-com-jobs-158518-marketing-communications-manager-france-eu",
+   "title": "Marketing & Communications Manager, France & EU",
+   "company": "ICEYE",
+   "location": "France",
+   "url": "https://jobicy.com/jobs/158518-marketing-communications-manager-france-eu",
+   "score": 35,
    "matched": [
-    "brand strategy",
-    "long-form",
-    "localisation",
-    "localise",
-    "seo",
-    "blog",
-    "e-commerce",
-    "tiktok",
-    "instagram"
+    "campaign management",
+    "localized",
+    "campaign",
+    "corporate communications",
+    "thought leadership",
+    "agency",
+    "stakeholder",
+    "b2b",
+    "8+ years"
    ],
-   "years": null,
-   "summary": "As a Content Marketing Manager you will own organic social as an always-on channel for the Scandinavian market, translating the global content and brand strategy into relevant local content. You will manage the local community in their own language and act as the fast, native-speaking point of contact for market-specific content needs, working within existing SEO and brand frameworks rather than b",
-   "first_seen": "2026-11-01",
+   "years": 8,
+   "summary": "Role highlights: Marketing & Communications Manager, France & EU Location: France (remote) Department: Data & Missions Marketing Reports to: Director, Data & Missions Marketing Employment type: Permanent Workplace model: Remote Employment is subject to applicable security screening (incl. SUPO, where required) Why this role matters: Accelerate Missions pipeline growth and brand leadership in Franc",
+   "first_seen": "2026-11-02",
    "is_new": true
   },
   {
@@ -392,25 +388,25 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-gocardless-jobs-8336768",
-   "title": "Internal Communications Specialist",
-   "company": "gocardless",
-   "location": "Riga, Latvia",
-   "url": "https://job-boards.greenhouse.io/gocardless/jobs/8336768",
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-attio-communications-lead-london-314910",
+   "title": "Communications Lead",
+   "company": "Attio",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/communications-lead-london-314910",
    "score": 30,
    "matched": [
-    "tone of voice",
-    "omnichannel",
-    "email",
-    "launch",
+    "positioning",
+    "editorial",
+    "storytelling",
+    "narrative",
+    "go-to-market",
     "ai",
-    "internal communications",
-    "briefing"
+    "internal communications"
    ],
    "years": null,
-   "summary": "<div class=\"content-intro\"><h3><strong>About us</strong></h3> <p>GoCardless, a Mollie company, is a global leader in bank payments. Over 100,000 businesses, from start-ups to household names, use GoCardless to collect, manage and send bank payments through Direct Debit, real-time payments and open banking. With US$130bn+ processed annually across 30+ countries, we handle recurring and one-off paym",
-   "first_seen": "2026-10-31",
-   "is_new": false
+   "summary": "Attio is the CRM for agentic revenue. Designed for the most ambitious go-to-market teams, it gives companies the power to understand every customer, automate at scale, and build their go-to-market motion exactly as they need. We've raised $116M from some of the world's best investors: GV (Google Ventures), Redpoint, Balderton, Point Nine, and 01A. We hire builders who thrive on complex technical c",
+   "first_seen": "2026-11-02",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8242756-gh_jid-8242756",
@@ -458,6 +454,27 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-158500-lead-campaign-manager-pharma",
+   "title": "Lead Campaign Manager, Pharma",
+   "company": "Natera",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/158500-lead-campaign-manager-pharma",
+   "score": 27,
+   "matched": [
+    "campaign management",
+    "creative direction",
+    "email",
+    "campaign",
+    "launch",
+    "brief",
+    "agency"
+   ],
+   "years": null,
+   "summary": "Role Summary Natera 's Oncology Pharma Marketing team is hiring a Lead Campaign Manager to own campaign strategy and execution end to end. This is a senior individual-contributor role, not a coordination or support function: you will set the strategy, direct execution across channels and partners, read performance data critically, and drive the tweaks and next moves that make campaigns better. You",
+   "first_seen": "2026-11-02",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
    "title": "Senior Associate, Social & Brand Marketing (The Pets Table)",
    "company": "hellofresh",
@@ -501,27 +518,6 @@
    "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
    "first_seen": "2026-09-08",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-okx-senior-manager-pr-and-communications-apac-sydney-australia-461701",
-   "title": "Senior Manager PR and Communications APAC",
-   "company": "Okx",
-   "location": "Sydney, Australia",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/okx/senior-manager-pr-and-communications-apac-sydney-australia-461701",
-   "score": 25,
-   "matched": [
-    "storytelling",
-    "thought leadership",
-    "briefing",
-    "agency",
-    "stakeholder",
-    "fintech",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "<div class=\"ace-line ace-line old-record-id-doxuseysYUio6Qia64JLLAwE7dh\"> <div data-page-id=\"doxusokjWsaOkSCIjzixAfRM3sd\" data-docx-has-block-data=\"false\"> <div class=\"ace-line ace-line old-record-id-doxusaUYeCmu82WSkkm5KDd00db\"> <div data-page-id=\"JAF7dFJcWoUusRx7RKkuM14BsYc\" data-docx-has-block-data=\"false\"> <div class=\"ace-line ace-line old-record-id-OqGZdUPi6oJlXzxlmNiu3gAmsVg\"> <div data-page",
-   "first_seen": "2026-11-01",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -673,7 +669,7 @@
    "years": 12,
    "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place fo",
    "first_seen": "2026-11-01",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
@@ -693,24 +689,6 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-158363-product-manager-elevencreative-self-serve",
-   "title": "Product Manager (ElevenCreative Self-Serve)",
-   "company": "Elevenlabs",
-   "location": "Netherlands, Poland, UK, USA",
-   "url": "https://jobicy.com/jobs/158363-product-manager-elevencreative-self-serve",
-   "score": 15,
-   "matched": [
-    "conversion",
-    "go-to-market",
-    "ai",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
-   "first_seen": "2026-11-01",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31577793",
