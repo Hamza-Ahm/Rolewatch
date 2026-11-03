@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02 16:53 UTC",
- "scanned": 4370,
+ "updated": "2026-11-03 14:54 UTC",
+ "scanned": 4253,
  "roles": [
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
@@ -157,53 +157,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-tem-creative-lead-united-kingdom-432176",
-   "title": "Creative Lead",
-   "company": "tem",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/creative-lead-united-kingdom-432176",
-   "score": 39,
-   "matched": [
-    "positioning",
-    "creative lead",
-    "storytelling",
-    "campaign",
-    "launch",
-    "ai tool",
-    "ai",
-    "creative team",
-    "in-house",
-    "fintech",
-    "sustainability"
-   ],
-   "years": null,
-   "summary": "\ud83d\udcc8 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. Our goal is to put power back where it belongs, in the hands of customers and to take on one of the most critical problems of our century, access to low cost electricity. tem exists to fix a broken global energy market that\u2019s long favoured legacy operators, intermediaries, and opaque pricing. Today\u2019s electricit",
-   "first_seen": "2026-11-02",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-deliveroo-senior-marketing-manager-brand-integrated-marketing-london-345889",
-   "title": "Senior Marketing Manager, Brand Integrated Marketing",
-   "company": "Deliveroo ",
-   "location": "London, England, United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-marketing-manager-brand-integrated-marketing-london-345889",
-   "score": 38,
-   "matched": [
-    "brand strategy",
-    "global brand",
-    "multi-market",
-    "global campaign",
-    "across markets",
-    "campaign",
-    "stakeholder",
-    "food"
-   ],
-   "years": null,
-   "summary": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team. Join us in our mission to transform the way people shop and eat, where impact, innovation, and growth d",
-   "first_seen": "2026-11-02",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8305610",
    "title": "Senior Corporate Communications Manager",
    "company": "adyen",
@@ -246,52 +199,6 @@
    ],
    "years": null,
    "summary": "Build the Organic Engine. Turn Content into Demand. Doodle is a B2B SaaS platform used by millions of professionals to coordinate meetings and collaboration. We are expanding from a scheduling product into a broader productivity and coordination platform, and we are launching the next generation of Doodle to the market. We are looking for a Brand & Content Manager with commercial instincts to buil",
-   "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-158518-marketing-communications-manager-france-eu",
-   "title": "Marketing & Communications Manager, France & EU",
-   "company": "ICEYE",
-   "location": "France",
-   "url": "https://jobicy.com/jobs/158518-marketing-communications-manager-france-eu",
-   "score": 35,
-   "matched": [
-    "campaign management",
-    "localized",
-    "campaign",
-    "corporate communications",
-    "thought leadership",
-    "agency",
-    "stakeholder",
-    "b2b",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "Role highlights: Marketing & Communications Manager, France & EU Location: France (remote) Department: Data & Missions Marketing Reports to: Director, Data & Missions Marketing Employment type: Permanent Workplace model: Remote Employment is subject to applicable security screening (incl. SUPO, where required) Why this role matters: Accelerate Missions pipeline growth and brand leadership in Franc",
-   "first_seen": "2026-11-02",
-   "is_new": true
-  },
-  {
-   "id": "https-jobs-ashbyhq-com-mollie-a673dc2c-f11f-4ebd-9e84-347161dbf890",
-   "title": "Senior Internal Communications Specialist",
-   "company": "mollie",
-   "location": "Amsterdam",
-   "url": "https://jobs.ashbyhq.com/mollie/a673dc2c-f11f-4ebd-9e84-347161dbf890",
-   "score": 33,
-   "matched": [
-    "copywriting",
-    "editorial",
-    "narrative",
-    "email",
-    "native english",
-    "ai",
-    "internal communications",
-    "fintech",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "BUILD WITH US Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We're one of Europe's fa",
    "first_seen": "2026-10-27",
    "is_new": false
   },
@@ -388,27 +295,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-attio-communications-lead-london-314910",
-   "title": "Communications Lead",
-   "company": "Attio",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/attio/communications-lead-london-314910",
-   "score": 30,
-   "matched": [
-    "positioning",
-    "editorial",
-    "storytelling",
-    "narrative",
-    "go-to-market",
-    "ai",
-    "internal communications"
-   ],
-   "years": null,
-   "summary": "Attio is the CRM for agentic revenue. Designed for the most ambitious go-to-market teams, it gives companies the power to understand every customer, automate at scale, and build their go-to-market motion exactly as they need. We've raised $116M from some of the world's best investors: GV (Google Ventures), Redpoint, Balderton, Point Nine, and 01A. We hire builders who thrive on complex technical c",
-   "first_seen": "2026-11-02",
-   "is_new": true
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8242756-gh_jid-8242756",
    "title": "Senior Manager, Public Relations",
    "company": "hellofresh",
@@ -452,27 +338,6 @@
    "summary": "TL;DR - We\u2019re looking for a seasoned brand marketer with a distinctly European perspective to partner with our head of brand marketing to continue to evolve the brand and shape campaigns that don\u2019t just buy impressions, but travel organically. This is a planner's role with a marketer's accountability. You\u2019ll split your time between two crafts: the thinking (cultural research, strategy, creative br",
    "first_seen": "2026-10-21",
    "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-158500-lead-campaign-manager-pharma",
-   "title": "Lead Campaign Manager, Pharma",
-   "company": "Natera",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/158500-lead-campaign-manager-pharma",
-   "score": 27,
-   "matched": [
-    "campaign management",
-    "creative direction",
-    "email",
-    "campaign",
-    "launch",
-    "brief",
-    "agency"
-   ],
-   "years": null,
-   "summary": "Role Summary Natera 's Oncology Pharma Marketing team is hiring a Lead Campaign Manager to own campaign strategy and execution end to end. This is a senior individual-contributor role, not a coordination or support function: you will set the strategy, direct execution across channels and partners, read performance data critically, and drive the tweaks and next moves that make campaigns better. You",
-   "first_seen": "2026-11-02",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
@@ -541,22 +406,25 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-nl-jobs-companies-priva-stage-marketing-communicatie-copywriting-de-lier-212289",
-   "title": "Stage Marketing & Communicatie Copywriting",
-   "company": "Priva",
-   "location": "De Lier, Zuid-Holland, Netherlands",
-   "url": "https://www.arbeitnow.nl/jobs/companies/priva/stage-marketing-communicatie-copywriting-de-lier-212289",
-   "score": 24,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-conduct-employer-brand-strategist-london-342441",
+   "title": "Employer Brand Strategist",
+   "company": "Conduct",
+   "location": "London, UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/employer-brand-strategist-london-342441",
+   "score": 23,
    "matched": [
-    "tone of voice",
-    "copywriting",
-    "copywriter",
-    "seo"
+    "sponsorship or relocation",
+    "narrative",
+    "go-to-market",
+    "ai",
+    "thought leadership",
+    "brief",
+    "food"
    ],
    "years": null,
-   "summary": "Ga aan de slag met echte content en ontwikkel jouw schrijftalent Wil jij jouw schrijftalent verder ontwikkelen en leren hoe je technische kennis en innovatieve oplossingen vertaalt naar heldere, aansprekende content? Tijdens deze stage krijg je de ruimte om veel te schrijven, nieuwe onderwerpen te ontdekken en te leren hoe je verschillende doelgroepen bereikt met de juiste boodschap. Je komt terec",
-   "first_seen": "2026-10-29",
-   "is_new": false
+   "summary": "In short: one of Conduct's first marketing hires, owning employer brand and our talent community. You will make the case, to exceptional people in every function, for why Conduct is where they should do their life's work. Why Conduct The world's largest companies compete by being different, and most of that difference lives in software they built for themselves. It decides how parcels reach your d",
+   "first_seen": "2026-11-03",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
@@ -654,22 +522,26 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-cesiumastro-lead-communications-architect-munich-germany-233517",
-   "title": "Lead Communications Architect",
-   "company": "CesiumAstro",
-   "location": "Munich, Germany",
-   "url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/lead-communications-architect-munich-germany-233517",
+   "id": "https-www-arbeitnow-com-jobs-companies-performancepixel-gmbh-art-director-performance-creatives-berlin-294176",
+   "title": "Art Director Performance Creatives (m/w/d)",
+   "company": "Performancepixel GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/performancepixel-gmbh/art-director-performance-creatives-berlin-294176",
    "score": 16,
    "matched": [
-    "concept",
-    "launch",
-    "mentor",
-    "12+ years"
+    "copywriter",
+    "creative strategy",
+    "creative lead",
+    "ai",
+    "tiktok",
+    "instagram",
+    "- roas",
+    "- ads manager"
    ],
-   "years": 12,
-   "summary": "At CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and engage across our organization. If you are looking for hands-on, interactive, and autonomous work, CesiumAstro is the place fo",
-   "first_seen": "2026-11-01",
-   "is_new": false
+   "years": null,
+   "summary": "Wir sind eine Performance Marketing Agentur mit einem gro\u00dfen Fokus auf Creative Design. Wir entwickeln datengetriebene Ad Creatives, Creative Strategien und skalierbare Produktionsprozesse f\u00fcr Social Ads, vor allem auf Meta und TikTok, und produzieren dabei \u00fcber 1.000 Creatives im Monat. Kurz zur Einordnung, weil der Begriff Performance Creatives oft ein bisschen unklar ist: Damit meinen wir ganz ",
+   "first_seen": "2026-11-03",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
