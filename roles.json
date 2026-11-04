@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-03 14:54 UTC",
- "scanned": 4253,
+ "updated": "2026-11-04 15:11 UTC",
+ "scanned": 4339,
  "roles": [
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
+   "title": "Mips - Global Brand Lead",
+   "company": "Infinity Human Resources Sweden AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31681204",
+   "score": 68,
+   "matched": [
+    "positioning",
+    "brand strategy",
+    "head of brand",
+    "own the brand",
+    "brand platform",
+    "brand guidelines",
+    "narrative",
+    "global brand",
+    "across markets",
+    "campaign",
+    "go-to-market",
+    "launch"
+   ],
+   "years": 7,
+   "summary": ". Mips gives you the confidence to follow your passion. Whether you are training for fitness, riding to work, heading out on the mountain or playing team sports, our mission is leading the world to safer helmets. Mips specializes in helmet-based safety and is a world-leader in this area. Based on an ingredient brand business-model, Mips\u2019 safety system is sold to the global helmet industry. The tec",
+   "first_seen": "2026-11-04",
+   "is_new": true
+  },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8030063-gh_jid-8030063",
    "title": "Copywriter, Global Creative [All genders]",
@@ -27,6 +53,84 @@
    "summary": "<h2><strong>The role</strong></h2> <p>HelloFresh Group is looking for a mid-level copywriter to join our in-house creative studio in Berlin, writing everything from punchy headlines to tactical CTAs that turn the curious into customers. Duties will have a strong digial media component, emphasizing bold, attention-grabbing assets aimed at smashing existing perceptions of our brands and reframing th",
    "first_seen": "2026-10-02",
    "is_new": false
+  },
+  {
+   "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
+   "title": "Senior Video Creative, Performance - Kraken Consumer",
+   "company": "kraken.com",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/kraken.com/9cdd4c99-0f19-4886-aa13-ca0327cec800",
+   "score": 55,
+   "matched": [
+    "copywriting",
+    "creative lead",
+    "concept",
+    "multi-market",
+    "across markets",
+    "localize",
+    "blog",
+    "email",
+    "campaign",
+    "ai",
+    "brief",
+    "agency"
+   ],
+   "years": null,
+   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
+   "first_seen": "2026-11-04",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-kraken-senior-video-creative-performance-kraken-consumer-london-384019",
+   "title": "Senior Video Creative, Performance - Kraken Consumer",
+   "company": "Kraken",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-video-creative-performance-kraken-consumer-london-384019",
+   "score": 53,
+   "matched": [
+    "copywriting",
+    "creative lead",
+    "concept",
+    "multi-market",
+    "across markets",
+    "localize",
+    "blog",
+    "campaign",
+    "ai",
+    "brief",
+    "agency",
+    "in-house"
+   ],
+   "years": null,
+   "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. The team Founded in 2011, Kraken is one of the world's longest-s",
+   "first_seen": "2026-11-04",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-iwoca-performance-creative-strategist-london-474289",
+   "title": "Performance Creative Strategist",
+   "company": "iwoca",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/performance-creative-strategist-london-474289",
+   "score": 49,
+   "matched": [
+    "positioning",
+    "head of brand",
+    "creative direction",
+    "concept",
+    "landing page",
+    "conversion",
+    "ai",
+    "brand team",
+    "briefing",
+    "brief",
+    "in-house",
+    "stakeholder"
+   ],
+   "years": null,
+   "summary": "The company Small businesses move fast. Opportunities often don\u2019t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that\u2019s as flexible and responsive as they are. That's why we built iwoca. Our smart technology, data science and five-star customer service ensures business owners can act with the speed, confidence and control they need, exactly when i",
+   "first_seen": "2026-11-04",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-pleo-667345dd-55ee-4df5-ab38-aae2655bae1f",
@@ -107,6 +211,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-payrails-content-strategist-berlin-383130",
+   "title": "Content Strategist",
+   "company": "Payrails",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/payrails/content-strategist-berlin-383130",
+   "score": 41,
+   "matched": [
+    "sponsorship or relocation",
+    "brand voice",
+    "editorial",
+    "storytelling",
+    "across markets",
+    "landing page",
+    "blog",
+    "go-to-market",
+    "ai",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About Payrails Payrails is a global payment software company helping leading enterprises to take control of their payment operations and maximize performance. With deep experience in the payments space and firsthand knowledge of merchants' challenges, we\u2019ve seen how fragmented, complex, and inefficient these systems can become. Now, we are setting a new industry standard for how enterprises around",
+   "first_seen": "2026-11-04",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
    "title": "Global Brand & PR Program Manager",
    "company": "adyen",
@@ -154,6 +282,31 @@
    "years": null,
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-10-27",
+   "is_new": false
+  },
+  {
+   "id": "https-careers-hellofresh-com-global-en-job-8007876-gh_jid-8007876",
+   "title": "TikTok & New Growth Channels Creative Strategist (all genders)",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://careers.hellofresh.com/global/en/job/8007876?gh_jid=8007876",
+   "score": 39,
+   "matched": [
+    "brand strategy",
+    "creative strategy",
+    "concept",
+    "multiple markets",
+    "briefing",
+    "brief",
+    "agency",
+    "d2c",
+    "food",
+    "tiktok",
+    "reddit"
+   ],
+   "years": null,
+   "summary": "<h2><strong>The role</strong></h2> <p>We're rebuilding HelloFresh's paid social engine around the reality that creative is the single largest performance lever on TikTok. TikTok's algorithm rewards platform-native concepts and the brands winning today treat the brief, the editor, and the ad account as one continuous workflow.</p> <p>This role owns the upstream half of that workflow: turning brand ",
+   "first_seen": "2026-10-22",
    "is_new": false
   },
   {
@@ -247,32 +400,6 @@
    "is_new": false
   },
   {
-   "id": "https-careers-hellofresh-com-global-en-job-8007876-gh_jid-8007876",
-   "title": "Creative Strategy Lead, New Social Growth Platforms (all genders)",
-   "company": "hellofresh",
-   "location": "Berlin, Berlin, Germany",
-   "url": "https://careers.hellofresh.com/global/en/job/8007876?gh_jid=8007876",
-   "score": 31,
-   "matched": [
-    "creative strategy",
-    "geo",
-    "conversion",
-    "launch",
-    "briefing",
-    "brief",
-    "in-house",
-    "stakeholder",
-    "retail",
-    "e-commerce",
-    "d2c",
-    "food"
-   ],
-   "years": null,
-   "summary": "<h2><strong>The role</strong></h2> <p>Meta is our core social channel, but the next leg of growth depends on what's around it. The 2026 ambition is clear: scale TikTok into our #2 social channel on incrementality-steered investment, and prove Pinterest, Snap, and other emerging platforms on the same evidence bar.</p> <p>This role owns that diversification agenda end-to-end. You're the in-house exp",
-   "first_seen": "2026-10-22",
-   "is_new": false
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
    "title": "Manager, Brand Strategy (Factor)",
    "company": "hellofresh",
@@ -293,6 +420,32 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-quince-senior-creative-strategist-london-80463",
+   "title": "Senior Creative Strategist",
+   "company": "Quince",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-creative-strategist-london-80463",
+   "score": 30,
+   "matched": [
+    "creative direction",
+    "creative strategy",
+    "across markets",
+    "ai",
+    "creative team",
+    "briefing",
+    "brief",
+    "retail",
+    "tiktok",
+    "- meta ads manager",
+    "- ads manager",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
+   "first_seen": "2026-11-04",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8242756-gh_jid-8242756",
@@ -406,24 +559,24 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-conduct-employer-brand-strategist-london-342441",
-   "title": "Employer Brand Strategist",
-   "company": "Conduct",
-   "location": "London, UK",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/conduct/employer-brand-strategist-london-342441",
-   "score": 23,
+   "id": "https-www-arbeitnow-fr-jobs-companies-amo-brand-director-paris-308346",
+   "title": "Brand Director",
+   "company": "Amo",
+   "location": "Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/amo/brand-director-paris-308346",
+   "score": 24,
    "matched": [
-    "sponsorship or relocation",
-    "narrative",
-    "go-to-market",
-    "ai",
-    "thought leadership",
+    "film",
+    "email",
+    "campaign",
+    "launch",
     "brief",
-    "food"
+    "agency",
+    "in-house"
    ],
    "years": null,
-   "summary": "In short: one of Conduct's first marketing hires, owning employer brand and our talent community. You will make the case, to exceptional people in every function, for why Conduct is where they should do their life's work. Why Conduct The world's largest companies compete by being different, and most of that difference lives in software they built for themselves. It decides how parcels reach your d",
-   "first_seen": "2026-11-03",
+   "summary": "We're a group of friends building apps for friends, and we think friendship deserves a better place online. Our brand is how the world first meets that idea, usually in a three-second scroll, in a language that isn't ours, on a phone in a city we've never been to. We're looking for a Brand Lead who writes like a dream and ships like a machine. Someone who's run global campaigns at a top agency, kn",
+   "first_seen": "2026-11-04",
    "is_new": true
   },
   {
@@ -443,24 +596,6 @@
    "years": null,
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31612495",
-   "title": "Marketing & Communications Manager \u2013 ABB Motion",
-   "company": "ABB AB",
-   "location": "V\u00e4ster\u00e5s, V\u00e4stmanlands l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31612495",
-   "score": 20,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "stakeholder",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "At ABB, we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This position reports to: Local Division Manager, MOIM, LSU Manager, MOHP, Lead Division Manager Motion Sweden. This is your chance to own the full marketing and communication",
-   "first_seen": "2026-10-19",
    "is_new": false
   },
   {
@@ -522,25 +657,21 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-performancepixel-gmbh-art-director-performance-creatives-berlin-294176",
-   "title": "Art Director Performance Creatives (m/w/d)",
-   "company": "Performancepixel GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/performancepixel-gmbh/art-director-performance-creatives-berlin-294176",
-   "score": 16,
+   "id": "https-www-arbeitnow-nl-jobs-companies-athora-netherlands-senior-customer-communication-strategist-amsterdam-89441",
+   "title": "Senior Customer Communication Strategist",
+   "company": "Athora Netherlands",
+   "location": "Amsterdam, Noord-Holland, Nederland",
+   "url": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-customer-communication-strategist-amsterdam-89441",
+   "score": 18,
    "matched": [
-    "copywriter",
-    "creative strategy",
-    "creative lead",
-    "ai",
-    "tiktok",
-    "instagram",
-    "- roas",
-    "- ads manager"
+    "tone of voice",
+    "storytelling",
+    "llm",
+    "ai"
    ],
    "years": null,
-   "summary": "Wir sind eine Performance Marketing Agentur mit einem gro\u00dfen Fokus auf Creative Design. Wir entwickeln datengetriebene Ad Creatives, Creative Strategien und skalierbare Produktionsprozesse f\u00fcr Social Ads, vor allem auf Meta und TikTok, und produzieren dabei \u00fcber 1.000 Creatives im Monat. Kurz zur Einordnung, weil der Begriff Performance Creatives oft ein bisschen unklar ist: Damit meinen wir ganz ",
-   "first_seen": "2026-11-03",
+   "summary": "Als Senior Customer Communication Strategist word je onderdeel van het Channel Experience team binnen Customer Experience & Marketing. Je rapporteert aan de Head of Customer Experience & Marketing en maakt deel uit van het kernteam. Samen werken we aan een herkenbare, relevante en consistente klantbeleving van Zwitserleven, over alle kanalen en customer journeys. Wat je over ons moet weten? Wij zi",
+   "first_seen": "2026-11-04",
    "is_new": true
   },
   {
