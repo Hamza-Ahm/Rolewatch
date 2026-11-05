@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04 15:11 UTC",
- "scanned": 4339,
+ "updated": "2026-11-05 15:14 UTC",
+ "scanned": 4360,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -26,6 +26,32 @@
    "years": 7,
    "summary": ". Mips gives you the confidence to follow your passion. Whether you are training for fitness, riding to work, heading out on the mountain or playing team sports, our mission is leading the world to safer helmets. Mips specializes in helmet-based safety and is a world-leader in this area. Based on an ingredient brand business-model, Mips\u2019 safety system is sold to the global helmet industry. The tec",
    "first_seen": "2026-11-04",
+   "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31689883",
+   "title": "Senior Copywriter",
+   "company": "Toca Boca AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31689883",
+   "score": 67,
+   "matched": [
+    "tone of voice",
+    "brand voice",
+    "copywriting",
+    "copywriter",
+    "creative lead",
+    "concept",
+    "storytelling",
+    "narrative",
+    "localization",
+    "native english",
+    "campaign",
+    "launch"
+   ],
+   "years": 5,
+   "summary": "Would you like to work with a product loved by millions and millions of kids all across the world? With over 60 million monthly active users engaging with our play ecosystem, we are looking for a Senior Copywriter to join our Creative Hub. Working alongside highly talented animators, designers, and creative leads, you will play a defining role in telling great stories that inform, entertain, and b",
+   "first_seen": "2026-11-05",
    "is_new": true
   },
   {
@@ -78,59 +104,7 @@
    "years": null,
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-11-04",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-kraken-senior-video-creative-performance-kraken-consumer-london-384019",
-   "title": "Senior Video Creative, Performance - Kraken Consumer",
-   "company": "Kraken",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/senior-video-creative-performance-kraken-consumer-london-384019",
-   "score": 53,
-   "matched": [
-    "copywriting",
-    "creative lead",
-    "concept",
-    "multi-market",
-    "across markets",
-    "localize",
-    "blog",
-    "campaign",
-    "ai",
-    "brief",
-    "agency",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. The team Founded in 2011, Kraken is one of the world's longest-s",
-   "first_seen": "2026-11-04",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-iwoca-performance-creative-strategist-london-474289",
-   "title": "Performance Creative Strategist",
-   "company": "iwoca",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/performance-creative-strategist-london-474289",
-   "score": 49,
-   "matched": [
-    "positioning",
-    "head of brand",
-    "creative direction",
-    "concept",
-    "landing page",
-    "conversion",
-    "ai",
-    "brand team",
-    "briefing",
-    "brief",
-    "in-house",
-    "stakeholder"
-   ],
-   "years": null,
-   "summary": "The company Small businesses move fast. Opportunities often don\u2019t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that\u2019s as flexible and responsive as they are. That's why we built iwoca. Our smart technology, data science and five-star customer service ensures business owners can act with the speed, confidence and control they need, exactly when i",
-   "first_seen": "2026-11-04",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-pleo-667345dd-55ee-4df5-ab38-aae2655bae1f",
@@ -211,30 +185,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-payrails-content-strategist-berlin-383130",
-   "title": "Content Strategist",
-   "company": "Payrails",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/payrails/content-strategist-berlin-383130",
-   "score": 41,
-   "matched": [
-    "sponsorship or relocation",
-    "brand voice",
-    "editorial",
-    "storytelling",
-    "across markets",
-    "landing page",
-    "blog",
-    "go-to-market",
-    "ai",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About Payrails Payrails is a global payment software company helping leading enterprises to take control of their payment operations and maximize performance. With deep experience in the payments space and firsthand knowledge of merchants' challenges, we\u2019ve seen how fragmented, complex, and inefficient these systems can become. Now, we are setting a new industry standard for how enterprises around",
-   "first_seen": "2026-11-04",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
    "title": "Global Brand & PR Program Manager",
    "company": "adyen",
@@ -310,6 +260,32 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-7895373",
+   "title": "Senior B2B Content Marketing Manager, Global",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/7895373",
+   "score": 38,
+   "matched": [
+    "copywriting",
+    "editorial",
+    "storytelling",
+    "narrative",
+    "conversion",
+    "ai",
+    "brand team",
+    "brief",
+    "agency",
+    "stakeholder",
+    "b2b",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "<p><strong>This is Adyen</strong></p> <p>Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </p> <p>For our teams, we create an environment with opportunities for our people to succeed, backed by the culture an",
+   "first_seen": "2026-11-05",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8305610",
    "title": "Senior Corporate Communications Manager",
    "company": "adyen",
@@ -354,6 +330,26 @@
    "summary": "Build the Organic Engine. Turn Content into Demand. Doodle is a B2B SaaS platform used by millions of professionals to coordinate meetings and collaboration. We are expanding from a scheduling product into a broader productivity and coordination platform, and we are launching the next generation of Doodle to the market. We are looking for a Brand & Content Manager with commercial instincts to buil",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31687998",
+   "title": "Music Creative Lead",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31687998",
+   "score": 32,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "creative direction",
+    "creative lead",
+    "storytelling",
+    "stakeholder"
+   ],
+   "years": null,
+   "summary": "What you'll do As Music Creative Lead, you will define and evolve H&M's sonic identity, ensuring music strengthens brand expression, cultural relevance and customer engagement across every touchpoint. You will translate creative vision into music direction that elevates storytelling, shapes memorable brand experiences and connects H&M to culture through sound, artists and creative collaborations. ",
+   "first_seen": "2026-11-05",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
@@ -420,32 +416,6 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-quince-senior-creative-strategist-london-80463",
-   "title": "Senior Creative Strategist",
-   "company": "Quince",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-creative-strategist-london-80463",
-   "score": 30,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "across markets",
-    "ai",
-    "creative team",
-    "briefing",
-    "brief",
-    "retail",
-    "tiktok",
-    "- meta ads manager",
-    "- ads manager",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
-   "first_seen": "2026-11-04",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8242756-gh_jid-8242756",
@@ -538,6 +508,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-senior-creative-remote-leeds-london-182655",
+   "title": "Senior Creative (Remote)",
+   "company": "Fanaticsfbg",
+   "location": "Leeds; London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-creative-remote-leeds-london-182655",
+   "score": 25,
+   "matched": [
+    "copywriter",
+    "concept",
+    "campaign",
+    "ai",
+    "brief",
+    "retail"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <div>Fanatics is building a leading global digital sports platform. We ignite the passions of gl",
+   "first_seen": "2026-11-05",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
    "title": "Content Writer, Global",
    "company": "adyen",
@@ -557,27 +547,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-17",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-fr-jobs-companies-amo-brand-director-paris-308346",
-   "title": "Brand Director",
-   "company": "Amo",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/amo/brand-director-paris-308346",
-   "score": 24,
-   "matched": [
-    "film",
-    "email",
-    "campaign",
-    "launch",
-    "brief",
-    "agency",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "We're a group of friends building apps for friends, and we think friendship deserves a better place online. Our brand is how the world first meets that idea, usually in a three-second scroll, in a language that isn't ours, on a phone in a city we've never been to. We're looking for a Brand Lead who writes like a dream and ships like a machine. Someone who's run global campaigns at a top agency, kn",
-   "first_seen": "2026-11-04",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
@@ -672,6 +641,25 @@
    "years": null,
    "summary": "Als Senior Customer Communication Strategist word je onderdeel van het Channel Experience team binnen Customer Experience & Marketing. Je rapporteert aan de Head of Customer Experience & Marketing en maakt deel uit van het kernteam. Samen werken we aan een herkenbare, relevante en consistente klantbeleving van Zwitserleven, over alle kanalen en customer journeys. Wat je over ons moet weten? Wij zi",
    "first_seen": "2026-11-04",
+   "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-encord-research-communications-lead-physical-ai-london-345415",
+   "title": "Research Communications Lead, Physical AI",
+   "company": "Encord",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/research-communications-lead-physical-ai-london-345415",
+   "score": 17,
+   "matched": [
+    "narrative",
+    "blog",
+    "launch",
+    "ai",
+    "agency"
+   ],
+   "years": null,
+   "summary": "About us We're solving AI's hardest problem: alignment. Encord is the data layer for Physical AI and enterprise, serving as core infrastructure for 300+ of the world's leading AI teams, including Woven by Toyota, Hitachi, Skydio, AbbVie and Dyna, Walden and Agility Robotics. From autonomous vehicles and robotics to sports and healthcare, we're solving AI's hardest problem: turning complex, real-wo",
+   "first_seen": "2026-11-05",
    "is_new": true
   },
   {
