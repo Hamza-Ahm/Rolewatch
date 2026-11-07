@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06 14:49 UTC",
- "scanned": 4376,
+ "updated": "2026-11-07 13:46 UTC",
+ "scanned": 4310,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -78,32 +78,6 @@
    "years": null,
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-11-04",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-ashbyhq-com-pleo-667345dd-55ee-4df5-ab38-aae2655bae1f",
-   "title": "Brand Marketing Lead",
-   "company": "pleo",
-   "location": "London",
-   "url": "https://jobs.ashbyhq.com/pleo/667345dd-55ee-4df5-ab38-aae2655bae1f",
-   "score": 49,
-   "matched": [
-    "brand strategy",
-    "own the brand",
-    "concept",
-    "localise",
-    "conversion",
-    "different markets",
-    "campaign",
-    "launch",
-    "ai",
-    "agency",
-    "stakeholder",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "ABOUT PLEO Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance teams and employees alike - with a vision to help all businesses \u2018go beyond\u2019. The word \u2018Pleo\u2019 actually means \u2018more than y",
-   "first_seen": "2026-10-23",
    "is_new": false
   },
   {
@@ -324,6 +298,28 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-crunchyroll-director-of-corporate-communications-london-495023",
+   "title": "Director of Corporate Communications",
+   "company": "Crunchyroll",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/crunchyroll/director-of-corporate-communications-london-495023",
+   "score": 31,
+   "matched": [
+    "storytelling",
+    "narrative",
+    "email",
+    "internal communications",
+    "corporate communications",
+    "agency",
+    "retail",
+    "12+ years"
+   ],
+   "years": 12,
+   "summary": "<div class=\"content-intro\"><h2 data-pm-slice=\"1 1 []\">About Crunchyroll</h2> <p>Founded by fans, Crunchyroll delivers the art and culture of anime to a passionate community. We super-serve over 100 million anime and manga fans across 200+ countries and territories, and help them connect with the stories and characters they crave. Whether that experience is online or in-person, streaming video, the",
+   "first_seen": "2026-11-07",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
    "title": "Manager, Brand Strategy (Factor)",
    "company": "hellofresh",
@@ -368,30 +364,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-159242-demand-generation-campaign-manager-remote-us-et-ct",
-   "title": "Demand Generation Campaign Manager (Remote, US - ET/CT)",
-   "company": "Maze",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/159242-demand-generation-campaign-manager-remote-us-et-ct",
-   "score": 29,
-   "matched": [
-    "email",
-    "campaign",
-    "ai",
-    "brief",
-    "agency",
-    "retail",
-    "b2b",
-    "e-commerce",
-    "food",
-    "reddit"
-   ],
-   "years": null,
-   "summary": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams back. In today\u2019s AI-powered world, anyone can build a product fast. The real challenge? Deeply understanding user needs ",
-   "first_seen": "2026-11-06",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
    "title": "Creative Director",
    "company": "mollie",
@@ -410,7 +382,7 @@
    "years": null,
    "summary": "Creative Director Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We\u2019re ",
    "first_seen": "2026-11-06",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31621070",
@@ -460,46 +432,24 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-trainline-brand-proposition-lead-london-302698",
-   "title": "Brand Proposition Lead",
-   "company": "Trainline",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/brand-proposition-lead-london-302698",
-   "score": 26,
+   "id": "https-www-arbeitnow-nl-jobs-companies-mollie-creative-director-amsterdam-23938",
+   "title": "Creative Director",
+   "company": "Mollie",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/mollie/creative-director-amsterdam-23938",
+   "score": 25,
    "matched": [
-    "head of brand",
-    "launch",
-    "ai",
-    "creative studio",
-    "briefing",
-    "b2b",
-    "instagram"
-   ],
-   "years": null,
-   "summary": "About us At Trainline, our purpose is to empower greener travel choices, connecting people and places. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B partner channels. Great journeys start with Trainline \ud83d\ude84 We\u2019re Europe\u2019s leading independent rail platform, helping mill",
-   "first_seen": "2026-11-06",
-   "is_new": true
-  },
-  {
-   "id": "https-job-boards-greenhouse-io-getyourguide-jobs-8139060",
-   "title": "Senior Communications Manager",
-   "company": "getyourguide",
-   "location": "Berlin",
-   "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8139060",
-   "score": 26,
-   "matched": [
-    "positioning",
-    "editorial",
     "storytelling",
+    "global brand",
+    "campaign",
     "ai",
-    "agency",
-    "stakeholder",
-    "b2b"
+    "in-house",
+    "fintech"
    ],
    "years": null,
-   "summary": "<h3><strong>Change the way the world travels</strong></h3> <p>Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. </p> <p>Ready to unlock your potential with a community of fellow explorers",
-   "first_seen": "2026-09-08",
-   "is_new": false
+   "summary": "Creative Director Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We\u2019re ",
+   "first_seen": "2026-11-07",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -562,6 +512,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-doonails-senior-brand-activation-manager-deutschland-240033",
+   "title": "Senior Brand Activation Manager (m/w/d)",
+   "company": "Doonails",
+   "location": "Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/companies/doonails/senior-brand-activation-manager-deutschland-240033",
+   "score": 19,
+   "matched": [
+    "campaign management",
+    "campaign",
+    "briefing",
+    "stakeholder",
+    "retail",
+    "beauty"
+   ],
+   "years": null,
+   "summary": "Hi, wir sind Doonails! \ud83d\udc85\ud83c\udffc Ein schnell wachsendes Beauty-Startup, das die Manik\u00fcrewelt revolutioniert. Mit innovativen Produkten, einer starken Community und Pr\u00e4senz im eigenen Online-Shop sowie bei f\u00fchrenden Retail-Partnern bringen wir Studio-Qualit\u00e4t direkt nach Hause: einfach, schnell und stilvoll. Unsere Projekte und Brand-Kampagnen wachsen rasant, und daf\u00fcr brauchen wir vor allem eines: mehr E",
+   "first_seen": "2026-11-07",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
    "title": "Internal Communications Lead",
    "company": "Lovable Labs Sweden AB",
@@ -597,24 +567,6 @@
    "years": null,
    "summary": "TL;DR You're a communications professional who can plan and execute the work that advances Lovable's objectives across EU and Swedish policy environments, making sure our voice is heard on the issues that matter most. You'll pair sharp corporate communications with real policy fluency \u2014 working closely with internal teams and external partners to help policymakers, media, and other stakeholders un",
    "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-nl-jobs-companies-athora-netherlands-senior-customer-communication-strategist-amsterdam-89441",
-   "title": "Senior Customer Communication Strategist",
-   "company": "Athora Netherlands",
-   "location": "Amsterdam, Noord-Holland, Nederland",
-   "url": "https://www.arbeitnow.nl/jobs/companies/athora-netherlands/senior-customer-communication-strategist-amsterdam-89441",
-   "score": 18,
-   "matched": [
-    "tone of voice",
-    "storytelling",
-    "llm",
-    "ai"
-   ],
-   "years": null,
-   "summary": "Als Senior Customer Communication Strategist word je onderdeel van het Channel Experience team binnen Customer Experience & Marketing. Je rapporteert aan de Head of Customer Experience & Marketing en maakt deel uit van het kernteam. Samen werken we aan een herkenbare, relevante en consistente klantbeleving van Zwitserleven, over alle kanalen en customer journeys. Wat je over ons moet weten? Wij zi",
-   "first_seen": "2026-11-04",
    "is_new": false
   },
   {
