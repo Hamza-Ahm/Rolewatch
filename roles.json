@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07 13:46 UTC",
- "scanned": 4310,
+ "updated": "2026-11-08 14:07 UTC",
+ "scanned": 4151,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -107,32 +107,6 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31574071",
-   "title": "Content Strategist",
-   "company": "Voyado AB",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31574071",
-   "score": 42,
-   "matched": [
-    "positioning",
-    "editorial",
-    "seo",
-    "geo",
-    "native-level english",
-    "campaign",
-    "ai",
-    "thought leadership",
-    "agency",
-    "retail",
-    "b2b",
-    "e-commerce"
-   ],
-   "years": null,
-   "summary": "Voyado is looking for a Content Strategist with native level English skills to join our Demand Generation team in Stockholm. Our team is focused on new customer acquisition, with two core goals: engaging our target accounts and creating pipeline. Content plays a vital role in both, fueling our channels with expertise and strong points of view that give the right buyers a reason to engage with Voya",
-   "first_seen": "2026-10-09",
-   "is_new": false
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
    "title": "Global Brand & PR Program Manager",
    "company": "adyen",
@@ -155,6 +129,30 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-06",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-kyra-senior-strategist-strategic-creative-uk-based-490071",
+   "title": "Senior Strategist (Strategic, Creative), UK Based",
+   "company": "Kyra",
+   "location": "UK",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kyra/senior-strategist-strategic-creative-uk-based-490071",
+   "score": 39,
+   "matched": [
+    "campaign management",
+    "creative direction",
+    "storytelling",
+    "narrative",
+    "campaign",
+    "ai",
+    "brief",
+    "beauty",
+    "tiktok",
+    "instagram"
+   ],
+   "years": null,
+   "summary": "About Kyra Kyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&M, Ray-Ban, and Converse. Our platform manages the full lifecycle \u2014 creator discovery, campaign management, content review, payments, analytics, and AI-powered intelligence across TikTok, Instagram, and YouTube. As a Strategist at Kyra, you\u2019ll lead the development of platform-native campaig",
+   "first_seen": "2026-11-08",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8007876-gh_jid-8007876",
@@ -254,6 +252,28 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-zeal-network-senior-brand-manager-hamburg-25453",
+   "title": "Senior Brand Manager (m/w/d)",
+   "company": "Zeal Network",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/senior-brand-manager-hamburg-25453",
+   "score": 37,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "brand strategy",
+    "campaign",
+    "creative studio",
+    "in-house",
+    "e-commerce",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "ZEAL Network SE is a leading international provider of online lottery products, operating for over 20 years with brands like LOTTO24 and Tipp24. As Germany\u2019s largest digital lottery operator and a trusted partner of Spain\u2019s ONCE, we are passionate about shaping the future of lottery experiences. LOTTO24 is Germany\u2019s leading online provider of state-licensed lottery products, offering customers con",
+   "first_seen": "2026-11-08",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
    "title": "Creative Strategist, Editorial",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -296,28 +316,6 @@
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-crunchyroll-director-of-corporate-communications-london-495023",
-   "title": "Director of Corporate Communications",
-   "company": "Crunchyroll",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/crunchyroll/director-of-corporate-communications-london-495023",
-   "score": 31,
-   "matched": [
-    "storytelling",
-    "narrative",
-    "email",
-    "internal communications",
-    "corporate communications",
-    "agency",
-    "retail",
-    "12+ years"
-   ],
-   "years": 12,
-   "summary": "<div class=\"content-intro\"><h2 data-pm-slice=\"1 1 []\">About Crunchyroll</h2> <p>Founded by fans, Crunchyroll delivers the art and culture of anime to a passionate community. We super-serve over 100 million anime and manga fans across 200+ countries and territories, and help them connect with the stories and characters they crave. Whether that experience is online or in-person, streaming video, the",
-   "first_seen": "2026-11-07",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -385,6 +383,46 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-159788-associate-creative-director-copy-healthcare-advertising",
+   "title": "Associate Creative Director, Copy - Healthcare Advertising",
+   "company": "Precision Medicine Group",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/159788-associate-creative-director-copy-healthcare-advertising",
+   "score": 28,
+   "matched": [
+    "brand narrative",
+    "concept",
+    "narrative",
+    "creative team",
+    "brief",
+    "agency"
+   ],
+   "years": null,
+   "summary": "Why Precision AQ \u2013 Advertising When you love what you do, it won\u2019t feel like work. Who says your calling and career have to be mutually exclusive? People who join us at Precision AQ are drawn to our agency because of their passion for and commitment to truly cutting-edge and incredible work \u2013 they stay for our ethos of wecentricity, the community and collaboration we foster here. Launching clients",
+   "first_seen": "2026-11-08",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-zeal-network-brand-manager-hamburg-177328",
+   "title": "Brand Manager (m/w/d)",
+   "company": "Zeal Network",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/zeal-network/brand-manager-hamburg-177328",
+   "score": 28,
+   "matched": [
+    "positioning",
+    "brand strategy",
+    "campaign",
+    "creative studio",
+    "in-house",
+    "e-commerce"
+   ],
+   "years": null,
+   "summary": "ZEAL Network SE is a leading international provider of online lottery products, operating for over 20 years with brands like LOTTO24 and Tipp24. As Germany\u2019s largest digital lottery operator and a trusted partner of Spain\u2019s ONCE, we are passionate about shaping the future of lottery experiences. LOTTO24 is Germany\u2019s leading online provider of state-licensed lottery products, offering customers con",
+   "first_seen": "2026-11-08",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31621070",
    "title": "Brand & Integrated Marketing Lead, Europe",
    "company": "Lovable Labs Sweden AB",
@@ -449,7 +487,7 @@
    "years": null,
    "summary": "Creative Director Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We\u2019re ",
    "first_seen": "2026-11-07",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -529,7 +567,7 @@
    "years": null,
    "summary": "Hi, wir sind Doonails! \ud83d\udc85\ud83c\udffc Ein schnell wachsendes Beauty-Startup, das die Manik\u00fcrewelt revolutioniert. Mit innovativen Produkten, einer starken Community und Pr\u00e4senz im eigenen Online-Shop sowie bei f\u00fchrenden Retail-Partnern bringen wir Studio-Qualit\u00e4t direkt nach Hause: einfach, schnell und stilvoll. Unsere Projekte und Brand-Kampagnen wachsen rasant, und daf\u00fcr brauchen wir vor allem eines: mehr E",
    "first_seen": "2026-11-07",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
@@ -570,6 +608,24 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-ch-jobs-companies-scholarrock-associate-director-medical-communications-emea-zug-162903",
+   "title": "Associate Director, Medical Communications, EMEA",
+   "company": "Scholarrock",
+   "location": "Zug",
+   "url": "https://www.arbeitnow.ch/jobs/companies/scholarrock/associate-director-medical-communications-emea-zug-162903",
+   "score": 17,
+   "matched": [
+    "narrative",
+    "localization",
+    "stakeholder",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Scholar Rock is delivering muscle-targeted breakthroughs to transform the treatment of spinal muscular atrophy (SMA) and other rare neuromuscular diseases where muscle atrophy remains a critical unmet need. As a global leader in myostatin biology, a field focused on proteins that regulate muscle mass, the biopharmaceutical company is named for the visual resemblance of a scholar rock to protein st",
+   "first_seen": "2026-11-08",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
    "title": "Gameplay Capture & Video Artist, Creative Studio",
    "company": "supercell",
@@ -587,6 +643,24 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-elevenlabs-remote-product-manager-elevencreative-self-serve-87326",
+   "title": "Product Manager (ElevenCreative Self-Serve)",
+   "company": "ElevenLabs",
+   "location": "Remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-product-manager-elevencreative-self-serve-87326",
+   "score": 15,
+   "matched": [
+    "conversion",
+    "go-to-market",
+    "ai",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen",
+   "first_seen": "2026-11-08",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31577793",
