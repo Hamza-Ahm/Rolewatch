@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 17:13 UTC",
- "scanned": 4141,
+ "updated": "2026-11-10 15:27 UTC",
+ "scanned": 4119,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -316,6 +316,27 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-trustly-internal-communications-director-london-230927",
+   "title": "Internal Communications Director",
+   "company": "Trustly",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/trustly/internal-communications-director-london-230927",
+   "score": 29,
+   "matched": [
+    "storytelling",
+    "narrative",
+    "generative ai",
+    "ai",
+    "internal communications",
+    "corporate communications",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "WHO WE ARE At Trustly, we're building a smarter, faster, and more secure financial future by revolutionizing the world of payments. As a global leader in Open Banking Payments, we are establishing Pay by Bank as the new standard at checkout, providing unparalleled freedom, speed, and ease to millions of consumers and merchants worldwide. Our Ambition: To build the world\u2019s most disruptive payment n",
+   "first_seen": "2026-11-10",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
    "title": "Creative Director",
    "company": "mollie",
@@ -464,6 +485,24 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-intermate-media-gmbh-senior-creative-concept-copy-social-gn-berlin-159030",
+   "title": "Senior Creative Concept/Copy (Social) (gn)",
+   "company": "Intermate Media GmbH",
+   "location": "Berlin, Berlin, Deutschland",
+   "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-creative-concept-copy-social-gn-berlin-159030",
+   "score": 19,
+   "matched": [
+    "copywriter",
+    "creative lead",
+    "concept",
+    "fmcg"
+   ],
+   "years": null,
+   "summary": "Intermate x SAMY \u2013 Shaping the State of Social Intermate geh\u00f6rt zu den gr\u00f6\u00dften Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, K\u00f6ln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben \u00fcber unsere eigene Technologie. Unsere Kund:innen si",
+   "first_seen": "2026-11-10",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
    "title": "Internal Communications Lead",
    "company": "Lovable Labs Sweden AB",
@@ -555,6 +594,23 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-26",
    "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-tide-jobs-8200240003",
+   "title": "Senior UX Writer",
+   "company": "tide",
+   "location": "United Kingdom",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8200240003",
+   "score": 15,
+   "matched": [
+    "international markets",
+    "native-level english",
+    "stakeholder"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
+   "first_seen": "2026-11-10",
+   "is_new": true
   }
  ]
 }
