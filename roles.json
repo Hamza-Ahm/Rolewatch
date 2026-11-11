@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-10 15:27 UTC",
- "scanned": 4119,
+ "updated": "2026-11-11 14:57 UTC",
+ "scanned": 4220,
  "roles": [
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-director-performance-creative-strategy-casino-leeds-london-manchest",
+   "title": "Director, Performance Creative Strategy \u2013 Casino",
+   "company": "Fanaticsfbg",
+   "location": "Leeds; London; Manchester",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/director-performance-creative-strategy-casino-leeds-london-manchester-74457",
+   "score": 69,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "brand strategy",
+    "creative direction",
+    "creative strategy",
+    "storytelling",
+    "narrative",
+    "campaign",
+    "mentor",
+    "creative team",
+    "creative studio",
+    "briefing"
+   ],
+   "years": 8,
+   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <div>Fanatics is building a leading global digital sports platform. We ignite the passions of gl",
+   "first_seen": "2026-11-11",
+   "is_new": true
+  },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
    "title": "Mips - Global Brand Lead",
@@ -81,6 +107,32 @@
    "is_new": false
   },
   {
+   "id": "https-job-boards-greenhouse-io-tide-jobs-8201311003",
+   "title": "Senior Content Manager",
+   "company": "tide",
+   "location": "India, Hyderabad",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8201311003",
+   "score": 49,
+   "matched": [
+    "copywriting",
+    "localisation",
+    "multi-market",
+    "across markets",
+    "seo",
+    "geo",
+    "cms",
+    "multiple markets",
+    "mentor",
+    "agency",
+    "stakeholder",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
+   "first_seen": "2026-11-11",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
    "title": "Marketing Creative Lead",
    "company": "supercell",
@@ -107,28 +159,29 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8256429",
-   "title": "Global Brand & PR Program Manager",
-   "company": "adyen",
-   "location": "New York; San Francisco",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8256429",
-   "score": 40,
+   "id": "https-careers-hellofresh-com-global-en-job-8378461-gh_jid-8378461",
+   "title": "Lead Creative Strategy, New Social Platforms (all genders)",
+   "company": "hellofresh",
+   "location": "Berlin, Berlin, Germany",
+   "url": "https://careers.hellofresh.com/global/en/job/8378461?gh_jid=8378461",
+   "score": 39,
    "matched": [
-    "brand guidelines",
+    "brand strategy",
+    "creative strategy",
     "concept",
-    "storytelling",
-    "global brand",
-    "campaign",
-    "generative ai",
-    "ai",
+    "multiple markets",
+    "briefing",
+    "brief",
     "agency",
-    "fintech",
-    "5+ years"
+    "d2c",
+    "food",
+    "tiktok",
+    "reddit"
    ],
-   "years": 5,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-10-06",
-   "is_new": false
+   "years": null,
+   "summary": "<h2><strong>The role</strong></h2> <p>We're rebuilding HelloFresh's paid social engine around the reality that creative is the single largest performance lever on TikTok. TikTok's algorithm rewards platform-native concepts and the brands winning today treat the brief, the editor, and the ad account as one continuous workflow.</p> <p>This role owns the upstream half of that workflow: turning brand ",
+   "first_seen": "2026-11-11",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8007876-gh_jid-8007876",
@@ -203,6 +256,31 @@
    "summary": "<p><strong>This is Adyen </strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environmen",
    "first_seen": "2026-10-30",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-dex-content-marketing-lead-london-379670",
+   "title": "Content Marketing Lead",
+   "company": "Dex",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/dex/content-marketing-lead-london-379670",
+   "score": 37,
+   "matched": [
+    "tone of voice",
+    "editorial",
+    "seo",
+    "geo",
+    "blog",
+    "email",
+    "campaign",
+    "ai",
+    "brief",
+    "agency",
+    "in-house"
+   ],
+   "years": null,
+   "summary": "Our Mission Human time and effort is the rarest thing in the universe. The fact that so many people hate what they do for work is a disaster on so many levels. How many people live quiet lives of misery? How many generational talents do we miss due to circumstance? Dex\u2019s mission is to close the gap between Talent & Opportunity, we believe that work, and being productive, is part of the human condi",
+   "first_seen": "2026-11-11",
+   "is_new": true
   },
   {
    "id": "https-careers-doodle-com-jobs-8558865-senior-brand-content-manager-all-genders",
@@ -294,49 +372,6 @@
    "is_new": false
   },
   {
-   "id": "https-careers-hellofresh-com-global-en-job-8242756-gh_jid-8242756",
-   "title": "Senior Manager, Public Relations",
-   "company": "hellofresh",
-   "location": "New York, NY, United States",
-   "url": "https://careers.hellofresh.com/global/en/job/8242756?gh_jid=8242756",
-   "score": 30,
-   "matched": [
-    "storytelling",
-    "launch",
-    "public relations",
-    "corporate communications",
-    "thought leadership",
-    "briefing",
-    "agency",
-    "food"
-   ],
-   "years": null,
-   "summary": "<h1><strong>Senior Manager, Public Relations \u2013 Factor</strong></h1> <p><span style=\"text-decoration: underline;\"><strong>Location:</strong> Hybrid position to the New York City HelloFresh Headquarters</span></p> <h2><strong>About Factor</strong></h2> <p>At Factor, we\u2019re on a mission to make real food the new standard for how the world eats.</p> <p>We believe convenience should never come at the ex",
-   "first_seen": "2026-10-03",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-trustly-internal-communications-director-london-230927",
-   "title": "Internal Communications Director",
-   "company": "Trustly",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/trustly/internal-communications-director-london-230927",
-   "score": 29,
-   "matched": [
-    "storytelling",
-    "narrative",
-    "generative ai",
-    "ai",
-    "internal communications",
-    "corporate communications",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "WHO WE ARE At Trustly, we're building a smarter, faster, and more secure financial future by revolutionizing the world of payments. As a global leader in Open Banking Payments, we are establishing Pay by Bank as the new standard at checkout, providing unparalleled freedom, speed, and ease to millions of consumers and merchants worldwide. Our Ambition: To build the world\u2019s most disruptive payment n",
-   "first_seen": "2026-11-10",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
    "title": "Creative Director",
    "company": "mollie",
@@ -405,6 +440,27 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-ashbyhq-com-getyourguide-4b62a845-f76f-4af0-8618-927b874c2464",
+   "title": "Senior Communications Manager",
+   "company": "getyourguide",
+   "location": "Berlin",
+   "url": "https://jobs.ashbyhq.com/GetYourGuide/4b62a845-f76f-4af0-8618-927b874c2464",
+   "score": 26,
+   "matched": [
+    "positioning",
+    "editorial",
+    "storytelling",
+    "ai",
+    "agency",
+    "stakeholder",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "CHANGE THE WAY THE WORLD TRAVELS Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
+   "first_seen": "2026-11-11",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-nl-jobs-companies-mollie-creative-director-amsterdam-23938",
    "title": "Creative Director",
    "company": "Mollie",
@@ -465,41 +521,23 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-tide-jobs-8006663003",
-   "title": "Werkstudent:in (m/w/d) \u2013 UX Copywriting",
-   "company": "tide",
-   "location": "Berlin, Germany",
-   "url": "https://job-boards.greenhouse.io/tide/jobs/8006663003",
+   "id": "https-www-arbeitnow-ch-jobs-companies-botnar-institute-of-immune-engineering-biie-communications-officer-allschwil-21759",
+   "title": "Communications Officer",
+   "company": "Botnar Institute of Immune Engineering - BIIE",
+   "location": "Allschwil",
+   "url": "https://www.arbeitnow.ch/jobs/companies/botnar-institute-of-immune-engineering-biie/communications-officer-allschwil-21759",
    "score": 20,
    "matched": [
-    "copywriting",
-    "email",
-    "go-to-market",
-    "launch",
-    "ai",
-    "fintech"
+    "tone of voice",
+    "editorial",
+    "storytelling",
+    "internal communications",
+    "stakeholder",
+    "- asks only 3 years"
    ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
-   "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-intermate-media-gmbh-senior-creative-concept-copy-social-gn-berlin-159030",
-   "title": "Senior Creative Concept/Copy (Social) (gn)",
-   "company": "Intermate Media GmbH",
-   "location": "Berlin, Berlin, Deutschland",
-   "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-creative-concept-copy-social-gn-berlin-159030",
-   "score": 19,
-   "matched": [
-    "copywriter",
-    "creative lead",
-    "concept",
-    "fmcg"
-   ],
-   "years": null,
-   "summary": "Intermate x SAMY \u2013 Shaping the State of Social Intermate geh\u00f6rt zu den gr\u00f6\u00dften Social-Media- und Influencer-Agenturen im DACH-Raum. Mit mehr als 250 Mates in Berlin, Hamburg, K\u00f6ln und Remote entwickeln wir Social-First-Strategien, produzieren Content in eigenen Studios, arbeiten eng mit Creator:innen zusammen und steuern Kampagnen datengetrieben \u00fcber unsere eigene Technologie. Unsere Kund:innen si",
-   "first_seen": "2026-11-10",
+   "years": 3,
+   "summary": "About the BIIE The Botnar Institute of Immune Engineering (BIIE) is an independent Swiss research institute advancing immune engineering to improve the health of children and adolescents, especially in low- and middle-income countries. The Institute brings together expertise across immunology, bioengineering, computational biology and artificial intelligence, combining fundamental research with a ",
+   "first_seen": "2026-11-11",
    "is_new": true
   },
   {
@@ -537,6 +575,26 @@
    ],
    "years": null,
    "summary": "TL;DR You're a communications professional who can plan and execute the work that advances Lovable's objectives across EU and Swedish policy environments, making sure our voice is heard on the issues that matter most. You'll pair sharp corporate communications with real policy fluency \u2014 working closely with internal teams and external partners to help policymakers, media, and other stakeholders un",
+   "first_seen": "2026-10-27",
+   "is_new": false
+  },
+  {
+   "id": "https-job-boards-greenhouse-io-tide-jobs-8006663003",
+   "title": "Werkstudent:in (m/w/d) \u2013 UX Copywriting",
+   "company": "tide",
+   "location": "Berlin, Germany",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8006663003",
+   "score": 19,
+   "matched": [
+    "copywriting",
+    "email",
+    "go-to-market",
+    "launch",
+    "ai",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
    "first_seen": "2026-10-27",
    "is_new": false
   },
@@ -596,20 +654,20 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-tide-jobs-8200240003",
-   "title": "Senior UX Writer",
-   "company": "tide",
-   "location": "United Kingdom",
-   "url": "https://job-boards.greenhouse.io/tide/jobs/8200240003",
+   "id": "https-job-boards-greenhouse-io-adyen-jobs-8305612",
+   "title": "Senior Internal Communications Business Partner, Tech",
+   "company": "adyen",
+   "location": "Amsterdam",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8305612",
    "score": 15,
    "matched": [
-    "international markets",
-    "native-level english",
-    "stakeholder"
+    "storytelling",
+    "internal communications",
+    "10+ years"
    ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
-   "first_seen": "2026-11-10",
+   "years": 10,
+   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
+   "first_seen": "2026-11-11",
    "is_new": true
   }
  ]
