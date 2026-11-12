@@ -1,33 +1,7 @@
 {
- "updated": "2026-11-11 14:57 UTC",
- "scanned": 4220,
+ "updated": "2026-11-12 15:48 UTC",
+ "scanned": 4139,
  "roles": [
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-director-performance-creative-strategy-casino-leeds-london-manchest",
-   "title": "Director, Performance Creative Strategy \u2013 Casino",
-   "company": "Fanaticsfbg",
-   "location": "Leeds; London; Manchester",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/director-performance-creative-strategy-casino-leeds-london-manchester-74457",
-   "score": 69,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "brand strategy",
-    "creative direction",
-    "creative strategy",
-    "storytelling",
-    "narrative",
-    "campaign",
-    "mentor",
-    "creative team",
-    "creative studio",
-    "briefing"
-   ],
-   "years": 8,
-   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <div>Fanatics is building a leading global digital sports platform. We ignite the passions of gl",
-   "first_seen": "2026-11-11",
-   "is_new": true
-  },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
    "title": "Mips - Global Brand Lead",
@@ -130,7 +104,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
    "first_seen": "2026-11-11",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
@@ -159,6 +133,30 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-creative-director-concept-communication-berlin-de-dusseldorf-40250",
+   "title": "Creative Director Concept & Communication",
+   "company": "wongdoody",
+   "location": "Berlin, DE | D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/creative-director-concept-communication-berlin-de-dusseldorf-40250",
+   "score": 40,
+   "matched": [
+    "copywriting",
+    "creative direction",
+    "concept",
+    "campaign",
+    "ai",
+    "mentor",
+    "creative team",
+    "retail",
+    "fmcg",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "<p><strong style=\"font-size: 11px;\">WongDoody</strong><span style=\"font-size: 11px;\"> \u2013 that\u2019s over 2,000 colleagues across 22 design studios on four continents. In Germany, around 300 colleagues work with us at our locations in Berlin, Stuttgart, D\u00fcsseldorf, and remotely. Our service areas include Experience Design, Immersive Experiences, Influencer Marketing, and future-proof, holistic Digital M",
+   "first_seen": "2026-11-12",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8378461-gh_jid-8378461",
    "title": "Lead Creative Strategy, New Social Platforms (all genders)",
    "company": "hellofresh",
@@ -181,7 +179,7 @@
    "years": null,
    "summary": "<h2><strong>The role</strong></h2> <p>We're rebuilding HelloFresh's paid social engine around the reality that creative is the single largest performance lever on TikTok. TikTok's algorithm rewards platform-native concepts and the brands winning today treat the brief, the editor, and the ad account as one continuous workflow.</p> <p>This role owns the upstream half of that workflow: turning brand ",
    "first_seen": "2026-11-11",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8007876-gh_jid-8007876",
@@ -258,31 +256,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-dex-content-marketing-lead-london-379670",
-   "title": "Content Marketing Lead",
-   "company": "Dex",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/dex/content-marketing-lead-london-379670",
-   "score": 37,
-   "matched": [
-    "tone of voice",
-    "editorial",
-    "seo",
-    "geo",
-    "blog",
-    "email",
-    "campaign",
-    "ai",
-    "brief",
-    "agency",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "Our Mission Human time and effort is the rarest thing in the universe. The fact that so many people hate what they do for work is a disaster on so many levels. How many people live quiet lives of misery? How many generational talents do we miss due to circumstance? Dex\u2019s mission is to close the gap between Talent & Opportunity, we believe that work, and being productive, is part of the human condi",
-   "first_seen": "2026-11-11",
-   "is_new": true
-  },
-  {
    "id": "https-careers-doodle-com-jobs-8558865-senior-brand-content-manager-all-genders",
    "title": "Senior Brand & Content Manager (all genders)",
    "company": "Doodle",
@@ -304,6 +277,30 @@
    "summary": "Build the Organic Engine. Turn Content into Demand. Doodle is a B2B SaaS platform used by millions of professionals to coordinate meetings and collaboration. We are expanding from a scheduling product into a broader productivity and coordination platform, and we are launching the next generation of Doodle to the market. We are looking for a Brand & Content Manager with commercial instincts to buil",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-161537-content-marketing-manager-7",
+   "title": "Content Marketing Manager",
+   "company": "Influ2",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/161537-content-marketing-manager-7",
+   "score": 33,
+   "matched": [
+    "editorial",
+    "seo",
+    "geo",
+    "blog",
+    "email",
+    "campaign",
+    "ai",
+    "thought leadership",
+    "b2b",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Influ2 brings ABM to the contact level. With Influ2, you can act on contact-level intent, reach specific buyers with ads, orchestrate journeys across channels, and make the revenue impact clear. 200+ enterprises and mid-market companies worldwide, including industry leaders such as Snowflake, AppsFlyer, and Capgemini, love our technology. We hope you will love it too. Who we are looking for: We're",
+   "first_seen": "2026-11-12",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
@@ -458,26 +455,6 @@
    "years": null,
    "summary": "CHANGE THE WAY THE WORLD TRAVELS Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
    "first_seen": "2026-11-11",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-nl-jobs-companies-mollie-creative-director-amsterdam-23938",
-   "title": "Creative Director",
-   "company": "Mollie",
-   "location": "Amsterdam",
-   "url": "https://www.arbeitnow.nl/jobs/companies/mollie/creative-director-amsterdam-23938",
-   "score": 25,
-   "matched": [
-    "storytelling",
-    "global brand",
-    "campaign",
-    "ai",
-    "in-house",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "Creative Director Build with us Businesses deserve better from finance. Less friction, more freedom. Since 2004, Mollie has been on a mission to make payments and money management effortless for every business in Europe. Today, more than 250,000 companies trust our all-in-one platform to get paid, manage money and grow on their terms. Simple, scalable and built with real businesses in mind. We\u2019re ",
-   "first_seen": "2026-11-07",
    "is_new": false
   },
   {
@@ -494,12 +471,33 @@
     "thought leadership",
     "brief",
     "b2b",
-    "4+ years"
+    "6+ years"
    ],
-   "years": 4,
+   "years": 6,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-senior-creative-concept-berlin-de-173899",
+   "title": "Senior Creative Concept",
+   "company": "wongdoody",
+   "location": "Berlin, DE",
+   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-creative-concept-berlin-de-173899",
+   "score": 25,
+   "matched": [
+    "copywriting",
+    "concept",
+    "film",
+    "omnichannel",
+    "ai",
+    "retail",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "<p><span style=\"font-size: 12px;\">Wir sind wongdoody, mehr als 2.000 Kolleg:innen in 25 Designstudios auf vier Kontinenten \u2013 ein hochgradig kollaboratives Team aus Expert:innen f\u00fcr Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere L\u00f6sungen entstehen dort, wo Kreativit\u00e4t und Technologie zusammentreffen \u2013 mit einem klaren Fokus auf die Bed\u00fcrfnisse und Erlebnisse der Nutzer:in",
+   "first_seen": "2026-11-12",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
@@ -538,7 +536,7 @@
    "years": 3,
    "summary": "About the BIIE The Botnar Institute of Immune Engineering (BIIE) is an independent Swiss research institute advancing immune engineering to improve the health of children and adolescents, especially in low- and middle-income countries. The Institute brings together expertise across immunology, bioengineering, computational biology and artificial intelligence, combining fundamental research with a ",
    "first_seen": "2026-11-11",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
@@ -599,24 +597,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-ch-jobs-companies-scholarrock-associate-director-medical-communications-emea-zug-162903",
-   "title": "Associate Director, Medical Communications, EMEA",
-   "company": "Scholarrock",
-   "location": "Zug",
-   "url": "https://www.arbeitnow.ch/jobs/companies/scholarrock/associate-director-medical-communications-emea-zug-162903",
-   "score": 17,
-   "matched": [
-    "narrative",
-    "localization",
-    "stakeholder",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Scholar Rock is delivering muscle-targeted breakthroughs to transform the treatment of spinal muscular atrophy (SMA) and other rare neuromuscular diseases where muscle atrophy remains a critical unmet need. As a global leader in myostatin biology, a field focused on proteins that regulate muscle mass, the biopharmaceutical company is named for the visual resemblance of a scholar rock to protein st",
-   "first_seen": "2026-11-08",
-   "is_new": false
-  },
-  {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
    "title": "Gameplay Capture & Video Artist, Creative Studio",
    "company": "supercell",
@@ -634,6 +614,25 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-senior-creative-strategist-social-performance-for-dm-drogerie-markt-ber",
+   "title": "Senior Creative Strategist \u2013 Social & Performance \u2013 for dm-drogerie markt",
+   "company": "wongdoody",
+   "location": "Berlin, DE",
+   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-creative-strategist-social-performance-for-dm-drogerie-markt-berlin-de-371464",
+   "score": 16,
+   "matched": [
+    "omnichannel",
+    "b2b",
+    "e-commerce",
+    "tiktok",
+    "instagram"
+   ],
+   "years": null,
+   "summary": "<p><span style=\"font-size: 12px;\">Wir sind wongdoody, mit mehr als 2.000 Kolleg:innen in 25 Designstudios auf vier Kontinenten</span><span style=\"font-size: 12px; color: rgb(24, 24, 24);\"> \u2013 ein hochgradig kollaboratives Team aus Expert:innen f\u00fcr Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere L\u00f6sungen entstehen dort, wo Kreativit\u00e4t und Technologie zusammentreffen \u2013 mit e",
+   "first_seen": "2026-11-12",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
@@ -668,7 +667,7 @@
    "years": 10,
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-11-11",
-   "is_new": true
+   "is_new": false
   }
  ]
 }
