@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-12 15:48 UTC",
- "scanned": 4139,
+ "updated": "2026-11-13 15:09 UTC",
+ "scanned": 4224,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -133,30 +133,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-creative-director-concept-communication-berlin-de-dusseldorf-40250",
-   "title": "Creative Director Concept & Communication",
-   "company": "wongdoody",
-   "location": "Berlin, DE | D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/creative-director-concept-communication-berlin-de-dusseldorf-40250",
-   "score": 40,
-   "matched": [
-    "copywriting",
-    "creative direction",
-    "concept",
-    "campaign",
-    "ai",
-    "mentor",
-    "creative team",
-    "retail",
-    "fmcg",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "<p><strong style=\"font-size: 11px;\">WongDoody</strong><span style=\"font-size: 11px;\"> \u2013 that\u2019s over 2,000 colleagues across 22 design studios on four continents. In Germany, around 300 colleagues work with us at our locations in Berlin, Stuttgart, D\u00fcsseldorf, and remotely. Our service areas include Experience Design, Immersive Experiences, Influencer Marketing, and future-proof, holistic Digital M",
-   "first_seen": "2026-11-12",
-   "is_new": true
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8378461-gh_jid-8378461",
    "title": "Lead Creative Strategy, New Social Platforms (all genders)",
    "company": "hellofresh",
@@ -279,30 +255,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-161537-content-marketing-manager-7",
-   "title": "Content Marketing Manager",
-   "company": "Influ2",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/161537-content-marketing-manager-7",
-   "score": 33,
-   "matched": [
-    "editorial",
-    "seo",
-    "geo",
-    "blog",
-    "email",
-    "campaign",
-    "ai",
-    "thought leadership",
-    "b2b",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Influ2 brings ABM to the contact level. With Influ2, you can act on contact-level intent, reach specific buyers with ads, orchestrate journeys across channels, and make the revenue impact clear. 200+ enterprises and mid-market companies worldwide, including industry leaders such as Snowflake, AppsFlyer, and Capgemini, love our technology. We hope you will love it too. Who we are looking for: We're",
-   "first_seen": "2026-11-12",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
    "title": "Creative Strategist, Editorial",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -345,6 +297,29 @@
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-peec-ai-communications-lead-berlin-27952",
+   "title": "Communications Lead",
+   "company": "Peec AI",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/communications-lead-berlin-27952",
+   "score": 31,
+   "matched": [
+    "seo",
+    "campaign",
+    "launch",
+    "ai",
+    "briefing",
+    "brief",
+    "agency",
+    "in-house",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "About Peec AI AI search is changing how brands are discovered and chosen. People now ask ChatGPT, Gemini, Claude and Google\u2019s AI answers what they used to search for, and AI assistants increasingly shape the journey from discovery to purchase. Winning customers now means winning over the AI systems that influence their decisions. Peec AI is an AI search platform that helps marketing teams understa",
+   "first_seen": "2026-11-13",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -479,27 +454,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-senior-creative-concept-berlin-de-173899",
-   "title": "Senior Creative Concept",
-   "company": "wongdoody",
-   "location": "Berlin, DE",
-   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-creative-concept-berlin-de-173899",
-   "score": 25,
-   "matched": [
-    "copywriting",
-    "concept",
-    "film",
-    "omnichannel",
-    "ai",
-    "retail",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "<p><span style=\"font-size: 12px;\">Wir sind wongdoody, mehr als 2.000 Kolleg:innen in 25 Designstudios auf vier Kontinenten \u2013 ein hochgradig kollaboratives Team aus Expert:innen f\u00fcr Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere L\u00f6sungen entstehen dort, wo Kreativit\u00e4t und Technologie zusammentreffen \u2013 mit einem klaren Fokus auf die Bed\u00fcrfnisse und Erlebnisse der Nutzer:in",
-   "first_seen": "2026-11-12",
-   "is_new": true
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
    "title": "Creative Lead, Organic Social",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -597,6 +551,26 @@
    "is_new": false
   },
   {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31724903",
+   "title": "Director Group Brand Insight",
+   "company": "Vattenfall AB",
+   "location": "Solna, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724903",
+   "score": 16,
+   "matched": [
+    "brand strategy",
+    "concept",
+    "across markets",
+    "agency",
+    "stakeholder",
+    "- asks 15+ years"
+   ],
+   "years": 15,
+   "summary": "Company Description Vattenfall is one of Europe\u2019s largest producers and retailers of electricity and heat. Our main markets are Sweden, Germany, the Netherlands, Denmark, and the UK. The Vattenfall Group has approximately 21 000 employees. We have been electrifying industries, powering homes and transforming life through innovation for more than 100 years. Job Description Where there\u2019s you, there\u2019",
+   "first_seen": "2026-11-13",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
    "title": "Gameplay Capture & Video Artist, Creative Studio",
    "company": "supercell",
@@ -614,25 +588,6 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-senior-creative-strategist-social-performance-for-dm-drogerie-markt-ber",
-   "title": "Senior Creative Strategist \u2013 Social & Performance \u2013 for dm-drogerie markt",
-   "company": "wongdoody",
-   "location": "Berlin, DE",
-   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-creative-strategist-social-performance-for-dm-drogerie-markt-berlin-de-371464",
-   "score": 16,
-   "matched": [
-    "omnichannel",
-    "b2b",
-    "e-commerce",
-    "tiktok",
-    "instagram"
-   ],
-   "years": null,
-   "summary": "<p><span style=\"font-size: 12px;\">Wir sind wongdoody, mit mehr als 2.000 Kolleg:innen in 25 Designstudios auf vier Kontinenten</span><span style=\"font-size: 12px; color: rgb(24, 24, 24);\"> \u2013 ein hochgradig kollaboratives Team aus Expert:innen f\u00fcr Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere L\u00f6sungen entstehen dort, wo Kreativit\u00e4t und Technologie zusammentreffen \u2013 mit e",
-   "first_seen": "2026-11-12",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
