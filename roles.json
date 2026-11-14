@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-13 15:09 UTC",
- "scanned": 4224,
+ "updated": "2026-11-14 13:59 UTC",
+ "scanned": 4227,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -53,6 +53,32 @@
    "summary": "Would you like to work with a product loved by millions and millions of kids all across the world? With over 60 million monthly active users engaging with our play ecosystem, we are looking for a Senior Copywriter to join our Creative Hub. Working alongside highly talented animators, designers, and creative leads, you will play a defining role in telling great stories that inform, entertain, and b",
    "first_seen": "2026-11-05",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-pergolux-copywriter-berlin-54363",
+   "title": "Copywriter",
+   "company": "Pergolux",
+   "location": "Berlin | Global Team",
+   "url": "https://www.arbeitnow.com/jobs/companies/pergolux/copywriter-berlin-54363",
+   "score": 55,
+   "matched": [
+    "brand voice",
+    "copywriting",
+    "copywriter",
+    "storytelling",
+    "localisation",
+    "seo",
+    "conversion",
+    "email",
+    "multiple markets",
+    "campaign",
+    "ai",
+    "e-commerce"
+   ],
+   "years": 5,
+   "summary": "As a Copywriter (m/w/d), you will own the words behind PERGOLUX campaigns across our global markets, writing and editing copy for Meta, Google, email, and web that turns product benefits into clear, persuasive messaging. You will shape headlines, product descriptions, campaign concepts, and calls to action, adapting tone and messaging for different audiences, languages, and cultural contexts while",
+   "first_seen": "2026-11-14",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
@@ -255,6 +281,31 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-hcompany-social-media-and-content-strategist-community-paris-13767",
+   "title": "Social Media and Content Strategist - Community",
+   "company": "Hcompany",
+   "location": "Hybrid Paris",
+   "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/social-media-and-content-strategist-community-paris-13767",
+   "score": 34,
+   "matched": [
+    "tone of voice",
+    "brand voice",
+    "editorial",
+    "long-form",
+    "storytelling",
+    "blog",
+    "native-level english",
+    "launch",
+    "ai",
+    "b2b",
+    "- asks only 2 years"
+   ],
+   "years": 2,
+   "summary": "H Company is an AI research and product company building autonomous agents for the enterprise. We combine proprietary models (Holo), computer-use agents, an orchestration platform and hands-on engineering into a single system designed for production use. Our agents operate any software the way a person does, with no API and no rebuilt stack. They rank #1 on OSWorld-Verified, the leading computer-u",
+   "first_seen": "2026-11-14",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
    "title": "Creative Strategist, Editorial",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -277,6 +328,31 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-162105-senior-manager-integrated-marketing-campaigns",
+   "title": "Senior Manager, Integrated Marketing Campaigns",
+   "company": "Nebius",
+   "location": "Europe",
+   "url": "https://jobicy.com/jobs/162105-senior-manager-integrated-marketing-campaigns",
+   "score": 32,
+   "matched": [
+    "integrated campaign",
+    "campaign",
+    "launch",
+    "ai",
+    "briefing",
+    "brief",
+    "agency",
+    "in-house",
+    "b2b",
+    "- attribution",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to i",
+   "first_seen": "2026-11-14",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-kraken-com-19f4f542-2eb8-416c-a585-29f6ae28f191",
    "title": "Public Relations & Communications Manager",
    "company": "kraken.com",
@@ -297,29 +373,6 @@
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-peec-ai-communications-lead-berlin-27952",
-   "title": "Communications Lead",
-   "company": "Peec AI",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/communications-lead-berlin-27952",
-   "score": 31,
-   "matched": [
-    "seo",
-    "campaign",
-    "launch",
-    "ai",
-    "briefing",
-    "brief",
-    "agency",
-    "in-house",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "About Peec AI AI search is changing how brands are discovered and chosen. People now ask ChatGPT, Gemini, Claude and Google\u2019s AI answers what they used to search for, and AI assistants increasingly shape the journey from discovery to purchase. Winning customers now means winning over the AI systems that influence their decisions. Peec AI is an AI search platform that helps marketing teams understa",
-   "first_seen": "2026-11-13",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -568,7 +621,7 @@
    "years": 15,
    "summary": "Company Description Vattenfall is one of Europe\u2019s largest producers and retailers of electricity and heat. Our main markets are Sweden, Germany, the Netherlands, Denmark, and the UK. The Vattenfall Group has approximately 21 000 employees. We have been electrifying industries, powering homes and transforming life through innovation for more than 100 years. Job Description Where there\u2019s you, there\u2019",
    "first_seen": "2026-11-13",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-a91f0f17-3e71-4767-a448-94bd86dbb525",
