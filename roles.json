@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-14 13:59 UTC",
- "scanned": 4227,
+ "updated": "2026-11-15 14:33 UTC",
+ "scanned": 4224,
  "roles": [
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-senior-manager-performance-creative-strategy-casino-remote-leeds-lo",
+   "title": "Senior Manager, Performance Creative Strategy \u2013 Casino (Remote)",
+   "company": "Fanaticsfbg",
+   "location": "Leeds; London; Manchester",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-376850",
+   "score": 70,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "brand strategy",
+    "creative direction",
+    "creative strategy",
+    "storytelling",
+    "narrative",
+    "campaign",
+    "mentor",
+    "creative team",
+    "creative studio",
+    "briefing"
+   ],
+   "years": 8,
+   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <p>Fanatics is a leading global sports platform redefining how fans connect with the teams, play",
+   "first_seen": "2026-11-15",
+   "is_new": true
+  },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
    "title": "Mips - Global Brand Lead",
@@ -78,7 +104,7 @@
    "years": 5,
    "summary": "As a Copywriter (m/w/d), you will own the words behind PERGOLUX campaigns across our global markets, writing and editing copy for Meta, Google, email, and web that turns product benefits into clear, persuasive messaging. You will shape headlines, product descriptions, campaign concepts, and calls to action, adapting tone and messaging for different audiences, languages, and cultural contexts while",
    "first_seen": "2026-11-14",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
@@ -281,6 +307,29 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-finom-art-director-brand-marketing-design-united-kingdom-326783",
+   "title": "Art Director, Brand & Marketing Design",
+   "company": "Finom",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/finom/art-director-brand-marketing-design-united-kingdom-326783",
+   "score": 34,
+   "matched": [
+    "creative direction",
+    "concept",
+    "editorial",
+    "narrative",
+    "campaign",
+    "ai",
+    "mentor",
+    "briefing",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "Art Director, Brand & Marketing Design About the Role Finom is building a brand that European entrepreneurs recognise and trust, and right now the visual side of that brand needs an owner. We are looking for an Art Director to lead our Marketing Design team and take ownership of Finom's visual identity end to end. Not marketing design in isolation: the brand system itself, the guidelines behind it",
+   "first_seen": "2026-11-15",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-fr-jobs-companies-hcompany-social-media-and-content-strategist-community-paris-13767",
    "title": "Social Media and Content Strategist - Community",
    "company": "Hcompany",
@@ -303,7 +352,7 @@
    "years": 2,
    "summary": "H Company is an AI research and product company building autonomous agents for the enterprise. We combine proprietary models (Holo), computer-use agents, an orchestration platform and hands-on engineering into a single system designed for production use. Our agents operate any software the way a person does, with no API and no rebuilt stack. They rank #1 on OSWorld-Verified, the leading computer-u",
    "first_seen": "2026-11-14",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
@@ -326,31 +375,6 @@
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-10-22",
    "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-162105-senior-manager-integrated-marketing-campaigns",
-   "title": "Senior Manager, Integrated Marketing Campaigns",
-   "company": "Nebius",
-   "location": "Europe",
-   "url": "https://jobicy.com/jobs/162105-senior-manager-integrated-marketing-campaigns",
-   "score": 32,
-   "matched": [
-    "integrated campaign",
-    "campaign",
-    "launch",
-    "ai",
-    "briefing",
-    "brief",
-    "agency",
-    "in-house",
-    "b2b",
-    "- attribution",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to i",
-   "first_seen": "2026-11-14",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-kraken-com-19f4f542-2eb8-416c-a585-29f6ae28f191",
@@ -523,26 +547,6 @@
    "years": null,
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-ch-jobs-companies-botnar-institute-of-immune-engineering-biie-communications-officer-allschwil-21759",
-   "title": "Communications Officer",
-   "company": "Botnar Institute of Immune Engineering - BIIE",
-   "location": "Allschwil",
-   "url": "https://www.arbeitnow.ch/jobs/companies/botnar-institute-of-immune-engineering-biie/communications-officer-allschwil-21759",
-   "score": 20,
-   "matched": [
-    "tone of voice",
-    "editorial",
-    "storytelling",
-    "internal communications",
-    "stakeholder",
-    "- asks only 3 years"
-   ],
-   "years": 3,
-   "summary": "About the BIIE The Botnar Institute of Immune Engineering (BIIE) is an independent Swiss research institute advancing immune engineering to improve the health of children and adolescents, especially in low- and middle-income countries. The Institute brings together expertise across immunology, bioengineering, computational biology and artificial intelligence, combining fundamental research with a ",
-   "first_seen": "2026-11-11",
    "is_new": false
   },
   {
