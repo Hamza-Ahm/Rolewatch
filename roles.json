@@ -1,33 +1,7 @@
 {
- "updated": "2026-11-15 14:33 UTC",
- "scanned": 4224,
+ "updated": "2026-11-16 16:47 UTC",
+ "scanned": 4217,
  "roles": [
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-senior-manager-performance-creative-strategy-casino-remote-leeds-lo",
-   "title": "Senior Manager, Performance Creative Strategy \u2013 Casino (Remote)",
-   "company": "Fanaticsfbg",
-   "location": "Leeds; London; Manchester",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-376850",
-   "score": 70,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "brand strategy",
-    "creative direction",
-    "creative strategy",
-    "storytelling",
-    "narrative",
-    "campaign",
-    "mentor",
-    "creative team",
-    "creative studio",
-    "briefing"
-   ],
-   "years": 8,
-   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <p>Fanatics is a leading global sports platform redefining how fans connect with the teams, play",
-   "first_seen": "2026-11-15",
-   "is_new": true
-  },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
    "title": "Mips - Global Brand Lead",
@@ -78,32 +52,6 @@
    "years": 5,
    "summary": "Would you like to work with a product loved by millions and millions of kids all across the world? With over 60 million monthly active users engaging with our play ecosystem, we are looking for a Senior Copywriter to join our Creative Hub. Working alongside highly talented animators, designers, and creative leads, you will play a defining role in telling great stories that inform, entertain, and b",
    "first_seen": "2026-11-05",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-pergolux-copywriter-berlin-54363",
-   "title": "Copywriter",
-   "company": "Pergolux",
-   "location": "Berlin | Global Team",
-   "url": "https://www.arbeitnow.com/jobs/companies/pergolux/copywriter-berlin-54363",
-   "score": 55,
-   "matched": [
-    "brand voice",
-    "copywriting",
-    "copywriter",
-    "storytelling",
-    "localisation",
-    "seo",
-    "conversion",
-    "email",
-    "multiple markets",
-    "campaign",
-    "ai",
-    "e-commerce"
-   ],
-   "years": 5,
-   "summary": "As a Copywriter (m/w/d), you will own the words behind PERGOLUX campaigns across our global markets, writing and editing copy for Meta, Google, email, and web that turns product benefits into clear, persuasive messaging. You will shape headlines, product descriptions, campaign concepts, and calls to action, adapting tone and messaging for different audiences, languages, and cultural contexts while",
-   "first_seen": "2026-11-14",
    "is_new": false
   },
   {
@@ -307,29 +255,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-finom-art-director-brand-marketing-design-united-kingdom-326783",
-   "title": "Art Director, Brand & Marketing Design",
-   "company": "Finom",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/finom/art-director-brand-marketing-design-united-kingdom-326783",
-   "score": 34,
-   "matched": [
-    "creative direction",
-    "concept",
-    "editorial",
-    "narrative",
-    "campaign",
-    "ai",
-    "mentor",
-    "briefing",
-    "fintech"
-   ],
-   "years": null,
-   "summary": "Art Director, Brand & Marketing Design About the Role Finom is building a brand that European entrepreneurs recognise and trust, and right now the visual side of that brand needs an owner. We are looking for an Art Director to lead our Marketing Design team and take ownership of Finom's visual identity end to end. Not marketing design in isolation: the brand system itself, the guidelines behind it",
-   "first_seen": "2026-11-15",
-   "is_new": true
-  },
-  {
    "id": "https-www-arbeitnow-fr-jobs-companies-hcompany-social-media-and-content-strategist-community-paris-13767",
    "title": "Social Media and Content Strategist - Community",
    "company": "Hcompany",
@@ -531,6 +456,26 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-ashbyhq-com-getyourguide-d545328d-e9fc-4c5c-a920-c170f5d40d52",
+   "title": "Content Design Manager",
+   "company": "getyourguide",
+   "location": "Berlin",
+   "url": "https://jobs.ashbyhq.com/GetYourGuide/d545328d-e9fc-4c5c-a920-c170f5d40d52",
+   "score": 23,
+   "matched": [
+    "narrative",
+    "llm",
+    "ai",
+    "b2b",
+    "sustainability",
+    "6+ years"
+   ],
+   "years": 6,
+   "summary": "CHANGE THE WAY THE WORLD TRAVELS Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
+   "first_seen": "2026-11-16",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
    "title": "Creative Lead, Organic Social",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -548,6 +493,26 @@
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-himalayas-app-companies-bme-strategies-jobs-manager-marketing-and-communications-utm_source-api",
+   "title": "Manager, Marketing and Communications",
+   "company": "BME Strategies",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/bme-strategies/jobs/manager-marketing-and-communications?utm_source=api",
+   "score": 20,
+   "matched": [
+    "editorial",
+    "email",
+    "cms",
+    "ai",
+    "stakeholder",
+    "6+ years"
+   ],
+   "years": 6,
+   "summary": "Job Title: Manager, Marketing and Communications Location: Remote Description Founded in 2004, BME Strategies is a Massachusetts-based consulting firm specializing in the design, implementation, and evaluation of public health programs for local, regional, and state government partners. Our work supports evidence-based, community-driven solutions that strengthen public health systems and advance e",
+   "first_seen": "2026-11-16",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
@@ -606,6 +571,44 @@
    "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-f-focus-flow-gmbh-werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-",
+   "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote m\u00f6glich, 10\u201320 Std./Woche",
+   "company": "F& | Focus & Flow GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-462160",
+   "score": 18,
+   "matched": [
+    "copywriting",
+    "seo",
+    "geo",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "Wer wir sind F& | FOCUS & FLOW ist ein Beratungs-Hub f\u00fcr Transformation und Prozessverbesserung. Wir arbeiten vor allem mit Unternehmen aus dem produzierenden Mittelstand: mit Gesch\u00e4ftsf\u00fchrer:innen und F\u00fchrungsteams, die ihre Organisation wirksamer aufstellen wollen, ohne sich im Methoden-Dschungel zu verlieren. Daraus entwickeln wir Beratungsprodukte, Trainings und Workshops, vor Ort und virtuell",
+   "first_seen": "2026-11-16",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-tem-campaign-manager-united-kingdom-282057",
+   "title": "Campaign Manager",
+   "company": "tem",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/campaign-manager-united-kingdom-282057",
+   "score": 17,
+   "matched": [
+    "campaign",
+    "ai",
+    "brief",
+    "agency",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "\ud83d\udcc8 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. We're rebuilding how energy is bought and sold. That means cutting out middlemen, connecting businesses directly with renewable generators, and ensuring every transaction is traceable and transparent . We're a 160+ person team - operators, data scientists, engineers, customer champions and energy experts - back",
+   "first_seen": "2026-11-16",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31724903",
