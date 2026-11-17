@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16 16:47 UTC",
- "scanned": 4217,
+ "updated": "2026-11-17 16:43 UTC",
+ "scanned": 4191,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -107,6 +107,32 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-ashbyhq-com-kraken-com-e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+   "title": "Creative Strategist & Producer - Consumer",
+   "company": "kraken.com",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/kraken.com/e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+   "score": 46,
+   "matched": [
+    "copywriting",
+    "creative strategy",
+    "creative lead",
+    "concept",
+    "blog",
+    "email",
+    "campaign",
+    "ai",
+    "briefing",
+    "brief",
+    "agency",
+    "in-house"
+   ],
+   "years": null,
+   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
+   "first_seen": "2026-11-17",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
    "title": "Marketing Creative Lead",
    "company": "supercell",
@@ -131,6 +157,28 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-actcareers-brand-and-content-manager-london-153021",
+   "title": "Brand and Content Manager",
+   "company": "Actcareers",
+   "location": "United Kingdom",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/brand-and-content-manager-london-153021",
+   "score": 40,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "tone of voice",
+    "brand voice",
+    "editorial",
+    "email",
+    "ai",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "About Act There are over 5 billion users using basic applications today such as email, notes, tasks and calendar, and they\u2019re not AI-native. Our mission is to build proactive applications for anyone in the world who is not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our first application is an agent-firs",
+   "first_seen": "2026-11-17",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8378461-gh_jid-8378461",
@@ -255,29 +303,26 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-hcompany-social-media-and-content-strategist-community-paris-13767",
-   "title": "Social Media and Content Strategist - Community",
-   "company": "Hcompany",
-   "location": "Hybrid Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/social-media-and-content-strategist-community-paris-13767",
-   "score": 34,
+   "id": "https-jobs-ashbyhq-com-backmarket-1a51a66b-f0b4-41c4-a293-071751938f55",
+   "title": "Director of Global Communications",
+   "company": "backmarket",
+   "location": "Paris",
+   "url": "https://jobs.ashbyhq.com/backmarket/1a51a66b-f0b4-41c4-a293-071751938f55",
+   "score": 36,
    "matched": [
-    "tone of voice",
-    "brand voice",
-    "editorial",
-    "long-form",
+    "brand narrative",
     "storytelling",
-    "blog",
-    "native-level english",
-    "launch",
-    "ai",
-    "b2b",
-    "- asks only 2 years"
+    "narrative",
+    "multiple markets",
+    "public relations",
+    "thought leadership",
+    "agency",
+    "sustainability"
    ],
-   "years": 2,
-   "summary": "H Company is an AI research and product company building autonomous agents for the enterprise. We combine proprietary models (Holo), computer-use agents, an orchestration platform and hands-on engineering into a single system designed for production use. Our agents operate any software the way a person does, with no API and no rebuilt stack. They rank #1 on OSWorld-Verified, the leading computer-u",
-   "first_seen": "2026-11-14",
-   "is_new": false
+   "years": null,
+   "summary": "HI, WE\u2019RE BACK MARKET. We\u2019re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new. Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device p",
+   "first_seen": "2026-11-17",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
@@ -414,6 +459,27 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-getyourguide-senior-communications-manager-berlin-173179",
+   "title": "Senior Communications Manager",
+   "company": "Getyourguide",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/getyourguide/senior-communications-manager-berlin-173179",
+   "score": 26,
+   "matched": [
+    "positioning",
+    "editorial",
+    "storytelling",
+    "ai",
+    "agency",
+    "stakeholder",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "Change the way the world travels Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
+   "first_seen": "2026-11-17",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-getyourguide-4b62a845-f76f-4af0-8618-927b874c2464",
    "title": "Senior Communications Manager",
    "company": "getyourguide",
@@ -433,6 +499,27 @@
    "summary": "CHANGE THE WAY THE WORLD TRAVELS Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
    "first_seen": "2026-11-11",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31741372",
+   "title": "Development Manager, Creative Studios",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31741372",
+   "score": 25,
+   "matched": [
+    "creative strategy",
+    "concept",
+    "editorial",
+    "storytelling",
+    "ai",
+    "stakeholder",
+    "e-commerce"
+   ],
+   "years": null,
+   "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
+   "first_seen": "2026-11-17",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -456,6 +543,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-getyourguide-content-design-manager-berlin-41454",
+   "title": "Content Design Manager",
+   "company": "Getyourguide",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/getyourguide/content-design-manager-berlin-41454",
+   "score": 23,
+   "matched": [
+    "narrative",
+    "llm",
+    "ai",
+    "b2b",
+    "sustainability",
+    "6+ years"
+   ],
+   "years": 6,
+   "summary": "Change the way the world travels Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
+   "first_seen": "2026-11-17",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-getyourguide-d545328d-e9fc-4c5c-a920-c170f5d40d52",
    "title": "Content Design Manager",
    "company": "getyourguide",
@@ -473,7 +580,7 @@
    "years": 6,
    "summary": "CHANGE THE WAY THE WORLD TRAVELS Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
    "first_seen": "2026-11-16",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
@@ -495,23 +602,25 @@
    "is_new": false
   },
   {
-   "id": "https-himalayas-app-companies-bme-strategies-jobs-manager-marketing-and-communications-utm_source-api",
-   "title": "Manager, Marketing and Communications",
-   "company": "BME Strategies",
-   "location": "United States",
-   "url": "https://himalayas.app/companies/bme-strategies/jobs/manager-marketing-and-communications?utm_source=api",
-   "score": 20,
+   "id": "https-job-boards-greenhouse-io-monzo-jobs-8393062",
+   "title": "Creative Studio Resource Manager - Creative Ops",
+   "company": "monzo",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8393062",
+   "score": 22,
    "matched": [
-    "editorial",
-    "email",
-    "cms",
+    "blog",
     "ai",
-    "stakeholder",
-    "6+ years"
+    "creative studio",
+    "briefing",
+    "brief",
+    "agency",
+    "in-house",
+    "stakeholder"
    ],
-   "years": 6,
-   "summary": "Job Title: Manager, Marketing and Communications Location: Remote Description Founded in 2004, BME Strategies is a Massachusetts-based consulting firm specializing in the design, implementation, and evaluation of public health programs for local, regional, and state government partners. Our work supports evidence-based, community-driven solutions that strengthen public health systems and advance e",
-   "first_seen": "2026-11-16",
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
+   "first_seen": "2026-11-17",
    "is_new": true
   },
   {
@@ -571,44 +680,6 @@
    "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-f-focus-flow-gmbh-werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-",
-   "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote m\u00f6glich, 10\u201320 Std./Woche",
-   "company": "F& | Focus & Flow GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-462160",
-   "score": 18,
-   "matched": [
-    "copywriting",
-    "seo",
-    "geo",
-    "ai",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "Wer wir sind F& | FOCUS & FLOW ist ein Beratungs-Hub f\u00fcr Transformation und Prozessverbesserung. Wir arbeiten vor allem mit Unternehmen aus dem produzierenden Mittelstand: mit Gesch\u00e4ftsf\u00fchrer:innen und F\u00fchrungsteams, die ihre Organisation wirksamer aufstellen wollen, ohne sich im Methoden-Dschungel zu verlieren. Daraus entwickeln wir Beratungsprodukte, Trainings und Workshops, vor Ort und virtuell",
-   "first_seen": "2026-11-16",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-tem-campaign-manager-united-kingdom-282057",
-   "title": "Campaign Manager",
-   "company": "tem",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tem/campaign-manager-united-kingdom-282057",
-   "score": 17,
-   "matched": [
-    "campaign",
-    "ai",
-    "brief",
-    "agency",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "\ud83d\udcc8 Who We Are: We are rebuilding the energy transaction, making it transparent and fair. We're rebuilding how energy is bought and sold. That means cutting out middlemen, connecting businesses directly with renewable generators, and ensuring every transaction is traceable and transparent . We're a 160+ person team - operators, data scientists, engineers, customer champions and energy experts - back",
-   "first_seen": "2026-11-16",
-   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31724903",
