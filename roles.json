@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17 16:43 UTC",
- "scanned": 4191,
+ "updated": "2026-11-18 16:14 UTC",
+ "scanned": 4197,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -107,6 +107,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-electric-twin-content-lead-london-433252",
+   "title": "Content Lead",
+   "company": "Electric Twin",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/electric-twin/content-lead-london-433252",
+   "score": 48,
+   "matched": [
+    "positioning",
+    "editorial",
+    "narrative",
+    "seo",
+    "website copy",
+    "blog",
+    "email",
+    "campaign",
+    "launch",
+    "ai",
+    "brief",
+    "agency"
+   ],
+   "years": null,
+   "summary": "Content Lead Reporting to: CMO Location: London (hybrid, 4 days a week in the office) Salary: \u00a380,000-\u00a3100,000 + equity About Electric Twin Most organisations make their biggest decisions on a thin slice of evidence - a handful of customer calls, one survey, instinct when the data runs out. Electric Twin changes that. We build synthetic audiences: simulations of real groups of people, grounded in ",
+   "first_seen": "2026-11-18",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-kraken-com-e0230515-9bbe-4fbd-a183-9444bcd8c56f",
    "title": "Creative Strategist & Producer - Consumer",
    "company": "kraken.com",
@@ -130,7 +156,7 @@
    "years": null,
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-11-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
@@ -157,28 +183,6 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-actcareers-brand-and-content-manager-london-153021",
-   "title": "Brand and Content Manager",
-   "company": "Actcareers",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/actcareers/brand-and-content-manager-london-153021",
-   "score": 40,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "tone of voice",
-    "brand voice",
-    "editorial",
-    "email",
-    "ai",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "About Act There are over 5 billion users using basic applications today such as email, notes, tasks and calendar, and they\u2019re not AI-native. Our mission is to build proactive applications for anyone in the world who is not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our first application is an agent-firs",
-   "first_seen": "2026-11-17",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8378461-gh_jid-8378461",
@@ -322,6 +326,27 @@
    "years": null,
    "summary": "HI, WE\u2019RE BACK MARKET. We\u2019re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new. Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device p",
    "first_seen": "2026-11-17",
+   "is_new": false
+  },
+  {
+   "id": "https-himalayas-app-companies-hustler-marketing-jobs-copywriter-ecommerce-email-marketing-agency-1897876289-utm_source-a",
+   "title": "Copywriter - eCommerce Email Marketing Agency",
+   "company": "Hustler Marketing",
+   "location": "United States",
+   "url": "https://himalayas.app/companies/hustler-marketing/jobs/copywriter-ecommerce-email-marketing-agency-1897876289?utm_source=api",
+   "score": 35,
+   "matched": [
+    "tone of voice",
+    "copywriting",
+    "copywriter",
+    "copy lead",
+    "blog",
+    "email",
+    "agency"
+   ],
+   "years": null,
+   "summary": "The main purpose of the Copywriter is to work on copy-related tasks for your assigned clients and stores as part of the Service Department, with the responsibility to create quality, effective, well-written, error-free, and impactful email marketing campaigns that convert and drive sales for our clients. As our Copywriter, this will include writing the copy for a variety of clients\u2019 marketing camp",
+   "first_seen": "2026-11-18",
    "is_new": true
   },
   {
@@ -459,24 +484,24 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-getyourguide-senior-communications-manager-berlin-173179",
-   "title": "Senior Communications Manager",
-   "company": "Getyourguide",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/getyourguide/senior-communications-manager-berlin-173179",
+   "id": "https-jobicy-com-jobs-163079-associate-pr-director",
+   "title": "Associate PR Director",
+   "company": "Walker Sands",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/163079-associate-pr-director",
    "score": 26,
    "matched": [
-    "positioning",
-    "editorial",
-    "storytelling",
+    "geo",
     "ai",
+    "thought leadership",
+    "mentor",
     "agency",
-    "stakeholder",
-    "b2b"
+    "b2b",
+    "6+ years"
    ],
-   "years": null,
-   "summary": "Change the way the world travels Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
-   "first_seen": "2026-11-17",
+   "years": 6,
+   "summary": "Walker Sands is one of the fastest-growing integrated B2B marketing agencies in the world. We are looking for a high-impact Associate PR Director to help fuel that continued growth. Total compensation for this role is expected to be between $85,000 - $106,000 per year. As an agency, we exist to accelerate growth\u2014for our clients, our people and the B2B industry. We partner with B2B technology and s",
+   "first_seen": "2026-11-18",
    "is_new": true
   },
   {
@@ -519,7 +544,7 @@
    "years": null,
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-11-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -541,26 +566,6 @@
    "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
    "first_seen": "2026-10-17",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-getyourguide-content-design-manager-berlin-41454",
-   "title": "Content Design Manager",
-   "company": "Getyourguide",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/getyourguide/content-design-manager-berlin-41454",
-   "score": 23,
-   "matched": [
-    "narrative",
-    "llm",
-    "ai",
-    "b2b",
-    "sustainability",
-    "6+ years"
-   ],
-   "years": 6,
-   "summary": "Change the way the world travels Join the GetYourGuide journey to connect people with unforgettable travel experiences around the world. Millions look to us for unique activities they can trust, and it\u2019s all powered by our commitment to make every single journey extraordinary - including yours. Ready to unlock your potential with a community of fellow explorers? Find your next role at our Berlin H",
-   "first_seen": "2026-11-17",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-getyourguide-d545328d-e9fc-4c5c-a920-c170f5d40d52",
@@ -602,6 +607,28 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-163101-creative-studio-resource-manager-creative-ops",
+   "title": "Creative Studio Resource Manager - Creative Ops",
+   "company": "Monzo",
+   "location": "UK",
+   "url": "https://jobicy.com/jobs/163101-creative-studio-resource-manager-creative-ops",
+   "score": 22,
+   "matched": [
+    "blog",
+    "ai",
+    "creative studio",
+    "briefing",
+    "brief",
+    "agency",
+    "in-house",
+    "stakeholder"
+   ],
+   "years": null,
+   "summary": "\ud83d\ude80 We\u2019re on a mission to make money work for everyone. We\u2019re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank accounts, we offer joint accounts , accounts for 16-17 year olds , a free kids account and credit cards in the UK, with mo",
+   "first_seen": "2026-11-18",
+   "is_new": true
+  },
+  {
    "id": "https-job-boards-greenhouse-io-monzo-jobs-8393062",
    "title": "Creative Studio Resource Manager - Creative Ops",
    "company": "monzo",
@@ -621,7 +648,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
    "first_seen": "2026-11-17",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
@@ -719,6 +746,24 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-net-talents-gmbh-senior-account-communications-manager-hamburg-259939",
+   "title": "(Senior) Account & Communications Manager (w/m/d)",
+   "company": "NET TALENTS GmbH",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/net-talents-gmbh/senior-account-communications-manager-hamburg-259939",
+   "score": 15,
+   "matched": [
+    "storytelling",
+    "email",
+    "public relations",
+    "briefing"
+   ],
+   "years": null,
+   "summary": "NET TALENTS steht f\u00fcr anspruchsvolle Markenkommunikation im Premium- und Luxussegment. Im Zuge unserer strategischen Neuausrichtung und mit ambitionierten Wachstumszielen suchen wir f\u00fcr unser Team in Hamburg einen (Senior) Account & Communications Manager (m/w/d), der die n\u00e4chste Phase unserer Agentur aktiv mitgestalten m\u00f6chte. Aufgaben Deine Aufgaben Du betreust internationale Premium- und Luxusm",
+   "first_seen": "2026-11-18",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
