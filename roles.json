@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 16:22 UTC",
- "scanned": 4207,
+ "updated": "2026-11-20 15:57 UTC",
+ "scanned": 4209,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31753064",
@@ -26,7 +26,7 @@
    "years": 7,
    "summary": "Mips gives you the confidence to follow your passion. Whether you are training for fitness, riding to work, heading out on the mountain or playing team sports, our mission is leading the world to safer helmets. Mips specializes in helmet-based safety and is a world-leader in this area. Based on an ingredient brand business-model, Mips\u2019 safety system is sold to the global helmet industry. The techn",
    "first_seen": "2026-11-19",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31681204",
@@ -81,6 +81,31 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-wundermanthompson-senior-copywriter-london-139287",
+   "title": "Senior Copywriter",
+   "company": "Wundermanthompson",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wundermanthompson/senior-copywriter-london-139287",
+   "score": 59,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "tone of voice",
+    "brand guardian",
+    "brand guidelines",
+    "copywriting",
+    "copywriter",
+    "seo",
+    "email",
+    "mentor",
+    "agency"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h3><strong>Who We Are</strong></h3> <p>VML is a global creative company that combines brand experience, customer experience, and commerce to create connected brands that drive growth. Guided by a <strong>Human First</strong> philosophy, VML is known for its innovative work for brands and consistently ranks among the world\u2019s leading creative companies, including the WARC",
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
    "title": "Senior Video Creative, Performance - Kraken Consumer",
    "company": "kraken.com",
@@ -105,6 +130,31 @@
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-11-04",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-163495-copywriter",
+   "title": "Copywriter",
+   "company": "Phantom",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/163495-copywriter",
+   "score": 50,
+   "matched": [
+    "positioning",
+    "tone of voice",
+    "brand voice",
+    "brand guidelines",
+    "copywriter",
+    "storytelling",
+    "ad copy",
+    "email",
+    "ai",
+    "fintech",
+    "tiktok"
+   ],
+   "years": null,
+   "summary": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time ",
+   "first_seen": "2026-11-20",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-tide-jobs-8201311003",
@@ -183,6 +233,31 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
    "first_seen": "2026-09-10",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-yepoda-campaign-manager-berlin-69682",
+   "title": "Campaign Manager (m/f/d)",
+   "company": "Yepoda",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/yepoda/campaign-manager-berlin-69682",
+   "score": 41,
+   "matched": [
+    "concept",
+    "storytelling",
+    "multi-market",
+    "localize",
+    "campaign",
+    "brief",
+    "retail",
+    "d2c",
+    "beauty",
+    "sustainability",
+    "tiktok"
+   ],
+   "years": null,
+   "summary": "About Yepoda Clean K-Beauty Innovation. No compromises. Our mission is to bring Clean K-Beauty Innovations , from Korea straight to Europe, UK, and the US \u2013 without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free, and packed with the best natural and active ingredients. Founded in 2020 by",
+   "first_seen": "2026-11-20",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8378461-gh_jid-8378461",
@@ -307,28 +382,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-backmarket-director-of-global-communications-paris-491202",
-   "title": "Director of Global Communications",
-   "company": "Backmarket",
-   "location": "Paris",
-   "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/director-of-global-communications-paris-491202",
-   "score": 36,
-   "matched": [
-    "brand narrative",
-    "storytelling",
-    "narrative",
-    "multiple markets",
-    "public relations",
-    "thought leadership",
-    "agency",
-    "sustainability"
-   ],
-   "years": null,
-   "summary": "Hi, we\u2019re Back Market. We\u2019re here to help make tech reliable, affordable, and better than new . We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new. Yep, you read that right. Turns out refurbished tech is way better for the planet than new. In fact, With every device ",
-   "first_seen": "2026-11-19",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-backmarket-1a51a66b-f0b4-41c4-a293-071751938f55",
    "title": "Director of Global Communications",
    "company": "backmarket",
@@ -438,27 +491,25 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31621070",
-   "title": "Brand & Integrated Marketing Lead, Europe",
-   "company": "Lovable Labs Sweden AB",
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31758773",
+   "title": "Art Director, Beauty - H&M Creative Studios",
+   "company": "H & M Hennes & Mauritz GBC AB",
    "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31621070",
-   "score": 27,
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31758773",
+   "score": 28,
    "matched": [
-    "brand strategy",
-    "head of brand",
-    "campaign",
-    "launch",
-    "ai",
-    "brief",
-    "agency",
-    "- media buying",
-    "12+ years"
+    "creative direction",
+    "creative lead",
+    "concept",
+    "editorial",
+    "storytelling",
+    "e-commerce",
+    "beauty"
    ],
-   "years": 12,
-   "summary": "TL;DR - We\u2019re looking for a seasoned brand marketer with a distinctly European perspective to partner with our head of brand marketing to continue to evolve the brand and shape campaigns that don\u2019t just buy impressions, but travel organically. This is a planner's role with a marketer's accountability. You\u2019ll split your time between two crafts: the thinking (cultural research, strategy, creative br",
-   "first_seen": "2026-10-21",
-   "is_new": false
+   "years": null,
+   "summary": "Job Description WHAT YOU\u2019LL DO As an Art Director, Beauty, you\u2019ll be responsible for shaping inspiring and commercially relevant beauty content across Editorial, Category Inspiration, and Lookbook productions. Combining strong creative vision with deep beauty expertise, you\u2019ll lead concept development from idea through execution, ensuring every asset reflects the brand\u2019s visual identity and resona",
+   "first_seen": "2026-11-20",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
@@ -548,6 +599,49 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-kpler-senior-creative-technologist-london-314638",
+   "title": "Senior Creative Technologist",
+   "company": "Kpler",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-creative-technologist-london-314638",
+   "score": 23,
+   "matched": [
+    "editorial",
+    "storytelling",
+    "narrative",
+    "ai",
+    "mentor",
+    "7+ years"
+   ],
+   "years": 7,
+   "summary": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts f",
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-upvest-marketing-manager-brand-content-berlin-272845",
+   "title": "Marketing Manager, Brand & Content (f/m/d)",
+   "company": "Upvest",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/upvest/marketing-manager-brand-content-berlin-272845",
+   "score": 23,
+   "matched": [
+    "verbal identity",
+    "long-form",
+    "storytelling",
+    "blog",
+    "ai",
+    "thought leadership",
+    "b2b",
+    "fintech",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "At Upvest, we are on a mission to make investing as easy as spending money . Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest\u2019s Investment API is easy to integrate so that fintechs and financial institutions can save resources and fully focus on their core business. We are proud",
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-getyourguide-d545328d-e9fc-4c5c-a920-c170f5d40d52",
    "title": "Content Design Manager",
    "company": "getyourguide",
@@ -609,6 +703,45 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-163504-head-of-internal-communications",
+   "title": "Head of Internal Communications",
+   "company": "Phantom",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/163504-head-of-internal-communications",
+   "score": 21,
+   "matched": [
+    "storytelling",
+    "launch",
+    "internal communications",
+    "fintech",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "Phantom is on a mission to connect the world to the freedom of open markets. Tens of millions of people all over the world use Phantom to access global markets that never close, including perpetuals, prediction markets, tokenized assets, stablecoins and memes. Phantom users are able to discover the markets that matter and the cultural moments that shape them, building conviction through real-time ",
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "id": "https-jobicy-com-jobs-163544-growth-campaign-manager-sea",
+   "title": "Growth & Campaign Manager - SEA",
+   "company": "Binance",
+   "location": "Philippines",
+   "url": "https://jobicy.com/jobs/163544-growth-campaign-manager-sea",
+   "score": 20,
+   "matched": [
+    "conversion",
+    "email",
+    "campaign",
+    "ai",
+    "brief",
+    "fintech"
+   ],
+   "years": null,
+   "summary": "Binance is a leading global blockchain ecosystem behind the world\u2019s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to e",
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
    "title": "Internal Communications Lead",
    "company": "Lovable Labs Sweden AB",
@@ -667,23 +800,40 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-tide-werkstudentin-ux-copywriting-berlin-345472",
-   "title": "Werkstudent:in (m/w/d) \u2013 UX Copywriting",
-   "company": "tide",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/tide/werkstudentin-ux-copywriting-berlin-345472",
-   "score": 19,
+   "id": "https-payplug-teamtailor-com-jobs-8759867-communication-lead-cdd",
+   "title": "Communication Lead - CDD",
+   "company": "payplug",
+   "location": "Paris 110 Av. de France 75013 Paris France",
+   "url": "https://payplug.teamtailor.com/jobs/8759867-communication-lead-cdd",
+   "score": 17,
    "matched": [
-    "copywriting",
-    "email",
+    "head of brand",
+    "conversion",
     "go-to-market",
-    "launch",
-    "ai",
+    "b2b",
     "fintech"
    ],
    "years": null,
-   "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
-   "first_seen": "2026-11-19",
+   "summary": "Description Payplug est la solution de paiement fran\u00e7aise pens\u00e9e pour les commer\u00e7ants, e-commer\u00e7ants de toutes tailles et fintechs. Avec notre plateforme technologique de pointe, nos outils d\u00e9di\u00e9s \u00e0 la conversion et notre ma\u00eetrise unique de la cha\u00eene de paiement, nous vous invitons \u00e0 viser le meilleur, et plus encore. Payplug, c\u2019est une \u00e9quipe de 300 passionn\u00e9s d\u00e9di\u00e9s \u00e0 la r\u00e9alisation de vos plus ",
+   "first_seen": "2026-11-20",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-wongdoody-senior-digital-creative-copy-for-dm-drogerie-markt-berlin-de-183085",
+   "title": "Senior Digital Creative Copy \u2013 for dm-drogerie markt",
+   "company": "wongdoody",
+   "location": "Berlin, DE",
+   "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-digital-creative-copy-for-dm-drogerie-markt-berlin-de-183085",
+   "score": 17,
+   "matched": [
+    "copywriter",
+    "omnichannel",
+    "b2b",
+    "e-commerce"
+   ],
+   "years": null,
+   "summary": "<p><span style=\"font-size: 13px;\">Wir sind wongdoody, mit mehr als 2.000 Kolleg:innen in 25 Designstudios auf vier Kontinenten</span><span style=\"font-size: 13px; color: rgb(24, 24, 24);\"> \u2013 ein hochgradig kollaboratives Team aus Expert:innen f\u00fcr Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere L\u00f6sungen entstehen dort, wo Kreativit\u00e4t und Technologie zusammentreffen \u2013 mit e",
+   "first_seen": "2026-11-20",
    "is_new": true
   },
   {
