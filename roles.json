@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21 15:08 UTC",
- "scanned": 4211,
+ "updated": "2026-11-22 15:05 UTC",
+ "scanned": 4202,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31753064",
@@ -81,6 +81,32 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-lemfi-creative-lead-london-215645",
+   "title": "Creative Lead",
+   "company": "LemFi",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/creative-lead-london-215645",
+   "score": 63,
+   "matched": [
+    "brand platform",
+    "rebrand",
+    "copywriter",
+    "creative lead",
+    "concept",
+    "editorial",
+    "long-form",
+    "storytelling",
+    "across markets",
+    "campaign",
+    "launch",
+    "ai"
+   ],
+   "years": null,
+   "summary": "Ambition has no passport. That belief is why LemFi exists. We're the financial engine for people the world wasn't built to serve, the millions who move countries to build something better and find the financial system hasn't caught up with them yet. We started with remittances: the money people send home to the people they love. Now we run multi-currency accounts, Savings, eSIMs and Credit. Becaus",
+   "first_seen": "2026-11-22",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
    "title": "Senior Video Creative, Performance - Kraken Consumer",
    "company": "kraken.com",
@@ -156,32 +182,6 @@
    "years": null,
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-11-17",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-ashbyhq-com-supercell-76e56d65-9884-4c86-b616-f9c70c4a7a34",
-   "title": "Marketing Creative Lead",
-   "company": "supercell",
-   "location": "Helsinki",
-   "url": "https://jobs.ashbyhq.com/supercell/76e56d65-9884-4c86-b616-f9c70c4a7a34",
-   "score": 43,
-   "matched": [
-    "creative direction",
-    "creative strategy",
-    "creative lead",
-    "concept",
-    "campaign",
-    "launch",
-    "ai",
-    "creative team",
-    "creative studio",
-    "in-house creative",
-    "brief",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/dd13138b-994f-4735-becb-eb8b2e863c8a/Clash of Clans _ attack.png] GREAT GAMES DESERVE CREATIVE THAT MAKES PEOPLE WANT TO PLAY THEM. WE\u2019RE LOOKING FOR A MARKETING CREATIVE LEAD TO SHAPE THE FUTURE OF USER ACQUISITION CREATIVE ACROSS SUPERCELL\u2019S PORTFOLIO OF LIVE AND NEW GAMES. BASED IN HELSINKI, YOU\u2019LL LEAD AND DE",
-   "first_seen": "2026-09-10",
    "is_new": false
   },
   {
@@ -307,31 +307,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-quince-senior-manager-of-global-communications-london-167375",
-   "title": "Senior Manager of Global Communications",
-   "company": "Quince",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-manager-of-global-communications-london-167375",
-   "score": 36,
-   "matched": [
-    "brand strategy",
-    "head of brand",
-    "editorial",
-    "storytelling",
-    "narrative",
-    "ai",
-    "public relations",
-    "agency",
-    "retail",
-    "- merchandising",
-    "8+ years"
-   ],
-   "years": 8,
-   "summary": "<div class=\"content-intro\"><p><span style=\"text-decoration: underline;\"><strong>ABOUT QUINCE</strong></span></p> <p>Quince is a destination for builders, creators, innovators, and operators who want to come together and challenge the status quo. Our mission is simple: make really high quality essentials for really low prices, fairly and sustainably. We deliver on that mission through a unique manu",
-   "first_seen": "2026-11-21",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-backmarket-1a51a66b-f0b4-41c4-a293-071751938f55",
    "title": "Director of Global Communications",
    "company": "backmarket",
@@ -420,27 +395,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-kraken-public-relations-communications-manager-london-177589",
-   "title": "Public Relations & Communications Manager",
-   "company": "Kraken",
-   "location": "United Kingdom",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/public-relations-communications-manager-london-177589",
-   "score": 30,
-   "matched": [
-    "positioning",
-    "storytelling",
-    "blog",
-    "public relations",
-    "thought leadership",
-    "briefing",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "Building the Future of Open Finance Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. The team Founded in 2011, Kraken is one of the world's longest-s",
-   "first_seen": "2026-11-21",
-   "is_new": true
-  },
-  {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
    "title": "Creative Director",
    "company": "mollie",
@@ -481,6 +435,27 @@
    "summary": "Job Description WHAT YOU\u2019LL DO As an Art Director, Beauty, you\u2019ll be responsible for shaping inspiring and commercially relevant beauty content across Editorial, Category Inspiration, and Lookbook productions. Combining strong creative vision with deep beauty expertise, you\u2019ll lead concept development from idea through execution, ensuring every asset reflects the brand\u2019s visual identity and resona",
    "first_seen": "2026-11-20",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-163825-creative-director-associate-creative-director",
+   "title": "Creative Director / Associate Creative Director",
+   "company": "Superside",
+   "location": "LATAM",
+   "url": "https://jobicy.com/jobs/163825-creative-director-associate-creative-director",
+   "score": 28,
+   "matched": [
+    "creative direction",
+    "creative lead",
+    "campaign",
+    "ai",
+    "mentor",
+    "in-house",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Superside is seeking visionary Creative Directors/Associate Creative Directors to guide a globally distributed team across branding, ad and social creative, presentations, print, and landing pages. In this high-impact role, you\u2019ll shape the future of AI-enhanced creativity by integrating generative tools into our design workflows, elevating both quality and efficiency. You\u2019ll lead by example as bo",
+   "first_seen": "2026-11-22",
+   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
@@ -547,6 +522,26 @@
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-11-17",
    "is_new": false
+  },
+  {
+   "id": "https-jobicy-com-jobs-163833-lead-creative",
+   "title": "Lead Creative",
+   "company": "Superside",
+   "location": "LATAM",
+   "url": "https://jobicy.com/jobs/163833-lead-creative",
+   "score": 25,
+   "matched": [
+    "creative direction",
+    "creative lead",
+    "ai",
+    "mentor",
+    "in-house",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "Superside is looking for a Lead Creative with a passion for AI to shape creative excellence across branding, landing pages, ads, social, print, and presentations. You\u2019ll guide a global team of top-tier creatives, combining strategic leadership with hands-on craft to deliver human-centered, high-impact work for leading brands worldwide. This role sits at the intersection of creativity and innovatio",
+   "first_seen": "2026-11-22",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
@@ -687,6 +682,25 @@
    "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-f-focus-flow-gmbh-werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-",
+   "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote m\u00f6glich, 10\u201320 Std./Woche",
+   "company": "F& | Focus & Flow GmbH",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-104935",
+   "score": 18,
+   "matched": [
+    "copywriting",
+    "seo",
+    "geo",
+    "ai",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "Wer wir sind F& | FOCUS & FLOW ist ein Beratungs-Hub f\u00fcr Transformation und Prozessverbesserung. Wir arbeiten vor allem mit Unternehmen aus dem produzierenden Mittelstand: mit Gesch\u00e4ftsf\u00fchrer:innen und F\u00fchrungsteams, die ihre Organisation wirksamer aufstellen wollen, ohne sich im Methoden-Dschungel zu verlieren. Daraus entwickeln wir Beratungsprodukte, Trainings und Workshops, vor Ort und virtuell",
+   "first_seen": "2026-11-22",
+   "is_new": true
   },
   {
    "id": "https-payplug-teamtailor-com-jobs-8759867-communication-lead-cdd",
