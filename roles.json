@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22 15:05 UTC",
- "scanned": 4202,
+ "updated": "2026-11-23 19:01 UTC",
+ "scanned": 4182,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31753064",
@@ -79,32 +79,6 @@
    "summary": "Would you like to work with a product loved by millions and millions of kids all across the world? With over 60 million monthly active users engaging with our play ecosystem, we are looking for a Senior Copywriter to join our Creative Hub. Working alongside highly talented animators, designers, and creative leads, you will play a defining role in telling great stories that inform, entertain, and b",
    "first_seen": "2026-11-05",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-lemfi-creative-lead-london-215645",
-   "title": "Creative Lead",
-   "company": "LemFi",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/creative-lead-london-215645",
-   "score": 63,
-   "matched": [
-    "brand platform",
-    "rebrand",
-    "copywriter",
-    "creative lead",
-    "concept",
-    "editorial",
-    "long-form",
-    "storytelling",
-    "across markets",
-    "campaign",
-    "launch",
-    "ai"
-   ],
-   "years": null,
-   "summary": "Ambition has no passport. That belief is why LemFi exists. We're the financial engine for people the world wasn't built to serve, the millions who move countries to build something better and find the financial system hasn't caught up with them yet. We started with remittances: the money people send home to the people they love. Now we run multi-currency accounts, Savings, eSIMs and Credit. Becaus",
-   "first_seen": "2026-11-22",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
@@ -329,6 +303,28 @@
    "is_new": false
   },
   {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31763910",
+   "title": "Manager Creative Optimization temporary assignment",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31763910",
+   "score": 33,
+   "matched": [
+    "creative direction",
+    "editorial",
+    "storytelling",
+    "localisation",
+    "across markets",
+    "ai",
+    "e-commerce",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
+   "first_seen": "2026-11-23",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
    "title": "Creative Strategist, Editorial",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -373,6 +369,27 @@
    "is_new": false
   },
   {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31763912",
+   "title": "Creative Strategist, Campaign",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31763912",
+   "score": 31,
+   "matched": [
+    "brand strategy",
+    "creative strategy",
+    "editorial",
+    "storytelling",
+    "campaign",
+    "brief",
+    "e-commerce"
+   ],
+   "years": null,
+   "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences.. Tog",
+   "first_seen": "2026-11-23",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
    "title": "Manager, Brand Strategy (Factor)",
    "company": "hellofresh",
@@ -393,6 +410,30 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-fr-jobs-companies-goodweek-head-of-marketing-strasbourg-254244",
+   "title": "Head of Marketing",
+   "company": "Goodweek",
+   "location": "Strasbourg",
+   "url": "https://www.arbeitnow.fr/jobs/companies/goodweek/head-of-marketing-strasbourg-254244",
+   "score": 30,
+   "matched": [
+    "positioning",
+    "storytelling",
+    "narrative",
+    "launch",
+    "ai",
+    "thought leadership",
+    "agency",
+    "b2b",
+    "- attribution",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "At Goodweek, we help businesses make the most of AI. Our platform brings leading AI models, such as ChatGPT, Claude, Gemini, and Mistral, together in one place, allowing employees to use the right AI tools for their tasks while keeping everything secure, controlled, and connected to the software they already use. By helping businesses manage AI more effectively, we enable them to save time, reduce",
+   "first_seen": "2026-11-23",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
@@ -435,27 +476,6 @@
    "summary": "Job Description WHAT YOU\u2019LL DO As an Art Director, Beauty, you\u2019ll be responsible for shaping inspiring and commercially relevant beauty content across Editorial, Category Inspiration, and Lookbook productions. Combining strong creative vision with deep beauty expertise, you\u2019ll lead concept development from idea through execution, ensuring every asset reflects the brand\u2019s visual identity and resona",
    "first_seen": "2026-11-20",
    "is_new": false
-  },
-  {
-   "id": "https-jobicy-com-jobs-163825-creative-director-associate-creative-director",
-   "title": "Creative Director / Associate Creative Director",
-   "company": "Superside",
-   "location": "LATAM",
-   "url": "https://jobicy.com/jobs/163825-creative-director-associate-creative-director",
-   "score": 28,
-   "matched": [
-    "creative direction",
-    "creative lead",
-    "campaign",
-    "ai",
-    "mentor",
-    "in-house",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Superside is seeking visionary Creative Directors/Associate Creative Directors to guide a globally distributed team across branding, ad and social creative, presentations, print, and landing pages. In this high-impact role, you\u2019ll shape the future of AI-enhanced creativity by integrating generative tools into our design workflows, elevating both quality and efficiency. You\u2019ll lead by example as bo",
-   "first_seen": "2026-11-22",
-   "is_new": true
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
@@ -524,26 +544,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-163833-lead-creative",
-   "title": "Lead Creative",
-   "company": "Superside",
-   "location": "LATAM",
-   "url": "https://jobicy.com/jobs/163833-lead-creative",
-   "score": 25,
-   "matched": [
-    "creative direction",
-    "creative lead",
-    "ai",
-    "mentor",
-    "in-house",
-    "5+ years"
-   ],
-   "years": 5,
-   "summary": "Superside is looking for a Lead Creative with a passion for AI to shape creative excellence across branding, landing pages, ads, social, print, and presentations. You\u2019ll guide a global team of top-tier creatives, combining strategic leadership with hands-on craft to deliver human-centered, high-impact work for leading brands worldwide. This role sits at the intersection of creativity and innovatio",
-   "first_seen": "2026-11-22",
-   "is_new": true
-  },
-  {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
    "title": "Content Writer, Global",
    "company": "adyen",
@@ -604,26 +604,23 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-monzo-jobs-8393062",
-   "title": "Creative Studio Resource Manager - Creative Ops",
-   "company": "monzo",
-   "location": "Cardiff, London or Remote (UK)",
-   "url": "https://job-boards.greenhouse.io/monzo/jobs/8393062",
-   "score": 22,
+   "id": "https-www-arbeitnow-nl-jobs-companies-bunq-senior-copywriter-amsterdam-23047",
+   "title": "(Senior) Copywriter",
+   "company": "bunq",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "url": "https://www.arbeitnow.nl/jobs/companies/bunq/senior-copywriter-amsterdam-23047",
+   "score": 21,
    "matched": [
-    "blog",
+    "copywriting",
+    "copywriter",
+    "email",
     "ai",
-    "creative studio",
-    "briefing",
-    "brief",
-    "agency",
-    "in-house",
-    "stakeholder"
+    "in-house"
    ],
    "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
-   "first_seen": "2026-11-17",
-   "is_new": false
+   "summary": "At bunq, we\u2019re on a mission to Make Life Easy for our users by creating the most user-centric banking experience out there. Every email, push notification and in-app message we send should feel like it was written for the person reading it, not for us. Right now, nobody owns that. That\u2019s where you come in. As our Copywriter, you will own every message our users get across email, push and in-app, p",
+   "first_seen": "2026-11-23",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
@@ -684,25 +681,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-f-focus-flow-gmbh-werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-",
-   "title": "Werkstudent LinkedIn Content & Copywriting (B2B) | remote m\u00f6glich, 10\u201320 Std./Woche",
-   "company": "F& | Focus & Flow GmbH",
-   "location": "Berlin",
-   "url": "https://www.arbeitnow.com/jobs/companies/f-focus-flow-gmbh/werkstudent-linkedin-content-copywriting-b2b-remote-moglich-10-20-std-woche-berlin-104935",
-   "score": 18,
-   "matched": [
-    "copywriting",
-    "seo",
-    "geo",
-    "ai",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "Wer wir sind F& | FOCUS & FLOW ist ein Beratungs-Hub f\u00fcr Transformation und Prozessverbesserung. Wir arbeiten vor allem mit Unternehmen aus dem produzierenden Mittelstand: mit Gesch\u00e4ftsf\u00fchrer:innen und F\u00fchrungsteams, die ihre Organisation wirksamer aufstellen wollen, ohne sich im Methoden-Dschungel zu verlieren. Daraus entwickeln wir Beratungsprodukte, Trainings und Workshops, vor Ort und virtuell",
-   "first_seen": "2026-11-22",
-   "is_new": true
-  },
-  {
    "id": "https-payplug-teamtailor-com-jobs-8759867-communication-lead-cdd",
    "title": "Communication Lead - CDD",
    "company": "payplug",
@@ -759,6 +737,24 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-rugamer-steiner-consulting-gmbh-head-of-brand-thought-leadership-founders-dusseld",
+   "title": "Head of Brand & Thought Leadership (Founders) (m/w/d)",
+   "company": "R\u00fcgamer & Steiner Consulting GmbH",
+   "location": "D\u00fcsseldorf",
+   "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/head-of-brand-thought-leadership-founders-dusseldorf-284103",
+   "score": 15,
+   "matched": [
+    "head of brand",
+    "thought leadership",
+    "b2b",
+    "e-commerce"
+   ],
+   "years": null,
+   "summary": "Du baust Founder-Brands, die Deals schlie\u00dfen? Dann baue zwei B2B-Founder-Brands von 0 auf, steuere LinkedIn & Funnel und werde direkt am erzeugten Umsatz beteiligt. Das ist eine Senior-Rolle mit voller Verantwortung, direkt an der Seite der beiden Gr\u00fcnder. Vor 5,5 Jahren sa\u00dfen wir zu zweit in einer WG in D\u00fcsseldorf. Kein B\u00fcro, kein Umsatz, keine Kunden. Nur ein Telefon. Heute sind wir 35 Leute auf",
+   "first_seen": "2026-11-23",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
