@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 19:01 UTC",
- "scanned": 4182,
+ "updated": "2026-11-24 18:41 UTC",
+ "scanned": 4158,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31753064",
@@ -82,7 +82,7 @@
   },
   {
    "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
-   "title": "Senior Video Creative, Performance - Kraken Consumer",
+   "title": "Sr. Video Creative, Performance - Kraken Consumer",
    "company": "kraken.com",
    "location": "United Kingdom",
    "url": "https://jobs.ashbyhq.com/kraken.com/9cdd4c99-0f19-4886-aa13-ca0327cec800",
@@ -104,6 +104,32 @@
    "years": null,
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-11-04",
+   "is_new": false
+  },
+  {
+   "id": "https-jobs-ashbyhq-com-kraken-com-e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+   "title": "Creative Strategist & Copywriter - Consumer",
+   "company": "kraken.com",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/kraken.com/e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+   "score": 51,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "creative strategy",
+    "creative lead",
+    "concept",
+    "blog",
+    "email",
+    "campaign",
+    "ai",
+    "briefing",
+    "brief",
+    "agency"
+   ],
+   "years": null,
+   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
+   "first_seen": "2026-11-17",
    "is_new": false
   },
   {
@@ -130,32 +156,6 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><h3><strong>A</strong><strong>BOUT TIDE</strong></h3> <p>At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.</p> <p>Tide is transforming the small business banking",
    "first_seen": "2026-11-11",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-ashbyhq-com-kraken-com-e0230515-9bbe-4fbd-a183-9444bcd8c56f",
-   "title": "Creative Strategist & Producer - Consumer",
-   "company": "kraken.com",
-   "location": "United Kingdom",
-   "url": "https://jobs.ashbyhq.com/kraken.com/e0230515-9bbe-4fbd-a183-9444bcd8c56f",
-   "score": 46,
-   "matched": [
-    "copywriting",
-    "creative strategy",
-    "creative lead",
-    "concept",
-    "blog",
-    "email",
-    "campaign",
-    "ai",
-    "briefing",
-    "brief",
-    "agency",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
-   "first_seen": "2026-11-17",
    "is_new": false
   },
   {
@@ -322,7 +322,7 @@
    "years": 8,
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-11-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31628289",
@@ -347,28 +347,6 @@
    "is_new": false
   },
   {
-   "id": "https-jobs-ashbyhq-com-kraken-com-19f4f542-2eb8-416c-a585-29f6ae28f191",
-   "title": "Public Relations & Communications Manager",
-   "company": "kraken.com",
-   "location": "United Kingdom",
-   "url": "https://jobs.ashbyhq.com/kraken.com/19f4f542-2eb8-416c-a585-29f6ae28f191",
-   "score": 32,
-   "matched": [
-    "positioning",
-    "storytelling",
-    "blog",
-    "email",
-    "public relations",
-    "thought leadership",
-    "briefing",
-    "7+ years"
-   ],
-   "years": 7,
-   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
-   "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31763912",
    "title": "Creative Strategist, Campaign",
    "company": "H & M Hennes & Mauritz GBC AB",
@@ -387,7 +365,7 @@
    "years": null,
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences.. Tog",
    "first_seen": "2026-11-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
@@ -433,7 +411,7 @@
    "years": 10,
    "summary": "At Goodweek, we help businesses make the most of AI. Our platform brings leading AI models, such as ChatGPT, Claude, Gemini, and Mistral, together in one place, allowing employees to use the right AI tools for their tasks while keeping everything secure, controlled, and connected to the software they already use. By helping businesses manage AI more effectively, we enable them to save time, reduce",
    "first_seen": "2026-11-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
@@ -544,27 +522,6 @@
    "is_new": false
   },
   {
-   "id": "https-job-boards-greenhouse-io-adyen-jobs-8242353",
-   "title": "Content Writer, Global",
-   "company": "adyen",
-   "location": "Amsterdam",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8242353",
-   "score": 25,
-   "matched": [
-    "long-form",
-    "storytelling",
-    "seo",
-    "thought leadership",
-    "brief",
-    "b2b",
-    "6+ years"
-   ],
-   "years": 6,
-   "summary": "<p><strong>This is Adyen</strong></p> <p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition. </span></p> <p><span style=\"font-weight: 400;\">For our teams, we create an environment",
-   "first_seen": "2026-10-17",
-   "is_new": false
-  },
-  {
    "id": "https-jobs-ashbyhq-com-getyourguide-d545328d-e9fc-4c5c-a920-c170f5d40d52",
    "title": "Content Design Manager",
    "company": "getyourguide",
@@ -620,7 +577,7 @@
    "years": null,
    "summary": "At bunq, we\u2019re on a mission to Make Life Easy for our users by creating the most user-centric banking experience out there. Every email, push notification and in-app message we send should feel like it was written for the person reading it, not for us. Right now, nobody owns that. That\u2019s where you come in. As our Copywriter, you will own every message our users get across email, push and in-app, p",
    "first_seen": "2026-11-23",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
@@ -681,6 +638,25 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-se3-head-of-marketing-communications-munich-29119",
+   "title": "Head of Marketing & Communications",
+   "company": "Se3",
+   "location": "Munich",
+   "url": "https://www.arbeitnow.com/jobs/companies/se3/head-of-marketing-communications-munich-29119",
+   "score": 17,
+   "matched": [
+    "storytelling",
+    "launch",
+    "ai",
+    "mentor",
+    "agency"
+   ],
+   "years": null,
+   "summary": "Join SE3 Labs as Head of Marketing / Communications Build a credible brand around SE3's technology and work in the field, and tell our story to the people who matter most. About SE3 SE3 Labs builds spatial intelligence and autonomy software for unmanned systems. We combine 3D computer vision, state estimation and AI to help autonomous platforms perceive their surroundings, know where they are and ",
+   "first_seen": "2026-11-24",
+   "is_new": true
+  },
+  {
    "id": "https-payplug-teamtailor-com-jobs-8759867-communication-lead-cdd",
    "title": "Communication Lead - CDD",
    "company": "payplug",
@@ -739,21 +715,22 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-rugamer-steiner-consulting-gmbh-head-of-brand-thought-leadership-founders-dusseld",
-   "title": "Head of Brand & Thought Leadership (Founders) (m/w/d)",
-   "company": "R\u00fcgamer & Steiner Consulting GmbH",
-   "location": "D\u00fcsseldorf",
-   "url": "https://www.arbeitnow.com/jobs/companies/rugamer-steiner-consulting-gmbh/head-of-brand-thought-leadership-founders-dusseldorf-284103",
+   "id": "https-www-arbeitnow-com-jobs-companies-cleo-public-relations-personal-branding-ceo-kommunikation-managerin-hamburg-9116",
+   "title": "Personal Branding & CEO-Kommunikation Manager:in (m/w/d)",
+   "company": "Cl\u00e9o Public Relations",
+   "location": "Hamburg",
+   "url": "https://www.arbeitnow.com/jobs/companies/cleo-public-relations/personal-branding-ceo-kommunikation-managerin-hamburg-9116",
    "score": 15,
    "matched": [
-    "head of brand",
-    "thought leadership",
-    "b2b",
-    "e-commerce"
+    "public relations",
+    "corporate communications",
+    "beauty",
+    "food",
+    "instagram"
    ],
    "years": null,
-   "summary": "Du baust Founder-Brands, die Deals schlie\u00dfen? Dann baue zwei B2B-Founder-Brands von 0 auf, steuere LinkedIn & Funnel und werde direkt am erzeugten Umsatz beteiligt. Das ist eine Senior-Rolle mit voller Verantwortung, direkt an der Seite der beiden Gr\u00fcnder. Vor 5,5 Jahren sa\u00dfen wir zu zweit in einer WG in D\u00fcsseldorf. Kein B\u00fcro, kein Umsatz, keine Kunden. Nur ein Telefon. Heute sind wir 35 Leute auf",
-   "first_seen": "2026-11-23",
+   "summary": "\u00dcber uns Cl\u00e9o Public Relations ist eine inhabergef\u00fchrte PR-Agentur in Hamburg. \u00dcber 100 CEOs haben wir bereits in der Presse, auf B\u00fchnen und in der \u00d6ffentlichkeit positioniert \u2013 f\u00fcr Start-ups, Scale-ups und VCs aus Food, Health, Interior, Beauty, Tech & Finance. Bei den PR Report Awards 2026 wurden wir in der Kategorie CEO-Kommunikation unter die Top 5 \u201eBest in Class\u201c gew\u00e4hlt. Unsere Kund:innen ve",
+   "first_seen": "2026-11-24",
    "is_new": true
   },
   {
