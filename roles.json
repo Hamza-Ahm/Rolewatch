@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 18:41 UTC",
- "scanned": 4158,
+ "updated": "2026-11-25 17:50 UTC",
+ "scanned": 4154,
  "roles": [
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31753064",
@@ -81,6 +81,32 @@
    "is_new": false
   },
   {
+   "id": "https-jobs-ashbyhq-com-kraken-com-e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+   "title": "Creative Strategist & Copywriter - Consumer",
+   "company": "kraken.com",
+   "location": "United Kingdom",
+   "url": "https://jobs.ashbyhq.com/kraken.com/e0230515-9bbe-4fbd-a183-9444bcd8c56f",
+   "score": 55,
+   "matched": [
+    "positioning",
+    "copywriting",
+    "copywriter",
+    "creative strategy",
+    "concept",
+    "script",
+    "blog",
+    "email",
+    "campaign",
+    "ai",
+    "brief",
+    "agency"
+   ],
+   "years": null,
+   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
+   "first_seen": "2026-11-17",
+   "is_new": false
+  },
+  {
    "id": "https-jobs-ashbyhq-com-kraken-com-9cdd4c99-0f19-4886-aa13-ca0327cec800",
    "title": "Sr. Video Creative, Performance - Kraken Consumer",
    "company": "kraken.com",
@@ -104,32 +130,6 @@
    "years": null,
    "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
    "first_seen": "2026-11-04",
-   "is_new": false
-  },
-  {
-   "id": "https-jobs-ashbyhq-com-kraken-com-e0230515-9bbe-4fbd-a183-9444bcd8c56f",
-   "title": "Creative Strategist & Copywriter - Consumer",
-   "company": "kraken.com",
-   "location": "United Kingdom",
-   "url": "https://jobs.ashbyhq.com/kraken.com/e0230515-9bbe-4fbd-a183-9444bcd8c56f",
-   "score": 51,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "creative strategy",
-    "creative lead",
-    "concept",
-    "blog",
-    "email",
-    "campaign",
-    "ai",
-    "briefing",
-    "brief",
-    "agency"
-   ],
-   "years": null,
-   "summary": "BUILDING THE FUTURE OF OPEN FINANCE Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system. THE TEAM Founded in 2011, Kraken is one of the world's longest-s",
-   "first_seen": "2026-11-17",
    "is_new": false
   },
   {
@@ -390,28 +390,25 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-goodweek-head-of-marketing-strasbourg-254244",
-   "title": "Head of Marketing",
-   "company": "Goodweek",
-   "location": "Strasbourg",
-   "url": "https://www.arbeitnow.fr/jobs/companies/goodweek/head-of-marketing-strasbourg-254244",
-   "score": 30,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-dept-brand-strategy-director-65249",
+   "title": "Brand Strategy Director",
+   "company": "dept",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/brand-strategy-director-65249",
+   "score": 29,
    "matched": [
-    "positioning",
-    "storytelling",
-    "narrative",
-    "launch",
+    "brand strategy",
+    "creative strategy",
     "ai",
-    "thought leadership",
+    "creative team",
+    "brief",
     "agency",
-    "b2b",
-    "- attribution",
     "10+ years"
    ],
    "years": 10,
-   "summary": "At Goodweek, we help businesses make the most of AI. Our platform brings leading AI models, such as ChatGPT, Claude, Gemini, and Mistral, together in one place, allowing employees to use the right AI tools for their tasks while keeping everything secure, controlled, and connected to the software they already use. By helping businesses manage AI more effectively, we enable them to save time, reduce",
-   "first_seen": "2026-11-23",
-   "is_new": false
+   "summary": "<p><em>DEPT\u00ae is a Growth Invention company built to help the world\u2019s most ambitious brands grow faster. Operating at the intersection of technology and marketing, our 4,000+ specialists deliver growth invention services across Brand &amp; Media, Experience, Commerce, CRM, and Technology &amp; Data. We\u2019re 50|50 tech and marketing, partner-led, and first to move. Clients include Google, Lufthansa, M",
+   "first_seen": "2026-11-25",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
@@ -456,6 +453,28 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-nebius-head-of-communications-emea-379905",
+   "title": "Head of Communications - EMEA",
+   "company": "Nebius",
+   "location": "Not stated",
+   "url": "https://www.arbeitnow.fr/jobs/companies/nebius/head-of-communications-emea-379905",
+   "score": 28,
+   "matched": [
+    "positioning",
+    "storytelling",
+    "narrative",
+    "ai",
+    "agency",
+    "in-house",
+    "stakeholder",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engin",
+   "first_seen": "2026-11-25",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
    "title": "Senior Associate, Social & Brand Marketing (The Pets Table)",
    "company": "hellofresh",
@@ -478,6 +497,26 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>We are looking for a Social &amp; Brand Marketing Senior Associate to bring The Pets Table to life across social, content, creators, and customers. Reporting to the Brand Marketing Manager, you\u2019ll run day-to-day organic social, create content, and own our blog. You\u2019ll also work cross functionally to help grow our influencer program and work with our",
    "first_seen": "2026-10-29",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-hozah-head-of-marketing-demand-generation-croydon-9180",
+   "title": "Head of Marketing & Demand Generation",
+   "company": "Hozah",
+   "location": "East Croydon, London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hozah/head-of-marketing-demand-generation-croydon-9180",
+   "score": 26,
+   "matched": [
+    "positioning",
+    "seo",
+    "ai",
+    "thought leadership",
+    "in-house",
+    "b2b"
+   ],
+   "years": null,
+   "summary": "Hozah makes parking automatic. Cameras recognise a car as it arrives and payment happens by itself when it leaves: no tickets, no barriers, no apps. Drivers get parking that's fair and effortless; landowners get better-run car parks, happier visitors and more revenue. We're an award-winning, fast-growing UK tech company, named PayTech Company of the Year and, two years running, Cleantech of the Ye",
+   "first_seen": "2026-11-25",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-getyourguide-4b62a845-f76f-4af0-8618-927b874c2464",
@@ -520,6 +559,45 @@
    "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
    "first_seen": "2026-11-17",
    "is_new": false
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-benuta-gmbh-brand-strategy-lead-bonn-381588",
+   "title": "Brand Strategy Lead (m/w/d)",
+   "company": "benuta GmbH",
+   "location": "Bonn",
+   "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/brand-strategy-lead-bonn-381588",
+   "score": 25,
+   "matched": [
+    "brand strategy",
+    "tone of voice",
+    "brand guidelines",
+    "storytelling",
+    "e-commerce"
+   ],
+   "years": null,
+   "summary": "Jobbeschreibung benuta geh\u00f6rt zu den f\u00fchrenden E-Commerce-Unternehmen f\u00fcr Teppiche und Wohnaccessoires in Europa. Wir glauben daran, dass gutes Design f\u00fcr alle zug\u00e4nglich sein sollte \u2013 und inspirieren Menschen dabei, sich ein Zuhause zu schaffen, das sie lieben. Mit unserem internationalen Wachstum steigt auch unser Anspruch an eine konsistente, starke Markenf\u00fchrung \u00fcber alle Kan\u00e4le hinweg. Worum ",
+   "first_seen": "2026-11-25",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-dept-creative-strategy-director-london-5269",
+   "title": "Creative Strategy Director",
+   "company": "dept",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/creative-strategy-director-london-5269",
+   "score": 24,
+   "matched": [
+    "creative strategy",
+    "ai",
+    "creative team",
+    "brief",
+    "agency",
+    "10+ years"
+   ],
+   "years": 10,
+   "summary": "<p><em>DEPT\u00ae is a Growth Invention company built to help the world\u2019s most ambitious brands grow faster. Operating at the intersection of technology and marketing, our 4,000+ specialists deliver growth invention services across Brand &amp; Media, Experience, Commerce, CRM, and Technology &amp; Data. We\u2019re 50|50 tech and marketing, partner-led, and first to move. Clients include Google, Lufthansa, M",
+   "first_seen": "2026-11-25",
+   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-getyourguide-d545328d-e9fc-4c5c-a920-c170f5d40d52",
@@ -580,6 +658,27 @@
    "is_new": false
   },
   {
+   "id": "https-jobicy-com-jobs-164255-marketing-campaigns-and-programs-associate",
+   "title": "Marketing Campaigns and Programs Associate",
+   "company": "Harness",
+   "location": "USA",
+   "url": "https://jobicy.com/jobs/164255-marketing-campaigns-and-programs-associate",
+   "score": 19,
+   "matched": [
+    "campaign management",
+    "email",
+    "campaign",
+    "ai",
+    "agency",
+    "b2b",
+    "- asks only 1 years"
+   ],
+   "years": 1,
+   "summary": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code creation, the real bottlene",
+   "first_seen": "2026-11-25",
+   "is_new": true
+  },
+  {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
    "title": "Internal Communications Lead",
    "company": "Lovable Labs Sweden AB",
@@ -638,25 +737,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-se3-head-of-marketing-communications-munich-29119",
-   "title": "Head of Marketing & Communications",
-   "company": "Se3",
-   "location": "Munich",
-   "url": "https://www.arbeitnow.com/jobs/companies/se3/head-of-marketing-communications-munich-29119",
-   "score": 17,
-   "matched": [
-    "storytelling",
-    "launch",
-    "ai",
-    "mentor",
-    "agency"
-   ],
-   "years": null,
-   "summary": "Join SE3 Labs as Head of Marketing / Communications Build a credible brand around SE3's technology and work in the field, and tell our story to the people who matter most. About SE3 SE3 Labs builds spatial intelligence and autonomy software for unmanned systems. We combine 3D computer vision, state estimation and AI to help autonomous platforms perceive their surroundings, know where they are and ",
-   "first_seen": "2026-11-24",
-   "is_new": true
-  },
-  {
    "id": "https-payplug-teamtailor-com-jobs-8759867-communication-lead-cdd",
    "title": "Communication Lead - CDD",
    "company": "payplug",
@@ -713,25 +793,6 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-cleo-public-relations-personal-branding-ceo-kommunikation-managerin-hamburg-9116",
-   "title": "Personal Branding & CEO-Kommunikation Manager:in (m/w/d)",
-   "company": "Cl\u00e9o Public Relations",
-   "location": "Hamburg",
-   "url": "https://www.arbeitnow.com/jobs/companies/cleo-public-relations/personal-branding-ceo-kommunikation-managerin-hamburg-9116",
-   "score": 15,
-   "matched": [
-    "public relations",
-    "corporate communications",
-    "beauty",
-    "food",
-    "instagram"
-   ],
-   "years": null,
-   "summary": "\u00dcber uns Cl\u00e9o Public Relations ist eine inhabergef\u00fchrte PR-Agentur in Hamburg. \u00dcber 100 CEOs haben wir bereits in der Presse, auf B\u00fchnen und in der \u00d6ffentlichkeit positioniert \u2013 f\u00fcr Start-ups, Scale-ups und VCs aus Food, Health, Interior, Beauty, Tech & Finance. Bei den PR Report Awards 2026 wurden wir in der Kategorie CEO-Kommunikation unter die Top 5 \u201eBest in Class\u201c gew\u00e4hlt. Unsere Kund:innen ve",
-   "first_seen": "2026-11-24",
-   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
