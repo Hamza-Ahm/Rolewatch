@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-25 17:50 UTC",
- "scanned": 4154,
+ "updated": "2026-11-26 17:34 UTC",
+ "scanned": 4159,
  "roles": [
+  {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-senior-manager-performance-creative-strategy-casino-remote-leeds-lo",
+   "title": "Senior Manager, Performance Creative Strategy \u2013 Casino (Remote)",
+   "company": "Fanaticsfbg",
+   "location": "Leeds; London; Manchester",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-96281",
+   "score": 70,
+   "matched": [
+    "brand positioning",
+    "positioning",
+    "brand strategy",
+    "creative direction",
+    "creative strategy",
+    "storytelling",
+    "narrative",
+    "campaign",
+    "mentor",
+    "creative team",
+    "creative studio",
+    "briefing"
+   ],
+   "years": 8,
+   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <p>Fanatics is a leading global sports platform redefining how fans connect with the teams, play",
+   "first_seen": "2026-11-26",
+   "is_new": true
+  },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31753064",
    "title": "Mips - Global Brand Lead",
@@ -281,6 +307,28 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-fr-jobs-companies-we-are-social-1-cdi-senior-copywriter-paris-261188",
+   "title": "CDI - Senior Copywriter",
+   "company": "We Are Social 1",
+   "location": "Paris, France",
+   "url": "https://www.arbeitnow.fr/jobs/companies/we-are-social-1/cdi-senior-copywriter-paris-261188",
+   "score": 37,
+   "matched": [
+    "tone of voice",
+    "copywriting",
+    "copywriter",
+    "editorial",
+    "storytelling",
+    "native english",
+    "agency",
+    "5+ years"
+   ],
+   "years": 5,
+   "summary": "We Are Social, agence cr\u00e9ative n\u00e9e de l'\u00e8re du web social, recrute un.e Copywriter de langue maternelle anglaise. Vos missions : Sous la responsabilit\u00e9 des Directeur.rice.s de Cr\u00e9ation et int\u00e9gr\u00e9.e au p\u00f4le cr\u00e9atif, vous participerez \u00e0 la mise en place strat\u00e9gique et op\u00e9rationnelle des actions de communication via les m\u00e9dias sociaux : Conception et r\u00e9daction de contenus social media et calendriers ",
+   "first_seen": "2026-11-26",
+   "is_new": true
+  },
+  {
    "id": "https-jobs-ashbyhq-com-backmarket-1a51a66b-f0b4-41c4-a293-071751938f55",
    "title": "Director of Global Communications",
    "company": "backmarket",
@@ -390,24 +438,24 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-dept-brand-strategy-director-65249",
-   "title": "Brand Strategy Director",
-   "company": "dept",
-   "location": "Not stated",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/brand-strategy-director-65249",
-   "score": 29,
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-senior-creative-technologist-ai-leeds-london-165983",
+   "title": "Senior Creative Technologist, AI",
+   "company": "Fanaticsfbg",
+   "location": "Leeds; London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-creative-technologist-ai-leeds-london-165983",
+   "score": 30,
    "matched": [
-    "brand strategy",
-    "creative strategy",
+    "multi-market",
+    "launch",
+    "generative ai",
+    "prompt",
     "ai",
-    "creative team",
     "brief",
-    "agency",
-    "10+ years"
+    "retail"
    ],
-   "years": 10,
-   "summary": "<p><em>DEPT\u00ae is a Growth Invention company built to help the world\u2019s most ambitious brands grow faster. Operating at the intersection of technology and marketing, our 4,000+ specialists deliver growth invention services across Brand &amp; Media, Experience, Commerce, CRM, and Technology &amp; Data. We\u2019re 50|50 tech and marketing, partner-led, and first to move. Clients include Google, Lufthansa, M",
-   "first_seen": "2026-11-25",
+   "years": null,
+   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <p>Fanatics is a leading global sports platform redefining how fans connect with the teams, play",
+   "first_seen": "2026-11-26",
    "is_new": true
   },
   {
@@ -453,28 +501,6 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-fr-jobs-companies-nebius-head-of-communications-emea-379905",
-   "title": "Head of Communications - EMEA",
-   "company": "Nebius",
-   "location": "Not stated",
-   "url": "https://www.arbeitnow.fr/jobs/companies/nebius/head-of-communications-emea-379905",
-   "score": 28,
-   "matched": [
-    "positioning",
-    "storytelling",
-    "narrative",
-    "ai",
-    "agency",
-    "in-house",
-    "stakeholder",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><p><strong>About Nebius:</strong></p> <p>Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.</p> <p>Built by engin",
-   "first_seen": "2026-11-25",
-   "is_new": true
-  },
-  {
    "id": "https-careers-hellofresh-com-global-en-job-8325146-gh_jid-8325146",
    "title": "Senior Associate, Social & Brand Marketing (The Pets Table)",
    "company": "hellofresh",
@@ -497,26 +523,6 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>We are looking for a Social &amp; Brand Marketing Senior Associate to bring The Pets Table to life across social, content, creators, and customers. Reporting to the Brand Marketing Manager, you\u2019ll run day-to-day organic social, create content, and own our blog. You\u2019ll also work cross functionally to help grow our influencer program and work with our",
    "first_seen": "2026-10-29",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-hozah-head-of-marketing-demand-generation-croydon-9180",
-   "title": "Head of Marketing & Demand Generation",
-   "company": "Hozah",
-   "location": "East Croydon, London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/hozah/head-of-marketing-demand-generation-croydon-9180",
-   "score": 26,
-   "matched": [
-    "positioning",
-    "seo",
-    "ai",
-    "thought leadership",
-    "in-house",
-    "b2b"
-   ],
-   "years": null,
-   "summary": "Hozah makes parking automatic. Cameras recognise a car as it arrives and payment happens by itself when it leaves: no tickets, no barriers, no apps. Drivers get parking that's fair and effortless; landowners get better-run car parks, happier visitors and more revenue. We're an award-winning, fast-growing UK tech company, named PayTech Company of the Year and, two years running, Cleantech of the Ye",
-   "first_seen": "2026-11-25",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-getyourguide-4b62a845-f76f-4af0-8618-927b874c2464",
@@ -561,42 +567,24 @@
    "is_new": false
   },
   {
-   "id": "https-www-arbeitnow-com-jobs-companies-benuta-gmbh-brand-strategy-lead-bonn-381588",
-   "title": "Brand Strategy Lead (m/w/d)",
-   "company": "benuta GmbH",
-   "location": "Bonn",
-   "url": "https://www.arbeitnow.com/jobs/companies/benuta-gmbh/brand-strategy-lead-bonn-381588",
-   "score": 25,
-   "matched": [
-    "brand strategy",
-    "tone of voice",
-    "brand guidelines",
-    "storytelling",
-    "e-commerce"
-   ],
-   "years": null,
-   "summary": "Jobbeschreibung benuta geh\u00f6rt zu den f\u00fchrenden E-Commerce-Unternehmen f\u00fcr Teppiche und Wohnaccessoires in Europa. Wir glauben daran, dass gutes Design f\u00fcr alle zug\u00e4nglich sein sollte \u2013 und inspirieren Menschen dabei, sich ein Zuhause zu schaffen, das sie lieben. Mit unserem internationalen Wachstum steigt auch unser Anspruch an eine konsistente, starke Markenf\u00fchrung \u00fcber alle Kan\u00e4le hinweg. Worum ",
-   "first_seen": "2026-11-25",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-dept-creative-strategy-director-london-5269",
-   "title": "Creative Strategy Director",
-   "company": "dept",
-   "location": "London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/dept/creative-strategy-director-london-5269",
+   "id": "https-job-boards-greenhouse-io-monzo-jobs-8414122",
+   "title": "Social Content Manager",
+   "company": "monzo",
+   "location": "Cardiff, London or Remote (UK)",
+   "url": "https://job-boards.greenhouse.io/monzo/jobs/8414122",
    "score": 24,
    "matched": [
-    "creative strategy",
-    "ai",
-    "creative team",
+    "storytelling",
+    "campaign",
     "brief",
     "agency",
-    "10+ years"
+    "in-house",
+    "tiktok",
+    "instagram"
    ],
-   "years": 10,
-   "summary": "<p><em>DEPT\u00ae is a Growth Invention company built to help the world\u2019s most ambitious brands grow faster. Operating at the intersection of technology and marketing, our 4,000+ specialists deliver growth invention services across Brand &amp; Media, Experience, Commerce, CRM, and Technology &amp; Data. We\u2019re 50|50 tech and marketing, partner-led, and first to move. Clients include Google, Lufthansa, M",
-   "first_seen": "2026-11-25",
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
+   "first_seen": "2026-11-26",
    "is_new": true
   },
   {
@@ -639,6 +627,26 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-com-jobs-companies-adbaker-senior-creative-strategist-meta-tiktok-ads-all-genders-cologne-102902",
+   "title": "Senior Creative Strategist (Meta & TikTok Ads) - all genders",
+   "company": "ADBAKER",
+   "location": "Cologne",
+   "url": "https://www.arbeitnow.com/jobs/companies/adbaker/senior-creative-strategist-meta-tiktok-ads-all-genders-cologne-102902",
+   "score": 21,
+   "matched": [
+    "creative strategy",
+    "conversion",
+    "creative team",
+    "briefing",
+    "tiktok",
+    "instagram"
+   ],
+   "years": null,
+   "summary": "join the team Du sprudelst voller Ideen und siehst bei jedem Produkt sofort, wie daraus eine Ad wird, die den Daumen stoppt? Du schickst Freunden TikToks mit \u201edas m\u00fcssen wir machen\u201c und zuckst bei langweiligen Anzeigen k\u00f6rperlich zusammen? Dann bist du bei uns genau richtig! Wir sind eine der f\u00fchrenden und gr\u00f6\u00dften Facebook & Instagram Performance Marketing Agenturen im deutschsprachigen Raum und d",
+   "first_seen": "2026-11-26",
+   "is_new": true
+  },
+  {
    "id": "https-www-arbeitnow-nl-jobs-companies-bunq-senior-copywriter-amsterdam-23047",
    "title": "(Senior) Copywriter",
    "company": "bunq",
@@ -658,24 +666,23 @@
    "is_new": false
   },
   {
-   "id": "https-jobicy-com-jobs-164255-marketing-campaigns-and-programs-associate",
-   "title": "Marketing Campaigns and Programs Associate",
-   "company": "Harness",
-   "location": "USA",
-   "url": "https://jobicy.com/jobs/164255-marketing-campaigns-and-programs-associate",
-   "score": 19,
+   "id": "https-remoteok-com-remote-jobs-remote-creative-director-luxury-presence-1138146",
+   "title": "Creative Director",
+   "company": "Luxury Presence",
+   "location": "US Only",
+   "url": "https://remoteOK.com/remote-jobs/remote-creative-director-luxury-presence-1138146",
+   "score": 20,
    "matched": [
-    "campaign management",
+    "seo",
     "email",
-    "campaign",
     "ai",
     "agency",
-    "b2b",
-    "- asks only 1 years"
+    "in-house",
+    "8+ years"
    ],
-   "years": 1,
-   "summary": "Harness is the AI Software Delivery Platform company, led by technologist and entrepreneur Jyoti Bansal (founder of AppDynamics, acquired by Cisco for $3.7B). Harness has raised approximately $570M in funding and is valued at $5.5B, backed by leading investors including Goldman Sachs, Menlo Ventures, IVP, Unusual Ventures, Citi Ventures, and more. As AI accelerates code creation, the real bottlene",
-   "first_seen": "2026-11-25",
+   "years": 8,
+   "summary": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business. The Opportunity We build the platfo",
+   "first_seen": "2026-11-26",
    "is_new": true
   },
   {
@@ -737,6 +744,24 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-nl-jobs-companies-wppmedia-senior-director-of-brand-amsterdam-303828",
+   "title": "Senior Director of Brand",
+   "company": "wppmedia",
+   "location": "Amsterdam",
+   "url": "https://www.arbeitnow.nl/jobs/companies/wppmedia/senior-director-of-brand-amsterdam-303828",
+   "score": 18,
+   "matched": [
+    "tone of voice",
+    "ai",
+    "thought leadership",
+    "stakeholder"
+   ],
+   "years": null,
+   "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
+   "first_seen": "2026-11-26",
+   "is_new": true
+  },
+  {
    "id": "https-payplug-teamtailor-com-jobs-8759867-communication-lead-cdd",
    "title": "Communication Lead - CDD",
    "company": "payplug",
@@ -754,6 +779,24 @@
    "summary": "Description Payplug est la solution de paiement fran\u00e7aise pens\u00e9e pour les commer\u00e7ants, e-commer\u00e7ants de toutes tailles et fintechs. Avec notre plateforme technologique de pointe, nos outils d\u00e9di\u00e9s \u00e0 la conversion et notre ma\u00eetrise unique de la cha\u00eene de paiement, nous vous invitons \u00e0 viser le meilleur, et plus encore. Payplug, c\u2019est une \u00e9quipe de 300 passionn\u00e9s d\u00e9di\u00e9s \u00e0 la r\u00e9alisation de vos plus ",
    "first_seen": "2026-11-20",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31781937",
+   "title": "Copywriter",
+   "company": "Tallink Silja AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31781937",
+   "score": 16,
+   "matched": [
+    "copywriting",
+    "copywriter",
+    "ai",
+    "brief"
+   ],
+   "years": null,
+   "summary": "Copywriter till ett av \u00d6stersj\u00f6ns starkaste varum\u00e4rken Tallink Silja Line erbjuder minnesv\u00e4rda resor \u00f6ver \u00d6stersj\u00f6n. Nu s\u00f6ker vi en Copywriter till v\u00e5rt marknadsteam i Stockholm som vill st\u00e4rka v\u00e5rt varum\u00e4rke genom kreativ och inspirerande kommunikation som v\u00e4cker reslust. Du har ett starkt spr\u00e5kligt hantverk och en f\u00f6rm\u00e5ga att skapa kommunikation som engagerar, inspirerar och driver handling hos ",
+   "first_seen": "2026-11-26",
+   "is_new": true
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31724903",
