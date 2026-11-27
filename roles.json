@@ -1,33 +1,7 @@
 {
- "updated": "2026-11-26 17:34 UTC",
- "scanned": 4159,
+ "updated": "2026-11-27 17:16 UTC",
+ "scanned": 4152,
  "roles": [
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-senior-manager-performance-creative-strategy-casino-remote-leeds-lo",
-   "title": "Senior Manager, Performance Creative Strategy \u2013 Casino (Remote)",
-   "company": "Fanaticsfbg",
-   "location": "Leeds; London; Manchester",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-manager-performance-creative-strategy-casino-remote-leeds-london-manchester-96281",
-   "score": 70,
-   "matched": [
-    "brand positioning",
-    "positioning",
-    "brand strategy",
-    "creative direction",
-    "creative strategy",
-    "storytelling",
-    "narrative",
-    "campaign",
-    "mentor",
-    "creative team",
-    "creative studio",
-    "briefing"
-   ],
-   "years": 8,
-   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <p>Fanatics is a leading global sports platform redefining how fans connect with the teams, play",
-   "first_seen": "2026-11-26",
-   "is_new": true
-  },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31753064",
    "title": "Mips - Global Brand Lead",
@@ -326,7 +300,7 @@
    "years": 5,
    "summary": "We Are Social, agence cr\u00e9ative n\u00e9e de l'\u00e8re du web social, recrute un.e Copywriter de langue maternelle anglaise. Vos missions : Sous la responsabilit\u00e9 des Directeur.rice.s de Cr\u00e9ation et int\u00e9gr\u00e9.e au p\u00f4le cr\u00e9atif, vous participerez \u00e0 la mise en place strat\u00e9gique et op\u00e9rationnelle des actions de communication via les m\u00e9dias sociaux : Conception et r\u00e9daction de contenus social media et calendriers ",
    "first_seen": "2026-11-26",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-backmarket-1a51a66b-f0b4-41c4-a293-071751938f55",
@@ -416,6 +390,74 @@
    "is_new": false
   },
   {
+   "id": "https-www-arbeitnow-co-uk-jobs-companies-legora-editorial-specialist-london-305406",
+   "title": "Editorial Specialist",
+   "company": "Legora",
+   "location": "London",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/legora/editorial-specialist-london-305406",
+   "score": 31,
+   "matched": [
+    "tone of voice",
+    "editorial",
+    "web copy",
+    "blog",
+    "cms",
+    "campaign",
+    "ai",
+    "thought leadership",
+    "b2b",
+    "- asks only 3 years"
+   ],
+   "years": 3,
+   "summary": "About Us Legora is redefining how legal work gets done. Not built for lawyers, built with them. We work alongside the world\u2019s best legal teams, who expect excellence, precision, and speed, and we hold ourselves to the same bar. Our AI-native workspace lets legal professionals move faster, think more clearly, and operate with sharper precision. By analysing thousands of documents in minutes and pow",
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-teneo-director-corporate-communications-frankfurt-277617",
+   "title": "Director, Corporate Communications",
+   "company": "Teneo",
+   "location": "Frankfurt",
+   "url": "https://www.arbeitnow.com/jobs/companies/teneo/director-corporate-communications-frankfurt-277617",
+   "score": 31,
+   "matched": [
+    "positioning",
+    "storytelling",
+    "narrative",
+    "corporate communications",
+    "mentor",
+    "stakeholder",
+    "sustainability",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "<p>Teneo is the global CEO advisory firm, working with the world\u2019s leading companies to solve their most complex business challenges. We provide strategic counsel across communications, investor relations, financial transactions, restructuring, geopolitics, public affairs, management consulting, financial advisory, risk advisory and people advisory.</p> <p>With more than 50 offices worldwide, Tene",
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
+   "id": "https-www-arbeitnow-com-jobs-companies-teneo-director-corporate-communications-berlin-206621",
+   "title": "Director, Corporate Communications",
+   "company": "Teneo",
+   "location": "Berlin",
+   "url": "https://www.arbeitnow.com/jobs/companies/teneo/director-corporate-communications-berlin-206621",
+   "score": 31,
+   "matched": [
+    "positioning",
+    "storytelling",
+    "narrative",
+    "corporate communications",
+    "mentor",
+    "stakeholder",
+    "sustainability",
+    "8+ years"
+   ],
+   "years": 8,
+   "summary": "<p style=\"margin: 0px; padding: 0px; border: 0px currentColor; color: rgba(0, 0, 0, 0.75); line-height: 1.4285; letter-spacing: normal; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-",
+   "first_seen": "2026-11-27",
+   "is_new": true
+  },
+  {
    "id": "https-careers-hellofresh-com-global-en-job-8135970-gh_jid-8135970",
    "title": "Manager, Brand Strategy (Factor)",
    "company": "hellofresh",
@@ -436,27 +478,6 @@
    "summary": "<p><strong>S'more about the team</strong></p> <p>Join the Factor meals brand at a pivotal moment of growth. As one of Canada\u2019s fastest growing and largest ready-to-eat meal brands, Factor is changing the way Canadians think about convenient, nutritious food. We\u2019re looking for an experienced Brand Manager who\u2019s ready to make a meaningful impact. You\u2019ll play a key role in shaping the next chapter of",
    "first_seen": "2026-08-25",
    "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-co-uk-jobs-companies-fanaticsfbg-senior-creative-technologist-ai-leeds-london-165983",
-   "title": "Senior Creative Technologist, AI",
-   "company": "Fanaticsfbg",
-   "location": "Leeds; London",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanaticsfbg/senior-creative-technologist-ai-leeds-london-165983",
-   "score": 30,
-   "matched": [
-    "multi-market",
-    "launch",
-    "generative ai",
-    "prompt",
-    "ai",
-    "brief",
-    "retail"
-   ],
-   "years": null,
-   "summary": "<div class=\"content-intro\"><h2 class=\"job-details__description-header text-color-secondary font-family-secondary\" data-bind=\"i18n: 'job-details.employer-description-title'\">About Us</h2> <div class=\"job-details__description-content basic-formatter\" data-bind=\"html: pageData().job.corporateDescription\"> <p>Fanatics is a leading global sports platform redefining how fans connect with the teams, play",
-   "first_seen": "2026-11-26",
-   "is_new": true
   },
   {
    "id": "https-jobs-ashbyhq-com-mollie-ee8ab8d6-36f7-42d0-980c-612089c3cadd",
@@ -585,7 +606,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong><em>\ud83d\ude80 We\u2019re on a mission to make money work for everyone.</em></strong></p> <p>We\u2019re waving goodbye to the complicated and confusing ways of traditional banking.</p> <p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as <a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"",
    "first_seen": "2026-11-26",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-jobs-ashbyhq-com-getyourguide-d545328d-e9fc-4c5c-a920-c170f5d40d52",
@@ -608,64 +629,6 @@
    "is_new": false
   },
   {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31649292",
-   "title": "Creative Lead, Organic Social",
-   "company": "H & M Hennes & Mauritz GBC AB",
-   "location": "Stockholm, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31649292",
-   "score": 22,
-   "matched": [
-    "creative direction",
-    "creative lead",
-    "editorial",
-    "storytelling",
-    "e-commerce"
-   ],
-   "years": null,
-   "summary": "Job Description At H&M Creative Studios, we develop and deliver H&M\u2019s customer-facing brand and content experiences globally. Bringing together strategists, creatives, designers, creators, producers and specialists, we are responsible for H&M\u2019s global campaigns, editorial storytelling, creator marketing, organic social channels, e-commerce content, brand design and physical brand experiences. Toge",
-   "first_seen": "2026-10-27",
-   "is_new": false
-  },
-  {
-   "id": "https-www-arbeitnow-com-jobs-companies-adbaker-senior-creative-strategist-meta-tiktok-ads-all-genders-cologne-102902",
-   "title": "Senior Creative Strategist (Meta & TikTok Ads) - all genders",
-   "company": "ADBAKER",
-   "location": "Cologne",
-   "url": "https://www.arbeitnow.com/jobs/companies/adbaker/senior-creative-strategist-meta-tiktok-ads-all-genders-cologne-102902",
-   "score": 21,
-   "matched": [
-    "creative strategy",
-    "conversion",
-    "creative team",
-    "briefing",
-    "tiktok",
-    "instagram"
-   ],
-   "years": null,
-   "summary": "join the team Du sprudelst voller Ideen und siehst bei jedem Produkt sofort, wie daraus eine Ad wird, die den Daumen stoppt? Du schickst Freunden TikToks mit \u201edas m\u00fcssen wir machen\u201c und zuckst bei langweiligen Anzeigen k\u00f6rperlich zusammen? Dann bist du bei uns genau richtig! Wir sind eine der f\u00fchrenden und gr\u00f6\u00dften Facebook & Instagram Performance Marketing Agenturen im deutschsprachigen Raum und d",
-   "first_seen": "2026-11-26",
-   "is_new": true
-  },
-  {
-   "id": "https-www-arbeitnow-nl-jobs-companies-bunq-senior-copywriter-amsterdam-23047",
-   "title": "(Senior) Copywriter",
-   "company": "bunq",
-   "location": "Amsterdam, Noord-Holland, Netherlands",
-   "url": "https://www.arbeitnow.nl/jobs/companies/bunq/senior-copywriter-amsterdam-23047",
-   "score": 21,
-   "matched": [
-    "copywriting",
-    "copywriter",
-    "email",
-    "ai",
-    "in-house"
-   ],
-   "years": null,
-   "summary": "At bunq, we\u2019re on a mission to Make Life Easy for our users by creating the most user-centric banking experience out there. Every email, push notification and in-app message we send should feel like it was written for the person reading it, not for us. Right now, nobody owns that. That\u2019s where you come in. As our Copywriter, you will own every message our users get across email, push and in-app, p",
-   "first_seen": "2026-11-23",
-   "is_new": false
-  },
-  {
    "id": "https-remoteok-com-remote-jobs-remote-creative-director-luxury-presence-1138146",
    "title": "Creative Director",
    "company": "Luxury Presence",
@@ -683,7 +646,7 @@
    "years": 8,
    "summary": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business. The Opportunity We build the platfo",
    "first_seen": "2026-11-26",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-arbetsformedlingen-se-platsbanken-annonser-31491517",
@@ -759,7 +722,7 @@
    "years": null,
    "summary": "<div class=\"content-intro\"><p><strong>About WPP Media</strong></p> <p>WPP is the trusted growth partner for the world\u2019s leading brands. With exceptional talent, trusted data and intelligence, and world-class partnerships \u2013 all united by our pioneering agentic marketing platform, WPP Open \u2013 we help clients navigate change, capture opportunity, and deliver transformational growth. </p> <p>WPP Media ",
    "first_seen": "2026-11-26",
-   "is_new": true
+   "is_new": false
   },
   {
    "id": "https-payplug-teamtailor-com-jobs-8759867-communication-lead-cdd",
@@ -796,26 +759,6 @@
    "years": null,
    "summary": "Copywriter till ett av \u00d6stersj\u00f6ns starkaste varum\u00e4rken Tallink Silja Line erbjuder minnesv\u00e4rda resor \u00f6ver \u00d6stersj\u00f6n. Nu s\u00f6ker vi en Copywriter till v\u00e5rt marknadsteam i Stockholm som vill st\u00e4rka v\u00e5rt varum\u00e4rke genom kreativ och inspirerande kommunikation som v\u00e4cker reslust. Du har ett starkt spr\u00e5kligt hantverk och en f\u00f6rm\u00e5ga att skapa kommunikation som engagerar, inspirerar och driver handling hos ",
    "first_seen": "2026-11-26",
-   "is_new": true
-  },
-  {
-   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31724903",
-   "title": "Director Group Brand Insight",
-   "company": "Vattenfall AB",
-   "location": "Solna, Stockholms l\u00e4n",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724903",
-   "score": 16,
-   "matched": [
-    "brand strategy",
-    "concept",
-    "across markets",
-    "agency",
-    "stakeholder",
-    "- asks 15+ years"
-   ],
-   "years": 15,
-   "summary": "Company Description Vattenfall is one of Europe\u2019s largest producers and retailers of electricity and heat. Our main markets are Sweden, Germany, the Netherlands, Denmark, and the UK. The Vattenfall Group has approximately 21 000 employees. We have been electrifying industries, powering homes and transforming life through innovation for more than 100 years. Job Description Where there\u2019s you, there\u2019",
-   "first_seen": "2026-11-13",
    "is_new": false
   },
   {
@@ -836,6 +779,24 @@
    "summary": "[https://app.ashbyhq.com/api/images/user-content/1246dead-d30e-4c70-a1d3-ef7e5023d542/38fc40dd-12b9-4ca9-8ba4-925f77673201/Stella_Brawl.png] FROM EXPLOSIVE ACTION TO COZY CASUAL, JOIN US TO MAKE IT ALL LOOK AS GOOD AS IT PLAYS. Supercell makes games for as many people as possible \u2013 games that are played for years and remembered forever. The Creative Studio's job is to make sure the world sees them",
    "first_seen": "2026-10-27",
    "is_new": false
+  },
+  {
+   "id": "https-arbetsformedlingen-se-platsbanken-annonser-31788906",
+   "title": "Senior SEO & Content Lead till M\u00e4klarOfferter",
+   "company": "M\u00e4klarOfferter Sverige AB",
+   "location": "Stockholm, Stockholms l\u00e4n",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31788906",
+   "score": 15,
+   "matched": [
+    "seo",
+    "geo",
+    "llm",
+    "ai"
+   ],
+   "years": null,
+   "summary": "Vill du kombinera kvalificerad SEO-analys med kvalitativt inneh\u00e5ll som hj\u00e4lper m\u00e4nniskor att fatta b\u00e4ttre beslut? M\u00e4klarOfferter s\u00f6ker en senior och operativ SEO- och inneh\u00e5llsansvarig som vill utveckla v\u00e5r organiska synlighet i Google, Bing och AI-drivna s\u00f6ktj\u00e4nster. Det h\u00e4r \u00e4r en roll f\u00f6r dig som b\u00e5de ser helheten och tycker om att sj\u00e4lv g\u00f6ra jobbet. Du identifierar m\u00f6jligheter, prioriterar insa",
+   "first_seen": "2026-11-27",
+   "is_new": true
   },
   {
    "id": "https-job-boards-greenhouse-io-adyen-jobs-8288362",
